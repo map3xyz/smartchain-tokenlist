@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2e74Ee4fc4466d0883eF5E12A0Ce344BFe15BE8D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Rebase Token that offers some Utility (dApps) and also rewards 4% all the holders with BEP20 ETH"
+  },
+  "id": "2b285186-d0ac-4add-9d58-48302123adf6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2e74ee4fc4466d0883ef5e12a0ce344bfe15be8d",
+    "website": "https://pumpeth.com",
+    "twitter": "https://twitter.com/PumpETHToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pumpeth/",
+    "coingecko": "https://coingecko.com/en/coins/pumpeth"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2e74Ee4fc4466d0883eF5E12A0Ce344BFe15BE8D/logo.png"
+  },
+  "name": "PumpETH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

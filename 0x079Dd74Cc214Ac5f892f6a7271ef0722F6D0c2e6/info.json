@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x079Dd74Cc214Ac5f892f6a7271ef0722F6D0c2e6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NasaDoge is loyal to his family, like all dogs should be! All holders of $NasaDoge will earn more tokens on each transaction that is automatically sent to your wallet."
+  },
+  "id": "50f6d5b7-5226-431c-8a00-30c1a9c208f7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x079Dd74Cc214Ac5f892f6a7271ef0722F6D0c2e6",
+    "website": "https://www.nasadoge.finance/",
+    "facebook": "https://facebook.com/nasadogetoken/",
+    "twitter": "https://twitter.com/nasadogetoken",
+    "telegram": "https://t.me/nasadogetoken",
+    "reddit": "https://reddit.com/r/nasadogetoken/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nasa-doge/",
+    "coingecko": "https://coingecko.com/en/coins/nasa-doge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x079Dd74Cc214Ac5f892f6a7271ef0722F6D0c2e6/logo.png"
+  },
+  "name": "Nasa Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NasaDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

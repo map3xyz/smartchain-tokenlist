@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x60e9880DAeF10E960dA3c45b076dbdAc4f111Edf",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "GlobalGive is a deflationary token built to grow wealth, and make the world a better place by donating a percentage of proceeds to a charity to be determined every month. GlobalGive is therefore a rotatory Charity Token representing a ground-breaking option for Charities to raise funds in an ever changing world."
+  },
+  "id": "442f8783-3555-4215-986e-335fc093a33d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x60e9880DAeF10E960dA3c45b076dbdAc4f111Edf",
+    "website": "https://globalgive.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x60e9880DAeF10E960dA3c45b076dbdAc4f111Edf/logo.png"
+  },
+  "name": "GlobalGive Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GGIVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

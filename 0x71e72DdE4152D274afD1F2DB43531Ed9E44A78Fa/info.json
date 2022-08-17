@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LordToken’s ambition is to fill this gap, by granting access to anyone, regardless of his level of expertise, to a comprehensive set of tools while relying on premium customer service. The same goes for crypto: blockchain technology is quite complex, but if users are offered simple ways of interacting with it along with proper customer care, they will be able to take full advantage of it."
+  },
+  "id": "de2a03b0-5002-49c1-927e-6d3e41a39feb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa",
+    "website": "https://lordtoken.com",
+    "twitter": "https://twitter.com/lordtoken_off/",
+    "facebook": "https://facebook.com/LordToken-102969834974531/",
+    "whitepaper": "https://ico.lordtoken.com/en/register/information_document",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lordtoken/",
+    "coingecko": "https://coingecko.com/coins/lordtoken",
+    "telegram": "https://t.me/LordTokenGroup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x71e72DdE4152D274afD1F2DB43531Ed9E44A78Fa/logo.png"
+  },
+  "name": "LordToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTT",
+  "tags": [
+    "staking",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

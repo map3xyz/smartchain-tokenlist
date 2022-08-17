@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Puli (PULI) delivers simple yet very addicting P2E games supported by a novel NFT system. The first game, Puli Runner, was successfully launched on 31 January 2022. The team has also acquired a gaming studio for the development of Play-to-Earn games, which includes support for Android and IOS. The purpose and key features of the token include a 10% Buy and 10% Sell tax that are used to fund aggressive marketing, development and stable liquidity. In addition, the asset can be staked for added earnings with instructions available at their website."
+  },
+  "id": "37e405f1-e144-46bb-8c78-ea48d9f6e65e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
+    "website": "https://pulitoken.net/",
+    "twitter": "https://twitter.com/puli_token",
+    "telegram": "https://t.me/Puli_Inu",
+    "discord": "https://discord.com/",
+    "github": "https://github.com/interfinetwork/audited-codes/blob/main/PULIINU.sol",
+    "whitepaper": "https://docs.whitepaper.pulitoken.net/",
+    "telegramNews": "https://t.me/puli_inu_announcements",
+    "reddit": "https://reddit.com/Puli_Inu/",
+    "facebook": "https://facebook.com/groups/1645662419114677",
+    "sourceCode": "https://github.com/interfinetwork/audited-codes/blob/main/PULIINU.sol",
+    "youtube": "https://youtube.com/channel/UCvAYp8cyMZzEcurdjHdqQZQ/featured",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/puli-inu",
+    "coingecko": "https://coingecko.com/en/coins/puli-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC/logo.png"
+  },
+  "name": "Puli",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PULI",
+  "tags": [
+    "nft",
+    "gamefi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

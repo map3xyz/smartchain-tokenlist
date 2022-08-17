@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x4CbdA3D23c031cd403db2d24512aD920BF22f205",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SUBX FINANCE LAB is a blockchain-as-a-service provider for businesses to integrate web3 technologies into their products and services."
+  },
+  "id": "3f581653-aa80-46e8-83d6-dbeba32cebf9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4CbdA3D23c031cd403db2d24512aD920BF22f205",
+    "website": "https://subx.finance",
+    "twitter": "https://twitter.com/officialsubx",
+    "telegram": "https://t.me/subxofficial",
+    "telegramNews": "https://t.me/subxnewsfeed",
+    "discord": "https://discord.com/invite/subx",
+    "whitepaper": "https://subx.finance/wp",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/subx-finance-lab",
+    "coingecko": "https://coingecko.com/en/coins/subx-finance",
+    "youtube": "https://youtube.com/c/subxofficial",
+    "facebook": "https://facebook.com/subxofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4CbdA3D23c031cd403db2d24512aD920BF22f205/logo.png"
+  },
+  "name": "SUBX FINANCE LAB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

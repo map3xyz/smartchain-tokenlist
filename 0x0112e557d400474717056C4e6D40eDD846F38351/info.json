@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Phala Network is a privacy-preserving cloud computing service, which offers computing power comparable to existing cloud services and protects the privacy of managed programs."
+  },
+  "id": "e2176cda-2111-40d3-8cfc-0bebf65a6588",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0112e557d400474717056c4e6d40edd846f38351",
+    "website": "https://phala.network/",
+    "github": "https://github.com/Phala-Network",
+    "twitter": "https://twitter.com/PhalaNetwork",
+    "coingecko": "https://coingecko.com/en/coins/pha/",
+    "medium": "https://medium.com/phala-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/phala-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0112e557d400474717056C4e6D40eDD846F38351/logo.png"
+  },
+  "name": "Phala Network ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PHA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

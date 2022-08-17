@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "d657cd16-918c-47ee-a17f-f894c4e92cd6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc/logo.png"
+  },
+  "name": "Tether USD (Portal from Ethereum)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDTet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

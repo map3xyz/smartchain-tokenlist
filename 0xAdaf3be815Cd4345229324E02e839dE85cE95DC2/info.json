@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAdaf3be815Cd4345229324E02e839dE85cE95DC2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Doraemoon is a super cross chain (BSC, Polygon, Solana). Doraemoon ($DORA) is a next–gen cryptocurrency that combines auto-liquidity, frictionless yield, token burn, especially $DORA is a community driven DeFi token."
+  },
+  "id": "6a60af82-5e5f-4066-9141-afbb842acd23",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAdaf3be815Cd4345229324E02e839dE85cE95DC2",
+    "website": "https://doraemoon.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAdaf3be815Cd4345229324E02e839dE85cE95DC2/logo.png"
+  },
+  "name": "Doraemoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DORA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

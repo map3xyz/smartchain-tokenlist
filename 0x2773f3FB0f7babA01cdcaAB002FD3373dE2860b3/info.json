@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2773f3FB0f7babA01cdcaAB002FD3373dE2860b3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Wolf is an community token in the same way as Doge, but better. We are the wolf pack"
+  },
+  "id": "ff9f729f-d7dd-43dd-9ebb-abd90a72726d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2773f3fb0f7baba01cdcaab002fd3373de2860b3",
+    "website": "https://wolf-finance.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2773f3FB0f7babA01cdcaAB002FD3373dE2860b3/logo.png"
+  },
+  "name": "Wolf",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOLF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

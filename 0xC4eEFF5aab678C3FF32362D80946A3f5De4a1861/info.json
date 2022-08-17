@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RiceFarm is the next generation of Yield Farming with the highest burn rate on Binance Smart Chain."
+  },
+  "id": "70bfbb8a-b343-4875-a73d-6f6a1c300d8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861",
+    "website": "https://ricefarm.fi",
+    "github": "https://github.com/rice-farm",
+    "twitter": "https://twitter.com/fuzionchain",
+    "telegram": "https://t.me/fuzionchain",
+    "telegramNews": "https://t.me/fuzionnews",
+    "discord": "https://discord.com/invite/24uAPzKYFu",
+    "docs": "https://docs.ricefarm.fi/",
+    "facebook": "https://facebook.com/FuzionChain/",
+    "youtube": "https://youtube.com/c/BitcoinNewsChannel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ricefarm-token/",
+    "coingecko": "https://coingecko.com/en/coins/ricefarm",
+    "reddit": "https://reddit.com/r/TeslaSafe/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861/logo.png"
+  },
+  "name": "RiceFarm Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2C80bC9bFa4EC680EfB949C51806bDDEE5Ac8299",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BSC Army is the first DAO (decentralized autonomous organization) for social media industries on BSC, and a community-centered initiative that strives to promote the adoption of BSC and blockchain in general."
+  },
+  "id": "4731ace2-8fb5-4e72-96ec-611a3cbf7a82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2c80bc9bfa4ec680efb949c51806bddee5ac8299",
+    "website": "https://bsc.army/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2C80bC9bFa4EC680EfB949C51806bDDEE5Ac8299/logo.png"
+  },
+  "name": "BscArmy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BARMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

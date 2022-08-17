@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x8443f091997f06a61670B735ED92734F5628692F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking."
+  },
+  "id": "4e2c6426-15f2-4be2-bff6-11a3a2e2982d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8443f091997f06a61670B735ED92734F5628692F",
+    "research": "https://research.binance.com/en/projects/bella",
+    "website": "https://bella.fi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8443f091997f06a61670B735ED92734F5628692F/logo.png"
+  },
+  "name": "Bella Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

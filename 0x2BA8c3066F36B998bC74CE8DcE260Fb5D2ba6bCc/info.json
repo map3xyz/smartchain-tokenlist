@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2BA8c3066F36B998bC74CE8DcE260Fb5D2ba6bCc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$BigeDoge is the token of the First Decentralized Gaming World on Binance Smart Chain. The main focus is to provide the best entertainment possible for our players on blockchain, and the token is used among players. $BigeDoge is used for trading, in game activities and forming votes on important dicisions of the project among holders."
+  },
+  "id": "73618e19-aa95-46f9-9564-35799188f6dc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2BA8c3066F36B998bC74CE8DcE260Fb5D2ba6bCc",
+    "website": "https://bigdoge.io/",
+    "github": "https://github.com/bigdogecoin/",
+    "twitter": "https://twitter.com/bigdogecrypto",
+    "telegram": "https://t.me/bigdogecoin",
+    "facebook": "https://facebook.com/bigdogecrypto/",
+    "youtube": "https://youtube.com/channel/UCP6HVzQf3ClG9hgZEPFz7tA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2BA8c3066F36B998bC74CE8DcE260Fb5D2ba6bCc/logo.png"
+  },
+  "name": "Big Doge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BigDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

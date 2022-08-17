@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9DC8Ae7F7f88e1344c289d75cd0D4Ce07Dc4Aae6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyFlokiZilla is a Community-driven, Meme token on Binance Smart Chain."
+  },
+  "id": "ef511b9d-745f-4088-97aa-1467ce8e69ed",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6",
+    "website": "https://babyflokizilla.com/",
+    "telegram": "https://t.me/BabyFlokiZillaBSC",
+    "facebook": "https://facebook.com/Baby-Floki-Zilla-107460758405426",
+    "twitter": "https://twitter.com/BFZillaBSC",
+    "discord": "https://discord.com/invite/hfkGjSV9qs",
+    "whitepaper": "https://babyflokizilla.com/wp-content/uploads/2021/11/BabyFlokiZilla-White-Paper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babyflokizilla/",
+    "coingecko": "https://coingecko.com/en/coins/babyflokizilla"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9DC8Ae7F7f88e1344c289d75cd0D4Ce07Dc4Aae6/logo.png"
+  },
+  "name": "BabyFlokiZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyFlokiZilla",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

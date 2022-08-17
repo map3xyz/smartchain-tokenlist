@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x250342dD21cAE01583e8F3eDe4eB64753f665084",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "We are providing Big Utility that is never implemented before. Every Transaction will cause 0.1 % supply burn and 0.2% Airdrop distribution to all holders."
+  },
+  "id": "b3d904f1-1fba-4540-896b-aca28a2fe3e2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x250342dD21cAE01583e8F3eDe4eB64753f665084",
+    "website": "https://stingdefi.yfiigold.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x250342dD21cAE01583e8F3eDe4eB64753f665084/logo.png"
+  },
+  "name": "Sting Defi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SDFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

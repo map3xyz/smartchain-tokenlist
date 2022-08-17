@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Smart contract on the blockchain network for non-centralized management of a global social lottery pool"
+  },
+  "id": "833a703a-a8a7-4eda-a6ce-69e13fde1499",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+    "website": "https://www.poollotto.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B/logo.png"
+  },
+  "name": "Poollotto.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

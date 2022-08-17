@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB547607EAE3B10d94B211DA84A3B51BFa545774d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DOCA is the BEST MEMECOIN. Unique features to shill to the MARS: Memecoin - DeFi - GameFi - Metaverse"
+  },
+  "id": "d3d51f26-7834-408a-8656-0c736f3a3c2a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB547607EAE3B10d94B211DA84A3B51BFa545774d",
+    "website": "https://dogeraca.com/",
+    "twitter": "https://twitter.com/dogeraca",
+    "github": "https://github.com/dogeraca",
+    "telegram": "https://t.me/DogeRaca_Chat",
+    "telegramNews": "https://t.me/dogeraca",
+    "coingecko": "https://coingecko.com/en/coins/doge-raca",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/doge-raca/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB547607EAE3B10d94B211DA84A3B51BFa545774d/logo.png"
+  },
+  "name": "Doge Raca",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DoCa",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x360883b7E7fAAD5CE3b4295DABe3F4Ce01A408a2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "CREATE YOUR OWN UNIQUE SOLAR SYSTEM on Binance Smart Chain."
+  },
+  "id": "29ed2e8a-8564-4b87-a00c-96a06312ac45",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x360883b7E7fAAD5CE3b4295DABe3F4Ce01A408a2",
+    "website": "https://sale.nftsolar.systems/",
+    "github": "https://github.com/SolarSystemsNFT/",
+    "twitter": "https://twitter.com/SolarSystems3",
+    "reddit": "https://reddit.com/user/nftsollar/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x360883b7E7fAAD5CE3b4295DABe3F4Ce01A408a2/logo.png"
+  },
+  "name": " Solar Systems",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

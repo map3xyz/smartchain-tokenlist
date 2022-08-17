@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC66c8b40E9712708d0b4F27c9775Dc934B65F0d9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ElonTech is Binance Smart Chain Token developed for building the first decentralized Tech Valley."
+  },
+  "id": "a4814774-2bfa-43f6-ac36-9af85295a2a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC66c8b40E9712708d0b4F27c9775Dc934B65F0d9",
+    "website": "https://elontech.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC66c8b40E9712708d0b4F27c9775Dc934B65F0d9/logo.png"
+  },
+  "name": "ElonTech",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

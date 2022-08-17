@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ChainSwap is a cross-chain asset bridge & application hub for smart chains."
+  },
+  "id": "1543dd0b-4e98-481e-b958-6e518979b7ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+    "website": "https://chainswap.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890/logo.png"
+  },
+  "name": "ChainSwap.com Governance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

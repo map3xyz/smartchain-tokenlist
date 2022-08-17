@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x57457B5D725D85A70a3625D6a71818304e773618",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Decentralised Finance (DeFi) based Governance Token, with the benefit of Utility Token, Security Token & CryptoCurrency. It is Deflationary, also provides Staking Reward."
+  },
+  "id": "2a5b28ee-e861-468c-8c78-c7fa9b6f94e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57457B5D725D85A70a3625D6a71818304e773618",
+    "website": "https://pylontoken.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pylon-eco-token",
+    "coingecko": "https://coingecko.com/en/coins/pylon-eco-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57457B5D725D85A70a3625D6a71818304e773618/logo.png"
+  },
+  "name": "Pylon Eco Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PETN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

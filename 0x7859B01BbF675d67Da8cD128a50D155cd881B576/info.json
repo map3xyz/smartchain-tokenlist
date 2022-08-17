@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Builds the central bank and reserve currency for DeFi."
+  },
+  "id": "6e7466fc-b206-4c6b-82b7-1b191fefbe5f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+    "website": "https://marsecosystem.com/",
+    "twitter": "https://twitter.com/MarsEcosystem",
+    "telegram": "https://t.me/mars_ecosystem",
+    "discord": "https://discord.com/invite/52TEnebg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mars-ecosystem-governance-token/",
+    "whitepaper": "https://docs.marsecosystem.com/",
+    "github": "https://github.com/marsecosystem"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7859B01BbF675d67Da8cD128a50D155cd881B576/logo.png"
+  },
+  "name": "Mars Ecosystem Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

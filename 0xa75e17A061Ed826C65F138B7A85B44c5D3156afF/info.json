@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xa75e17A061Ed826C65F138B7A85B44c5D3156afF",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DINA is a community driven MeMe token which utilizes four functions during each trade: FOMO, LP acquisition, static reward and burn."
+  },
+  "id": "55de7902-0795-4bf3-b9bc-7eaa2160163f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa75e17A061Ed826C65F138B7A85B44c5D3156afF",
+    "website": "https://dina.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa75e17A061Ed826C65F138B7A85B44c5D3156afF/logo.png"
+  },
+  "name": "DINA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DINA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

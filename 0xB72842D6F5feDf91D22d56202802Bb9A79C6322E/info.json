@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB72842D6F5feDf91D22d56202802Bb9A79C6322E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The multi-chain decentralized exchange ecosystem for non-fungible tokens"
+  },
+  "id": "3398c4b7-e493-4395-83f4-374ca351d3e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB72842D6F5feDf91D22d56202802Bb9A79C6322E",
+    "website": "https://mochi.market"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB72842D6F5feDf91D22d56202802Bb9A79C6322E/logo.png"
+  },
+  "name": "MOchi MArket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

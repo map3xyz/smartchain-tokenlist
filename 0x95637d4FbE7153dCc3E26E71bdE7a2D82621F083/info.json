@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ForeverFOMO is a price-elastic token with adjusting supply, moving towards the price of $1,500.000 per token. Different then just a normal pegged token/stable coin, rebases make price-elastic tokens into synthetic commodities with fluctuating values and supplies that gradually stabilize. Ultimately, rebases are designed to be tradable and potentially extremely profitable. On the path to $1.5m a token, ForeverFOMO will release NFTs, DAPPs, and more!"
+  },
+  "id": "f9a1a16c-a8a8-47ec-8942-0eac560fa876",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083",
+    "website": "https://foreverfomo.finance/",
+    "telegram": "https://t.me/ForeverFOMO",
+    "twitter": "https://twitter.com/FomoForever",
+    "reddit": "https://reddit.com/r/ForeverFOMO/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x95637d4FbE7153dCc3E26E71bdE7a2D82621F083/logo.png"
+  },
+  "name": "ForeverFOMO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ForeverFOMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

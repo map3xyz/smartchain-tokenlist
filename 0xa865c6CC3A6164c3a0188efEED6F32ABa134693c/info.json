@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa865c6CC3A6164c3a0188efEED6F32ABa134693c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Evergreen token is the world first defi project to combine crypto and the environment through planting of trees."
+  },
+  "id": "c5ba6c30-0d2c-4e7f-98eb-f3297179e80e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa865c6CC3A6164c3a0188efEED6F32ABa134693c",
+    "website": "https://www.evergreentokens.org",
+    "twitter": "https://twitter.com/evergreentokens",
+    "whitepaper": "https://dev.evergreentokens.org/files/Green_Paper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/evergreen-token/",
+    "coingecko": "https://coingecko.com/en/coins/evergreen-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa865c6CC3A6164c3a0188efEED6F32ABa134693c/logo.png"
+  },
+  "name": "Evergreen token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

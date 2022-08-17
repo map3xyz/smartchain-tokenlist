@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xeBDf1b978dC2576Ef0020BA4cF5f98174425c3a1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeRocket is a community driven, deflationary token"
+  },
+  "id": "d380bc1c-44e3-41e1-88d8-0879d5533eb9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xebdf1b978dc2576ef0020ba4cf5f98174425c3a1",
+    "website": "https://saferocket.pro/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeBDf1b978dC2576Ef0020BA4cF5f98174425c3a1/logo.png"
+  },
+  "name": "SafeRocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROCKET",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x68b5edb385b59E30a7A7Db1E681a449E94DF0213",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SILVA Token is a multi-functional platform which allows each participant to keep money in a multi-currency online wallet, buy and sell currency on the exchange, invest money, get a huge benefit in a convenient currency."
+  },
+  "id": "915a46fe-1edd-45ca-a9d1-f65ece09bd7f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x68b5edb385b59E30a7A7Db1E681a449E94DF0213",
+    "website": "https://www.silva.finance/",
+    "github": "https://github.com/SilvaToken",
+    "whitepaper": "https://www.silva.finance/whitepaper/",
+    "telegram": "https://t.me/SilvaTokenId",
+    "twitter": "https://twitter.com/ERANetworkGroup",
+    "facebook": "https://facebook.com/ERATokens/",
+    "youtube": "https://youtube.com/channel/UCcMavJs-DvX_bqf9G6b70Gg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x68b5edb385b59E30a7A7Db1E681a449E94DF0213/logo.png"
+  },
+  "name": "Silva Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SILVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

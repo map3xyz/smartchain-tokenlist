@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe2F4516aA9bd7b864FF0C6DD4EbB8878E1BBc97D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFEPIT is an auto liquidity and reflective token on BSC. Join our telegram safepitofficial or visit website to learn more. "
+  },
+  "id": "32458a4a-a11a-4820-9af5-b8df5d80b285",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe2F4516aA9bd7b864FF0C6DD4EbB8878E1BBc97D",
+    "website": "https://safepitbull.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe2F4516aA9bd7b864FF0C6DD4EbB8878E1BBc97D/logo.png"
+  },
+  "name": "SafePitbull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEPIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

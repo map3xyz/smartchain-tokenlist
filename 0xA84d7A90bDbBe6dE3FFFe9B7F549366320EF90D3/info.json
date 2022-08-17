@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA84d7A90bDbBe6dE3FFFe9B7F549366320EF90D3",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "ZENFI AI provisions an Intelligent Metaverse"
+  },
+  "id": "b7fe8f1c-49a6-470b-aea7-59aa6b2078f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA84d7A90bDbBe6dE3FFFe9B7F549366320EF90D3",
+    "website": "https://zenfi.ai",
+    "twitter": "https://twitter.com/zenfiai",
+    "github": "https://github.com/zenfiaigit",
+    "telegram": "https://t.me/ZenFiAI"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA84d7A90bDbBe6dE3FFFe9B7F549366320EF90D3/logo.png"
+  },
+  "name": "ZenFi AI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZENFI",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

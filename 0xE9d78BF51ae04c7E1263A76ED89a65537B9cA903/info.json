@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Game Coin aims to allow any athlete in the world the ability to create their own sports token."
+  },
+  "id": "8ee6c60c-436c-4be0-8658-7a84145940e1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903",
+    "website": "https://www.thegamecoin.net",
+    "twitter": "https://twitter.com/GameCoinGMEX",
+    "telegram": "https://t.me/TheGameCoin_GME_CHAT",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/game-coin/",
+    "reddit": "https://reddit.com/r/GameCoinCrypto/",
+    "facebook": "https://facebook.com/GameCoinGMEX/",
+    "youtube": "https://youtube.com/channel/UCrYDr-2HjWwtGG0meSxzNsA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903/logo.png"
+  },
+  "name": "Game Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

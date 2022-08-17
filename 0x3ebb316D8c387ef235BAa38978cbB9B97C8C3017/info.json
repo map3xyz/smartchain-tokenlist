@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Premium staking platform on Binance Smart Chain"
+  },
+  "id": "9ccb8191-fea6-4a5e-b390-da8551a7b328",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017",
+    "website": "https://www.pyxis.network",
+    "twitter": "https://twitter.com/pyxiscommunity",
+    "telegram": "https://t.me/pyxiscommunity",
+    "discord": "https://discord.com/invite/d2kqGakxeJ"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017/logo.png"
+  },
+  "name": "PYXIS (pyxis.network)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PYX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

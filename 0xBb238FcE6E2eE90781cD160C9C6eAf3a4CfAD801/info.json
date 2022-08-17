@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBb238FcE6E2eE90781cD160C9C6eAf3a4CfAD801",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BAGEL is the native governance token of Bagels Finance. Token holders can deposit their BAGEL into Boardroom smart contract and join Bagels DAO governance. In the Boardroom, when making key decisions regarding the future roadmap, product and op-erations of Bagels, like interest rate, crypto value ratio, liquidation penalty rates, etc, BAGEL holders can vote for their preferable proposals. "
+  },
+  "id": "07fc2581-92fa-47f7-8686-d9bbfa6064af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBb238FcE6E2eE90781cD160C9C6eAf3a4CfAD801",
+    "website": "https://app.bagels.finance",
+    "github": "https://github.com/bagels-dev",
+    "twitter": "https://twitter.com/BagelsFinance",
+    "telegram": "https://t.me/bagelsfinance",
+    "medium": "https://bagelsfinance.medium.com",
+    "whitepaper": "https://scigroup2018.gitbook.io/bagels-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBb238FcE6E2eE90781cD160C9C6eAf3a4CfAD801/logo.png"
+  },
+  "name": "BAGEL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAGEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

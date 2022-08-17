@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6001600A144166e14075963eE9bF03e194f638Fe",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "KissMyMoon protocol is the world’s first deflationary Token with the anti-whale tier system."
+  },
+  "id": "fd78b894-013c-45f2-8ac5-db1a8ec12777",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6001600A144166e14075963eE9bF03e194f638Fe",
+    "website": "https://kissmymoon.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6001600A144166e14075963eE9bF03e194f638Fe/logo.png"
+  },
+  "name": "KissMyMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KissMyMoon",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

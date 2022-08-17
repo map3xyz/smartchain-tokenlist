@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xCBE5BcA571628894A38836b0baE833ff012f71D8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Infinity Rocket is a multi-purpose platform that allows you to simplify the launch and promotion of any projects on the blockchain."
+  },
+  "id": "1c5c32cb-e8a4-485d-966e-0f25a42e861e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCBE5BcA571628894A38836b0baE833ff012f71D8",
+    "website": "https://irocket.pro/",
+    "twitter": "https://twitter.com/iRocketToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/infinity-rocket-token/",
+    "coingecko": "https://coingecko.com/en/coins/infinity-rocket-token",
+    "telegram": "https://t.me/irocketeng",
+    "whitepaper": "https://irocket.pro/docs/IRT-WhitePaper-v1.0.0.pdf",
+    "github": "https://github.com/InfinityRocket"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCBE5BcA571628894A38836b0baE833ff012f71D8/logo.png"
+  },
+  "name": "Infinity Rocket Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IRT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

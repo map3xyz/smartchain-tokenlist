@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bitrise Token - a Hyper Deflationary & BNB reward token"
+  },
+  "id": "a5444a8e-281d-48c5-aeb0-830be1d01c93",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
+    "website": "https://www.bitrisetoken.com",
+    "telegram": "https://t.me/bitrisetoken",
+    "twitter": "https://twitter.com/bitrisetoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83/logo.png"
+  },
+  "name": "Bitrise Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BRISE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

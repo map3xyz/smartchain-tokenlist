@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2d2bB6cC040010583F16Bb1c5afEE129ed13B532",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm MARS on Binance Smart Chain."
+  },
+  "id": "eb6644c5-6a61-4cfd-8f73-116d42aa372d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2d2bB6cC040010583F16Bb1c5afEE129ed13B532",
+    "website": "https://marstoken.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2d2bB6cC040010583F16Bb1c5afEE129ed13B532/logo.png"
+  },
+  "name": "MARSTOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

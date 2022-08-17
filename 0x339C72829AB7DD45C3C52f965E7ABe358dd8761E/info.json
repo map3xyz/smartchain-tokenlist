@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x339C72829AB7DD45C3C52f965E7ABe358dd8761E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wanaka Farm aims to offer anNFT game where people can own their virtual lands, NFT items to plant, grow, harvest to relax and earn their crypto."
+  },
+  "id": "ea898636-8969-4437-a1ab-c2a6308adff0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x339C72829AB7DD45C3C52f965E7ABe358dd8761E",
+    "website": "https://wanakafarm.com",
+    "whitepaper": "https://wanakafarm.com/papers/",
+    "telegram": "https://t.me/WanakaOfficial",
+    "facebook": "https://facebook.com/wanakafarmofficial",
+    "twitter": "https://twitter.com/Wanaka_Farm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x339C72829AB7DD45C3C52f965E7ABe358dd8761E/logo.png"
+  },
+  "name": "WanakaFarm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WANA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

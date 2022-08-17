@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x86aC3974e2BD0d60825230fa6F355fF11409df5c",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "65758a06-9d07-4a68-8fc9-cb81dcd04299",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86aC3974e2BD0d60825230fa6F355fF11409df5c",
+    "website": "https://venus.io/",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x86aC3974e2BD0d60825230fa6F355fF11409df5c/logo.png"
+  },
+  "name": "Venus CAKE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x65453110319e9ce742dd146beFfaC2A5eE655e7E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KWD COIN Token is a Decentralized Token (BEP-20 Token) in Binance smart chain.This token is the safe haven for everyone who got rekt from scam/rugged project."
+  },
+  "id": "295853cf-da22-4184-9d89-612860a21e79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x65453110319e9ce742dd146beFfaC2A5eE655e7E",
+    "website": "https://kwdcoin.io/",
+    "telegram": "https://t.me/kwdtoken",
+    "discord": "https://discord.com/invite/xzWFdjnf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x65453110319e9ce742dd146beFfaC2A5eE655e7E/logo.png"
+  },
+  "name": "KWD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KWD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

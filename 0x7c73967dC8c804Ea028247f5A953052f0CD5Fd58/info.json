@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7c73967dC8c804Ea028247f5A953052f0CD5Fd58",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CyBloc Battery Token is CyBall's primary Play-to-Earn reward and utility token with no fixed supply."
+  },
+  "id": "81562a33-be06-47ab-91c5-83acff46e0dd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
+    "website": "https://cyball.com",
+    "discord": "https://discord.com/invite/cyball",
+    "blog": "https://blog.cyball.com/",
+    "twitter": "https://twitter.com/CyBallOfficial",
+    "telegram": "https://t.me/cyballofficial",
+    "coingecko": "https://coingecko.com/en/coins/cybloc-battery-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7c73967dC8c804Ea028247f5A953052f0CD5Fd58/logo.png"
+  },
+  "name": "CyBloc Battery Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CBT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

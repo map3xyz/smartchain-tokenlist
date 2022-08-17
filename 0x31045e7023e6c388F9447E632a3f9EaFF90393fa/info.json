@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x31045e7023e6c388F9447E632a3f9EaFF90393fa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SafeToken is a next-gen cryptocurrency that combines auto-liquidity, frictionless yield, and token burn."
+  },
+  "id": "48002e8f-83df-4788-9248-8c64a20ec866",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31045e7023e6c388F9447E632a3f9EaFF90393fa",
+    "website": "https://safetoken.xyz/",
+    "twitter": "https://twitter.com/safetokenteam",
+    "telegram": "https://t.me/safetokenbsc",
+    "reddit": "https://reddit.com/r/SafeToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x31045e7023e6c388F9447E632a3f9EaFF90393fa/logo.png"
+  },
+  "name": "SafeToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFETOKEN",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

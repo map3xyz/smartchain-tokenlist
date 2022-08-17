@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped ADA"
+  },
+  "id": "5f0b5e7a-0882-4aa2-a5dc-5315c10c5703",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb723f6dce74bbde8f19ac882e539c1c53fdb888b",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB723F6dCE74BbdE8f19ac882e539C1C53fDb888B/logo.png"
+  },
+  "name": "FEG Wrapped ADA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

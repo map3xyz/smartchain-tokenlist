@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Starmon Metaverse builds a virtual world: Andres Land. There are many creatures with superpowers called Starmon."
+  },
+  "id": "6a2a6706-e216-43b7-a5b9-b3b0d1d9af1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2",
+    "website": "https://starmon.io",
+    "github": "https://github.com/StarMon-protocol/",
+    "twitter": "https://twitter.com/StarMonGame",
+    "telegram": "https://t.me/StarMon_Official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2/logo.png"
+  },
+  "name": "StarMon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A hyper-deflationary and elastic supply token that has unique reserve and reward mechanisms featuring an automated hybrid monetary policy."
+  },
+  "id": "ff03c5c6-fe3c-405d-8dc3-d2689db0c8f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+    "website": "https://cake.monster"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f/logo.png"
+  },
+  "name": "Cake Monster",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MONSTA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

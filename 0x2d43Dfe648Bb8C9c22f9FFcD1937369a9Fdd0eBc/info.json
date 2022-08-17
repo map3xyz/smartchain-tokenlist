@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Crowdfunding Platform for up and coming Defi tokens"
+  },
+  "id": "185e2362-e58f-43db-81ef-9775ebeeac6a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+    "website": "https://www.eject.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc/logo.png"
+  },
+  "name": "EJECT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EJECT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

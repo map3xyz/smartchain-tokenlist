@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Standard, frictionless, yield generating contract"
+  },
+  "id": "0e4265a6-843a-46d4-ab4d-8221ea5c18d2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+    "website": "https://www.poodltoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D/logo.png"
+  },
+  "name": "POODL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POODL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

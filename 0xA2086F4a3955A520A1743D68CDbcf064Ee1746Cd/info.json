@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "X Doge is the next evolutionary Decentralized Finance cryptocurrency that strives to provide wide ranging DeFi services from premier charting solutions."
+  },
+  "id": "de66642d-4e62-4dfa-a050-a881bd56ca2e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd",
+    "website": "https://xdoge.app",
+    "twitter": "https://twitter.com/xdogeapp",
+    "github": "https://github.com/xdogeapp",
+    "telegram": "https://t.me/xdogeapp",
+    "whitepaper": "https://xdoge.app/assets/xdoge_whitepaper_v1.pdf",
+    "medium": "https://medium.com/@xdogeapp",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/x-doge/",
+    "sourceCode": "https://bscscan.com/address/0xa2086f4a3955a520a1743d68cdbcf064ee1746cd#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd/logo.png"
+  },
+  "name": "X Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "X",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

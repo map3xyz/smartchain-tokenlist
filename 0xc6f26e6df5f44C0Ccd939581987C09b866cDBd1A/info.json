@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "InfinitUP is a rebase token that also rewards in WBNB."
+  },
+  "id": "796cc93f-0ae0-4048-bebe-d262064062de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
+    "website": "https://infinitup.io/",
+    "github": "https://github.com/InfinitUP",
+    "twitter": "https://twitter.com/infinituptoken",
+    "telegram": "https://t.me/infinitup",
+    "medium": "https://infinitup.medium.com",
+    "coingecko": "https://coingecko.com/en/coins/infinitup",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/infinitup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A/logo.png"
+  },
+  "name": "InfinitUP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

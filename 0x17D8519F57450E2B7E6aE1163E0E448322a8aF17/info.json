@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x17D8519F57450E2B7E6aE1163E0E448322a8aF17",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Connecting creators and investors in a virtual space!"
+  },
+  "id": "ddc590c2-6db8-4c7e-b23a-f47c08c8af58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17D8519F57450E2B7E6aE1163E0E448322a8aF17",
+    "website": "https://lofi-defi.com/",
+    "telegram": "https://t.me/lofi_defi",
+    "twitter": "https://twitter.com/lofi_defi",
+    "reddit": "https://reddit.com/r/lofi_defi",
+    "discord": "https://discord.com/HqF4dwAdNN",
+    "facebook": "https://facebook.com/LoFiDeFi",
+    "youtube": "https://youtube.com/channel/UC_dA60kbHtbJjPjD4gS4dKQ"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x17D8519F57450E2B7E6aE1163E0E448322a8aF17/logo.png"
+  },
+  "name": "LOFI-DEFI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

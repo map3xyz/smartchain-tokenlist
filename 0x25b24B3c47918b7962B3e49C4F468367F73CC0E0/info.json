@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AXL INU is being developed as Decentralized Eco-System with a LaunchPad, Farming, Staking, NFT MarketPlace and a Metaverse."
+  },
+  "id": "606a35e2-6a83-4e87-88f3-7502eaefbfe0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+    "website": "https://www.axltoken.com",
+    "twitter": "https://twitter.com/axltoken",
+    "telegram": "https://t.me/axltoken",
+    "reddit": "https://reddit.com/axltoken",
+    "medium": "https://axltoken.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/axl-inu/",
+    "facebook": "https://facebook.com/Axltoken",
+    "telegramNews": "https://t.me/Axl_Token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0/logo.png"
+  },
+  "name": "AXL INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AXL",
+  "tags": [
+    "memes",
+    "gamefi",
+    "staking",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

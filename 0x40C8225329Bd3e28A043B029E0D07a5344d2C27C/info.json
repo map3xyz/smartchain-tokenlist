@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token economy and Play-to-Earn."
+  },
+  "id": "c69020d3-1778-43f5-80ea-cee96f987127",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
+    "website": "https://ageofgods.net",
+    "twitter": "https://twitter.com/ageofgodsnet",
+    "telegram": "https://t.me/ageofgodsnet",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ageofgods/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x40C8225329Bd3e28A043B029E0D07a5344d2C27C/logo.png"
+  },
+  "name": "AgeOfGods",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AOG",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

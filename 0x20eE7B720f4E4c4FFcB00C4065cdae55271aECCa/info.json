@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "APENFT Fund was born with the mission to register worid-class artworks as NFTs on blockchain and aim to be the ARK Funds in the NFT space to buld a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists."
+  },
+  "id": "3caf2e94-7491-4760-b33f-58f7e4a4ed84",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
+    "website": "https://apenft.io/",
+    "twitter": "https://twitter.com/apenftorg",
+    "telegram": "https://t.me/apenftEN",
+    "whitepaper": "https://fundation.apenft.io/book/APENFT%20White%20Paper.pdf",
+    "medium": "https://apenftorg.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x20eE7B720f4E4c4FFcB00C4065cdae55271aECCa/logo.png"
+  },
+  "name": "APENFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFT",
+  "tags": [
+    "nft",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

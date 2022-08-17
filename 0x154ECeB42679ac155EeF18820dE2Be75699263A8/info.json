@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x154ECeB42679ac155EeF18820dE2Be75699263A8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The amount of Mamy Shiba grow every day in your wallet as all holders automatically receive a 2% fee from every buy transaction and 7% fee from every sell transaction that happens on the Mamy Shiba network.."
+  },
+  "id": "df408495-f2a9-4f4d-aee3-61d6cb9327cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x154ECeB42679ac155EeF18820dE2Be75699263A8",
+    "website": "https://mamyshibainu.com/",
+    "github": "https://github.com/MamyShibaInuGithub/",
+    "twitter": "https://twitter.com/MamyShibaInu/",
+    "telegram": "https://t.me/Mamyshibainuchannel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x154ECeB42679ac155EeF18820dE2Be75699263A8/logo.png"
+  },
+  "name": "MamyShibaInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MamySHIBA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

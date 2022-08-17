@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Centric is an innovative dual-token digital currency & decentralized blockchain protocol built on sound economics that yields a return hourly."
+  },
+  "id": "dc23c530-aa98-4ff4-b600-49974a439aec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63",
+    "website": "https://www.centric.com/",
+    "github": "https://github.com/Centric-Org",
+    "twitter": "https://twitter.com/centricrise",
+    "reddit": "https://reddit.com/user/joincentric",
+    "discord": "https://discord.com/invite/KjwY64h",
+    "telegram": "https://t.me/CentricChat",
+    "telegramNews": "https://t.me/centric"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63/logo.png"
+  },
+  "name": "Centric SWAP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CNS",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

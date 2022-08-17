@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Anime Token - AnimeSwap AMM on BSC Blockchain."
+  },
+  "id": "1d78d9d2-243c-4844-b5e8-a6430c28d368",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f",
+    "website": "https://animetoken.me"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f/logo.png"
+  },
+  "name": "Anime Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

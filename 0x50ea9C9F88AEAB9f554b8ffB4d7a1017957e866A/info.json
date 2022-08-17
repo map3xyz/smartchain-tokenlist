@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x50ea9C9F88AEAB9f554b8ffB4d7a1017957e866A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fox Trading is an automated trading service managed by our success Forex bots that will try to get the most from your investment. Powered by FOXT token."
+  },
+  "id": "1d5aa5cf-df3c-4f8e-a63e-6c202d99ee64",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x50ea9c9f88aeab9f554b8ffb4d7a1017957e866a",
+    "website": "https://foxtrading.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x50ea9C9F88AEAB9f554b8ffB4d7a1017957e866A/logo.png"
+  },
+  "name": "Fox Trading",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

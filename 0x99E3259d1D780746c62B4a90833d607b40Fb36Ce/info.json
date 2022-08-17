@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x99E3259d1D780746c62B4a90833d607b40Fb36Ce",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CCDOGE is an auto-farming, auto-deflation, auto-market-maker token based on BSC network."
+  },
+  "id": "472b7628-4263-44c3-9972-662bf8efff1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x99E3259d1D780746c62B4a90833d607b40Fb36Ce",
+    "website": "https://dogecoin.cc/",
+    "twitter": "https://twitter.com/CCdogecoin",
+    "coingecko": "https://coingecko.com/en/coins/community-doge-coin/",
+    "medium": "https://dogecoincc.medium.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/community-doge-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x99E3259d1D780746c62B4a90833d607b40Fb36Ce/logo.png"
+  },
+  "name": "Community Doge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CCDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Web3 Doge allows you to enter the metaverse by employing a 3D NFT avatar of your real pet on the Web3 Doge platform."
+  },
+  "id": "b067b88a-7ac6-418b-9347-d3c83ab3c25f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf45de5a6d02c4a6e050b90add33ebf0a34d017e0",
+    "website": "https://web3doge.io",
+    "twitter": "https://twitter.com/web3_doge",
+    "github": "https://github.com/web3doge",
+    "telegram": "https://t.me/web3_doge_eng",
+    "whitepaper": "https://web3doge.io/assets/web3_doge_whitepaper_v1.pdf",
+    "medium": "https://medium.com/@web3_doge",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/web3-doge/",
+    "coingecko": "https://coingecko.com/en/coins/web3-doge",
+    "sourceCode": "https://bscscan.com/address/0xf45de5a6d02c4a6e050b90add33ebf0a34d017e0#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0/logo.png"
+  },
+  "name": "WEB3 Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEB3",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

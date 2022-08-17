@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Muu Inu is a unique utility token on the BSC chain. It has a total supply of 1 Trillion and is listed on pancakeswap. The utility we aim to bring to this project and holders includes: Play2Earn game, Staking, NFTs"
+  },
+  "id": "f7a94d42-c425-40db-a35b-9b3d94e7036d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8",
+    "website": "https://muuinu.com",
+    "twitter": "https://twitter.com/muuinuofficial",
+    "telegram": "https://t.me/MuuInu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/muu-inu/",
+    "coingecko": "https://coingecko.com/coins/muu-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8/logo.png"
+  },
+  "name": "Muu Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MINU",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

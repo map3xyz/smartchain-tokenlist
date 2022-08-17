@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Ontology Token (ONT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Ontology Token (ONT) at a ratio of 1:1."
+  },
+  "id": "3006c730-80ce-49b5-811c-ec3e7abca6f0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+    "research": "https://research.binance.com/en/projects/ontology",
+    "website": "https://ont.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335/logo.png"
+  },
+  "name": "Binance-Peg Ontology Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ONT",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

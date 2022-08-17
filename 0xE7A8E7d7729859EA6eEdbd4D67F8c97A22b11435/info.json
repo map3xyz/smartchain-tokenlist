@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A next evolution DeFi exchange on BinanceSmartChain."
+  },
+  "id": "1bb512f9-4c8f-4717-8081-e84ad956fb49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+    "website": "https://frozencake.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435/logo.png"
+  },
+  "name": "Frozencake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FROZEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x7917C830ECA3360e24e09fD422310A734AC9D2c9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Head Football is a new crypto currency that allows you to enjoy the game and also make money by duelling other opponents. Please also check our previous PR fee already paid https://github.com/trustwallet/assets/pull/17660"
+  },
+  "id": "5993be9e-904d-42ff-ad0f-9443959650ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7917c830eca3360e24e09fd422310a734ac9d2c9",
+    "website": "https://www.headfootball.io/",
+    "twitter": "https://twitter.com/headfootball_io",
+    "github": "https://github.com/headfootball",
+    "telegram": "https://t.me/headfootball",
+    "reddit": "https://reddit.com/r/HeadFootballOfficial",
+    "whitepaper": "https://www.headfootball.io/public/#whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/head-football/",
+    "youtube": "https://youtube.com/channel/UC6-oBPHDxjx-262QWbWa8xg",
+    "sourceCode": "https://github.com/HeadFootball/HeadFootball"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7917C830ECA3360e24e09fD422310A734AC9D2c9/logo.png"
+  },
+  "name": "Head Football",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HEAD",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

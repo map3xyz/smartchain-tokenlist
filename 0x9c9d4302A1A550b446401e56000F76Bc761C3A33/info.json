@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9c9d4302A1A550b446401e56000F76Bc761C3A33",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GLASS is a fully decentralized frictionless yield producing AI. OurGlass is an auto-staking smart contract designed to pay you yield endlessly on the Binance Smart Chain"
+  },
+  "id": "418ea0f7-318e-4d69-9e9b-9a0f5c85c5ac",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9c9d4302A1A550b446401e56000F76Bc761C3A33",
+    "website": "https://our.glass"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9c9d4302A1A550b446401e56000F76Bc761C3A33/logo.png"
+  },
+  "name": "OurGlass",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GLASS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x14B13E06f75E1F0Fd51ca2E699589Ef398E10F4C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "IDM Token is intended to invite crypto currency investors to finance our big project in building a digital ecosystem of cooperatives and MSMEs in Indonesia. IDM tokens are at an early stage on the Binance Smart Chain network."
+  },
+  "id": "0abaf21e-f795-47ae-9be6-5dfed1c953d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x14B13E06f75E1F0Fd51ca2E699589Ef398E10F4C",
+    "website": "https://idmcoop.com/",
+    "twitter": "https://twitter.com/IDMToken",
+    "github": "https://github.com/idmtoken",
+    "telegram": "https://t.me/IDMTokenGlobal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/idm-token/",
+    "coingecko": "https://coingecko.com/id/koin_koin/idm-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x14B13E06f75E1F0Fd51ca2E699589Ef398E10F4C/logo.png"
+  },
+  "name": "IDM Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IDM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

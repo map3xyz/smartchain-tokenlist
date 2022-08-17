@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7b5beB86af822125762bd0E9eb0Df3154ffbF640",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFEDOGE is a Frictionless Yield Generation DEFI protocol on Binance Smart Chain."
+  },
+  "id": "25d7d9db-94bf-446e-973d-22e65ddd005c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7b5beb86af822125762bd0e9eb0df3154ffbf640",
+    "website": "https://safedoge.dog"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7b5beB86af822125762bd0E9eb0Df3154ffbF640/logo.png"
+  },
+  "name": "SafeDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

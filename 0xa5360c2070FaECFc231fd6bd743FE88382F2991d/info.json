@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token - Reflection paid back to holders."
+  },
+  "id": "585aea64-f8eb-45b1-b3eb-94e10cd1cf10",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa5360c2070faecfc231fd6bd743fe88382f2991d",
+    "website": "https://www.safelightcrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa5360c2070FaECFc231fd6bd743FE88382F2991d/logo.png"
+  },
+  "name": "SafeLight",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SafeLight",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

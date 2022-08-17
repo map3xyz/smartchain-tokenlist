@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x97Ad911101d4285a13A3240Ee35618edC511A435",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Lovely KISHUBABY was created on June 27th, 2021 with the goal of being a decentralized meme project with a true purpose. Formed by an awesome team of highly-skilled devs, first-class marketing people, and a constantly ever-growing community."
+  },
+  "id": "e877f0e4-b49d-45e4-b87a-cd65b0aee2b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x97ad911101d4285a13a3240ee35618edc511a435",
+    "website": "https://kishu.baby/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x97Ad911101d4285a13A3240Ee35618edC511A435/logo.png"
+  },
+  "name": "Kishu Baby",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KISHUBABY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

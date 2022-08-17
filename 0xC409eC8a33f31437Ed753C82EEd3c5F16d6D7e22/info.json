@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "In short, the distance between you and your favorite idol is only one NFT, on TOKAU!"
+  },
+  "id": "d6ed89a4-ff84-4bb6-adb9-0b8c37c2e138",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22",
+    "website": "https://tokau.io/",
+    "twitter": "https://twitter.com/TOKAU_JP",
+    "telegram": "https://t.me/tokau2021"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22/logo.png"
+  },
+  "name": "Tokyo AU Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOKAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

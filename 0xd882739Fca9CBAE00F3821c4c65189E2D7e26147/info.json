@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xd882739Fca9CBAE00F3821c4c65189E2D7e26147",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange."
+  },
+  "id": "66d58111-2803-4b7c-981b-9ce375da2324",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd882739Fca9CBAE00F3821c4c65189E2D7e26147",
+    "website": "https://4thtech.io/",
+    "twitter": "https://twitter.com/4thtechProject",
+    "coingecko": "https://coingecko.com/en/coins/the-4th-pillar",
+    "medium": "https://medium.com/the4thpillar",
+    "telegram": "https://t.me/the4thpillarofficial",
+    "youtube": "https://youtube.com/c/4thpillartechnologies",
+    "whitepaper": "https://github.com/4thtech/static-assets/raw/main/pdf/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/4thpillar-technologies/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd882739Fca9CBAE00F3821c4c65189E2D7e26147/logo.png"
+  },
+  "name": "The 4th Pillar Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

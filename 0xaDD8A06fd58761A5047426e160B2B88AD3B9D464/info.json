@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CheeseSwap is A Decentralized Finance & Entertainment Project."
+  },
+  "id": "44d7fe66-11d0-4255-a29e-50f83e97f155",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
+    "website": "https://cheeseswap.app/",
+    "github": "https://github.com/cheeseswapbsc/",
+    "twitter": "https://twitter.com/cheeseswapbsc",
+    "telegram": "https://t.me/cheeseswapbsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaDD8A06fd58761A5047426e160B2B88AD3B9D464/logo.png"
+  },
+  "name": "CheeseSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIZZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

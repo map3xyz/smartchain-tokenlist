@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x473Eb9Bd02Ad444D7E686FAB384afC476cC337B8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "It is a community driven project built on Binance Smart Chain."
+  },
+  "id": "2b77380f-789a-4d7e-bb91-e5f39859441b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x473eb9bd02ad444d7e686fab384afc476cc337b8",
+    "website": "https://littlefishmoon.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x473Eb9Bd02Ad444D7E686FAB384afC476cC337B8/logo.png"
+  },
+  "name": "LITTLE FISH MOON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xcD657182A749554fc8487757612F02226355269d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MUSK is a token in Binance Smart Chain"
+  },
+  "id": "51681c55-7a46-44d1-a878-73c298ec60fc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcD657182A749554fc8487757612F02226355269d",
+    "website": "https://muskswap.io",
+    "github": "https://github.com/MuskSwap",
+    "twitter": "https://twitter.com/MUSKSWAPCHANNEL",
+    "medium": "https://medium.com/@muskswap-official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/muskswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcD657182A749554fc8487757612F02226355269d/logo.png"
+  },
+  "name": "MUSK Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MUSK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

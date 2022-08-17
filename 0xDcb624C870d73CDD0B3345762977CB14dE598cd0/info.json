@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "YFIH2 is the first token of H2.Finance which mission is to help energy companies by lending money for their green energy investments."
+  },
+  "id": "d3354ea1-84d6-4710-a35a-c78d43264d7f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+    "website": "https://h2finance.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDcb624C870d73CDD0B3345762977CB14dE598cd0/logo.png"
+  },
+  "name": "YFIH2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YFIH2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

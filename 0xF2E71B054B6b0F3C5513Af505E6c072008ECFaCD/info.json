@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF2E71B054B6b0F3C5513Af505E6c072008ECFaCD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Brixel War - A Play-to-Earn game based on Smart Chain."
+  },
+  "id": "cf62c905-6a64-4ec5-8a09-5178d9548aea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf2e71b054b6b0f3c5513af505e6c072008ecfacd",
+    "website": "https://brixelwar.com/",
+    "twitter": "https://twitter.com/BrixelWar",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/brixel-war/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF2E71B054B6b0F3C5513Af505E6c072008ECFaCD/logo.png"
+  },
+  "name": "Brixel War",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BXS",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

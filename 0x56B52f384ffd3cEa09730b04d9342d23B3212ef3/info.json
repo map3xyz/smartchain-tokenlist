@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x56B52f384ffd3cEa09730b04d9342d23B3212ef3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VICE is an AMM and yield farming platform on Binance Smart Chain(BSC)."
+  },
+  "id": "bde99926-deb4-4380-bb98-07944081c556",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x56B52f384ffd3cEa09730b04d9342d23B3212ef3",
+    "website": "https://Vice.Uno"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x56B52f384ffd3cEa09730b04d9342d23B3212ef3/logo.png"
+  },
+  "name": "Vice Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFeCD05B947471b5E51645E2d8326445cC266477a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFEWIN is a utility token created for the SafeWin app."
+  },
+  "id": "5c88be07-f850-4c11-adeb-efa5c2942aee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFeCD05B947471b5E51645E2d8326445cC266477a",
+    "website": "https://safewin.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFeCD05B947471b5E51645E2d8326445cC266477a/logo.png"
+  },
+  "name": "SafeWin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEWIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

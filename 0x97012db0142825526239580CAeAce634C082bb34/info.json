@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x97012db0142825526239580CAeAce634C082bb34",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Petmoon is Play-to-Earn NFT game on the BSC network which integrates (BEP721) tokens into the dAPP. "
+  },
+  "id": "fdf76e64-19dd-440c-ae8b-5c6db7444b9c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x97012db0142825526239580caeace634c082bb34",
+    "website": "https://petmoon.net/",
+    "twitter": "https://twitter.com/petmoonnft",
+    "telegram": "https://t.me/petmoon",
+    "telegramNews": "https://t.me/petmoonannouncements",
+    "youtube": "https://youtube.com/petmoon",
+    "github": "https://github.com/petmoon/petmoon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x97012db0142825526239580CAeAce634C082bb34/logo.png"
+  },
+  "name": "Petmoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PTM",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

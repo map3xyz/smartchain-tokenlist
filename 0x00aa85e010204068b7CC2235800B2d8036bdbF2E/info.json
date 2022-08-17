@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+  "color": null,
+  "decimals": 10,
+  "description": {
+    "en": "SCAM is the native token for the project Simple."
+  },
+  "id": "d1f3dedb-9c37-48d1-ab04-352763469fd5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+    "website": "https://scamily.io/token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x00aa85e010204068b7CC2235800B2d8036bdbF2E/logo.png"
+  },
+  "name": "Simple Cool Autommatic Money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SCAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

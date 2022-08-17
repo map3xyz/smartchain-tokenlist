@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x1a8B6E637aAB57c8544DC90BD813c62fAA68AA1C",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "World's First Health Metaverse & NFT Store"
+  },
+  "id": "6ea747e5-6b1b-4716-948f-8c57551429f0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1a8B6E637aAB57c8544DC90BD813c62fAA68AA1C",
+    "website": "https://healthland.io/",
+    "twitter": "https://twitter.com/healthland_io",
+    "telegram": "https://t.me/healthland_io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1a8B6E637aAB57c8544DC90BD813c62fAA68AA1C/logo.png"
+  },
+  "name": "Healthify",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HTF",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

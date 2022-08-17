@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x82D6E409438E9c2eAEd8ceec4Bd95918cbd17c87",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Fomo Baby is a deflationary rebasing token on BSC with an automated liquidity feature, Staking options, NFT’s & Lottery Draws."
+  },
+  "id": "84f68ffe-1cc3-429b-94b4-a645de73dba5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x82d6e409438e9c2eaed8ceec4bd95918cbd17c87",
+    "website": "https://fomobaby.app",
+    "telegram": "https://t.me/fomobabytelegram",
+    "twitter": "https://twitter.com/fomobabybsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fomobaby/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x82D6E409438E9c2eAEd8ceec4Bd95918cbd17c87/logo.png"
+  },
+  "name": "FOMO BABY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOMOBABY",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Eleven Finance is a platform empowering high APY vaults in the Binance Smart Chain ecosystem."
+  },
+  "id": "e253f4bd-3224-4838-9940-63c0a7781b27",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+    "website": "https://eleven.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png"
+  },
+  "name": "Eleven Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

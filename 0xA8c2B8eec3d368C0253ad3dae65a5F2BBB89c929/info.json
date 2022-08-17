@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains."
+  },
+  "id": "f2b0b93e-d10c-48c6-b5fb-0996bd7abc1f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+    "research": "https://research.binance.com/en/projects/certik",
+    "website": "https://certik.foundation"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929/logo.png"
+  },
+  "name": "CertiK Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

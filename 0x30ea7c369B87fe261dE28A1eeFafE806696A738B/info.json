@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x30ea7c369B87fe261dE28A1eeFafE806696A738B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DOXXED is a Binance Smart Chain Startup with a unique ecosystem of multiple utilities & use case, reflection to holders, revenue share and buybacks."
+  },
+  "id": "8d7ec051-7992-4680-8cc2-952a6606f7f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x30ea7c369B87fe261dE28A1eeFafE806696A738B",
+    "website": "https://www.doxxed.org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/doxxed/",
+    "coingecko": "https://coingecko.com/en/coins/doxxed"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x30ea7c369B87fe261dE28A1eeFafE806696A738B/logo.png"
+  },
+  "name": "DOXXED",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

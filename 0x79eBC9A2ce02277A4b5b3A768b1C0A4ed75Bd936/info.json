@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CATGIRL¢ is a NFT focused, community driven crypto currency, with real world use."
+  },
+  "id": "3d0a61e4-7e9d-498d-9da6-554c12a25d1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
+    "website": "https://www.catgirl.io",
+    "discord": "https://discord.com/invite/3V8gZFP5kb",
+    "twitter": "https://twitter.com/catgirlcoin",
+    "telegram": "https://t.me/catgirlcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936/logo.png"
+  },
+  "name": "Catgirl",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATGIRL",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

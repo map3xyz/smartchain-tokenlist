@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4Cae95d03C85Ae462dAeC44d5426f547A26FAf47",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AST is a deflationary incentive token that will be used in the ecosystem of products offered by AST."
+  },
+  "id": "e981917a-596a-47f0-ab97-aee2b5f6b8e5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4cae95d03c85ae462daec44d5426f547a26faf47",
+    "website": "http://apollospacetoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4Cae95d03C85Ae462dAeC44d5426f547A26FAf47/logo.png"
+  },
+  "name": "Apollo Space Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

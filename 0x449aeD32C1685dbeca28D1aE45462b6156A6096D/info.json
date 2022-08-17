@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x449aeD32C1685dbeca28D1aE45462b6156A6096D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "At BitLiveNow we work with our community of users to take the best of traditional banking and combine it with DeFi technology. Together, we’re on a mission to create a new banking model. One that is fairer for you and better for the world."
+  },
+  "id": "e718e954-2236-4543-86f9-3dbc1de02599",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x449aed32c1685dbeca28d1ae45462b6156a6096d",
+    "website": "https://bitlivenow.com/",
+    "twitter": "https://twitter.com/BitLive3",
+    "telegram": "https://t.me/BitliveTEAM"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x449aeD32C1685dbeca28D1aE45462b6156A6096D/logo.png"
+  },
+  "name": "BITLIVE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

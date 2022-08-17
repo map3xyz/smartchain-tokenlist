@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Daddy Doge is a deflationary token based on the world renowned Doge meme. Each transaction carries a 9% benefiting holders by reflecting tokens, adding to the liquidity pool and adding to the marketing budget to ensure long term success."
+  },
+  "id": "92d956b7-cc26-4367-8ff5-ce1722a97e52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
+    "website": "https://daddydoge.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92/logo.png"
+  },
+  "name": "Daddy Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DaddyDoge",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Logo update for this coin"
+  },
+  "id": "2348b46f-7761-4a5b-a955-106448c4d23c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
+    "website": "https://www.babyEverDoge.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521/logo.png"
+  },
+  "name": "Baby EverDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Baby EverDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

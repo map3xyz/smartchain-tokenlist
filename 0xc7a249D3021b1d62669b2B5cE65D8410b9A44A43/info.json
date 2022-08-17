@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc7a249D3021b1d62669b2B5cE65D8410b9A44A43",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "With our generous passive income opportunities, innovative product development, and amazing community, ChubbyShiba checks all the boxes."
+  },
+  "id": "ab33873f-7a34-429c-bdc2-06dd4cfefc5b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc7a249D3021b1d62669b2B5cE65D8410b9A44A43",
+    "website": "https://www.chubbyshiba.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc7a249D3021b1d62669b2B5cE65D8410b9A44A43/logo.png"
+  },
+  "name": "ChubbyShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

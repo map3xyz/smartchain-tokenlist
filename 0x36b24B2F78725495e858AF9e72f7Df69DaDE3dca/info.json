@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x36b24B2F78725495e858AF9e72f7Df69DaDE3dca",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SeaChain is a decentralised, community-driven ecosystem funding trash barriers in the most polluted rivers."
+  },
+  "id": "e9bf328b-65b8-4879-aae5-1728c238fca5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x36b24B2F78725495e858AF9e72f7Df69DaDE3dca",
+    "website": "https://www.seachaintoken.com/",
+    "twitter": "https://twitter.com/SeaChainToken",
+    "telegram": "https://t.me/SeaChainNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/seachain/",
+    "coingecko": "https://coingecko.com/en/coins/seachain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x36b24B2F78725495e858AF9e72f7Df69DaDE3dca/logo.png"
+  },
+  "name": "SeaChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SeaChain",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xc10358f062663448a3489fC258139944534592ac",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First Multichain NFT game"
+  },
+  "id": "565caa13-3119-4d87-bbdf-6f28ebf9374e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc10358f062663448a3489fC258139944534592ac",
+    "website": "https://bcmhunt.com",
+    "twitter": "https://twitter.com/bcmhunt",
+    "github": "https://github.com/Ambros-Technology/bcm_public_smartcontract",
+    "telegram": "https://t.me/BcmHuntGroup",
+    "discord": "https://discord.com/invite/Ee9aJ287J2",
+    "youtube": "https://youtube.com/channel/UCzKIjqylMMBngslHazydgKQ",
+    "medium": "https://medium.com/bcmhunt",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/blockchain-monster-hunt/",
+    "coingecko": "https://coingecko.com/en/coins/blockchain-monster-hunt"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc10358f062663448a3489fC258139944534592ac/logo.png"
+  },
+  "name": "Blockchain Monster Hunt (BCMC)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BCMC",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

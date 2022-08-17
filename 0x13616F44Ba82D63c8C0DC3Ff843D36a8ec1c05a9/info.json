@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Travala.com claims to be the leading blockchain-based travel booking platform."
+  },
+  "id": "a52f0aaf-7ce1-4f8b-b54e-6d2c9a1969c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+    "research": "https://research.binance.com/en/projects/travala",
+    "website": "https://travala.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9/logo.png"
+  },
+  "name": "Travala.com",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

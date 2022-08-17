@@ -1,0 +1,29 @@
+{
+  "active": false,
+  "address": "0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "World of Tiny Titans. Tiny Titans — collectable & tradeable NFTs on BSC which you can train, level and win prices."
+  },
+  "id": "ede7b7e2-9516-48dc-adb5-4eebae7e7ce4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37",
+    "website": "https://tinytitans.fi",
+    "twitter": "https://twitter.com/RealTinyTitans",
+    "medium": "https://tinytitans.medium.com/",
+    "telegram": "https://t.me/tinytitans",
+    "github": "https://bscscan.com/address/0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37/logo.png"
+  },
+  "name": "Tiny Titans",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TITS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

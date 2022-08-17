@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4f0E7A273c7FF13062Fa581bEe4Ffabdae94328f",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wild Ride is a Binance Smart Chain community-driven meme token with a utility purpose."
+  },
+  "id": "66f6b1d6-469d-4e48-9e8d-b0f85a4bc04d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4f0E7A273c7FF13062Fa581bEe4Ffabdae94328f",
+    "website": "https://www.wildride.club/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4f0E7A273c7FF13062Fa581bEe4Ffabdae94328f/logo.png"
+  },
+  "name": "Wild Ride Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WILD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

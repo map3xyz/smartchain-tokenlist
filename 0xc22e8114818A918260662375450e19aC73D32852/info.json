@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc22e8114818A918260662375450e19aC73D32852",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KittyCake is an evolution of a yield-generating contract on the Binance Smart Chain (BSC): you get rewarded in CAKE instead of tokens."
+  },
+  "id": "d43d5b8e-f355-4a48-baef-d577f3a98959",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc22e8114818A918260662375450e19aC73D32852",
+    "website": "https://kittycake.app",
+    "telegram": "https://t.me/kittycakebsc",
+    "twitter": "https://twitter.com/kittycaketoken",
+    "whitepaper": "https://dessertswap.finance/audits/KittyCake%20BEP-20%20Audit%209445619.pdf",
+    "coingecko": "https://coingecko.com/en/coins/kittycake"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc22e8114818A918260662375450e19aC73D32852/logo.png"
+  },
+  "name": "KittyCake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

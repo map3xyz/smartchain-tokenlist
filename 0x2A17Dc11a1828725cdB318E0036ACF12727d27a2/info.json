@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2A17Dc11a1828725cdB318E0036ACF12727d27a2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Arena Token is a game token issued by ArenaSwap on Binance Smart Chain"
+  },
+  "id": "103c5b9a-a520-4578-b59c-1d62ceecb4e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2A17Dc11a1828725cdB318E0036ACF12727d27a2",
+    "website": "https://www.arenaswap.com/",
+    "telegram": "https://t.me/arenaswap",
+    "twitter": "https://twitter.com/ArenaSwap",
+    "reddit": "https://reddit.com/r/ArenaSwap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2A17Dc11a1828725cdB318E0036ACF12727d27a2/logo.png"
+  },
+  "name": "Arena Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARENA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

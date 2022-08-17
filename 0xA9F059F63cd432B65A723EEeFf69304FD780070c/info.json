@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xA9F059F63cd432B65A723EEeFf69304FD780070c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sanji Inu is a community meme token, ownership will be removed. The project will be developed in the direction of NFT and adventure game to give One Piece fans an experience of the journey across the ocean."
+  },
+  "id": "c071aa6f-c171-4ec5-b90e-11457347aa2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA9F059F63cd432B65A723EEeFf69304FD780070c",
+    "website": "https://sanjiinu.club/",
+    "twitter": "https://twitter.com/sanjiinu_tw/",
+    "telegram": "https://t.me/sanjiinucommunity",
+    "github": "https://github.com/Sanji-Inu",
+    "whitepaper": "https://sanjiinu.club/assets/Whitepaper-Sanji-inu.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sanji-inu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA9F059F63cd432B65A723EEeFf69304FD780070c/logo.png"
+  },
+  "name": "Sanji Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SANJI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

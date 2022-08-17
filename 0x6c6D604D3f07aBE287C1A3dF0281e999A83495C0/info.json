@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "50428629-d07b-4a8c-aedf-fe92bf362f78",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+    "website": "https://oasisprotocol.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0/logo.png"
+  },
+  "name": "ROSE (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROSE",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

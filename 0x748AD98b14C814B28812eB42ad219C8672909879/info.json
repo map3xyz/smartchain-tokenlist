@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9069c6e1-7a6f-4b70-99a7-4378822aa8bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x748AD98b14C814B28812eB42ad219C8672909879",
+    "website": "https://dice.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x748AD98b14C814B28812eB42ad219C8672909879/logo.png"
+  },
+  "name": "Dice",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

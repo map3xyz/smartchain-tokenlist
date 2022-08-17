@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The $tream token contributes to the streamers community, e-sports and game itens"
+  },
+  "id": "605bcbd3-0376-4f05-82b5-9440e0ef7ca4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+    "website": "https://www.worldstreamfinance.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1C2425F50a1e98D5631b223E56760d21BC840C53/logo.png"
+  },
+  "name": "World Stream",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$tream",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

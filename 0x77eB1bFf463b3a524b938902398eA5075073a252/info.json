@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x77eB1bFf463b3a524b938902398eA5075073a252",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Little Deer is a 100% SAFU, Community-driven token with an active team that aims to be the future of Altcoins! Together with our hopes for Charity, we aim to revolutionize the BSC network through unique tokenomics and have a vibrant and rich community."
+  },
+  "id": "753ee57b-3255-4488-8257-7482f2af37c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x77eB1bFf463b3a524b938902398eA5075073a252",
+    "website": "https://littledeerbsc.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x77eB1bFf463b3a524b938902398eA5075073a252/logo.png"
+  },
+  "name": "Little Deer Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LDEER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

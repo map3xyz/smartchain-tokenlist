@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8578Eb576e126f67913a8bC0622e0A22EBa0989A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HashPanda is a social meme token with a mission to make cryptocurrencies mainstream."
+  },
+  "id": "53aa2265-8c32-4de4-8be4-cb87db724437",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8578eb576e126f67913a8bc0622e0a22eba0989a",
+    "website": "https://hashpanda.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8578Eb576e126f67913a8bC0622e0A22EBa0989A/logo.png"
+  },
+  "name": "HashPanda",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PANDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

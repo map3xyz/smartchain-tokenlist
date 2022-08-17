@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x02dd18E4981DA3fC7363fE56f3B81D1860b44ea7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Secret is the native coin of the Secret Network, a decentralized network for private / secure computation. The wrapped BSC version of SCRT can be exchanged 1:1 on the Secret Network Bridge for Native SCRT, secretSCRT or WSCRT (ERC20)."
+  },
+  "id": "a3007baa-29be-4016-96e1-134c5911495b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02dd18E4981DA3fC7363fE56f3B81D1860b44ea7",
+    "website": "https://scrt.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02dd18E4981DA3fC7363fE56f3B81D1860b44ea7/logo.png"
+  },
+  "name": "SCRT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SCRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

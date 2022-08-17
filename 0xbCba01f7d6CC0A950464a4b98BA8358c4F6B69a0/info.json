@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xbCba01f7d6CC0A950464a4b98BA8358c4F6B69a0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BitcoMine Token rewards its holders 11% from each successful transaction in BTC on daily basis depending on the trading volume."
+  },
+  "id": "92768339-dd40-4151-8445-77394c29c9d5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0",
+    "website": "https://bitcominetoken.com/",
+    "twitter": "https://twitter.com/BitcoMineToken",
+    "telegram": "https://t.me/BitcoMineToken",
+    "reddit": "https://reddit.com/r/BitcoMine/",
+    "coingecko": "https://coingecko.com/en/coins/bitcomine",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bitcomine-token/",
+    "github": "https://github.com/BitcoMine/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbCba01f7d6CC0A950464a4b98BA8358c4F6B69a0/logo.png"
+  },
+  "name": "BitcoMine",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

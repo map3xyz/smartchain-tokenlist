@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Deflationary Defi token built on the BSC Chain that automates the earning process by creating an autonomous friction less yield farming and liquidity generation protocol by creating its own Wide Network for CYBERSWAP, CYBERSTAKING and CYBERGAME"
+  },
+  "id": "93b535fc-499e-4bf5-b2b5-2f687d07b98f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0",
+    "website": "https://www.cyber-doge.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xecc62bd353EDd64Ed31595DbC4C92801aF1e2af0/logo.png"
+  },
+  "name": "CyberDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CybrrrDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

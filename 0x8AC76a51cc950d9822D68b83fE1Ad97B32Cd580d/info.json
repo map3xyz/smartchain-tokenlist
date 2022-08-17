@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg USD Coin (USD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1."
+  },
+  "id": "1b52931b-63b2-4d0e-b891-4c3041108aab",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "research": "https://research.binance.com/en/projects/usd-coin",
+    "website": "https://www.centre.io",
+    "github": "https://github.com/centrehq",
+    "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingecko": "https://coingecko.com/en/coins/usd-coin/",
+    "medium": "https://medium.com/centre-blog"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+  },
+  "name": "Binance-Peg USD Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [
+    "binance-peg",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

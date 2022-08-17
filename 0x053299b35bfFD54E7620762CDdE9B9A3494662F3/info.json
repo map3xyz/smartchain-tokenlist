@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized Deflationary Token that Grows into Coco's Dog treats."
+  },
+  "id": "d43d7205-4059-4b63-a4bb-834b2a6481f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
+    "website": "https://cocotoken.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x053299b35bfFD54E7620762CDdE9B9A3494662F3/logo.png"
+  },
+  "name": "Coco Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$COCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

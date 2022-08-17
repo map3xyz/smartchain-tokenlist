@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "First Exchange-Traded Token Fund (ETTF) DEX, Farming, Lending, Staking, NFT, and ETTF."
+  },
+  "id": "69c28ac3-e862-4644-bce3-6bf850700e09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d",
+    "website": "https://www.climbtoken.finance/",
+    "twitter": "https://twitter.com/ClimbtToken",
+    "telegram": "https://t.me/climbtoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2A1d286ed5edAD78BeFD6E0d8BEb38791e8cD69d/logo.png"
+  },
+  "name": "Climb Token Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CLIMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

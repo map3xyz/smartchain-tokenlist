@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Peacockcoin is a deflationary yield token on Binance Smart Chain and ETHEREUM Network, with multi-dimensional NFTs."
+  },
+  "id": "f47515b7-e6df-4e4a-82ce-fdb25aa04c49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd",
+    "website": "https://www.peacockcoin.finance/",
+    "twitter": "https://twitter.com/peacockcoin",
+    "telegram": "https://t.me/peacockcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd/logo.png"
+  },
+  "name": "PEACOCKCOIN 2.0",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEKC",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

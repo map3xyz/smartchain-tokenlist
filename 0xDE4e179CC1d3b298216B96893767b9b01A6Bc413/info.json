@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDE4e179CC1d3b298216B96893767b9b01A6Bc413",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A decentralized exchange with 100% profit distribution, trading mining and and automated market maker combination."
+  },
+  "id": "f75d8f2c-2c04-4c2c-aafa-5b7fc3dce3d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xde4e179cc1d3b298216b96893767b9b01a6bc413",
+    "website": "https://swapking.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDE4e179CC1d3b298216B96893767b9b01A6Bc413/logo.png"
+  },
+  "name": "KingToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

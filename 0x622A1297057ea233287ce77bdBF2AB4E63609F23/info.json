@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SUPERDOGE is a deflationary meme coin that donates 2% of every transaction to multiple charities."
+  },
+  "id": "d971e762-48b5-4db0-8ca1-07b981df0786",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x622a1297057ea233287ce77bdbf2ab4e63609f23",
+    "research": "https://superdoge.io/",
+    "website": "https://superdoge.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x622A1297057ea233287ce77bdBF2AB4E63609F23/logo.png"
+  },
+  "name": "SUPERDOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$SUPDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

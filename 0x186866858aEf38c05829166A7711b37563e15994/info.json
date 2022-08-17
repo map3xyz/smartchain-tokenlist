@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x186866858aEf38c05829166A7711b37563e15994",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Hodl Finance merges centralized and decentralized finance to create a sustainable ecosystem for constant innovation. By combining the best aspects of community governance and a transparent foundation, the growth of the community and ecosystem is ensured."
+  },
+  "id": "92240904-d026-481b-8c7c-c6930a250621",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x186866858aEf38c05829166A7711b37563e15994",
+    "website": "https://hodl.finance",
+    "telegram": "https://t.me/HodlFinanceAnn",
+    "twitter": "https://twitter.com/HFToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hodl-finance/",
+    "medium": "https://medium.com/@hodl.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x186866858aEf38c05829166A7711b37563e15994/logo.png"
+  },
+  "name": "Hodl Finance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

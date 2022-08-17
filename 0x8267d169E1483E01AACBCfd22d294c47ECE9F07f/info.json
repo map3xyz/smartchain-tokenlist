@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8267d169E1483E01AACBCfd22d294c47ECE9F07f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The DragonMoon Protocol is a community driven, fair launched deflationary reflection token. Three common functions are Hold, Earn and Burn."
+  },
+  "id": "d09eeebb-b3d0-4438-a7d0-32e8316f0104",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8267d169E1483E01AACBCfd22d294c47ECE9F07f",
+    "website": "https://www.dmoon.xyz/",
+    "facebook": "https://facebook.com/dmoonxyz",
+    "twitter": "https://twitter.com/dmoon_xyz",
+    "telegramNews": "https://t.me/dragonmoon01",
+    "telegram": "https://t.me/dmoon_cn",
+    "coinmarketcap": "https://coinmarketcap.com/zh/currencies/dragonmoon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8267d169E1483E01AACBCfd22d294c47ECE9F07f/logo.png"
+  },
+  "name": "DragonMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

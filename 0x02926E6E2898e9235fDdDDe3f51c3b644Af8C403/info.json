@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x02926E6E2898e9235fDdDDe3f51c3b644Af8C403",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "nB2U Coin is the oficial token of Bitcointoyou company, the largest cryptocurrency exchange in Brazil with 400 thousand customers. B2U Coin was launched in 2020 on ETH network and 2021 in BSC. You can use B2U Coin to pay fees on Bitcointoyou exchange, to buy products on stores using B2U Pay (https://b2upay.com) and recharge your credit card using B2U Bank (https://b2ubank.com)."
+  },
+  "id": "9d9f045b-fd42-4060-8137-76bbb70f2193",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02926E6E2898e9235fDdDDe3f51c3b644Af8C403",
+    "website": "https://b2ucoin.com",
+    "twitter": "https://twitter.com/CoinB2u",
+    "github": "https://github.com/Bitcointoyou/B2UCOIN_TOKEN",
+    "telegram": "https://t.me/coinb2u",
+    "telegramNews": "https://t.me/b2u_exchange",
+    "blog": "https://www.bitcointoyou.com/blog/",
+    "whitepaper": "https://b2ucoin.com/b2u-coin-white-paper.pdf",
+    "facebook": "https://facebook.com/b2ucoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/b2u-coin/",
+    "coingecko": "https://coingecko.com/en/coins/b2u-coin",
+    "docs": "https://tokenguard.io/ratings/b2u",
+    "sourceCode": "https://github.com/Bitcointoyou/B2UCOIN_TOKEN"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02926E6E2898e9235fDdDDe3f51c3b644Af8C403/logo.png"
+  },
+  "name": "B2U Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "B2U",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

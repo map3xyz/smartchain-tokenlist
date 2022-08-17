@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x42BE29132756ddd6e8B3B94584cA0bAb20545EEc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bali Token is a utility token for tourism business in Bali, Indonesia"
+  },
+  "id": "4bea512d-9d93-42cb-80e8-a059dbd6827f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42BE29132756ddd6e8B3B94584cA0bAb20545EEc",
+    "website": "https://www.balitoken.io",
+    "twitter": "https://twitter.com/BaliToken",
+    "github": "https://github.com/GarudaTech/balitoken",
+    "telegram": "https://t.me/balitokenpublicgroup",
+    "discord": "https://discord.com/channels/846968126972493835/846968126972493838",
+    "whitepaper": "https://balitoken.io/assets/doc/whitePaper-bali-token.pdf",
+    "medium": "https://medium.com/@balitoken",
+    "youtube": "https://youtube.com/channel/UCDpnz9MmlpjChJ7gRvwEUgQ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bali-token/",
+    "coingecko": "https://coingecko.com/coins/bali-token",
+    "facebook": "https://facebook.com/bali.token/",
+    "sourceCode": "https://github.com/GarudaTech/balitoken",
+    "reddit": "https://reddit.com/user/BaliToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x42BE29132756ddd6e8B3B94584cA0bAb20545EEc/logo.png"
+  },
+  "name": "Bali Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

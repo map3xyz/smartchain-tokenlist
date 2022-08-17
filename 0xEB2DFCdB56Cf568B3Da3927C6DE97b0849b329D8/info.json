@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFT Classic employs functions : Automatic Farm. In each trade , the contract takes tokens from sellers and buyers by 10%."
+  },
+  "id": "e57db95d-6e72-4242-948a-f50cc3c89c33",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeb2dfcdb56cf568b3da3927c6de97b0849b329d8",
+    "website": "https://nftclassic.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8/logo.png"
+  },
+  "name": "NFT Classic",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTClassic",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

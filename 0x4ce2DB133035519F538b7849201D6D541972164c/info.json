@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4ce2DB133035519F538b7849201D6D541972164c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MagicBox is committed to the ecological exploration of the metaverse and building an independent frictionless production liquidity survival agreement."
+  },
+  "id": "5e37cb6d-388b-479b-9bdc-a41d938ec527",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4ce2DB133035519F538b7849201D6D541972164c",
+    "website": "https://magicbox.game",
+    "github": "https://github.com/MagicBox-Lab",
+    "twitter": "https://twitter.com/MagicBoxGame",
+    "telegram": "https://t.me/MagicBox_Game",
+    "coingecko": "https://coingecko.com/en/coins/magicbox",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/magicbox"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4ce2DB133035519F538b7849201D6D541972164c/logo.png"
+  },
+  "name": "Magicbox Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

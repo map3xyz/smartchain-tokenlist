@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SBD is a community based token that aims to be a plaftorm that gives smaller holders a chance by taking away some of the leverage whales can have."
+  },
+  "id": "ef3f193b-c9e5-4284-80d3-0b0530b9b064",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9",
+    "website": "https://scooby.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf0AB4b8Daa51F6Abf6b4C9FEf0ccA5d127029AA9/logo.png"
+  },
+  "name": "Scooby",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SBD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

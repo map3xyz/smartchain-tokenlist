@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4DB2495AfAd4c0E481fFc40FDaF66E13A786b619",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "next Gen Cryptocurrency Exchanges"
+  },
+  "id": "2565da0d-dc4a-4f7a-82af-42086ae94590",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4DB2495AfAd4c0E481fFc40FDaF66E13A786b619",
+    "website": "https://arixcoin.io/",
+    "telegram": "https://t.me/arixdex_official",
+    "twitter": "https://twitter.com/arixdexofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4DB2495AfAd4c0E481fFc40FDaF66E13A786b619/logo.png"
+  },
+  "name": "ARIX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

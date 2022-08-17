@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x547CBE0f0c25085e7015Aa6939b28402EB0CcDAC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Elastic BNB (XBN) is a new Defi protocol that enables Adaptive Supply Model. 1 XBN will anchor to 0.001 BNB with 100 days lag factor."
+  },
+  "id": "8df9e066-1a22-4fdc-8ad3-30628e2a7e15",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac",
+    "website": "https://xbn.finance",
+    "github": "https://github.com/ElasticBTC-XBT",
+    "twitter": "https://twitter.com/elasticbitcoin",
+    "telegram": "https://t.me/elasticbitcoin",
+    "medium": "https://medium.com/elastic-bitcoin-xbt"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x547CBE0f0c25085e7015Aa6939b28402EB0CcDAC/logo.png"
+  },
+  "name": "Elastic BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XBN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

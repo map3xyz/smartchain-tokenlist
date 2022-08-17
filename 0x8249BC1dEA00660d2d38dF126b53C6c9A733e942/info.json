@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8249BC1dEA00660d2d38dF126b53C6c9A733e942",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bami is a financial city in which the currency used is BAMI (Bami Token). In Bami city, the citizens (users) use BAMI for trades, exchanges, investments, including: Bami Dashboard, Bami Exchange, Bami Lend, Bami Portfolio, Bami Pay, NFT."
+  },
+  "id": "9eaf59e3-4ef3-4ca2-bf1e-5dbf50572be9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8249BC1dEA00660d2d38dF126b53C6c9A733e942",
+    "website": "https://bami.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8249BC1dEA00660d2d38dF126b53C6c9A733e942/logo.png"
+  },
+  "name": "Bami defi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

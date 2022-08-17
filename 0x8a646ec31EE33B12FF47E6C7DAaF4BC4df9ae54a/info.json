@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8a646ec31EE33B12FF47E6C7DAaF4BC4df9ae54a",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "$Fairlife is a Binance Smartchain (BSC) token that will use its transaction fees to donate to people in need."
+  },
+  "id": "fd8fe2c2-0bdf-460b-8155-e84df6be6fe9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8a646ec31EE33B12FF47E6C7DAaF4BC4df9ae54a",
+    "website": "https://fairlife.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8a646ec31EE33B12FF47E6C7DAaF4BC4df9ae54a/logo.png"
+  },
+  "name": "FairLife",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FAIRLIFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

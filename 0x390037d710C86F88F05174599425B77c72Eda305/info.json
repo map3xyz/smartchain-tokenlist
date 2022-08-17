@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x390037d710C86F88F05174599425B77c72Eda305",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MoonTrust is a DeFi token built on BSC (binance). It is a community driven coin, with multiple features aimed for steady growth and to decrease the impact of major sell offs."
+  },
+  "id": "4644f812-ec3f-4f15-8fec-9f2546700b81",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x390037d710c86f88f05174599425b77c72eda305",
+    "website": "https://moontrust.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x390037d710C86F88F05174599425B77c72Eda305/logo.png"
+  },
+  "name": "MoonTrust",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNTT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

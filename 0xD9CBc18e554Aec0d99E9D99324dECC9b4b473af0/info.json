@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xD9CBc18e554Aec0d99E9D99324dECC9b4b473af0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "INPA Coin (International Non-Fungible permanent asset) is an Autonomous yield and Liquidity generation protocol"
+  },
+  "id": "7fa3a01d-df3c-483f-94d9-9e93fe91e438",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD9CBc18e554Aec0d99E9D99324dECC9b4b473af0",
+    "website": "https://inpacoin.com/",
+    "twitter": "https://twitter.com/inpacoin2021",
+    "telegram": "https://t.me/inpacoinofficial",
+    "facebook": "https://facebook.com/inpacoinofficial",
+    "github": "https://github.com/INPACOINOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD9CBc18e554Aec0d99E9D99324dECC9b4b473af0/logo.png"
+  },
+  "name": "INPA Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

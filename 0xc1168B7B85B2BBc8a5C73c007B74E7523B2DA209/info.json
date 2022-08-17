@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BABYBNB is an ecosystem supported by holders who, while they hold partake in the benefits and profits from several use cases, mentioned below. BABYBNB aims to revolutionize mass adoption in the space providing secure and smart projects for the masses that have partnered with the BABYBNB platform"
+  },
+  "id": "998de959-128a-4897-8c33-e8c54a7888a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+    "website": "https://babybnb.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209/logo.png"
+  },
+  "name": "Babybnb",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

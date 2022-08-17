@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc3D912863152E1Afc935AD0D42d469e7C6B05B77",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LUCKY is a token for play a game in Lucky Lion Platform."
+  },
+  "id": "31eef520-e9db-4382-a67e-ecf606d2fb80",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc3D912863152E1Afc935AD0D42d469e7C6B05B77",
+    "website": "https://www.luckylion.io",
+    "github": "https://github.com/LuckyLionIO",
+    "twitter": "https://twitter.com/LuckyLionGameFi",
+    "reddit": "https://reddit.com/user/luckylionofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc3D912863152E1Afc935AD0D42d469e7C6B05B77/logo.png"
+  },
+  "name": "Lucky",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LUCKY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

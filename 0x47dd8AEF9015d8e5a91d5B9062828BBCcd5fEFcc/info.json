@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TANTAN is Memes Token"
+  },
+  "id": "be6af41b-46ae-4771-9bbf-67e5ceb7056f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+    "website": "https://tantantoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc/logo.png"
+  },
+  "name": "TANTAN Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TANTAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

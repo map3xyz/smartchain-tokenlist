@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc080ADF0a40A38Ffe05834174b8883e60eaff3F3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AlfaPocket is a cryptocurrency wallet and automatic portfolio builder with an integrated AI Assistant"
+  },
+  "id": "f8c3e3f5-d1d7-4c81-bde3-d923d1be0652",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc080adf0a40a38ffe05834174b8883e60eaff3f3",
+    "website": "https://alfapocket.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc080ADF0a40A38Ffe05834174b8883e60eaff3F3/logo.png"
+  },
+  "name": "AlfaPocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALFA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

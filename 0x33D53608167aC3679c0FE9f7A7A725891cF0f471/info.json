@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x33D53608167aC3679c0FE9f7A7A725891cF0f471",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "We created a utility token called Onegetcoin OGC. We combine two utility concepts, use them for payments and use them for staking / farming at DEFI, so that OGC will create a wallet system with decentralized passive income."
+  },
+  "id": "705198c7-f904-4827-8cb4-68a70c4d1f6d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x33D53608167aC3679c0FE9f7A7A725891cF0f471",
+    "website": "https://onegetcoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x33D53608167aC3679c0FE9f7A7A725891cF0f471/logo.png"
+  },
+  "name": "Onegetcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The dominant elastic supply token on Binance Smart Chain."
+  },
+  "id": "3bc6636a-6d16-47aa-9f31-9dafb07a11a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x233d91a0713155003fc4dce0afa871b508b3b715",
+    "website": "https://ditto.money",
+    "github": "https://github.com/ditto-money/",
+    "twitter": "https://twitter.com/dittomoney_"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x233d91A0713155003fc4DcE0AFa871b508B3B715/logo.png"
+  },
+  "name": "Ditto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DITTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

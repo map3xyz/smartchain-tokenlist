@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x50332bdca94673F33401776365b66CC4e81aC81d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CCAR is the main token of CryptoCars Project"
+  },
+  "id": "273b4fa6-a41f-4f70-b2cf-1985ea5bbc0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x50332bdca94673F33401776365b66CC4e81aC81d",
+    "website": "https://cryptocars.me",
+    "telegram": "https://t.me/cryptocarschannel",
+    "twitter": "https://twitter.com/cryptocarsgame",
+    "coingecko": "https://coingecko.com/en/coins/cryptocars",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptocars/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x50332bdca94673F33401776365b66CC4e81aC81d/logo.png"
+  },
+  "name": "CryptoCars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CCAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

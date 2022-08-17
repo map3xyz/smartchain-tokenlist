@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token to increase adoption of cryptocurrency."
+  },
+  "id": "4a303788-cef7-43c6-8c66-7d9a59c832da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "research": "https://research.binance.com/en/projects/trustwallet",
+    "website": "https://trustwallet.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png"
+  },
+  "name": "Trust Wallet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TWT",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

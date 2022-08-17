@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xA1928c0D8F83C0bFB7ebE51B412b1FD29A277893",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SAT is the native token of SatisFinance, 4th generation yield farming project on BSC."
+  },
+  "id": "3e230bb7-b770-40d9-9f9b-87bec770e9d1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA1928c0D8F83C0bFB7ebE51B412b1FD29A277893",
+    "research": "https://docs.satis.finance/tokenomics/main-token-sat",
+    "website": "https://satis.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA1928c0D8F83C0bFB7ebE51B412b1FD29A277893/logo.png"
+  },
+  "name": "SatisFi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

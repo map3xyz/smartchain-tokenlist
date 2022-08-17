@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x51F35073FF7cF54c9e86b7042E59A8cC9709FC46",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ETNA Network (ETNA) is a hybrid DeFI-type project that is set to bridge the gap between decentralized applications and the masses that are being left out due to the complexities in DeFi."
+  },
+  "id": "b1ead9ed-ea32-42a6-bb11-40ab3756a30d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x51f35073ff7cf54c9e86b7042e59a8cc9709fc46",
+    "website": "https://etna.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x51F35073FF7cF54c9e86b7042E59A8cC9709FC46/logo.png"
+  },
+  "name": "ETNA Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

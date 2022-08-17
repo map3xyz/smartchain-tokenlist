@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdeb1EAF085979A73aB0E85901D786cBa991c2617",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LFD is a community experiment conducted by a charity organization."
+  },
+  "id": "3f83a448-c1ef-4324-8f8b-810bcff7e7eb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdeb1EAF085979A73aB0E85901D786cBa991c2617",
+    "website": "https://lfd.su/",
+    "twitter": "https://twitter.com/LuckyFortuneDog",
+    "github": "https://github.com/LuckyFortuneDog",
+    "telegram": "https://t.me/LFDToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdeb1EAF085979A73aB0E85901D786cBa991c2617/logo.png"
+  },
+  "name": "LuckyFortuneDog",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LFD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

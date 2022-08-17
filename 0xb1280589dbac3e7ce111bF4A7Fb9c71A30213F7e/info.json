@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ultimate Hub and Defi App For Decentralized exchanges like Uniswap, Pancakeswap, Sushiswap, etc."
+  },
+  "id": "43df6620-f2c5-4178-b007-68ae08393ce6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+    "website": "https://dextools.io/app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e/logo.png"
+  },
+  "name": "DEXTools",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

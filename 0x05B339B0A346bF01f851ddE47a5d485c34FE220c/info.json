@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Astronaut is a protocol built for decentralizing the way which new projects and ideas coming to the BNB ecosystem raise capital."
+  },
+  "id": "d656733a-215c-4306-86fa-a54e2dbf6eb5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05b339b0a346bf01f851dde47a5d485c34fe220c",
+    "website": "https://astronaut.to/",
+    "github": "https://github.com/astronauttoken",
+    "whitepaper": "https://astronaut.to/assets/pdf/Whitepaper%20Astronaut.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x05B339B0A346bF01f851ddE47a5d485c34FE220c/logo.png"
+  },
+  "name": "Astronaut",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NAUT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

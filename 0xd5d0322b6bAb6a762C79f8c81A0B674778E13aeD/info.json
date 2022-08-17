@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Firo, a decentralized and open source currency that provides financial privacy enabled by the Lelantus protocol. Proven cryptography and auditability."
+  },
+  "id": "b9c5b391-c3bc-4e50-975b-7c61107147a4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD",
+    "website": "https://firo.org/",
+    "twitter": "https://twitter.com/firoorg",
+    "github": "https://github.com/firoorg/firo",
+    "reddit": "https://reddit.com/r/FiroProject/",
+    "telegram": "https://t.me/firoorg",
+    "blog": "https://firo.org/blog/",
+    "facebook": "https://facebook.com/firoorg/",
+    "coingecko": "https://coingecko.com/en/coins/binance-peg-firo/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd5d0322b6bAb6a762C79f8c81A0B674778E13aeD/logo.png"
+  },
+  "name": "Binance-Peg Firo Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FIRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

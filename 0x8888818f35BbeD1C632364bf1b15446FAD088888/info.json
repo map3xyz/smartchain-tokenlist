@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8888818f35BbeD1C632364bf1b15446FAD088888",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The PocMon Gaming NFT Ecosystem is designed to meet all kinds of decentralised gaming requests: from NFTs discovery, minting and trading to game currencies exchange, lootboxes and blockchain games store."
+  },
+  "id": "b5c02609-83ff-4c8e-9da3-099fdc8ad3ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8888818f35BbeD1C632364bf1b15446FAD088888",
+    "website": "https://pocmons.com/",
+    "github": "https://github.com/Pocmoncom",
+    "telegram": "https://t.me/pocmoncom",
+    "twitter": "https://twitter.com/pocmoncom",
+    "whitepaper": "https://pocmoncom.gitbook.io/pocmon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8888818f35BbeD1C632364bf1b15446FAD088888/logo.png"
+  },
+  "name": "PocMon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

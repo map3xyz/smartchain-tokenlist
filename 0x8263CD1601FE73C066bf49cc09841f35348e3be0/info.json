@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Altura is the next generation gaming NFT platform."
+  },
+  "id": "589cc6df-9e3b-4754-8e3c-519c8a9d8025",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+    "website": "https://www.alturanft.com/",
+    "github": "https://github.com/Plutus-Gaming-NFTs-Reimagined",
+    "twitter": "https://twitter.com/altura_nft",
+    "reddit": "https://reddit.com/r/AlturaNFT/",
+    "telegram": "https://t.me/alturanft"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8263CD1601FE73C066bf49cc09841f35348e3be0/logo.png"
+  },
+  "name": "Altura",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xef5CeB00AE3eb617773016B4ca886b61FA4e027E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Burning Token New Innovation Binance Smart Chain."
+  },
+  "id": "3001ed30-e24d-40b4-ac64-78a385e64b77",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xef5CeB00AE3eb617773016B4ca886b61FA4e027E",
+    "website": "https://burningtoken.cash/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xef5CeB00AE3eb617773016B4ca886b61FA4e027E/logo.png"
+  },
+  "name": "Burning Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

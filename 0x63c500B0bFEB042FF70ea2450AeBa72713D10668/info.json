@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x63c500B0bFEB042FF70ea2450AeBa72713D10668",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Moon Stake token of staking Protocol(Multi-chain staking Marketplace)"
+  },
+  "id": "d4248bdd-1917-4812-afee-0da85f0e9e43",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x63c500B0bFEB042FF70ea2450AeBa72713D10668",
+    "website": "https://moonstake.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x63c500B0bFEB042FF70ea2450AeBa72713D10668/logo.png"
+  },
+  "name": "Moon Stake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSEF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

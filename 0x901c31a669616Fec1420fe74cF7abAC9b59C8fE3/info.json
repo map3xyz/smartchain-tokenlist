@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x901c31a669616Fec1420fe74cF7abAC9b59C8fE3",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Infinity Gold is a A gift token for members of the PPDAI International Digital Asset Entrepreneurs Association as a sign of loyalty aimed at the welfare of all its members."
+  },
+  "id": "fe5b5501-5770-45bb-91c0-5e66130d2f6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x901c31a669616Fec1420fe74cF7abAC9b59C8fE3",
+    "website": "https://infinitygold.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x901c31a669616Fec1420fe74cF7abAC9b59C8fE3/logo.png"
+  },
+  "name": "Infinity Gold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INFG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

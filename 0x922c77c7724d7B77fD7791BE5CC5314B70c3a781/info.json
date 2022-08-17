@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x922c77c7724d7B77fD7791BE5CC5314B70c3a781",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Super Shiba is the NEXT BIG meme project, it combines the staying power of memes with the revolutionary nature of NFTs to completely change the way we view memes and their ownership."
+  },
+  "id": "03bf3eb8-d3b3-4f48-8f67-44c66878da8e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x922c77c7724d7b77fd7791be5cc5314b70c3a781",
+    "website": "https://supershiba.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x922c77c7724d7B77fD7791BE5CC5314B70c3a781/logo.png"
+  },
+  "name": "Super Shiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0487b824c8261462F88940f97053E65bDb498446",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Jetswap is a decentralized Automated Market Maker (AMM) on Binance Smart Chain with low fees and instant trade execution. Trade from the comfort of your own wallet! "
+  },
+  "id": "0ed4cdba-2af4-4d00-ae37-7eabd0cb2784",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0487b824c8261462F88940f97053E65bDb498446",
+    "website": "https://jetswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0487b824c8261462F88940f97053E65bDb498446/logo.png"
+  },
+  "name": "Wings",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WINGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

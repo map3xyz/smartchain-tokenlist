@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xcD7C5025753a49f1881B31C48caA7C517Bb46308",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Raven Protocol is building a network of compute nodes for the purposes of AI training where speed is the key."
+  },
+  "id": "524c4702-3ec1-48e3-972e-12b29dcbc3fb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcD7C5025753a49f1881B31C48caA7C517Bb46308",
+    "research": "https://github.com/ravenprotocol",
+    "website": "https://ravenprotocol.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcD7C5025753a49f1881B31C48caA7C517Bb46308/logo.png"
+  },
+  "name": "Raven Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RAVEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

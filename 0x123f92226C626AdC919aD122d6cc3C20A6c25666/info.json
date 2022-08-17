@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x123f92226C626AdC919aD122d6cc3C20A6c25666",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "THE ONLY COIN THAT REWARDS HOLDERS AND PLACES TRASH BARRIERS IN THE MOST POLLUTING RIVERS OF THE WORLD"
+  },
+  "id": "b611fba2-c75e-4304-9780-44044d191f35",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x123f92226c626adc919ad122d6cc3c20a6c25666",
+    "website": "https://pangeamovement.com/pages/pangea-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x123f92226C626AdC919aD122d6cc3C20A6c25666/logo.png"
+  },
+  "name": "PANGEA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

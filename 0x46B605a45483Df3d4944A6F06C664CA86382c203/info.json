@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x46B605a45483Df3d4944A6F06C664CA86382c203",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Fugu Finance is a decentralized ecosystem to efficient farming and staking"
+  },
+  "id": "d981ba95-0988-48fb-886e-1729b40bbe2c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x46b605a45483df3d4944a6f06c664ca86382c203",
+    "website": "https://www.fugufinance.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x46B605a45483Df3d4944A6F06C664CA86382c203/logo.png"
+  },
+  "name": "Fugu Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FUGU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

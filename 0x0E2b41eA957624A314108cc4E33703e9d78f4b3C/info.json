@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x0E2b41eA957624A314108cc4E33703e9d78f4b3C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Greenheart CBD Token - A Cryptocurrency for Hemp Farmers."
+  },
+  "id": "68160d1a-128d-4f86-b067-4a30c0f80da5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E2b41eA957624A314108cc4E33703e9d78f4b3C",
+    "website": "https://greenheartcbd.io/",
+    "github": "https://github.com/greenheartcbd/Greenheart-CBD-Project",
+    "twitter": "https://twitter.com/greenheart_cbd",
+    "telegram": "https://t.me/greenheart_cbd",
+    "medium": "https://greenheartcbd.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0E2b41eA957624A314108cc4E33703e9d78f4b3C/logo.png"
+  },
+  "name": "Greenheart CBD Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CBD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

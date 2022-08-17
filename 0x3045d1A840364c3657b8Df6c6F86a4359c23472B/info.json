@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3045d1A840364c3657b8Df6c6F86a4359c23472B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Orica is an NFT marketplace in Binance Smart Chain for all kind of digital arts, the token which uses in this NFT marketplace is ORI"
+  },
+  "id": "ac1b6cf6-fff3-43e7-a7ac-186253ec90d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3045d1A840364c3657b8Df6c6F86a4359c23472B",
+    "website": "https://orica.io/",
+    "twitter": "https://twitter.com/orica_io",
+    "telegram": "https://t.me/OricaChat",
+    "discord": "https://discord.com/invite/YZ9vp5syct",
+    "whitepaper": "https://orica.io/media/orica_whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3045d1A840364c3657b8Df6c6F86a4359c23472B/logo.png"
+  },
+  "name": "Orica",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ORI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

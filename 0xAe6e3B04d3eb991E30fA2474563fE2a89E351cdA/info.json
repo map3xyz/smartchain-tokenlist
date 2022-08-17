@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAe6e3B04d3eb991E30fA2474563fE2a89E351cdA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PancakeFork Finance is one of the most popular AMM on BSC Network with Yield Farming, Staking & Automated Market Making services at very low swap trading fees."
+  },
+  "id": "326797a3-92da-4135-81d9-23918f29db87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAe6e3B04d3eb991E30fA2474563fE2a89E351cdA",
+    "website": "https://pancakefork.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAe6e3B04d3eb991E30fA2474563fE2a89E351cdA/logo.png"
+  },
+  "name": "PancakeFork Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAKF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

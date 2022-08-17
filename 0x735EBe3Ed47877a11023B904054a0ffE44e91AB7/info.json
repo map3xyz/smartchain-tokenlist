@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x735EBe3Ed47877a11023B904054a0ffE44e91AB7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alaska Inu is a 100% decentralized community experiment."
+  },
+  "id": "154a553f-c326-4926-b678-c82436576dcb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x735ebe3ed47877a11023b904054a0ffe44e91ab7",
+    "website": "https://alaskatoken.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x735EBe3Ed47877a11023B904054a0ffE44e91AB7/logo.png"
+  },
+  "name": "Alaska Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

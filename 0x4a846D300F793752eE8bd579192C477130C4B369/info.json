@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4a846D300F793752eE8bd579192C477130C4B369",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Lite is a decentralized stable coin casting protocol that allows users to use Lite as collateral to cast Lusd."
+  },
+  "id": "48b01a4a-ab65-49bf-ad66-3f2514796e06",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a846D300F793752eE8bd579192C477130C4B369",
+    "website": "https://liteusd.com/",
+    "twitter": "https://twitter.com/LiteUsd",
+    "github": "https://github.com/LiteUSD",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lite-usd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a846D300F793752eE8bd579192C477130C4B369/logo.png"
+  },
+  "name": "LITE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LITE",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

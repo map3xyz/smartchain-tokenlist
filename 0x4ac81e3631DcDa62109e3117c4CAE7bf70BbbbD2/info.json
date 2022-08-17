@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x4ac81e3631DcDa62109e3117c4CAE7bf70BbbbD2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Worldwide Carbon Sequestration Cryptocurrency Project dedicated to developing sustainable programs aiming to combat Global Warming and Climate Change."
+  },
+  "id": "23fe5625-9a95-4508-9bce-c6fece8ca26f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4ac81e3631DcDa62109e3117c4CAE7bf70BbbbD2",
+    "website": "https://saveplanetearth.io/",
+    "twitter": "https://twitter.com/SPE_Token_BSC",
+    "telegram": "https://t.me/SavePlanetEarthOfficial",
+    "blog": "https://saveplanetearth.io",
+    "github": "https://github.com/SavePlanetEarthToken",
+    "discord": "https://discord.com/DRJCrvvuQy",
+    "reddit": "https://reddit.com/r/SPEOfficial/",
+    "youtube": "https://youtube.com/c/SavePlanetEarth",
+    "facebook": "https://facebook.com/saveplanetearthofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/saveplanetearth/",
+    "coingecko": "https://coingecko.com/en/coins/saveplanetearth"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4ac81e3631DcDa62109e3117c4CAE7bf70BbbbD2/logo.png"
+  },
+  "name": "SavePlanetEarth V3",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

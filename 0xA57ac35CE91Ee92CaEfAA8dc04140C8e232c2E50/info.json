@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Pitbull(PIT) is a deflationary token with 2% automatic liquidity provided on sells and 2% each trades rewards holders. The token has been abandoned by the developer and raised by the community."
+  },
+  "id": "edda6878-da64-408f-94f8-09165569d2a3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+    "website": "https://pitbull.community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50/logo.png"
+  },
+  "name": "Pitbull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

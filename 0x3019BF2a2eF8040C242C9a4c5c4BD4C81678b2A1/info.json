@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "GMT is the governance token of STEPN, which is a Web3 lifestyle app with fun social elements and gamification design."
+  },
+  "id": "cd1664cd-ea92-4649-af8d-a598752c99b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+    "website": "https://www.stepn.com",
+    "reddit": "https://reddit.com/r/StepN/",
+    "twitter": "https://twitter.com/Stepnofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/green-metaverse-token/",
+    "coingecko": "https://coingecko.com/en/coins/stepn",
+    "discord": "https://discord.com/invite/stepn"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1/logo.png"
+  },
+  "name": "Green Metaverse Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMT",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

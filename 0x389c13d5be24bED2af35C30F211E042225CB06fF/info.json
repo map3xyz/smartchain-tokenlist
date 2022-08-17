@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x389c13d5be24bED2af35C30F211E042225CB06fF",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "A CYBORG SHIBA INU DOG FROM PLANET SHIBAMOON X1000. A DECENTRALIZED MEME TOKEN"
+  },
+  "id": "d7d51c86-2db4-4e82-91e5-09d7b036b794",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x389c13d5be24bed2af35c30f211e042225cb06ff",
+    "website": "https://shiborgtoken.com/",
+    "telegram": "https://t.me/ShiborgInu",
+    "twitter": "https://twitter.com/ShiborgToken",
+    "reddit": "https://reddit.com/r/ShiborgToken/",
+    "facebook": "https://facebook.com/ShiborgToken",
+    "youtube": "https://youtube.com/channel/UC5LQLfoSg8UVeV21SfC5XDA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiborg-inu/",
+    "coingecko": "https://coingecko.com/en/coins/shiborg-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x389c13d5be24bED2af35C30F211E042225CB06fF/logo.png"
+  },
+  "name": "SHIBORG INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBORG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

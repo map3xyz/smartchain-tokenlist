@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E24415d1e549EBc626a13a482Bb117a2B43e9CF",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Lovely Inu ($LOVELY) is a community-focused, decentralized cryptocurrency with Attractive rewards for holders. Join the moon mission."
+  },
+  "id": "2d54984f-ed6a-4d1a-a580-7761e5e21191",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+    "website": "https://lovely.finance",
+    "twitter": "https://twitter.com/Lovely_finance",
+    "telegram": "https://t.me/lovelyinu_coin",
+    "whitepaper": "https://lovely.finance/assets/images/whitepaper-lovely-inu.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9E24415d1e549EBc626a13a482Bb117a2B43e9CF/logo.png"
+  },
+  "name": "Lovely Inu Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOVELY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

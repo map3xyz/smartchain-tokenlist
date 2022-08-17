@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5baeBd214FdAe546ce39750B8363e799E2ABa21E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NO-LOSS MULTIPLIER DEFI - EARN PASSIVE INCOME - Moonery is a community-driven, no-loss prize game and no-loss pool launchpad built on Binance Smart Chain #BSC."
+  },
+  "id": "ec168f86-c783-4987-af2d-05652a22c3d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5baeBd214FdAe546ce39750B8363e799E2ABa21E",
+    "website": "https://moonery.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5baeBd214FdAe546ce39750B8363e799E2ABa21E/logo.png"
+  },
+  "name": "Moonery",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNRY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

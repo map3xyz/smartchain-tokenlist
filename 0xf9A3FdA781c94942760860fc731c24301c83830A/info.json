@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf9A3FdA781c94942760860fc731c24301c83830A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationnary token made for long term investors and helping to save the earth"
+  },
+  "id": "ae29fa5e-f834-4c96-963f-553e0bd16484",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf9A3FdA781c94942760860fc731c24301c83830A",
+    "website": "https://raptr.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf9A3FdA781c94942760860fc731c24301c83830A/logo.png"
+  },
+  "name": "PhilosoRaptor",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RAPTOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

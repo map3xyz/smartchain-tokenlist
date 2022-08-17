@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb07905396A419B121213efe1d17cfD0ff20aE597",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PIZZA NFT, an exclusive creator & developer of The NFT Pizza Dough Astros: Astro KungFu Fighters & Astro Jocks. A series of 2000 NFT Astros will be created and minted for Smart Chain NFT Marketplace. NFT Astros will be characters in 2D, 3D & VR games."
+  },
+  "id": "53e7185c-3295-4f3d-bea7-8491fed64788",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb07905396A419B121213efe1d17cfD0ff20aE597",
+    "website": "https://pizza-nft.com",
+    "github": "https://github.com/SafePizzaCoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pizzanft/",
+    "twitter": "https://twitter.com/pizzaNFT2E"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb07905396A419B121213efe1d17cfD0ff20aE597/logo.png"
+  },
+  "name": "PIZZANFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$PIZZA",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

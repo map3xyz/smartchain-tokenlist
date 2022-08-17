@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x53dcD4eF8E21FE014594a0854c4271a0623B31eC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "X2P (a BSC project) is a frictionless, high-yield, deflationary & decentralized token on the Binance Smart Chain. A 10% transaction fee will be distributed over all holders & 5% will go to the Liquidity Pool. Our goal is to motivate people by holding their coins and maximize their profits by doing this. Our system is built so it fits holders."
+  },
+  "id": "fc383d35-b65e-4e5d-8a3a-419774da8898",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x53dcD4eF8E21FE014594a0854c4271a0623B31eC",
+    "website": "https://xenonpay.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x53dcD4eF8E21FE014594a0854c4271a0623B31eC/logo.png"
+  },
+  "name": "Xenon Pay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "X2P",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD8F61cdECA41dEF1a7923F308a042F678109f54B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme."
+  },
+  "id": "c6e02241-bf74-4cfe-8b8e-48fac2f01c01",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD8F61cdECA41dEF1a7923F308a042F678109f54B",
+    "website": "https://www.buffedshiba.com/",
+    "twitter": "https://twitter.com/BuffedShiba",
+    "telegram": "https://t.me/BuffedShiba",
+    "telegramNews": "https://t.me/BuffedShibaAnnouncements",
+    "facebook": "https://facebook.com/buffedshiba",
+    "coinmarketcap": "https://coinmarketcap.com/de/currencies/buffedshiba/",
+    "coingecko": "https://coingecko.com/en/coins/buffedshiba"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD8F61cdECA41dEF1a7923F308a042F678109f54B/logo.png"
+  },
+  "name": "BuffedShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

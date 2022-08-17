@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x773b532126b9F307665942b0fa4cDa0540CeDb71",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Booster is a Binance Smart Chain token with Auto LP and Static Rewards paid in 11 different tokens."
+  },
+  "id": "11f7ba5d-25d1-47c0-9669-8463037cc89a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x773b532126b9F307665942b0fa4cDa0540CeDb71",
+    "website": "https://boostertoken.com",
+    "github": "https://github.com/BoosterToken",
+    "twitter": "https://twitter.com/BoosterToken",
+    "telegram": "https://t.me/BoosterToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x773b532126b9F307665942b0fa4cDa0540CeDb71/logo.png"
+  },
+  "name": "Booster",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

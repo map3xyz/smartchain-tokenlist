@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dirham is a fiat collateralized stablecoin backed by AED. It is the native to Dirham crypto where bonds are introduced to blockchain for the first time ever. Dirham holders may earn up to 4% ineterest every year."
+  },
+  "id": "17f1532e-58b1-403a-a96e-1fe3cdd5c7eb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x30365ed4ca8173013ad948b9842f34ac71d01f7c",
+    "website": "https://dirhamcrypto.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C/logo.png"
+  },
+  "name": "Dirham",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DHS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

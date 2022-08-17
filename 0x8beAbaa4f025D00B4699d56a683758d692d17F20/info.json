@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8beAbaa4f025D00B4699d56a683758d692d17F20",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyXrp is a deflationary token on BSc chain. BabyXrp rewards the long term holders with XRP every week."
+  },
+  "id": "57200941-06a4-4b93-9b8b-b650eff75e0a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8beAbaa4f025D00B4699d56a683758d692d17F20",
+    "website": "https://www.babyxrp.org/",
+    "twitter": "https://twitter.com/officialbabyxrp",
+    "telegram": "https://t.me/OfficialBabyXRP",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babyxrp/",
+    "coingecko": "https://coingecko.com/en/coins/babyxrp",
+    "reddit": "https://reddit.com/r/BABYXRP_ARMY"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8beAbaa4f025D00B4699d56a683758d692d17F20/logo.png"
+  },
+  "name": "BABYXRP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBYXRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

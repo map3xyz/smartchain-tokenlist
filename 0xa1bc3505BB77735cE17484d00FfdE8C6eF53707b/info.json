@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xa1bc3505BB77735cE17484d00FfdE8C6eF53707b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$STORY is the deflationary token fueling our crowdfunding platform called Story. Story provides anyone, anywhere with the platform to help others. Simply share their Story in 60 seconds or less and our community listens."
+  },
+  "id": "d6cfce7f-038f-4af6-b89f-7a740a541844",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1bc3505BB77735cE17484d00FfdE8C6eF53707b",
+    "website": "https://storytoken.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xa1bc3505BB77735cE17484d00FfdE8C6eF53707b/logo.png"
+  },
+  "name": "Story",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STORY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

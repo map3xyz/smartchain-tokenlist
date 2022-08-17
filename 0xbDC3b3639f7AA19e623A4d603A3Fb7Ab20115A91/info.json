@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COC token was created to link blockchain and sport industry. The project aims to create a collectible NFT card game based on sports. COC brand would like to spread the values and the features that distinguish the brand and differentiate it from competitors. Sharing, community building, famous sports testimonials and the chance of saving: these are the concepts conveyed through the structure of the brand."
+  },
+  "id": "8c6b7274-7919-4489-89c1-48b331e35134",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91",
+    "website": "https://coinofchampions.com/",
+    "twitter": "https://twitter.com/coinofchampions",
+    "github": "https://github.com/Coin-of-Champions",
+    "telegram": "https://t.me/chatcocinternational",
+    "whitepaper": "https://coinofchampions.com/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91/logo.png"
+  },
+  "name": "Coin of Champions",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

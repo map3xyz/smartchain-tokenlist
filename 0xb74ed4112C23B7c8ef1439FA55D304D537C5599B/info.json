@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb74ed4112C23B7c8ef1439FA55D304D537C5599B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CTRFI is a fork of Safe Moon. Programmed to reward holders while increasing liquidity and value"
+  },
+  "id": "4d355492-c504-42de-8510-3911545844e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb74ed4112c23b7c8ef1439fa55d304d537c5599b",
+    "website": "https://chesterfinance.info/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb74ed4112C23B7c8ef1439FA55D304D537C5599B/logo.png"
+  },
+  "name": "ChesterCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTRFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

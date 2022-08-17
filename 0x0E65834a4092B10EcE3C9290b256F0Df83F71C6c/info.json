@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "mBitcoin - Yield farm Bitcoin on Binance Smart Chain"
+  },
+  "id": "d1e83c38-a87e-4a6e-af26-ebefe7837289",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c",
+    "website": "https://mbitcoin.cc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0E65834a4092B10EcE3C9290b256F0Df83F71C6c/logo.png"
+  },
+  "name": "MoonBitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

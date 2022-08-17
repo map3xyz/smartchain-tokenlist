@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "YFiONE explores the systematic production of new Defi products and will help develop, market and launch these Defi products to help it develop its biology and provide ideal benefits for community projects and users."
+  },
+  "id": "a166a330-c9f0-483e-8a46-553ba758b3e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xac0c8da4a4748d8d821a0973d00b157aa78c473d",
+    "website": "https://yfione.org/",
+    "github": "https://github.com/YFI-ONE",
+    "twitter": "https://twitter.com/yfione",
+    "telegram": "https://t.me/YFI_ONE"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D/logo.png"
+  },
+  "name": "YFIONE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YFO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

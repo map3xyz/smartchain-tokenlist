@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCA69C118Fa550387794d48900a866891217E5C9F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MOCKTAIL is the world's first ERC 1155 standard Semi-Fungible Token (SFT) on Binance Smart Chain."
+  },
+  "id": "25ce9f84-52be-457d-bc88-982ab8c40891",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCA69C118Fa550387794d48900a866891217E5C9F",
+    "website": "https://docs.mocktailswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCA69C118Fa550387794d48900a866891217E5C9F/logo.png"
+  },
+  "name": "Mocktail",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

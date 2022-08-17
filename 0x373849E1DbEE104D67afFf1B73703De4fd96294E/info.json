@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x373849E1DbEE104D67afFf1B73703De4fd96294E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Doggy Inu is a deflationary meme Token with an anti-whale mechanism designed to make investors benefit by hodling. Each user is (in theory) an equivalent owner and contributor to the network. Every trade contributes toward automatically generating liquidity locked inside PancakeSwap"
+  },
+  "id": "9f9fba54-1ca4-41e6-b4bc-babe0bf36bea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x373849E1DbEE104D67afFf1B73703De4fd96294E",
+    "website": "https://doggyinu.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x373849E1DbEE104D67afFf1B73703De4fd96294E/logo.png"
+  },
+  "name": "DoggyInu Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

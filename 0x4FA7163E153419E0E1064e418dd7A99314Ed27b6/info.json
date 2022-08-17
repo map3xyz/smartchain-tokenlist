@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. We are a cohort of builders who aggressively seek out opportunities to meet the demands of the now for both B2B and B2C."
+  },
+  "id": "cfdff12c-a4a7-4564-8209-148541f31399",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "website": "https://hotcross.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png"
+  },
+  "name": "Hot Cross Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOTCROSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

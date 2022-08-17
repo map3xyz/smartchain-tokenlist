@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Binance Smart Chain Girl Moon Binance Smart Chain Girl It is a token of the same project as BSC GIRL."
+  },
+  "id": "1c071801-ab0b-4695-a59f-97b40579b1d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a706451Cf6D87bB04365B1BEa6242710D71078E",
+    "website": "https://bscgirl.site/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a706451Cf6D87bB04365B1BEa6242710D71078E/logo.png"
+  },
+  "name": "Binance Smart Chain Girl Moon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCGIRLMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

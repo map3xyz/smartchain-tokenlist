@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xfd290c590866f8282d89671A85Ac9964b165d682",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Subme is the world's first platform focused on subscribing to both physical products and services."
+  },
+  "id": "7ad95166-ffa2-4f4b-9205-b6d4f57d2201",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfd290c590866f8282d89671A85Ac9964b165d682",
+    "website": "http://subme.cash",
+    "twitter": "https://twitter.com/Subme_app",
+    "telegram": "https://t.me/subme_cash",
+    "coingecko": "https://coingecko.com/en/coins/subme",
+    "reddit": "https://reddit.com/r/SubmeApp/",
+    "facebook": "https://facebook.com/Submeapp",
+    "medium": "https://medium.com/subme-app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfd290c590866f8282d89671A85Ac9964b165d682/logo.png"
+  },
+  "name": "Subme",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

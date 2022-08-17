@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x23125108bc4c63E4677b2E253Fa498cCb4B3298b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Buff Doge Coin is extremely hyper deflationary where each burn will double in its quantity to the previous burn."
+  },
+  "id": "2f992dac-6dad-4757-b391-a70604316fb5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x23125108bc4c63E4677b2E253Fa498cCb4B3298b",
+    "website": "https://www.buffdogecoin.io/",
+    "twitter": "https://twitter.com/buffdogecoin",
+    "telegram": "https://t.me/buffdogecoinofficial",
+    "whitepaper": "https://3a97c7c4-e2f3-4738-aec8-31b07194fd17.filesusr.com/ugd/cc57ea_25faa44d9e2d4749b57ca81ca934f8b7.pdf",
+    "youtube": "https://youtube.com/watch?v=czoMaDABMRI",
+    "coingecko": "https://coingecko.com/en/coins/buff-doge-coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/buff-doge-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x23125108bc4c63E4677b2E253Fa498cCb4B3298b/logo.png"
+  },
+  "name": "Buff Doge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGECOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

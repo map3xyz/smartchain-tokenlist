@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpacePi is preparing to develop Pi Metaverse, PiNFT, PiSwap and other ecosystems"
+  },
+  "id": "a7e3cc68-ea4e-4271-bf19-e43ba62e873f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+    "website": "https://space-pi.com",
+    "twitter": "https://twitter.com/SpacePi_Com",
+    "telegram": "https://t.me/SpacePi_com",
+    "telegramNews": "https://t.me/space_pi_global"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E/logo.png"
+  },
+  "name": "SpacePi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SpacePi",
+  "tags": [
+    "governance",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

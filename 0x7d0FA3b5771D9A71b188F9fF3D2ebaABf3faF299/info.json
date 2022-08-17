@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7d0FA3b5771D9A71b188F9fF3D2ebaABf3faF299",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A community-built algorithmic and autonomous interest rate protocol for Yield Farmers"
+  },
+  "id": "39c94ee4-97b5-4830-a2bf-5038e09c99e1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7d0FA3b5771D9A71b188F9fF3D2ebaABf3faF299",
+    "website": "https://omino.finance",
+    "twitter": "https://twitter.com/FinanceOmino",
+    "github": "https://github.com/ominofinance",
+    "telegram": "https://t.me/ominofinance",
+    "telegramNews": "https://t.me/ominofinancenews",
+    "blog": "https://medium.com/@ominofinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7d0FA3b5771D9A71b188F9fF3D2ebaABf3faF299/logo.png"
+  },
+  "name": "OMINO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OMINO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

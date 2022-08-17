@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5E9280d53F28281Ce098C8F64e49F5f5DC9Ea185",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SnowgeCoin is a community owned, floofy doggo-themed Safemoon fork that functions as a deflationary auto-staking currency, with a randomized transaction fee of: 2%, 4%, 6% or 8%. Half of each fee is reflected back to holders, and the other half is added to the BNB/Snowge Liquidity Pool."
+  },
+  "id": "44914125-3873-4dc0-83fd-bc2fb0009dcf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5E9280d53F28281Ce098C8F64e49F5f5DC9Ea185",
+    "website": "https://snowge.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5E9280d53F28281Ce098C8F64e49F5f5DC9Ea185/logo.png"
+  },
+  "name": "SnowgeCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNOWGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

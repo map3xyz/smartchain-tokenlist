@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+  "color": null,
+  "decimals": 2,
+  "description": null,
+  "id": "3d9aea15-0506-4945-84bf-eb8b25cd15da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+    "website": "https://ngnt.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762/logo.png"
+  },
+  "name": "Ngnt",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NGNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

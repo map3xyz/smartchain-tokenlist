@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A charity-oriented token that is focused on decreasing the rate of homelessness around the world."
+  },
+  "id": "c46a841b-41e0-4718-bcc8-3b41d9c7bb40",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+    "website": "https://www.thehomecoin.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57c9487f30D04aEE52D323586EC9A23d05A1504e/logo.png"
+  },
+  "name": "HomeCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

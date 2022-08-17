@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and redistributes tokens directly to wallets of holders."
+  },
+  "id": "c4289fa7-f8bb-4cd5-9a42-f06389b3ef1f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
+    "website": "https://safeyield.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632/logo.png"
+  },
+  "name": "SafeYield",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEYIELD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

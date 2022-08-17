@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x39bca4d597062378b5669CD31a3bBFECCDd36B3c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LESLAR Metaverse aims to empower people to the future and create an ecosystem for people to connect, trade, learn, and play the immersive world of Web 3.0 with rewards."
+  },
+  "id": "a2a36e4a-dc84-451e-addb-85c47cc26f5e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x39bca4d597062378b5669cd31a3bbfeccdd36b3c",
+    "website": "https://www.leslarmetaverse.com",
+    "github": "https://github.com/leslarmetaverse",
+    "twitter": "https://twitter.com/leslarmetaverse",
+    "telegram": "https://t.me/leslarmetaverse_global",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/leslarverse/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x39bca4d597062378b5669CD31a3bBFECCDd36B3c/logo.png"
+  },
+  "name": "LESLARVERSE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LLVERSE",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa3d80275E300237a62D3431C26d52f185584cC1B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A legendary hero metaverse."
+  },
+  "id": "226e0d85-0e50-4951-aae3-ad4f250dc303",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa3d80275E300237a62D3431C26d52f185584cC1B",
+    "website": "https://risehero.io",
+    "twitter": "https://twitter.com/RiseHeroNFT",
+    "telegram": "https://t.me/RiseHero"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa3d80275E300237a62D3431C26d52f185584cC1B/logo.png"
+  },
+  "name": "RiseHero",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RISE",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

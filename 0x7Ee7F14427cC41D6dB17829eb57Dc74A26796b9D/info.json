@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonRise is the first MoonShot token on BSC, and is also a proprietary and hyper-deflationary buyback token with a suite of new innovations that help increase return for investors. On top of the automated buys from the Whale Wallet upon every market sell, \"Moon Shots\" will be activated at certain milestones using the Whale Wallet's BNB!"
+  },
+  "id": "5b65d003-3feb-493b-bb23-ddaf7d2cae4b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D",
+    "website": "https://MoonRiseCoin.com",
+    "twitter": "https://twitter.com/MoonRise_BSC",
+    "telegram": "https://t.me/MoonRise_BSC",
+    "telegramNews": "https://t.me/MoonRise_BSC_News",
+    "reddit": "https://reddit.com/r/MoonRise_BSC",
+    "coingecko": "https://coingecko.com/en/coins/moonrise",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/moonrise/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7Ee7F14427cC41D6dB17829eb57Dc74A26796b9D/logo.png"
+  },
+  "name": "MoonRise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONRISE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

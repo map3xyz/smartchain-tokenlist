@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VeChain is the world’s leading blockchain platform offering Blockchain-as-a-Service to enterprises for products and information. VeChain strives to build a trust-free and distributed business ecosystem."
+  },
+  "id": "2fcbb873-48f9-40a9-bac4-1c5767432c7e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+    "research": "https://research.binance.com/en/projects/vechain",
+    "website": "https://vechain.org",
+    "github": "https://github.com/vechain",
+    "whitepaper": "https://www.vechain.org/whitepaper/#header",
+    "twitter": "https://twitter.com/vechainofficial",
+    "telegram": "https://t.me/vechain_official_english",
+    "reddit": "https://reddit.com/r/vechain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vechain/",
+    "coingecko": "https://coingecko.com/en/coins/vechain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888/logo.png"
+  },
+  "name": "VeChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VET",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x159802FBE16Aa6a0863a56a18DD41Afce546c93E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationary Charity Token allows for users frictionless rewards while taxing and generating fees per transaction. Given the dynamism of the project and the fact that there are endless worthy charitable causes, Save will consistently draw in new investors, both philanthropic and speculative alike. Unlike many supposed “charity” tokens, we will provide proof of donations and ensure all funds reach their worthy causes. With all charity-based projects, transparency is of the utmost importance."
+  },
+  "id": "de68c745-b603-4170-a914-9ea9327b3e57",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x159802FBE16Aa6a0863a56a18DD41Afce546c93E",
+    "website": "https://savetheworld.health/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x159802FBE16Aa6a0863a56a18DD41Afce546c93E/logo.png"
+  },
+  "name": "Savetheworld",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Save",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

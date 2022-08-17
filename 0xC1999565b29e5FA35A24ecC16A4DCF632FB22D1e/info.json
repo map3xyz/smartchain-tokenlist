@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC1999565b29e5FA35A24ecC16A4DCF632FB22D1e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoCandy aims to be the sweetest Community Token on Binance Smart Chain by building gaming ecosystems around it."
+  },
+  "id": "090d1cc8-029b-483c-bdda-fbc7ee8aad1b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC1999565b29e5FA35A24ecC16A4DCF632FB22D1e",
+    "website": "https://cryptocandy.club/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC1999565b29e5FA35A24ecC16A4DCF632FB22D1e/logo.png"
+  },
+  "name": "CryptoCandy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWEETS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

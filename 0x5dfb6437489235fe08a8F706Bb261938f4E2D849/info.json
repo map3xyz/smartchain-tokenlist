@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5dfb6437489235fe08a8F706Bb261938f4E2D849",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Shibosu is the Japanese Gifting Shiba that will take over the Shiba world by storm. Shibosu is a mix between Shiba and Kabosu."
+  },
+  "id": "db233fe0-bb62-4fa7-b3e3-db3f004dce65",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5dfb6437489235fe08a8F706Bb261938f4E2D849",
+    "website": "https://www.shibosu.live",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibosu/",
+    "coingecko": "https://coingecko.com/en/coins/shibosu",
+    "telegram": "https://t.me/shibosu",
+    "twitter": "https://twitter.com/ShibosuBSC",
+    "facebook": "https://facebook.com/shibosuofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5dfb6437489235fe08a8F706Bb261938f4E2D849/logo.png"
+  },
+  "name": "Shibosu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Shibosu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

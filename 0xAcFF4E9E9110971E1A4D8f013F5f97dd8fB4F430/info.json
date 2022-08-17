@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xAcFF4E9E9110971E1A4D8f013F5f97dd8fB4F430",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "King Forever, a community driven deflationary token, with a 3 way to earn Entertainment Ecosystem and a MMORPG Metaverse Game!"
+  },
+  "id": "d9d33939-077a-4d54-ae77-242d32032eba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430",
+    "website": "https://kingforevertoken.com/",
+    "twitter": "https://twitter.com/kingforeverbsc",
+    "coingecko": "https://coingecko.com/coins/king-forever",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/king-forever/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAcFF4E9E9110971E1A4D8f013F5f97dd8fB4F430/logo.png"
+  },
+  "name": "KING FOREVER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KFR",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

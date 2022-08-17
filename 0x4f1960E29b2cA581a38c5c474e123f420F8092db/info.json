@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4f1960E29b2cA581a38c5c474e123f420F8092db",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "The Combination of NFT Technology and the Real Estate Sector on Blockchain"
+  },
+  "id": "55186cc9-4140-4e0b-9c01-df7eb2384e00",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4f1960E29b2cA581a38c5c474e123f420F8092db",
+    "website": "https://bixos.io",
+    "telegram": "https://t.me/ubxstoken",
+    "twitter": "https://twitter.com/Bixosinc",
+    "discord": "https://discord.com/",
+    "facebook": "https://facebook.com/bixosinc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4f1960E29b2cA581a38c5c474e123f420F8092db/logo.png"
+  },
+  "name": "UBXS Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UBXS",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

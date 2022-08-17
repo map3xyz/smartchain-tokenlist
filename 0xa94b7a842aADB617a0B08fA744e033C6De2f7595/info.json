@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa94b7a842aADB617a0B08fA744e033C6De2f7595",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "FlashX Ultra is the second DApp and governance token of FlashX Coin Project. It has a total supply of 200M tokens. $FSXU as Bep20 token running on Binance Smart Chain (BSC)."
+  },
+  "id": "1e031828-aeab-4dc4-9dab-accef7894c7a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa94b7a842aadb617a0b08fa744e033c6de2f7595",
+    "website": "https://www.flashxultra.com/",
+    "github": "https://github.com/FlashXBoss/sourcecode/commit/34b44ebe1fa26ea2724b13814560c8e4d72a9949",
+    "twitter": "https://twitter.com/CoinFlashx",
+    "telegram": "https://t.me/FlashXUltra",
+    "whitepaper": "https://e7d5a156-25be-4b13-a9a0-ae8ed3f1b749.filesusr.com/ugd/7e167b_3cee187bade545da959ace058aee4b1b.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa94b7a842aADB617a0B08fA744e033C6De2f7595/logo.png"
+  },
+  "name": "FlashX Ultra",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FSXU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

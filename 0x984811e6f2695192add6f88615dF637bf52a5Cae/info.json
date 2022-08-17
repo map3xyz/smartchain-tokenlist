@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x984811e6f2695192add6f88615dF637bf52a5Cae",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "For a Greener Future, one Hop at a time!"
+  },
+  "id": "de25390c-995e-4270-8286-d2d280ea7408",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x984811e6f2695192add6f88615dF637bf52a5Cae",
+    "website": "https://www.hoppy-meme.co",
+    "telegram": "https://t.me/HoppyMeme_Official",
+    "twitter": "https://twitter.com/HoppyMeme",
+    "medium": "https://hoppymeme.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x984811e6f2695192add6f88615dF637bf52a5Cae/logo.png"
+  },
+  "name": "Hoppy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOP",
+  "tags": [
+    "nft",
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4b63f8C52E3286CA871Cd66b7C84e26556b2DE8e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Everyone faces challenges with their mental well-being, just like we experience challenges with our physical well-being. There is no health without mental health.We exercise to keep our bodies healthy, but we do very little in our day to day to take care of our mind. By increasing the accessibility of mindfulness education and incentivizing its practice, BudaCoin aims to bring a sustainable solution to the mental health crisis."
+  },
+  "id": "f7a90723-1a4a-4f90-b935-33ea714aa602",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4b63f8C52E3286CA871Cd66b7C84e26556b2DE8e",
+    "website": "https://www.budacoin.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4b63f8C52E3286CA871Cd66b7C84e26556b2DE8e/logo.png"
+  },
+  "name": "BudaCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF5a367b7809e5683538C93Ce638B9258A0B88271",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "01f4218d-7b6b-41cb-b19d-328ad114fc63",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF5a367b7809e5683538C93Ce638B9258A0B88271",
+    "website": "https://aurory.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF5a367b7809e5683538C93Ce638B9258A0B88271/logo.png"
+  },
+  "name": "Aurory (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AURY",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HPS is a booster token for BillionHappiness project to support, build the ecosystem, and Develop NFT marketplace. To create, buy, or collect digital items secured with BSC blockchain."
+  },
+  "id": "c6b3b33e-3541-4cd6-8801-cd91e867004e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeda21b525ac789eab1a08ef2404dd8505ffb973d",
+    "website": "https://billionhappiness.com/",
+    "github": "https://github.com/BHCHappiness/",
+    "twitter": "https://twitter.com/BHC_Happiness",
+    "reddit": "https://reddit.com/user/BillionHappiness"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D/logo.png"
+  },
+  "name": "HappinessToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

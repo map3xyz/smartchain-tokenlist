@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Numbers protocol is a decentralised photo network, for creating community, value and trust in digital media."
+  },
+  "id": "0d38f8d7-a4b7-4b0b-8402-6dd159d66c4b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
+    "website": "https://www.numbersprotocol.io/",
+    "twitter": "https://twitter.com/numbersprotocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/numbers-protocol/",
+    "coingecko": "https://coingecko.com/coins/numbers-protocol",
+    "telegram": "https://t.me/numbersprotocol",
+    "github": "https://github.com/numbersprotocol/",
+    "discord": "https://discord.com/invite/KBtfEpxd3Z",
+    "reddit": "https://reddit.com/r/NumbersProtocolIO/",
+    "whitepaper": "https://link.numbersprotocol.io/litepaper",
+    "medium": "https://medium.com/numbers-protocol",
+    "youtube": "https://youtube.com/c/numbersprotocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9/logo.png"
+  },
+  "name": "NUM Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NUM",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

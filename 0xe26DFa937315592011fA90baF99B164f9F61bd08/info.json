@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe26DFa937315592011fA90baF99B164f9F61bd08",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Stake Kainu,Give Kainu, Earn Great Reward"
+  },
+  "id": "57a99b2b-3be3-47c4-8381-84ee110b8c28",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe26DFa937315592011fA90baF99B164f9F61bd08",
+    "website": "https://kainutoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe26DFa937315592011fA90baF99B164f9F61bd08/logo.png"
+  },
+  "name": "KAINU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

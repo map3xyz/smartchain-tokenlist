@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x248C45AF3b2f73Bc40FA159f2a90ce9caD7A77BA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BOGE is a homage to the original Dogecoin but built on Binance Smart Chain with added benefits and powers the BSCgems.com launch pad voting application for new BSC projects. The coin is deflationary, autostaking, and secure. The original liquidity token has been burned and the contract fully audited. Earn more BOGE by simply holding tokens in your wallet."
+  },
+  "id": "511eddc9-436a-467d-88b3-1e908c4ff124",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x248C45AF3b2f73Bc40FA159f2a90ce9caD7A77BA",
+    "website": "https://bogecoin.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x248C45AF3b2f73Bc40FA159f2a90ce9caD7A77BA/logo.png"
+  },
+  "name": "Bogecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

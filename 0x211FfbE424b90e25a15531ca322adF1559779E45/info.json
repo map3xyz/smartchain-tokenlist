@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BUX is a platform that makes crypto trading simple and accessible."
+  },
+  "id": "db43f04f-a666-4819-99b1-341a551f9b35",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45",
+    "website": "https://getbuxcrypto.com",
+    "twitter": "https://twitter.com/buxcrypto",
+    "telegram": "https://t.me/buxcommunity"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x211FfbE424b90e25a15531ca322adF1559779E45/logo.png"
+  },
+  "name": "BUX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

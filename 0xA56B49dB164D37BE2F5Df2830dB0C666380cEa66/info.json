@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "PUGDOG A community-driven decentralized rewarding network Fully decentralized and Community own, Zero Dev token."
+  },
+  "id": "7e3af2b4-427f-40f3-a0f8-a4c8a65bba33",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa56b49db164d37be2f5df2830db0c666380cea66",
+    "website": "https://pugdoginu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66/logo.png"
+  },
+  "name": "PUGDOG INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PUGDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

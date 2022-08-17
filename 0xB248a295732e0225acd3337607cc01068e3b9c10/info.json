@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB248a295732e0225acd3337607cc01068e3b9c10",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "cb56bcdc-fa56-4cd9-930f-28ef4b03fb7a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB248a295732e0225acd3337607cc01068e3b9c10",
+    "research": "https://research.binance.com/en/projects/venus",
+    "website": "https://venus.io/",
+    "github": "https://github.com/SwipeWallet/venus-protocol",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB248a295732e0225acd3337607cc01068e3b9c10/logo.png"
+  },
+  "name": "Venus XRP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vXRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

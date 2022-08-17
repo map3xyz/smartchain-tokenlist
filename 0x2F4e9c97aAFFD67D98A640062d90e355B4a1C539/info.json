@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AFROSTAR IS THE UNITED DIGITAL CURRENCY OF AFRICA. It aims to be THE digital currency that is trusted and used across the continent, and a top crypto currency worldwide. The Afrostar ecosystem will provide a range of powerful real world use cases for the Afrostar crypto token."
+  },
+  "id": "e5e361cd-e62c-4295-8ede-a7c4699d2dd1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539",
+    "website": "https://afrostar.io",
+    "telegram": "https://t.me/afrostarcommunity",
+    "twitter": "https://twitter.com/afrostarcrypto",
+    "reddit": "https://reddit.com/user/afrostarcrypto",
+    "discord": "https://discord.com/invite/qrj6AWacH4",
+    "youtube": "https://youtube.com/channel/UCas9v53n5QXt1ZdTPKHo3Gg",
+    "facebook": "https://facebook.com/afrostarcrypto"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539/logo.png"
+  },
+  "name": "Afrostar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AFRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

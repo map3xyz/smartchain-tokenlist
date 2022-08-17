@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Floki Doge is a hyper-deflationary and auto-staking token on the Binance Smart Chain."
+  },
+  "id": "7c7836dc-bb4b-40cc-b757-5d7d0820de82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4",
+    "website": "https://www.babyflokidoge.info",
+    "twitter": "https://twitter.com/BabyFlokiDoge/",
+    "telegram": "https://t.me/babyflokidogecoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe24F6Bc7635501d5684a963f7e75C8062b9c0eA4/logo.png"
+  },
+  "name": "Baby Floki Doge Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYFD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

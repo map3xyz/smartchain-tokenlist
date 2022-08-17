@@ -1,0 +1,32 @@
+{
+  "active": false,
+  "address": "0xc98a8EC7A07f1b743E86896a52434C4C6A0Dbc42",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ASIX Token is prestigious project backed by one of the most famous celebrities in Indonesia, Anang Hermansyah and His family. The token utility focusing on P2E Games, NFT Marketplace and Nusantara Land Metaverse."
+  },
+  "id": "9a3ca11f-50b2-450b-9e42-af9facf2bdde",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc98a8EC7A07f1b743E86896a52434C4C6A0Dbc42",
+    "website": "https://asixtoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/asix-token",
+    "coingecko": "https://coingecko.com/coins/asix",
+    "telegram": "https://t.me/asixtoken",
+    "twitter": "https://twitter.com/AsixToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xc98a8EC7A07f1b743E86896a52434C4C6A0Dbc42/logo.png"
+  },
+  "name": "ASIX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ASIX",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

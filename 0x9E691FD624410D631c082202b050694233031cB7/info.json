@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9E691FD624410D631c082202b050694233031cB7",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "The CryptoBRL (cBRL) is a stablecoin pegged one for one to the Brazilian Real. It's supported and adopted by a consortium with several companies from Brazilian cryptocurrency market."
+  },
+  "id": "322aa58f-b558-4a9d-8f0b-c052ee8c7204",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9E691FD624410D631c082202b050694233031cB7",
+    "website": "https://cryptobrl.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9E691FD624410D631c082202b050694233031cB7/logo.png"
+  },
+  "name": "CryptoBRL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CBRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

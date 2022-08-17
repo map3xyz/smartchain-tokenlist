@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x397a439E0d8fE38Ed3fBf968Ec162751ba100a5F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "YOSHI is an experiment in decentralized spontaneous community building."
+  },
+  "id": "003ba8ee-72c2-4b78-bbab-4c1026f427a3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x397a439e0d8fe38ed3fbf968ec162751ba100a5f",
+    "website": "https://www.yoshi.win"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x397a439E0d8fE38Ed3fBf968Ec162751ba100a5F/logo.png"
+  },
+  "name": "YOSHI INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YOSHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

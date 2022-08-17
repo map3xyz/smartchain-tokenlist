@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Chain is a cloud blockchain infrastructure that enables organizations to build better financial services from the ground up. Chain has launched Chain Core which is a permissioned and open source blockchain and Sequence, its ledger as a service product. Clients can receive discounts and pay for commercial fees with Chain Tokens (XCN) as well as participate in community protocol governance and access to premium features."
+  },
+  "id": "0af96a9d-a036-4295-a6fb-3492e1afa26f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+    "website": "https://chain.com",
+    "github": "https://github.com/chain",
+    "twitter": "https://twitter.com/chain",
+    "blog": "https://blog.chain.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chain/",
+    "telegram": "https://t.me/Chain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b/logo.png"
+  },
+  "name": "Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCN",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

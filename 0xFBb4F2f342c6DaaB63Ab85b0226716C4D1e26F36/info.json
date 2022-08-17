@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFBb4F2f342c6DaaB63Ab85b0226716C4D1e26F36",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The one and the only low-poly multiplayer blockchain-powered skill-based racing game you can play to earn! With our smart contract-backed CoinracerSmartPool back-end, you can race and earn $CRACE tokens completely decentralized."
+  },
+  "id": "3ce2cfe1-791c-4e6c-8051-fde5deafe0b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFBb4F2f342c6DaaB63Ab85b0226716C4D1e26F36",
+    "website": "https://coinracer.io",
+    "twitter": "https://twitter.com/coin_racer",
+    "telegram": "https://t.me/joinchat/uVEV57tKZ05hODY0",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinracer"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFBb4F2f342c6DaaB63Ab85b0226716C4D1e26F36/logo.png"
+  },
+  "name": "Coinracer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

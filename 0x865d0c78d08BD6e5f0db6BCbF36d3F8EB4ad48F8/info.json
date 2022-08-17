@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "BSC Fully deflationary lottery token with original lottery process."
+  },
+  "id": "6e7b856e-dc7e-40db-ab96-55b96f461c5a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
+    "website": "https://kilimanjaro.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8/logo.png"
+  },
+  "name": "KILIMANJARO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KILIMANJARo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

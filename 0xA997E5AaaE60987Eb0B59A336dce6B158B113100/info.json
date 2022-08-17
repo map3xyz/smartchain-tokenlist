@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
+  "color": null,
+  "decimals": 3,
+  "description": {
+    "en": "SeChain project is building the future of decentralized services, where the service provider & the customers can get the work done in decentralized environment."
+  },
+  "id": "25da71b7-c1af-4cc7-8f49-26d2564d7f3a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA997E5AaaE60987Eb0B59A336dce6B158B113100",
+    "website": "https://sechain.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA997E5AaaE60987Eb0B59A336dce6B158B113100/logo.png"
+  },
+  "name": "SeChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

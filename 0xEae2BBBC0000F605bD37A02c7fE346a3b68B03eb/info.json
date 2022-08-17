@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEae2BBBC0000F605bD37A02c7fE346a3b68B03eb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Fast & Secure Cryptocurrency and Multi chain DEX."
+  },
+  "id": "3345e4af-7438-4fd1-9c75-94e489d95f3c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeae2bbbc0000f605bd37a02c7fe346a3b68b03eb",
+    "website": "https://www.crirmsh.com",
+    "twitter": "https://twitter.com/CRIR_MSH",
+    "github": "https://github.com/crirmsh",
+    "telegram": "https://t.me/MSH_WORLD_GROUP",
+    "coingecko": "https://coingecko.com/en/coins/crir-msh",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crir-msh"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEae2BBBC0000F605bD37A02c7fE346a3b68B03eb/logo.png"
+  },
+  "name": "CRIR MSH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

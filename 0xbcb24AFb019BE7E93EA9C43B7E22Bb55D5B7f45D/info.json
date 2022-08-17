@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Building A Full-Stack DEFI with NFT Auction On Binance Smart Chain"
+  },
+  "id": "c58f1778-aa08-4e02-8d23-56539ce44bf6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
+    "website": "https://bscstation.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D/logo.png"
+  },
+  "name": "BSCS Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

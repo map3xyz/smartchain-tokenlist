@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x9e5965d28E8D44CAE8F9b809396E0931F9Df71CA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Space SIP is the first NFT space battleship game with worldclass design of gaming experience in a real-value collectible ecosystem."
+  },
+  "id": "d36069fb-ba1a-47b8-b3be-402ec4c56f35",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9e5965d28E8D44CAE8F9b809396E0931F9Df71CA",
+    "website": "https://sip.space",
+    "twitter": "https://twitter.com/0xSpaceSip",
+    "telegram": "https://t.me/SpaceSip",
+    "github": "https://github.com/spacesip",
+    "medium": "https://medium.com/space-sip",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/space-sip/",
+    "youtube": "https://youtube.com/channel/UCh_KnT_TXsifGlIr8oVnztg",
+    "facebook": "https://facebook.com/0xSpaceSip",
+    "whitepaper": "https://docsend.com/view/gsftc6iyryh8na8v",
+    "discord": "https://discord.com/invite/HvVTRAT9"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9e5965d28E8D44CAE8F9b809396E0931F9Df71CA/logo.png"
+  },
+  "name": "Space SIP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

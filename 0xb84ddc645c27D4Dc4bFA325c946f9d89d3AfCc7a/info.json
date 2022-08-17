@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bonus Cake is the first dividend and lucky draw CAKE reflection token."
+  },
+  "id": "02633938-e887-4adc-a7ee-d85cf04c3175",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
+    "website": "https://bonuscake.com",
+    "telegram": "https://t.me/BonusCake",
+    "twitter": "https://twitter.com/BonusCakeBSC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bonus-cake/",
+    "coingecko": "https://coingecko.com/ru/Криптовалюты/bonus-cake"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a/logo.png"
+  },
+  "name": "Bonus Cake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BonusCake",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

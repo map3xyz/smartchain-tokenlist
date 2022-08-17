@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x40929FB2008c830731A3d972950bC13f70161c75",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Yield Farming with Liquidity & Decentralized Exchange with Automatic Market Making on Binance Smart Chain."
+  },
+  "id": "b40e0e35-8b14-4453-b55f-e27a9ffcfc1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40929FB2008c830731A3d972950bC13f70161c75",
+    "website": "https://swaptuna.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x40929FB2008c830731A3d972950bC13f70161c75/logo.png"
+  },
+  "name": "Tuna",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TUNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

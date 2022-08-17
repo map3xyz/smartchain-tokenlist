@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Chord is a decentralized network for musicians where anyone can turn their songs and performances or any kind of music into unique NFTs and freely commercialize them without intermediaries."
+  },
+  "id": "d669b7a1-57aa-4164-9111-857cd106b20e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e",
+    "website": "https://chordprotocol.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e/logo.png"
+  },
+  "name": "Сhord Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHORD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

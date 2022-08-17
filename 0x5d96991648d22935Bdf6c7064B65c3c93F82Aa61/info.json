@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x5d96991648d22935Bdf6c7064B65c3c93F82Aa61",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HERO pays CAKE and BUSD his long-term holders! Every Hours Hero holders can claim BUSD & CAKE from the Hero Vault!"
+  },
+  "id": "a7643870-c799-45b9-8c62-4a36c62b14b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5d96991648d22935bdf6c7064b65c3c93f82aa61",
+    "website": "https://herofloki.com",
+    "twitter": "https://twitter.com/herofloki",
+    "facebook": "https://facebook.com/HeroFloki2021",
+    "blog": "https://herofloki.medium.com/",
+    "telegram": "https://t.me/heroflokiglobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5d96991648d22935Bdf6c7064B65c3c93F82Aa61/logo.png"
+  },
+  "name": "Hero Floki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

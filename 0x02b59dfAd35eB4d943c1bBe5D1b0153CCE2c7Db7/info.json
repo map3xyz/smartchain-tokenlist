@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Inspired by Dogecoin. 10% of Kittycoins go to support user voted upon no kill animal shelters and rescues."
+  },
+  "id": "c4fdb8c2-2bd5-47f1-b780-28cf3132fb72",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
+    "website": "https://kittycointoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7/logo.png"
+  },
+  "name": "Kittycoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Kittycoin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

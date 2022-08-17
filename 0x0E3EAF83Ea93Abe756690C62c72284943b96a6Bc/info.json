@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HODL is a community driven DeFi project built on Binance Smart Chain(BSC). HODL brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB by simply holding $HODL token"
+  },
+  "id": "9bea807d-9721-4073-ab22-0909c3a6cc18",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0e3eaf83ea93abe756690c62c72284943b96a6bc",
+    "website": "https://hodltoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc/logo.png"
+  },
+  "name": "HODL Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HODL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

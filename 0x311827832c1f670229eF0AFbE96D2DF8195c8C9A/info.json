@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens"
+  },
+  "id": "b8de97b6-e141-4226-ab2d-7ac1835571cd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x311827832c1f670229eF0AFbE96D2DF8195c8C9A",
+    "website": "https://safenft.me"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x311827832c1f670229eF0AFbE96D2DF8195c8C9A/logo.png"
+  },
+  "name": "SafeNFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

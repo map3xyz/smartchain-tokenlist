@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Upload logo for SafePokeman Token"
+  },
+  "id": "2fb36773-ccfa-44b8-aa73-433a2a14f3c7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc",
+    "website": "https://www.safepokeman.com",
+    "twitter": "https://twitter.com/safepokeman",
+    "telegram": "https://t.me/safepokemanofficialchat",
+    "telegramNews": "https://t.me/SafePokeman_News",
+    "discord": "https://discord.com/invite/GGUbG666x2",
+    "whitepaper": "https://safepokeman.com/pdf/whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UC7BP18ZaifVuj6XWptN3ehg",
+    "facebook": "https://facebook.com/safepokemanofficial/",
+    "github": "https://bscscan.com/address/0xfb16b31fa8a6edcd2dde78654cb0668c724c1dac#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc/logo.png"
+  },
+  "name": "SafePokeman Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEPOKEMAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

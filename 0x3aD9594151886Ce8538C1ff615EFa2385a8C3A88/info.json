@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Autonomous yield and liquidity generation protocol on BSC"
+  },
+  "id": "fe8c50a6-859c-4902-af6b-3f0d6f3c20f8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
+    "website": "https://www.safemarscrypto.com",
+    "twitter": "https://twitter.com/safemartians",
+    "telegram": "https://t.me/safemars"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88/logo.png"
+  },
+  "name": "SafeMars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMARS",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x913aFbBA462d6ae230344209d0Bd11CE3CE92Ed1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Rijent Coin is a revolutionary utility token and crypto education platform designed to connect worldwide cryptocurrency users."
+  },
+  "id": "87cde01b-d961-4403-8fce-f0e788a9b904",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x913aFbBA462d6ae230344209d0Bd11CE3CE92Ed1",
+    "website": "https://rijentcoin.com/",
+    "twitter": "https://twitter.com/RijentC",
+    "facebook": "https://facebook.com/rijentcoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rijent-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x913aFbBA462d6ae230344209d0Bd11CE3CE92Ed1/logo.png"
+  },
+  "name": "Rijent Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RTC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

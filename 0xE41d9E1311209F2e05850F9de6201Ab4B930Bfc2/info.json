@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xE41d9E1311209F2e05850F9de6201Ab4B930Bfc2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sponsee is the bridge that connects influencers with businesses in a fast, efficient and safe manner. Through the use of smart contracts, processes like peer reviews, dispute resolution(JURY Protocol), digital contracture are integrated into one seamless workflow."
+  },
+  "id": "16cbbaa6-2932-446d-bb03-14ab7ce441b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE41d9E1311209F2e05850F9de6201Ab4B930Bfc2",
+    "website": "https://sponsee.io/",
+    "github": "https://github.com/Sponsee/",
+    "twitter": "https://twitter.com/SPONtoken",
+    "telegram": "https://t.me/Sponsee/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sponsee/",
+    "coingecko": "https://coingecko.com/en/coins/sponsee/",
+    "facebook": "https://facebook.com/SponseeApp/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE41d9E1311209F2e05850F9de6201Ab4B930Bfc2/logo.png"
+  },
+  "name": "SPONSEE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

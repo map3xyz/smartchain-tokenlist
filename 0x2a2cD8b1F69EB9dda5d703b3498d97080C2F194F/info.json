@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CORGISWAP is a decentralized finance (DeFi) application that lets users exchange tokens while also providing liquidity through farming and earning fees"
+  },
+  "id": "983df2b3-35da-4e8d-9d17-5d2e6ccb564b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F",
+    "website": "https://corgiswap.org/",
+    "twitter": "https://twitter.com/corgidogeestate",
+    "telegram": "https://t.me/corgidoge_official",
+    "telegramNews": "https://t.me/corgidoge_news"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F/logo.png"
+  },
+  "name": "Corgiswap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CORIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

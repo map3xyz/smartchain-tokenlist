@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WINK describes itself as betting DApp."
+  },
+  "id": "bae6f3b0-ef3e-41fb-a45c-2b185dfdc6db",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+    "website": "https://www.wink.org/#/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99/logo.png"
+  },
+  "name": "WINk",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

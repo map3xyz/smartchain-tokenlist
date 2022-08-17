@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC1CD1fc18fE1Ec87A24F2858cAC493CcA86632c6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BBC is a world class digital asset, with a comprehensive technology that includes digital currency, e-commerce, education platforms cater to its community members, both local and international. World without borders, BBC will be a sought after digital economic platform-running business online seamlessly."
+  },
+  "id": "2ef05814-b06b-4bcd-af8e-505910e181b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC1CD1fc18fE1Ec87A24F2858cAC493CcA86632c6",
+    "website": "https://bbpay.io",
+    "twitter": "https://twitter.com/BigboysCoin",
+    "facebook": "https://facebook.com/Bigboyscoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC1CD1fc18fE1Ec87A24F2858cAC493CcA86632c6/logo.png"
+  },
+  "name": "BB Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

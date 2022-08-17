@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x90727C1195fB2246fd758172f9253873790d06a4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ethera is a new innovative yield farming protocol designed to reward its holders through passive staking. With a suite of BSC tools in development and other crypto variations in the pipeline."
+  },
+  "id": "ccb29e59-62c0-4a3f-8b37-6d92dec41801",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x90727C1195fB2246fd758172f9253873790d06a4",
+    "website": "https://ethera.cc",
+    "github": "https://github.com/Etheratoken",
+    "twitter": "https://twitter.com/Etheratoken",
+    "reddit": "https://reddit.com/r/Ethera/",
+    "telegram": "https://t.me/EtheraETA",
+    "coingecko": "https://coingecko.com/en/coins/ethera",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethera/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x90727C1195fB2246fd758172f9253873790d06a4/logo.png"
+  },
+  "name": "Ethera",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Combine the Playing Experience with your Favourite Dogemons!Start catching Dogemons today & If you’re a great trainer, you can find Crypto Currency as prey among other Dogemons."
+  },
+  "id": "d78cca0b-17ae-4506-acc2-32c3812719f6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9e6b3e35c8f563b45d864f9ff697a144ad28a371",
+    "website": "https://dogemongo.com/",
+    "github": "https://github.com/DomgeonGo",
+    "twitter": "https://twitter.com/DogemonGoApp",
+    "reddit": "https://reddit.com/r/dogemongoapp/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9E6B3E35c8f563B45d864f9Ff697A144ad28A371/logo.png"
+  },
+  "name": "Dogemongo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

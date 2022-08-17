@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF62723F8B7Bf9962d9577F099e7BB1Bdf9715610",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm wLink on Binance Smart Chain."
+  },
+  "id": "a5e56fa2-29c3-4240-858d-cf274abd2364",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF62723F8B7Bf9962d9577F099e7BB1Bdf9715610",
+    "website": "https://wlink.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF62723F8B7Bf9962d9577F099e7BB1Bdf9715610/logo.png"
+  },
+  "name": "wLink",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wLink",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

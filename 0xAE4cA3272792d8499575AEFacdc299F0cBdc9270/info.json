@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xAE4cA3272792d8499575AEFacdc299F0cBdc9270",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Somdejcoin (SDC) is a DeFi Token created from the blockchain as a digital coin to collect. So that Thai people and people around the world have access to the world's first digital coin Somdej. Based on the history of Thais and Asians with long-standing culture"
+  },
+  "id": "9b358cf6-1aa7-4693-b04c-09043566d88d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAE4cA3272792d8499575AEFacdc299F0cBdc9270",
+    "website": "https://www.somdejcoin.com/",
+    "telegram": "https://t.me/joinchat/NWpAwc8hKOFkZWI1",
+    "twitter": "https://twitter.com/somdejcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAE4cA3272792d8499575AEFacdc299F0cBdc9270/logo.png"
+  },
+  "name": "SOMDEJ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SDC",
+  "tags": [
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

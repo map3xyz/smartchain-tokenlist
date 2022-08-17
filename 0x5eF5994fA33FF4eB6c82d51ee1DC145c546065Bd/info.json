@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ALLOY is the farm token for the HyperJump Asteroid Field (yield farm). The HyperJump team is the continuation of THUGS one of the earliest successes on Binance Smart Chain."
+  },
+  "id": "11ff40c6-468a-4001-aefc-c52dd74c7f0d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd",
+    "website": "https://hyperjump.fi/",
+    "twitter": "https://twitter.com/HyperJumpBSC",
+    "telegram": "https://t.me/hyperjumpbsc",
+    "discord": "https://discord.com/invite/AJDqFTP",
+    "medium": "https://hyperjumpbsc.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd/logo.png"
+  },
+  "name": "HyperAlloy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALLOY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HELMET is the governance token issued by helmet.insure with total supply of 100 million."
+  },
+  "id": "175f4054-7d44-41d8-b1b8-28eba114e0b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+    "website": "https://helmet.insure",
+    "github": "https://github.com/helmet-insure/helmet-insure.github.io",
+    "twitter": "https://twitter.com/Helmet_insure",
+    "telegram": "https://t.me/helmet_insure",
+    "discord": "https://discord.com/invite/QtTJZEVds5",
+    "medium": "https://helmetinsure.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8/logo.png"
+  },
+  "name": "Helmet.insure Governance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Helmet",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

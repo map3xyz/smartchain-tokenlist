@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1cfD6813a59d7B90c41dd5990Ed99c3bf2Eb8F55",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CORGIB Finance is a fully decentralized, the first NFT MarketPlace for Meme tokens, powered by PolkaBridge"
+  },
+  "id": "6654fadd-1c3f-4ac2-b4c7-73c3cc3b4fdb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55",
+    "website": "https://corgib.polkabridge.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1cfD6813a59d7B90c41dd5990Ed99c3bf2Eb8F55/logo.png"
+  },
+  "name": "The Corgi of PolkaBridge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CORGIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

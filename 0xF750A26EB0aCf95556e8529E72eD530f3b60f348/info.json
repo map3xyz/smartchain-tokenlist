@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GreenTrust is conceived as a sustainable DeFi application providing advanced features via a highly generalized programming language based on Binance Smart Chain. The goal of GreenTrust token is to contrast the carbon emission of the blockchain technology, among several other concepts being developed in partnership with GreenTrust, have the potential to contribute to substantially increase the efficiency of the computational industry, and ultimately reduce its impact on the environment."
+  },
+  "id": "50cea35d-5aa6-4b2d-9474-0a113e466685",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+    "website": "https://www.greentrusttoken.com/",
+    "twitter": "https://twitter.com/GNT_token",
+    "telegram": "https://t.me/greentrusttoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF750A26EB0aCf95556e8529E72eD530f3b60f348/logo.png"
+  },
+  "name": "GreenTrust",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

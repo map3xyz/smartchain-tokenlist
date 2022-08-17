@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x248C1e2b50C72F04704c71BcC953799351aB30a8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Pornstar is a decentralized ecosystem to efficient farming and staking. Pornstar supports four fields. Presale will be whitelist only. This will eliminate bot's and pre-launch dumps. redistribution : 4%, lp : 4%, burn 2%"
+  },
+  "id": "e1ea4e48-d32b-42c0-8bfc-ded9244d0ec9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x248C1e2b50C72F04704c71BcC953799351aB30a8",
+    "website": "https://pornstar.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x248C1e2b50C72F04704c71BcC953799351aB30a8/logo.png"
+  },
+  "name": "Pornstar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5C8111C3BCB0Cc02AcF50bC8676d4aa1bC017607",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BUNNY DeFi is a deflationary token that allows for passive income generation for investors. Here’s how it works.BUNNY’s decentralized exchange product suite consists of SmartTrade trading and aggregation, Swap , Staking and Liquidity Mining (which include liquidity mining, trading mining, and combiner harvest mining). It is integrated with various wallet applications through which users can interact with the platform."
+  },
+  "id": "c6e503d3-02c1-441c-823c-538bec294163",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5C8111C3BCB0Cc02AcF50bC8676d4aa1bC017607",
+    "website": "https://bunny.financial/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5C8111C3BCB0Cc02AcF50bC8676d4aa1bC017607/logo.png"
+  },
+  "name": "BUNNY DeFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

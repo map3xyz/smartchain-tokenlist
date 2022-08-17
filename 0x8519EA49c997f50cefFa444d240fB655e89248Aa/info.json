@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Unlocking Liquid Capital From Staked Assets"
+  },
+  "id": "293cf316-b0f5-4f35-965e-433562b0e580",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8519ea49c997f50ceffa444d240fb655e89248aa",
+    "website": "https://rampdefi.com/",
+    "twitter": "https://twitter.com/RampDefi",
+    "telegram": "https://t.me/rampdefiofficial",
+    "medium": "https://medium.com/rampdefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8519EA49c997f50cefFa444d240fB655e89248Aa/logo.png"
+  },
+  "name": "RAMP DEFI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RAMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

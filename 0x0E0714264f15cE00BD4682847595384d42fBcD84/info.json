@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0E0714264f15cE00BD4682847595384d42fBcD84",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonBull's primary aim is to become the greatest meme coin of all time. We aim to grow with our great community and our big-name celebrity ambassadors. We're primed and ready to create great contests and competitions for our holders."
+  },
+  "id": "75e24826-c1ce-45ef-93a4-9dc203189e33",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0e0714264f15ce00bd4682847595384d42fbcd84",
+    "website": "https://www.moonbull.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0E0714264f15cE00BD4682847595384d42fBcD84/logo.png"
+  },
+  "name": "MoonBull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

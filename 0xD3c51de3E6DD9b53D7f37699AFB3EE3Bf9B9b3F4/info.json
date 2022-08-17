@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "MContent is a token built on the Binance Smart Chain, that aims to build a collaborative content ecosystem with the core purpose of seed funding, incubating and curating film makers and content producers around the World."
+  },
+  "id": "da8b3fe2-7aaf-4b77-9a4e-e8a77e8bad76",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4",
+    "website": "https://mcontent.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4/logo.png"
+  },
+  "name": "MContent",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MCONTENT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

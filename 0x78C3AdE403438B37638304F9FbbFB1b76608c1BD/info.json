@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x78C3AdE403438B37638304F9FbbFB1b76608c1BD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BinaHero is a decentralized NFT game that integrates collection, mining, market trading, and PVE. Players can play to earn in the game."
+  },
+  "id": "c7a64945-871c-45ed-936e-d26375b4437f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x78C3AdE403438B37638304F9FbbFB1b76608c1BD",
+    "website": "https://binahero.com",
+    "twitter": "https://twitter.com/binahero",
+    "telegram": "https://t.me/BinaHero"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x78C3AdE403438B37638304F9FbbFB1b76608c1BD/logo.png"
+  },
+  "name": "BinaHero",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

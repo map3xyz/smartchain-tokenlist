@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x477bC8d23c634C154061869478bce96BE6045D12",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Blockchain Innovation Ecosystem, with a Seed Stage Fund, Decentralized Incubator, and Launchpad"
+  },
+  "id": "e6769d59-f13c-4b35-b094-998e1553c445",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x477bC8d23c634C154061869478bce96BE6045D12",
+    "website": "https://seedify.fund"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x477bC8d23c634C154061869478bce96BE6045D12/logo.png"
+  },
+  "name": "SeedifyFund",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFUND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

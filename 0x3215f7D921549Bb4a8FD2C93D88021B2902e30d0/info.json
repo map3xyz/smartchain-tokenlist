@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x3215f7D921549Bb4a8FD2C93D88021B2902e30d0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NOVALAND"
+  },
+  "id": "f88d58c0-172e-4c3f-9281-10a7fe58f893",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3215f7D921549Bb4a8FD2C93D88021B2902e30d0",
+    "website": "https://novaland.io",
+    "telegram": "https://t.me/Novaland_group",
+    "twitter": "https://twitter.com/Novaland_io",
+    "telegramNews": "https://t.me/Novaland_channel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3215f7D921549Bb4a8FD2C93D88021B2902e30d0/logo.png"
+  },
+  "name": "NOVALAND",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NOVALAND",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

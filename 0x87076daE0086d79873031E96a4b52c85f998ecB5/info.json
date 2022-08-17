@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x87076daE0086d79873031E96a4b52c85f998ecB5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Revolt is a community driven, fair launched DeFi Token. Revolt will be used as the main cryptocurrency and worldwide payment system for the R-Marketplace. "
+  },
+  "id": "353f9f64-990e-4e23-83f4-f31da2f7c61c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x87076daE0086d79873031E96a4b52c85f998ecB5",
+    "website": "https://revoltcoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x87076daE0086d79873031E96a4b52c85f998ecB5/logo.png"
+  },
+  "name": "Revolt",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

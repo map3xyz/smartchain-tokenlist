@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb3d691125514Db7a5bE3326af86a72ecdC2CDE16",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ZooToken will be the hub for these Animal Coins key-values."
+  },
+  "id": "9fa93406-5fa3-4325-aba8-b9e52ebb8bd2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb3d691125514Db7a5bE3326af86a72ecdC2CDE16",
+    "website": "https://zootoken.io",
+    "twitter": "https://twitter.com/ZooToken_BSC",
+    "medium": "https://zootokenio.medium.com",
+    "telegram": "https://t.me/ZooTokenOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb3d691125514Db7a5bE3326af86a72ecdC2CDE16/logo.png"
+  },
+  "name": "Zoo Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZOOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

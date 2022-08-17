@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Next-Gen Deflationary Real Utility Token Coupled with Ultra-HD Metascanning Technology"
+  },
+  "id": "17590291-b215-40cc-aaac-acd028e43521",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+    "website": "https://metahero.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13/logo.png"
+  },
+  "name": "Metahero",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

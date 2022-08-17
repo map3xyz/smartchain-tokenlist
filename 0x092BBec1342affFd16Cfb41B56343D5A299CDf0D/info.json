@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x092BBec1342affFd16Cfb41B56343D5A299CDf0D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ShiCo is a MEME token inspired by Shiba & DOGE. Best pals ever!"
+  },
+  "id": "92ea1b0e-be5d-49c5-aee3-76819dfcbdc3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x092BBec1342affFd16Cfb41B56343D5A299CDf0D",
+    "website": "https://shibacorgi.dog"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x092BBec1342affFd16Cfb41B56343D5A299CDf0D/logo.png"
+  },
+  "name": "ShibaCorgi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ShiCo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

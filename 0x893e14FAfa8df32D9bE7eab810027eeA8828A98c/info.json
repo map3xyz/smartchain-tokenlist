@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x893e14FAfa8df32D9bE7eab810027eeA8828A98c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The First L1 Blockchain Built to Decentralize Social Me​dia"
+  },
+  "id": "4b0ac950-8e62-4b59-a1c1-d88b8448a1aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c",
+    "website": "https://unimoon.io/",
+    "twitter": "https://twitter.com/unimoonnetwork",
+    "telegram": "https://t.me/unimoonnetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c/logo.png"
+  },
+  "name": "UNIMOON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UNIMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

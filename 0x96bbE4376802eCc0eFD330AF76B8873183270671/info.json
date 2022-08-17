@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x96bbE4376802eCc0eFD330AF76B8873183270671",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "KINDNESS ORBIT is a community driven project to promote kindness among kindness Orbit ecosystem. Acts of Kindness is a language every human understand and cherish. Simply hold KOBT in your wallet and you will get more. On each transaction the protocol automatically distributes rewards to holders."
+  },
+  "id": "dd9fbf8e-8cb0-4810-8687-b0d76390baa9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x96bbE4376802eCc0eFD330AF76B8873183270671",
+    "website": "https://kindnessorbit.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x96bbE4376802eCc0eFD330AF76B8873183270671/logo.png"
+  },
+  "name": "Kindness Orbit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KOBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

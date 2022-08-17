@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x569f4957176Ffa0dff76c507604f6a66d4B9C578",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cryptostone is a disruptive innovation and fully anonymous No-KYC blockchain financial ecosystem that utilizes blockchain technology as a financial tool in people's lives. Cryptostone token is the native utility token of the Cryptostone project."
+  },
+  "id": "a3c117ac-c23e-4f9a-805d-5de339b382af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x569f4957176Ffa0dff76c507604f6a66d4B9C578",
+    "website": "https://www.crypto-stone.io/",
+    "twitter": "https://twitter.com/cryptostone_io",
+    "telegram": "https://t.me/cryptostonegroup",
+    "coingecko": "https://coingecko.com/coins/cryptostone",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptostone",
+    "whitepaper": "https://www.crypto-stone.io/whitepaper.pdf",
+    "medium": "https://crypto-stone.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x569f4957176Ffa0dff76c507604f6a66d4B9C578/logo.png"
+  },
+  "name": "Cryptostone",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CPS",
+  "tags": [
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF565aaf0b8EB813a1c8C956D2C59F1ce27FD2366",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonShield is a community driven DeFi project on the Binance Smart Chain - Users receive BNB weekly just for holding MSHLD. Audited. Contract Renounced."
+  },
+  "id": "02f53d01-c6dc-4040-a39d-e8471d5ba38b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366",
+    "website": "https://moonshield.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF565aaf0b8EB813a1c8C956D2C59F1ce27FD2366/logo.png"
+  },
+  "name": "MoonShield",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSHLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

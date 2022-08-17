@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2294b6eDD059BBD1608a109ba5F32B8c02B30038",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GoToMoon autonomous yield and liquidity generation protocol on BSC"
+  },
+  "id": "81b8edda-e468-4e44-a222-eda70436c417",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2294b6eDD059BBD1608a109ba5F32B8c02B30038",
+    "website": "https://goto-moon.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2294b6eDD059BBD1608a109ba5F32B8c02B30038/logo.png"
+  },
+  "name": "GoToMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GTM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

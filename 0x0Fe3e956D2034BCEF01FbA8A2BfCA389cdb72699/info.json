@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Please update logo and info"
+  },
+  "id": "8d669b4d-e8f8-4409-a00f-dd02c8e7fac2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
+    "website": "https://securabyte.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699/logo.png"
+  },
+  "name": "Securabyte",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SBYTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

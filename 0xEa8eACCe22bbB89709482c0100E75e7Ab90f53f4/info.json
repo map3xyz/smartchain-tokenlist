@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Chad is the greatest Binance Smart Chain meme token ever created. You already know this. That’s why you’re buying it."
+  },
+  "id": "f15c9c26-80ee-4761-8814-74f38f7ac633",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4",
+    "website": "https://www.thechadtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4/logo.png"
+  },
+  "name": "TheChadToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

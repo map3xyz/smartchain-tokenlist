@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x641a6Dc991A49f7BE9Fe3C72c5d0FBb223eDb12f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "REFI expanded opportunities by decentralizing lending and leading processes, leading to better security, accountability and transparency of the financial system.."
+  },
+  "id": "4b31b758-636f-427b-9edd-1976593c91d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
+    "website": "https://realfinance.network",
+    "github": "https://github.com/refinetwork",
+    "twitter": "https://twitter.com/refi_network",
+    "telegram": "https://t.me/Refinetwork",
+    "medium": "https://refi-network.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x641a6Dc991A49f7BE9Fe3C72c5d0FBb223eDb12f/logo.png"
+  },
+  "name": "Realfinance Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

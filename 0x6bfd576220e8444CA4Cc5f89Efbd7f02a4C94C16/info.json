@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "NFT Marketplace token to buy and sell NFT digital assets."
+  },
+  "id": "1c0e9928-c435-4e1b-ab8c-e30ff047d967",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16",
+    "website": "https://www.smaugs.com/",
+    "twitter": "https://twitter.com/smaugsnft",
+    "telegram": "https://t.me/smaugsNFTs",
+    "discord": "https://discord.com/invite/K75pa8Te",
+    "medium": "https://medium.com/@smaugnft"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16/logo.png"
+  },
+  "name": "Smaugs NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

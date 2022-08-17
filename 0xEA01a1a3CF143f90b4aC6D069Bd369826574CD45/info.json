@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEA01a1a3CF143f90b4aC6D069Bd369826574CD45",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The XXT-Token is a cryptocurrency designed to be the means of payment and integrate the entire adult entertainment ecosystem. Our objective is to use the token as currency to pay and receive for services and products, integrating customers, stores, hotels, sex-shops, motels, suppliers, adult live stream, bars and nightclubs."
+  },
+  "id": "870543e0-4d1b-49e4-9d7e-00e1ec5140a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEA01a1a3CF143f90b4aC6D069Bd369826574CD45",
+    "website": "https://xxt-token.com",
+    "twitter": "https://twitter.com/xxt_token",
+    "telegram": "https://t.me/xxt_token_brz",
+    "whitepaper": "https://xxt-token.com/wp-content/uploads/2021/06/XXT-Token-US.pdf",
+    "docs": "https://xxt-token.com/wp-content/uploads/2021/09/XXT-Token-Full-Smart-Contract-Security-Audit.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/pt-br/currencies/xxt-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEA01a1a3CF143f90b4aC6D069Bd369826574CD45/logo.png"
+  },
+  "name": "XXT-Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

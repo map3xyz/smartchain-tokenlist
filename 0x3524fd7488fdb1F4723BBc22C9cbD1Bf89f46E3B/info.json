@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "7cb3a17b-5d8e-48b9-9a62-5c7c5e2290ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B",
+    "website": "https://sushi.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B/logo.png"
+  },
+  "name": "SushiToken (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUSHI",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

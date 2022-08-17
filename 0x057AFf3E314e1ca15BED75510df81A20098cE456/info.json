@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x057AFf3E314e1ca15BED75510df81A20098cE456",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Potent coin is an ecosystem on the Binance Smart Chain blockchain that offers fast and efficient solutions for using cryptocurrencies."
+  },
+  "id": "bdc0e448-5b7f-4062-85a5-aa299765516e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x057AFf3E314e1ca15BED75510df81A20098cE456",
+    "website": "https://potent.finance/",
+    "twitter": "https://twitter.com/potent_coin",
+    "facebook": "https://facebook.com/Potent-Token-108367228056742/",
+    "telegram": "https://t.me/PotentCoin",
+    "coingecko": "https://coingecko.com/en/coins/potent-coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/potent/",
+    "whitepaper": "https://potent.finance/static/moon_safe/img/White-paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x057AFf3E314e1ca15BED75510df81A20098cE456/logo.png"
+  },
+  "name": "POTENT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

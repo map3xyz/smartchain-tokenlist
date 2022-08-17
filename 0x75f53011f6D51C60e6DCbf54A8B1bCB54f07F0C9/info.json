@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x75f53011f6D51C60e6DCbf54A8B1bCB54f07F0C9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GLMS is the native token of the Glimpse social media application."
+  },
+  "id": "d2dec8ef-907b-4538-b9d5-3186a4452292",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75f53011f6D51C60e6DCbf54A8B1bCB54f07F0C9",
+    "website": "https://www.glimpsenft.com/",
+    "telegram": "https://t.me/glimpsetoken",
+    "twitter": "https://twitter.com/glimpse_nft",
+    "medium": "https://medium.com/@glimpsenft",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/glimpse/",
+    "youtube": "https://youtube.com/channel/UCaHAkMglUoB9BhGOUBztgAQ"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x75f53011f6D51C60e6DCbf54A8B1bCB54f07F0C9/logo.png"
+  },
+  "name": "GLMS Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GLMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

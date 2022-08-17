@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Happy Fans is a subscription-based social network based on blockchain technology"
+  },
+  "id": "f2f4ed26-c32c-4ea6-bb0d-a17c002bcde6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
+    "website": "https://happyfans.club/",
+    "github": "https://github.com/Happy-Fans",
+    "telegram": "https://t.me/happyfanstoken",
+    "twitter": "https://twitter.com/HappyFansToken",
+    "medium": "https://medium.com/@happyfans",
+    "facebook": "https://facebook.com/HappyFansToken/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/happy-fans//",
+    "coingecko": "https://coingecko.com/en/coins/happyfans?__cf_chl_jschl_tk__=pmd_5x_GoFW3u34PANtYRW3VKkBxVgRP8WqudEv07qjGtCA-1634245295-0-gqNtZGzNAhCjcnBszQjR",
+    "whitepaper": "https://happyfans.club/wp-content/uploads/2021/09/litepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d/logo.png"
+  },
+  "name": "Happy Fans Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HAPPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg ThunderCore on BNB Chain. The ThunderCore Bridge allows users to transfer assets between BNB Chain and ThunderCore Blockchain. This is a customized version of POA network Bridge"
+  },
+  "id": "3669e3ee-6e92-49ff-bca6-f583176de065",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
+    "research": "https://research.binance.com/en/projects/thundercore",
+    "website": "https://bridge.thundercore.com/bsc/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85/logo.png"
+  },
+  "name": "Binance-Peg ThunderCore",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TT",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

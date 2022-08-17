@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FWC is a BEP-20 token designed for buying tickets to the World Cup, booking hotels, using various related services, placing bets, and participating in lotteries."
+  },
+  "id": "e60ff30b-8d66-48ed-8547-ac7e2ebedd8e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
+    "website": "https://qatar2022token.com/",
+    "twitter": "https://twitter.com/qatar2022token",
+    "telegram": "https://t.me/QATAR2022TOKEN_BSC",
+    "github": "https://github.com/Qatar2022token",
+    "whitepaper": "https://qatar2022token.com/Whitepaper/WhitePaper%20(QATAR%202022V1.0%20Feb%202022)%20Edition.pdf",
+    "medium": "https://medium.com/@community_28351",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qatar-2022-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc/logo.png"
+  },
+  "name": "QATAR 2022 TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Fwc",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

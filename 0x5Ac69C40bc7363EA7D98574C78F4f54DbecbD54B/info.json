@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonRabbit implements passive staking mechanisms so all a user has to do is hold MoonRabbit to start earning passive dividends. Along with passive staking, MoonRabbit has a built in liquidity function that creates and adds liquidity slowly increasing the price floor."
+  },
+  "id": "4c164ca3-ca4a-4d08-b4a6-110d0af9c847",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B",
+    "website": "https://moonrabbit.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5Ac69C40bc7363EA7D98574C78F4f54DbecbD54B/logo.png"
+  },
+  "name": "MoonRabbit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONRABBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

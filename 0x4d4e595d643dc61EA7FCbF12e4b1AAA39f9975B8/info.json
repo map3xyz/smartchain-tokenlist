@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "f52ac28c-73a6-414e-b669-90cf5ea9deb6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8",
+    "website": "http://battlepets.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8/logo.png"
+  },
+  "name": "Pet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

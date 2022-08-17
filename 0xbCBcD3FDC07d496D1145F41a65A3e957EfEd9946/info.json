@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
+  "color": null,
+  "decimals": 2,
+  "description": {
+    "en": "Aero Swap Finance is a Multi-purpose auto-generate advertisment liquidity defi & NFT aircraft market project built on binance smart chain"
+  },
+  "id": "6a06a4e2-7ae7-484c-a823-49cffc9393db",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946",
+    "website": "https://aeroswapfinance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbCBcD3FDC07d496D1145F41a65A3e957EfEd9946/logo.png"
+  },
+  "name": "AERO SWAP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x494A2f5395aC213622762e4ef4d44661758Ca639",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CashDog is a Charity Focused DeFi Token with Automatic Liquidity Generation and Token Redistribution on each trade."
+  },
+  "id": "5695a0bc-a987-4f97-a634-783f176709ab",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x494a2f5395ac213622762e4ef4d44661758ca639",
+    "website": "https://www.cashdog.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x494A2f5395aC213622762e4ef4d44661758Ca639/logo.png"
+  },
+  "name": "CashDog",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CASHDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

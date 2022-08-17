@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A token to improve the financial efficiency of the energy industry."
+  },
+  "id": "ab697941-0d2d-444c-ab03-e0bc7f1c1ebe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
+    "website": "https://www.voltacrypto.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24/logo.png"
+  },
+  "name": "Volta",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VOLTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

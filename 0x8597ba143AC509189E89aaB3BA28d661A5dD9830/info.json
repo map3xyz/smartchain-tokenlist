@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x8597ba143AC509189E89aaB3BA28d661A5dD9830",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "VANCAT platform allows users to easily deposit BEP20 tokens (ANY tokens) into an NFT. VANCAT token is the governance token of the platform."
+  },
+  "id": "c293d373-63c5-419f-b40c-04ce20885fe4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8597ba143ac509189e89aab3ba28d661a5dd9830",
+    "website": "https://www.vancattoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x8597ba143AC509189E89aaB3BA28d661A5dD9830/logo.png"
+  },
+  "name": "Old VANCAT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VANCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

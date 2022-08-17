@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Digital Financial Exchange token (DIFX) is the native token associated with the cryptocurrency exchange DIFX. Based on the Binance Smart Chain blockchain, this digital asset is BEP-20 compliant and decentralized. DIFX's value is dependent in part on the reputation of its crypto exchange."
+  },
+  "id": "0e2c4c2f-a7ff-4f85-8e1d-c62f2f0bc9b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x697bd938e7E572E787ecd7bC74a31f1814C21264",
+    "website": "https://difx.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/digital-financial-exchange/",
+    "telegram": "https://t.me/difx1",
+    "github": "https://github.com/DIFX-io",
+    "blog": "https://difxio.medium.com/",
+    "docs": "https://difx.io/assets/pdf/whitepaper.pdf",
+    "facebook": "https://facebook.com/difxexchange",
+    "twitter": "https://twitter.com/difx_io",
+    "reddit": "https://reddit.com/r/difx_exchange/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x697bd938e7E572E787ecd7bC74a31f1814C21264/logo.png"
+  },
+  "name": "Digital Financial Exchange",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DIFX",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

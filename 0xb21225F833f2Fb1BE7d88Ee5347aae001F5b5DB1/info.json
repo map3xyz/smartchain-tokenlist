@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xb21225F833f2Fb1BE7d88Ee5347aae001F5b5DB1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Crypto in your everyday life. SPAY aims to provide a decentralized, private and instant payment method based on cryptocurrency."
+  },
+  "id": "31f7faa3-b1be-48d3-ad77-2ef3b6d70f57",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb21225F833f2Fb1BE7d88Ee5347aae001F5b5DB1",
+    "website": "https://spay.finance/",
+    "twitter": "https://twitter.com/smart_spay",
+    "github": "https://github.com/smartpaymen/",
+    "telegram": "https://t.me/SPAYGLOBAL",
+    "whitepaper": "https://spay.finance/wp-content/uploads/2021/10/SPAY-Whitepaper.pdf",
+    "facebook": "https://facebook.com/Smart-Payment-SPAY-110395591423797/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/smartpayment/",
+    "coingecko": "https://coingecko.com/en/coins/smart-payment",
+    "sourceCode": "https://bscscan.com/address/0xb21225f833f2fb1be7d88ee5347aae001f5b5db1#code",
+    "docs": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/November/SPAY%20Full%20Smart%20Contract%20Security%20Audit.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb21225F833f2Fb1BE7d88Ee5347aae001F5b5DB1/logo.png"
+  },
+  "name": "SPAY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

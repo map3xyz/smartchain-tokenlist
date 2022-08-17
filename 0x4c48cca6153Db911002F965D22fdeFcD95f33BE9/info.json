@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x4c48cca6153Db911002F965D22fdeFcD95f33BE9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The essential Coin is a utility ecosystem that provides rewards to long term investors.The Essential Coins is a focus-based project with many products that will be released in multiple phases. ESC will be a blockchain meta-verse, which will have the ESC token as its native currency."
+  },
+  "id": "877391d6-6902-4160-a042-2a5d59b7d1e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4c48cca6153Db911002F965D22fdeFcD95f33BE9",
+    "website": "https://theessentialcoin.org",
+    "twitter": "https://twitter.com/essentialESC",
+    "discord": "https://discord.com/invite/jEHpJMbKF3",
+    "telegram": "https://t.me/the_essential_coin",
+    "whitepaper": "https://bit.ly/3xU43Dt",
+    "youtube": "https://youtube.com/channel/UCgf60vmEovPXe_81c4PkoWA",
+    "facebook": "https://facebook.com/The-Essential-Coin-108521301658681",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/the-essential-coin/",
+    "coingecko": "https://coingecko.com/en/coins/the-essential-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4c48cca6153Db911002F965D22fdeFcD95f33BE9/logo.png"
+  },
+  "name": "The Essential Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ESC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

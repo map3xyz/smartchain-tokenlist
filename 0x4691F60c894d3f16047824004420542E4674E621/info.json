@@ -1,0 +1,29 @@
+{
+  "active": false,
+  "address": "0x4691F60c894d3f16047824004420542E4674E621",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lucid Lands is the first decentralized NFT play-to-earn game on BSC network that integrates both 3D-animated gaming NFT and 2D unique computer-generated collective NFT marketplace."
+  },
+  "id": "8824401d-2d62-4e8a-9ef9-645a682b7bc7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4691F60c894d3f16047824004420542E4674E621",
+    "website": "https://lucidlands.io/",
+    "twitter": "https://twitter.com/lucid_lands",
+    "telegram": "https://t.me/LucidLandsOffical",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lucid-lands/",
+    "coingecko": "https://coingecko.com/en/coins/lucid-lands"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4691F60c894d3f16047824004420542E4674E621/logo.png"
+  },
+  "name": "LucidLandsGem",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LLG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

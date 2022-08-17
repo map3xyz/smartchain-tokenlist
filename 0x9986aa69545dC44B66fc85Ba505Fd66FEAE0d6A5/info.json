@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "First Blockchain Based E-commerce System And Farming Bsc Token."
+  },
+  "id": "dda45a05-9fc8-4c96-8a9e-dffbc59be482",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
+    "website": "https://bidcommerce.app/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5/logo.png"
+  },
+  "name": "BidCommerce",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIDCOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

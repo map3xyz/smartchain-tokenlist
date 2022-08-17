@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5E5C9001Aa81332D405D993FFd1468751D659d1e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Doge Inu is a deflationary token with high holder rewards on Binance Smart Chain (BSC)."
+  },
+  "id": "7a295593-67ea-40cb-b26f-91a980d269e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5e5c9001aa81332d405d993ffd1468751d659d1e",
+    "website": "https://www.babydogeinu.io/",
+    "twitter": "https://twitter.com/babydoge_inu",
+    "telegram": "https://t.me/baby_doge_inu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-doge-inu/",
+    "coingecko": "https://coingecko.com/en/coins/baby-doge-inu",
+    "facebook": "https://facebook.com/groups/552451382428964"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5E5C9001Aa81332D405D993FFd1468751D659d1e/logo.png"
+  },
+  "name": "Baby Doge Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$BABYDOGEINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

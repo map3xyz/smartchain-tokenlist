@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lucky Block envisions a worldwide lottery with players using blockchain protocols, operating on the binance smart chain. The LBlock token is listed on Pancakeswap (DEX), A leading decentralised exchange (DEX) that allows users to buy and sell. We have more than 42K token holders."
+  },
+  "id": "c8010c9f-a2bf-4545-b6cf-10e0f1fe436f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
+    "website": "https://luckyblock.com/",
+    "twitter": "https://twitter.com/luckyblockcoin",
+    "github": "https://github.com/finixio/luckyblock-smartcontract",
+    "telegram": "https://t.me/LuckyBlockChainTG"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb/logo.png"
+  },
+  "name": "LuckyBlock",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LBlock",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

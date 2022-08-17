@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First of its kind, Crypto Workstation. Manage crypto asset with a focus on Defi Space. Currently we have PancakeSwap UniSwap and QuickSwap integrated."
+  },
+  "id": "33fead12-aede-44e0-9803-34dc46117dd1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x853a8ab1c365ea54719eb13a54d6b22f1fbe7feb",
+    "website": "https://investdex.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb/logo.png"
+  },
+  "name": "Investdex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INVEST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

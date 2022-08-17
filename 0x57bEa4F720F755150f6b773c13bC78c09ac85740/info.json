@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x57bEa4F720F755150f6b773c13bC78c09ac85740",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The MGP token will decentralize the eSports sector"
+  },
+  "id": "af4a4048-a83f-44f2-86e9-de6fa6808832",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57bEa4F720F755150f6b773c13bC78c09ac85740",
+    "website": "https://microoo-gaming-protocol.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57bEa4F720F755150f6b773c13bC78c09ac85740/logo.png"
+  },
+  "name": "Micro Gaming Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

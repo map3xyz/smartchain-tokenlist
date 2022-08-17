@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2f657932E65905eA09c7aacfe898bf79e207c1C0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Robo Doge is a smart, hyper deflationary, community-driven protocol that rewards its' holders through smart tokenomics. We are a newer, more sophisticated, stronger version of the Doge family."
+  },
+  "id": "cfd16638-1f2b-4579-8c5a-2d794decb9f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2f657932E65905eA09c7aacfe898bf79e207c1C0",
+    "website": "https://www.robodogecoin.com",
+    "reddit": "https://reddit.com/r/RoboDogeCoin/",
+    "telegram": "https://t.me/RoboDoge_Coin",
+    "twitter": "https://twitter.com/https://twitter.com/RobodogeC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2f657932E65905eA09c7aacfe898bf79e207c1C0/logo.png"
+  },
+  "name": "RoboDoge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROBODOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

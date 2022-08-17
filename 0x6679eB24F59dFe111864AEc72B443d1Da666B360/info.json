@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Ariva (ARV) is a cryptocurrency supported by Ariva Co., produced for active use in global and local tourism and travel networks in the near future."
+  },
+  "id": "e88c793a-3462-4d7e-bcd9-0dc2e3d63275",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+    "website": "https://ariva.digital/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6679eB24F59dFe111864AEc72B443d1Da666B360/logo.png"
+  },
+  "name": "ARIVA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DYNASTY is a Play to Earn NFT Role-Playing Game , Launchpad platform , wallet Dynasty"
+  },
+  "id": "e22ee81b-f34b-495d-a653-88d5038b01e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
+    "website": "https://www.thedynasty.app/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/the-dynasty/",
+    "twitter": "https://twitter.com/Thedynasty_app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1802a63EFe3255aBC3004F8e63047dB96300bd1c/logo.png"
+  },
+  "name": "DYT TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DYT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

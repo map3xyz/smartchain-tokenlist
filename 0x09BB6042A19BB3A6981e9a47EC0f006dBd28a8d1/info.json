@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x09BB6042A19BB3A6981e9a47EC0f006dBd28a8d1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wedex - A next evolution DeFi exchange on Binance Smart Chain (BSC)"
+  },
+  "id": "573399c1-eda1-48b5-b28d-94fa45738ec0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x09bb6042a19bb3a6981e9a47ec0f006dbd28a8d1",
+    "website": "https://wedex.app/",
+    "twitter": "https://twitter.com/WedexApp",
+    "github": "https://github.com/wedexapp",
+    "telegram": "https://t.me/WedexNFTgroup",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wedex-token-v2/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x09BB6042A19BB3A6981e9a47EC0f006dBd28a8d1/logo.png"
+  },
+  "name": "WEDEX TOKEN V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Medacoin (by Medabots) is a new cryptocurrency that gives users the ability to manage their virtual in-game goods."
+  },
+  "id": "b86710cb-8f89-4f29-9bcc-fb686711cda0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9130990dd16ed8be8be63e46cad305c2c339dac9",
+    "website": "https://medabots.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9/logo.png"
+  },
+  "name": "Medabots",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

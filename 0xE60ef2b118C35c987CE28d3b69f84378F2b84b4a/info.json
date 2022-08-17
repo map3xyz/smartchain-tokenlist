@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE60ef2b118C35c987CE28d3b69f84378F2b84b4a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NudezCoin is the cryptocurrency of choice for adult content creators and independent porn platforms."
+  },
+  "id": "a6f89f4e-59b4-46d3-9f51-459cb52bbdd4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE60ef2b118C35c987CE28d3b69f84378F2b84b4a",
+    "website": "https://www.nudezcoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE60ef2b118C35c987CE28d3b69f84378F2b84b4a/logo.png"
+  },
+  "name": "NudesCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NUDEZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

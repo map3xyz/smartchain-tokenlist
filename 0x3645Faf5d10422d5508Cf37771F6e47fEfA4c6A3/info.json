@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3645Faf5d10422d5508Cf37771F6e47fEfA4c6A3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dogecoin Black is Memes Token"
+  },
+  "id": "4fd8d633-0b19-4177-8e32-f18e27312041",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3645Faf5d10422d5508Cf37771F6e47fEfA4c6A3",
+    "website": "https://dogecoinblack.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3645Faf5d10422d5508Cf37771F6e47fEfA4c6A3/logo.png"
+  },
+  "name": "Dogecoin Black",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

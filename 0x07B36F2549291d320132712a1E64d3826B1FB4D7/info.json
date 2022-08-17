@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x07B36F2549291d320132712a1E64d3826B1FB4D7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WIFEDOGE,DOGE'S WIFE,BABYDOGE'S MOTHER,Doge needs Wife, If you like doge, please hold wifedoge. Every Jack has his Jill"
+  },
+  "id": "6ad58c61-f78f-49dd-9692-ad49d3e5179f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x07b36f2549291d320132712a1e64d3826b1fb4d7",
+    "website": "https://wifedoge.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x07B36F2549291d320132712a1E64d3826B1FB4D7/logo.png"
+  },
+  "name": "WIFEDOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WIFEDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

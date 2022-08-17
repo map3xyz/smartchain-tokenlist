@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2aC8f06A3165f38BF582c5D2edC22B245889bD2F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Token Bali is decenteralized way to earn BNB by Holding tokens."
+  },
+  "id": "36f847a4-2ed5-4585-8fdf-3f97ef23e355",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2aC8f06A3165f38BF582c5D2edC22B245889bD2F",
+    "website": "https://tokenbalibnb.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2aC8f06A3165f38BF582c5D2edC22B245889bD2F/logo.png"
+  },
+  "name": "Token Bali",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Bali",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

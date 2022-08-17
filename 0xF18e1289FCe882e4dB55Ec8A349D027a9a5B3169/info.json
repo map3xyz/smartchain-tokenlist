@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF18e1289FCe882e4dB55Ec8A349D027a9a5B3169",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaBotChain is an app to manage assets or trade on Crypto exchange 1% Fee transaction send to MBCH LP holder"
+  },
+  "id": "b7d9c38d-6c39-4cd0-bc50-8e218f6f947a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF18e1289FCe882e4dB55Ec8A349D027a9a5B3169",
+    "website": "https://metabotchain.com/",
+    "twitter": "https://twitter.com/Metabotchain",
+    "telegram": "https://t.me/@Metabotchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF18e1289FCe882e4dB55Ec8A349D027a9a5B3169/logo.png"
+  },
+  "name": "MetaBotChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBCH",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

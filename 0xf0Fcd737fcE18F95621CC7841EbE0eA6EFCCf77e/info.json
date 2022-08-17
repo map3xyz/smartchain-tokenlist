@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xf0Fcd737fcE18F95621CC7841EbE0eA6EFCCf77e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TreeDefi is a Yield Farming project focused on deflationary tokenomics through a capped token named TREE and an uncapped deflationary token named SEED."
+  },
+  "id": "e008161f-3e63-4cd2-acfe-c5e18aa6d7e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf0Fcd737fcE18F95621CC7841EbE0eA6EFCCf77e",
+    "website": "https://treedefi.com/",
+    "twitter": "https://twitter.com/treedefi",
+    "telegram": "https://t.me/treedefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf0Fcd737fcE18F95621CC7841EbE0eA6EFCCf77e/logo.png"
+  },
+  "name": "TreeDefi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TREE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

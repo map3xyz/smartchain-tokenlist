@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x448BEE2d93Be708b54eE6353A7CC35C4933F1156",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Smart Advertising Transaction Token"
+  },
+  "id": "7bdf98da-e553-4577-9547-3d99bc728ca7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x448BEE2d93Be708b54eE6353A7CC35C4933F1156",
+    "website": "https://www.satt-token.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x448BEE2d93Be708b54eE6353A7CC35C4933F1156/logo.png"
+  },
+  "name": "SaTT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SATT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

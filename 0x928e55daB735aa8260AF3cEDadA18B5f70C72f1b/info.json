@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more."
+  },
+  "id": "bc7f21ed-fb51-4d1d-8c1a-039f6bac8aec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "website": "https://frontier.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png"
+  },
+  "name": "Frontier Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FRONT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

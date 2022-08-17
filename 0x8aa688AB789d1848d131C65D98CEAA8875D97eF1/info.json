@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MultiVAC is the innovative sharding protocol and pioneering flexible computing framework. MultiVAC is also called 'Multi-core Ethereum'. As a high-throughput and flexible public blockchain platform, MultiVAC proposed an all-dimensional sharding solution to increase TPS of blockchain, and MultiVAC is the first one that proposed a flexible computing framework, so the developers can trade-off freely about the blockchain trilemma on this framework."
+  },
+  "id": "e670b6f5-3d03-463d-8027-7aa780f0ecc4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8aa688ab789d1848d131c65d98ceaa8875d97ef1",
+    "website": "https://www.mtv.ac/",
+    "github": "https://github.com/multivactech",
+    "twitter": "https://twitter.com/MultiVAC_Global",
+    "blog": "https://multivac-global.medium.com",
+    "telegram": "https://t.me/MultiVAC2020",
+    "telegramNews": "https://t.me/MultiVACMTV",
+    "youtube": "https://youtube.com/channel/UC601thGbV-rneZB8KTtbqpA?sub_confirmation=1",
+    "facebook": "https://facebook.com/MultiVAC.MTV/",
+    "discord": "https://discord.com/zq8dbUZMCF",
+    "reddit": "https://reddit.com/r/MultiVAC_official/",
+    "whitepaper": "https://mtv.ac/assets/file/MultiVAC_Tech_Whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/multivac/",
+    "coingecko": "https://coingecko.com/en/coins/multivac"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8aa688AB789d1848d131C65D98CEAA8875D97eF1/logo.png"
+  },
+  "name": "MultiVAC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

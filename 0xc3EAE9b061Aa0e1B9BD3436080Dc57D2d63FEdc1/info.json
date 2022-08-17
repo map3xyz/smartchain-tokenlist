@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xc3EAE9b061Aa0e1B9BD3436080Dc57D2d63FEdc1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Native Token of HoneyFarm Finance Layer 2, HoneyBear"
+  },
+  "id": "1f951995-9614-4ed1-b5b2-9266668ce316",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc3EAE9b061Aa0e1B9BD3436080Dc57D2d63FEdc1",
+    "website": "https://bear.honeyfarm.finance",
+    "twitter": "https://twitter.com/HoneyFarmFi",
+    "github": "https://github.com/HoneyFarmFi/HoneyFarmContracts",
+    "telegram": "https://t.me/HoneyFarmChat",
+    "telegramNews": "https://t.me/HoneyFarmAnn",
+    "blog": "https://medium.com/@honeyfarmchef",
+    "docs": "https://docs.honeyfarm.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc3EAE9b061Aa0e1B9BD3436080Dc57D2d63FEdc1/logo.png"
+  },
+  "name": "BEAR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

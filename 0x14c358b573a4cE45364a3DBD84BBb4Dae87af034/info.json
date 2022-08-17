@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DungeonSwap is a decentralized table-top RPG style web game on the Binance Smart Chain with yield farming features and NFTs."
+  },
+  "id": "392981c4-b659-4020-8d1a-42ba39301000",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
+    "website": "https://dungeonswap.app/",
+    "telegram": "https://t.me/dungeonswap",
+    "twitter": "https://twitter.com/DungeonSwap",
+    "reddit": "https://reddit.com/r/Dungeonswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x14c358b573a4cE45364a3DBD84BBb4Dae87af034/logo.png"
+  },
+  "name": "DungeonSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

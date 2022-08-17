@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3b831d36ed418e893F42d46ff308C326C239429f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PancakeTools first binance chain pair & pool explorer based on data from PancakeSwap. Control you trading on PancakeSwap"
+  },
+  "id": "98eb1777-1b68-438e-a527-c1e4116ad24a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3b831d36ed418e893F42d46ff308C326C239429f",
+    "website": "https://pancaketools.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3b831d36ed418e893F42d46ff308C326C239429f/logo.png"
+  },
+  "name": "PancakeTools",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

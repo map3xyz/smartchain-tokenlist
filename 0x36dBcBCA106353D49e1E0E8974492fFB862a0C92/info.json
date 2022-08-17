@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A unique Rugpull-Proof utility token and exchange platform based on the Binance Smart Chain. Our exchange is here to return security to BEP20 token investments."
+  },
+  "id": "50caeb84-2b0f-4692-885d-827fef5e3bd1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
+    "website": "https://www.safememe.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x36dBcBCA106353D49e1E0E8974492fFB862a0C92/logo.png"
+  },
+  "name": "SafeMeme",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

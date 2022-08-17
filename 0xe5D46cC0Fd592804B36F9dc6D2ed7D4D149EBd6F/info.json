@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe5D46cC0Fd592804B36F9dc6D2ed7D4D149EBd6F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sportemon-Go the NFT Gaming Revolution."
+  },
+  "id": "cabdf776-2bdb-4444-a245-830b9a8bd2c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe5D46cC0Fd592804B36F9dc6D2ed7D4D149EBd6F",
+    "website": "https://sportemongo.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe5D46cC0Fd592804B36F9dc6D2ed7D4D149EBd6F/logo.png"
+  },
+  "name": "Sportemon-Go",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

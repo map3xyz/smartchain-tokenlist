@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0C3Ea5aAC39101E5b3989b3f19181D8591b734d0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first of its kind, $PLUTO ties a narrative to universal basic income (UBI) driven by the community that collaborates on a “choose-your-own-adventure” model of governance to propel Pepe across the galaxy and earn $PLUTO and $PEPE tokens in return"
+  },
+  "id": "bce4f344-39ea-47dd-8f07-eb1e129999ec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0C3Ea5aAC39101E5b3989b3f19181D8591b734d0",
+    "website": "https://plutopepe.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0C3Ea5aAC39101E5b3989b3f19181D8591b734d0/logo.png"
+  },
+  "name": "PlutoPepe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PLUTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

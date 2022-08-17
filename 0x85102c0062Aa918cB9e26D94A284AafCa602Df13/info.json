@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x85102c0062Aa918cB9e26D94A284AafCa602Df13",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Avalon, frictionless yield and liquidity generation protocol on BSC."
+  },
+  "id": "8e3d1395-606e-446f-95c9-84fa9f317504",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x85102c0062Aa918cB9e26D94A284AafCa602Df13",
+    "website": "https://avalonprotocol.com/",
+    "twitter": "https://twitter.com/Avalon_Protocol",
+    "telegram": "https://t.me/AvalonProtocol",
+    "reddit": "https://reddit.com/r/AvalonProtocol/",
+    "medium": "https://medium.com/@avalonprotocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x85102c0062Aa918cB9e26D94A284AafCa602Df13/logo.png"
+  },
+  "name": "Avalon Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AVLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

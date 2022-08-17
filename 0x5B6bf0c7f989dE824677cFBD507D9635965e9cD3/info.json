@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GMM is the governance and medium of exchange token of Gamium"
+  },
+  "id": "679739c8-c7c6-4087-8ce2-899342173dd4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3",
+    "website": "https://gamium.world",
+    "twitter": "https://twitter.com/gamiumcorp",
+    "telegram": "https://t.me/gamiumcorp",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamium/",
+    "coingecko": "https://coingecko.com/coins/gamium",
+    "medium": "https://medium.com/@gamium",
+    "whitepaper": "https://whitepaper.gamium.world"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3/logo.png"
+  },
+  "name": "Gamium",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMM",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

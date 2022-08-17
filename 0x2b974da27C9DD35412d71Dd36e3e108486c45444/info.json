@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2b974da27C9DD35412d71Dd36e3e108486c45444",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "CZXP unlock higher level NFT minting from the Cryptoz store, and are generated through the sacrifice of Cryptoz NFT tokens"
+  },
+  "id": "9faceadd-8533-4e2d-a013-61af1d52f7be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2b974da27C9DD35412d71Dd36e3e108486c45444",
+    "website": "https://bsc.cryptoz.cards"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2b974da27C9DD35412d71Dd36e3e108486c45444/logo.png"
+  },
+  "name": "CryptoZ eXPerience",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CZXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

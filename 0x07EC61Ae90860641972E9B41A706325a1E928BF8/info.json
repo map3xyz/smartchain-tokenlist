@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x07EC61Ae90860641972E9B41A706325a1E928BF8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Volt Inu ($VOLT) is a hyper-deflationary token whose aim is to invest in multiple asset classes such as NFTs, nodes, altcoins, staking & farming of stablecoins."
+  },
+  "id": "57c29b55-300f-4d14-9d7b-88e78db745a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x07EC61Ae90860641972E9B41A706325a1E928BF8",
+    "website": "https://voltinu.in",
+    "twitter": "https://twitter.com/VoltInuOfficial",
+    "telegram": "https://t.me/VoltInuOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x07EC61Ae90860641972E9B41A706325a1E928BF8/logo.png"
+  },
+  "name": "Volt Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VOLT",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

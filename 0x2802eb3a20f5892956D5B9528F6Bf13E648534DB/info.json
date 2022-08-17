@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2802eb3a20f5892956D5B9528F6Bf13E648534DB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized system designed to build a data oracle network based on an open protocol for interaction between participants and a sustainable economy."
+  },
+  "id": "f1c91d06-d5ac-4a9d-a8aa-db89e4d70d17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2802eb3a20f5892956d5b9528f6bf13e648534db",
+    "website": "https://odinprotocol.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2802eb3a20f5892956D5B9528F6Bf13E648534DB/logo.png"
+  },
+  "name": "Odin Protocol Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ODIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9a7B87651C6C93cedb831B2B3b5549142a813Cfe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A fun & easy AMM DEX on Binance Smart Chain."
+  },
+  "id": "2c14cfe0-3fc0-46e0-915f-e4765cc73ca6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9a7B87651C6C93cedb831B2B3b5549142a813Cfe",
+    "website": "https://kokomoswap.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9a7B87651C6C93cedb831B2B3b5549142a813Cfe/logo.png"
+  },
+  "name": "Kokomo Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KOKOMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x179960442Ece8dE9f390011b7f7c9b56C74e4D0a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Xeta is a Serverless Layer-1 Blockchain Ecosystem for Metaverse, Gaming, and NFT Applications."
+  },
+  "id": "a84ca93b-166d-41fb-b3ab-b90a5647bd16",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x179960442Ece8dE9f390011b7f7c9b56C74e4D0a",
+    "website": "https://xetareality.com",
+    "github": "https://github.com/XetaReality",
+    "whitepaper": "https://xetareality.com/whitepaper.pdf",
+    "twitter": "https://twitter.com/XetaReality",
+    "telegram": "https://t.me/XetaReality",
+    "medium": "https://xetareality.medium.com/",
+    "reddit": "https://reddit.com/r/XetaReality",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xeta-reality/",
+    "coingecko": "https://coingecko.com/en/coins/xeta-reality"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x179960442Ece8dE9f390011b7f7c9b56C74e4D0a/logo.png"
+  },
+  "name": "Xeta Reality",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XETA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

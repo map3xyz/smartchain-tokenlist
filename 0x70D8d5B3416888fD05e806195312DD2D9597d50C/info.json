@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x70D8d5B3416888fD05e806195312DD2D9597d50C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MEXI is the governance token of the Metaxiz system. Users can use MEXI for their NFT’s transactions on the Metaxiz marketplace, join the play-and-earn games in Metaxiz Metaverse and enjoy various functionalities of the Metaxiz ecosystem in the future."
+  },
+  "id": "b4a2f239-316a-4836-b5ee-aaa7b0c230d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x70d8d5b3416888fd05e806195312dd2d9597d50c",
+    "website": "https://metaxiz.com",
+    "twitter": "https://twitter.com/Metaxiz_MEXI",
+    "telegram": "https://t.me/Metaxiz",
+    "docs": "https://docs.metaxiz.com/metaxiz",
+    "medium": "https://medium.com/@metaxiz",
+    "youtube": "https://youtube.com/c/Metaxiz",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaxiz/",
+    "coingecko": "https://coingecko.com/coins/metaxiz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x70D8d5B3416888fD05e806195312DD2D9597d50C/logo.png"
+  },
+  "name": "MEXI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEXI",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Our mission is to create wealth, for all Grovers, by harnessing the opportunities of a secure, decentralized digital currency in an environmentally conscious way. By compensating nature for years of abuse, Grove will create a healthier, wealthier future for all."
+  },
+  "id": "061916e9-e311-4f9d-a862-e31815bde753",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+    "website": "https://www.grovetoken.com/",
+    "twitter": "https://twitter.com/grovetoken",
+    "telegram": "https://t.me/grovetoken",
+    "discord": "https://discord.com/grovetoken",
+    "whitepaper": "https://global-uploads.webflow.com/62b03f7c4e77803f83b758a2/62b97125c0b635fb993e4ac9_(ENGLISH)%20GroveToken-Whitepaper-v.1.4.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/grove/",
+    "coingecko": "https://coingecko.com/coins/grove"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB/logo.png"
+  },
+  "name": "Grove",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GVR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

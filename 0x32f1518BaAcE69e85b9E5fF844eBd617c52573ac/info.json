@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dexsport — Revolutionizing Decentralized Betting"
+  },
+  "id": "92c1abb9-eeb7-4787-8209-5809037fa6cc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
+    "website": "https://dexsport.io",
+    "telegram": "https://t.me/dexsport_en",
+    "twitter": "https://twitter.com/dexsport_io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac/logo.png"
+  },
+  "name": "Dexsport",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DESU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

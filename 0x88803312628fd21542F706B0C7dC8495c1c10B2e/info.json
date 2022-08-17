@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x88803312628fd21542F706B0C7dC8495c1c10B2e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DeFi Degen Land is a Metaverse / gamified DeFi where the player join an online 'world' that has the capability of interacting with the blockchain. DeFiDegenLand holders earns Bitcoin as an incentive to keep holding the token, also it's the native token on the metaverse."
+  },
+  "id": "c15759db-f2b2-41f8-86e8-46ec29b98c19",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x88803312628fd21542F706B0C7dC8495c1c10B2e",
+    "website": "https://defidegenland.com/",
+    "telegram": "https://t.me/DeFiDegenLand",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defi-degen-land/",
+    "twitter": "https://twitter.com/DeFi_Degen_Land"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x88803312628fd21542F706B0C7dC8495c1c10B2e/logo.png"
+  },
+  "name": "DeFi Degen Land",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DDL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

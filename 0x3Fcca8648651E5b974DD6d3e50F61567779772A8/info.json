@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The win-win lottery on Binance SmartChain where every ticket earns you interest."
+  },
+  "id": "aba5e8b8-51db-4b50-96a4-c073b052c4c0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3fcca8648651e5b974dd6d3e50f61567779772a8",
+    "website": "https://moonpot.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3Fcca8648651E5b974DD6d3e50F61567779772A8/logo.png"
+  },
+  "name": "Moonpot",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

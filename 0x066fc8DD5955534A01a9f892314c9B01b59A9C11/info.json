@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x066fc8DD5955534A01a9f892314c9B01b59A9C11",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PAWS’ Primary goal is to help streamline the donations towards animal shelters, conservation, and charities through a centralized platform that guarantees the authenticity of the organizations."
+  },
+  "id": "db2269e1-5ecb-47d4-adf9-5abca016afa4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x066fc8DD5955534A01a9f892314c9B01b59A9C11",
+    "website": "https://animaladoptionadvocacy.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x066fc8DD5955534A01a9f892314c9B01b59A9C11/logo.png"
+  },
+  "name": "Animal Adoption Advocacy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

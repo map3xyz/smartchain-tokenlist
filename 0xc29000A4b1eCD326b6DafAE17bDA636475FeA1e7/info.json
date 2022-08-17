@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PancakePoll is a voting platform that utilizes the security and immutability of the Binance Smart Chain."
+  },
+  "id": "f1ca0f2b-1147-49e4-9ecd-3725a8c9aa94",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7",
+    "website": "https://pancakepoll.com/",
+    "twitter": "https://twitter.com/PancakePoll",
+    "telegram": "https://t.me/pancakepollbsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7/logo.png"
+  },
+  "name": "PancakePoll",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PPOLL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

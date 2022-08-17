@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BETH is a tokenized asset representing staked ETH at Binance Staking on a 1:1 basis."
+  },
+  "id": "f3034e00-511f-4c94-b8d1-20d6756cbf18",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+    "website": "https://binance.com/en/eth2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B/logo.png"
+  },
+  "name": "Binance Beacon ETH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7B86b0836f3454e50C6F6a190cd692bB17da1928",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BEM is a token issued by BEMIL MT INTERNATIONAL DOO"
+  },
+  "id": "cc634333-1362-4824-aa76-6474bc797f17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7B86b0836f3454e50C6F6a190cd692bB17da1928",
+    "website": "https://bemil.io/",
+    "twitter": "https://twitter.com/BemilGame",
+    "telegram": "https://t.me/bemil_chat",
+    "telegramNews": "https://t.me/bemil_official_channel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bemil-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7B86b0836f3454e50C6F6a190cd692bB17da1928/logo.png"
+  },
+  "name": "BEM",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEM",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

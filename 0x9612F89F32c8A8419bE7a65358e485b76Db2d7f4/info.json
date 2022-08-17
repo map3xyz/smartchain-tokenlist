@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9612F89F32c8A8419bE7a65358e485b76Db2d7f4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BulleX is revolutionizing the way we earn passive income. A Hyper-Deflationary Buy-Back token that automatically rewards holders with BNB. Our Rewards Pool ensures that rewards remain flowing should there be low volume."
+  },
+  "id": "4abc724c-4d0f-4fd6-9e8b-bda5e1a79021",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9612F89F32c8A8419bE7a65358e485b76Db2d7f4",
+    "website": "https://bullextoken.com/",
+    "telegram": "https://t.me/bullextoken",
+    "github": "https://github.com/BullexTeam",
+    "twitter": "https://twitter.com/bullextoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bullex/",
+    "coingecko": "https://coingecko.com/en/coins/bullex"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9612F89F32c8A8419bE7a65358e485b76Db2d7f4/logo.png"
+  },
+  "name": "BulleX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

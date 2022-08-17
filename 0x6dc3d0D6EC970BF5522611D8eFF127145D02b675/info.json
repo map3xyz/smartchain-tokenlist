@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Revolotto is a Deflationary token; four-dimensional, 80% to buyer, 9% to LP, 5% burns & 6% distribution."
+  },
+  "id": "a92e7fef-18c6-475d-ba92-bc1e244a4673",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+    "website": "https://revolotto.org",
+    "github": "https://github.com/revolotto",
+    "twitter": "https://twitter.com/revolotto",
+    "reddit": "https://reddit.com/r/Revolotto/",
+    "whitepaper": "https://revolotto.org/#whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675/logo.png"
+  },
+  "name": "Revolotto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RVL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

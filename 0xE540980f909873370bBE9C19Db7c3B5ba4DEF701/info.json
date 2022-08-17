@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE540980f909873370bBE9C19Db7c3B5ba4DEF701",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sustainable and ongoing buy-back generation.The iLayer token will be the first project on the iLayer ecosystem and will have a 5% Buy-back tax on each transaction which will be locked in the contract and be used to allow buy-back of some of the tokens whenever a sell occurs."
+  },
+  "id": "c4c7da79-e338-4ea3-9cf3-6a85ae46c16c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE540980f909873370bBE9C19Db7c3B5ba4DEF701",
+    "website": "https://www.ilayer.io/",
+    "twitter": "https://twitter.com/iLayerEcosystem",
+    "coingecko": "https://coingecko.com/coins/ilayer",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ilayer/",
+    "telegram": "https://t.me/iLayerEcosystem"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE540980f909873370bBE9C19Db7c3B5ba4DEF701/logo.png"
+  },
+  "name": "iLayer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "iLayer",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

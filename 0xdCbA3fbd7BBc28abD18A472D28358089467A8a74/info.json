@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xdCbA3fbd7BBc28abD18A472D28358089467A8a74",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Centric is an innovative dual-token digital currency & decentralized blockchain protocol built on sound economics that yields a return hourly."
+  },
+  "id": "d2dd2872-89f5-420a-940b-e6440b3b5623",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdCbA3fbd7BBc28abD18A472D28358089467A8a74",
+    "website": "https://www.centric.com/",
+    "github": "https://github.com/Centric-Org",
+    "twitter": "https://twitter.com/centricrise",
+    "reddit": "https://reddit.com/user/joincentric",
+    "discord": "https://discord.com/invite/KjwY64h",
+    "telegram": "https://t.me/CentricChat",
+    "telegramNews": "https://t.me/centric"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdCbA3fbd7BBc28abD18A472D28358089467A8a74/logo.png"
+  },
+  "name": "Centric RISE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CNR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

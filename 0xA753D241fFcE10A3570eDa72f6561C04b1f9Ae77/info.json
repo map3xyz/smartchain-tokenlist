@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xA753D241fFcE10A3570eDa72f6561C04b1f9Ae77",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TitsV2coin dedicated to crypto lovers around the world who encourage breast cancer awareness and the enhancement or correction done by breast augmentation."
+  },
+  "id": "b4befe62-4e37-499a-ae07-858f2410edb7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa753d241ffce10a3570eda72f6561c04b1f9ae77",
+    "website": "https://titscoin.io/",
+    "whitepaper": "https://titscoin.io/whitepaper",
+    "twitter": "https://twitter.com/titsfortits2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA753D241fFcE10A3570eDa72f6561C04b1f9Ae77/logo.png"
+  },
+  "name": "TitsV2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TITS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

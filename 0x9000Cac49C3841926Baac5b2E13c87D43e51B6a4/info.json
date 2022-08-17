@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First In-game and Metaverse Ads Token On Blockchain. Portuma Token ($POR) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 10 Billion tokens in total. POR's bravest goal to offer an in-game advertising tool to all mobile and desktop game developers and companies and users of the world."
+  },
+  "id": "054d2bda-ada9-4797-aee6-822256d05edf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4",
+    "website": "https://portoken.com",
+    "twitter": "https://twitter.com/portuma",
+    "github": "https://github.com/portuma",
+    "telegram": "https://t.me/portumacommunity",
+    "telegramNews": "https://t.me/portumatoken",
+    "blog": "https://portumatoken.medium.com/",
+    "discord": "https://discord.com/invite/4Sr4jKChEb",
+    "whitepaper": "https://portoken.com/portoken-whitepaper.pdf",
+    "medium": "https://portumatoken.medium.com/",
+    "youtube": "https://youtube.com/channel/UCWy5m7fs4KWL75u-I8_D_5g",
+    "facebook": "https://facebook.com/portumatoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/portuma/",
+    "coingecko": "https://coingecko.com/en/coins/portuma",
+    "sourceCode": "https://github.com/portuma/portoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9000Cac49C3841926Baac5b2E13c87D43e51B6a4/logo.png"
+  },
+  "name": "Portuma",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

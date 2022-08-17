@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc845341377C68b8003485036c3163b8DBcf8acb2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFEWOLF is a community driven project built on Binance Smart Chain #BSC. Two functions occur during each trade: Reflection & Burn. SAFEWOLF brings the most revolutionary mechanism to BSC ecosystem"
+  },
+  "id": "f1654299-72ca-4bcd-af05-04cbc6479f97",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc845341377C68b8003485036c3163b8DBcf8acb2",
+    "website": "https://safewolf.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc845341377C68b8003485036c3163b8DBcf8acb2/logo.png"
+  },
+  "name": "SafeWolf",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

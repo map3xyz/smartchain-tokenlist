@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x24cE3d571fBcFD9D81dc0e1a560504636a4D046d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Own your pets in the metaverse"
+  },
+  "id": "1a185a67-035e-477d-bd83-0f18ac12f61d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x24cE3d571fBcFD9D81dc0e1a560504636a4D046d",
+    "website": "https://metapetscoin.com",
+    "twitter": "https://twitter.com/metapetscoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metapets/",
+    "coingecko": "https://coingecko.com/coins/metapets",
+    "reddit": "https://reddit.com/user/Metapets/",
+    "telegram": "https://t.me/metapets",
+    "whitepaper": "https://metapetscoin.gitbook.io/metapets/",
+    "discord": "https://discord.com/NQKR42dVmm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x24cE3d571fBcFD9D81dc0e1a560504636a4D046d/logo.png"
+  },
+  "name": "MetaPets",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MetaPets",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

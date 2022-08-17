@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB05513809549b8654fA1228b123A36c78a3356F4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Yield-generating contract with 🔥burn (50% of total supply), 💰liquidity (5% fee) and 🙌redistribution (5% fee)."
+  },
+  "id": "efc7cf9a-8ea1-4641-ac44-c85961bcb22e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB05513809549b8654fA1228b123A36c78a3356F4",
+    "website": "https://bossdogtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB05513809549b8654fA1228b123A36c78a3356F4/logo.png"
+  },
+  "name": "BossDog",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$BOSSDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BNB Cash"
+  },
+  "id": "8851a727-e382-486c-a934-286b305960aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+    "website": "https://bnbcash.uk"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x101D35140719EB2D07fFA71185f5bfBE31D6A212/logo.png"
+  },
+  "name": "BNB Cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

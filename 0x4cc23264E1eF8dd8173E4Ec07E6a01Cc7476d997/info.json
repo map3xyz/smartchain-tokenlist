@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x4cc23264E1eF8dd8173E4Ec07E6a01Cc7476d997",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Robust Token (RBT) is an original concept token on the Binance Smart Chain with a limited supply of 100 000 RBT and a 1% burn per transaction that gets converted into Robust Reward (RBW)."
+  },
+  "id": "028abbe1-79e6-47c8-adef-6f5a5c8e5a8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4cc23264E1eF8dd8173E4Ec07E6a01Cc7476d997",
+    "website": "https://robustprotocol.fi",
+    "telegram": "https://t.me/robustprotocol/",
+    "twitter": "https://twitter.com/robustprotocol/",
+    "docs": "https://docs.robustprotocol.fi/",
+    "whitepaper": "https://robustprotocol.fi/RobustProtocol.pdf",
+    "medium": "https://robustprotocol.medium.com/",
+    "github": "https://github.com/robustprotocol/",
+    "reddit": "https://reddit.com/r/robustprotocol/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4cc23264E1eF8dd8173E4Ec07E6a01Cc7476d997/logo.png"
+  },
+  "name": "Robust Reward",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RBW",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

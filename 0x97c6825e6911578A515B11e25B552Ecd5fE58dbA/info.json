@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x97c6825e6911578A515B11e25B552Ecd5fE58dbA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BurningMoon is a hyper-deflationary reward token with multiple use cases. It features unique tokenomics to create and sustain an entire ecosystem, which makes it very different from the tokens that are usually entering the cryptosphere."
+  },
+  "id": "afe1646a-80ea-4f61-b14a-648b867ae79a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x97c6825e6911578a515b11e25b552ecd5fe58dba",
+    "website": "https://burningmoon.finance/",
+    "twitter": "https://twitter.com/BurningMoonBSC",
+    "telegram": "https://t.me/BurningMoonBSC",
+    "coingecko": "https://coingecko.com/en/coins/burningmoon",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/burningmoon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x97c6825e6911578A515B11e25B552Ecd5fE58dbA/logo.png"
+  },
+  "name": "BurningMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

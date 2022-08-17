@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x47e7dd5fA9BBd280C5422E5106b1Da444344c206",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WoW is a frictionless Yield & Liquidity Generation Token with a 10% fee: 5% Redistribution to all holders, 3% Matched LP, 2% to our Charity wallet for saving the worlds aquatic wildlife!"
+  },
+  "id": "42212612-0627-4866-85c9-185672f57555",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47e7dd5fA9BBd280C5422E5106b1Da444344c206",
+    "website": "https://wow.surf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x47e7dd5fA9BBd280C5422E5106b1Da444344c206/logo.png"
+  },
+  "name": "World of Waves",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

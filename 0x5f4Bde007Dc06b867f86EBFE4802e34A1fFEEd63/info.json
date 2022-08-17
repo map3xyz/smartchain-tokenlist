@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Inspired by classics from Nintendo, encouraged by a shared addiction in MMOs, and finally consolidated by our team’s 6 years of experience serving retail customers with VR, Highstreet creates the Shopify experience on an MMORPG for brands while presenting a true path to the Metaverse for players."
+  },
+  "id": "bcebd892-fcfc-4b68-8b33-d649e09522ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+    "website": "https://www.highstreet.market/",
+    "twitter": "https://twitter.com/highstreetworld ",
+    "github": "https://github.com/TravisBuilds/HighStreet",
+    "telegram": "https://t.me/highstreetworld",
+    "discord": "https://discord.com/invite/439FhsrMu2",
+    "whitepaper": "https://docsend.com/view/czjyuggsatn8hpj5",
+    "facebook": "https://facebook.com/highstreetmkt",
+    "youtube": "https://youtube.com/channel/UCzXzF5_1RQupiUG0pVGJZmA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/highstreet/project-info/",
+    "coingecko": "https://coingecko.com/en/coins/highstreet",
+    "medium": "https://medium.com/highstreet-market "
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63/logo.png"
+  },
+  "name": "Highstreet Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HIGH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

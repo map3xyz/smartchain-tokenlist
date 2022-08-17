@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6cf271270662be1C4fc1b7BB7D7D7Fc60Cc19125",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Kunci Coin is building the next generation blockchain for mass adoption, born to support NFT Marketplace, Metaverse, Decentralize Finance, and retail penetration."
+  },
+  "id": "adfb0f32-6af8-4676-bcc7-2cf58cdeea88",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6cf271270662be1C4fc1b7BB7D7D7Fc60Cc19125",
+    "website": "https://kuncicoin.com/",
+    "twitter": "https://twitter.com/Kuncicoin_id",
+    "facebook": "https://facebook.com/Kunci-Coin-111956938024588",
+    "telegram": "https://t.me/kunciofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kunci-coin/",
+    "github": "https://github.com/kuncicoin/",
+    "coingecko": "https://coingecko.com/en/coins/kunci-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6cf271270662be1C4fc1b7BB7D7D7Fc60Cc19125/logo.png"
+  },
+  "name": "Kunci Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KUNCI",
+  "tags": [
+    "nft",
+    "defi",
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

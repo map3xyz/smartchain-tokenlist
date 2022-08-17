@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xfc619FfCc0e0F30427BF938f9A1B2BfAE15bDf84",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Anji sets a new precedent with the worlds first smart contract dividends protocol. Growth powered by the community and ecosystem."
+  },
+  "id": "c24436c4-68ab-4503-9418-a5891d26d486",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfc619FfCc0e0F30427BF938f9A1B2BfAE15bDf84",
+    "website": "https://www.anji.eco/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/anji/",
+    "coingecko": "https://coingecko.com/en/coins/anji"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfc619FfCc0e0F30427BF938f9A1B2BfAE15bDf84/logo.png"
+  },
+  "name": "Anji",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANJI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

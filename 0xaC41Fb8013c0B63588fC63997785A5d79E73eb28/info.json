@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xaC41Fb8013c0B63588fC63997785A5d79E73eb28",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "the main purpose of the FRZS token is to strengthen the solar energy industry "
+  },
+  "id": "5167325e-9159-4bdc-880f-5974434e881a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xac41fb8013c0b63588fc63997785a5d79e73eb28",
+    "website": "https://frzss.com/",
+    "twitter": "https://twitter.com/frztoken?t=50fc06_SxNW9rpEaR8-1cQ&s=09",
+    "telegram": "https://t.me/frzsstoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frz-solar-system/",
+    "whitepaper": "https://frzss.com/White-Paper/",
+    "github": "https://bscscan.com/address/0xac41fb8013c0b63588fc63997785a5d79e73eb28#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaC41Fb8013c0B63588fC63997785A5d79E73eb28/logo.png"
+  },
+  "name": "Frz solar system",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Frzss",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

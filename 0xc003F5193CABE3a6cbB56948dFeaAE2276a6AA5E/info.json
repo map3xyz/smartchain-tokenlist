@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone."
+  },
+  "id": "2c4dc327-f66f-423a-8cd8-44f65d2afb67",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E",
+    "website": "https://www.trubadger.io/",
+    "twitter": "https://twitter.com/thetrubadger/",
+    "github": "https://github.com/trubadger",
+    "telegram": "https://t.me/TruBadgerOfficial",
+    "telegramNews": "https://t.me/TRUBGRannouncements",
+    "discord": "https://discord.com/invite/ajssE9hPmW",
+    "reddit": "https://reddit.com/r/TheTruBadger/",
+    "whitepaper": "https://trubadger.io/whitepaper.pdf",
+    "medium": "https://medium.com/@trubadgertoken",
+    "youtube": "https://youtube.com/c/TruBadgerToken",
+    "facebook": "https://facebook.com/TruBadgerToken/",
+    "coinmarketcap": "https://coinmarketcap.com/en/currencies/trubadger",
+    "coingecko": "https://coingecko.com/en/coins/trubadger",
+    "sourceCode": "https://github.com/trubadger/smart-contracs"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E/logo.png"
+  },
+  "name": "TruBadger",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRUBGR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

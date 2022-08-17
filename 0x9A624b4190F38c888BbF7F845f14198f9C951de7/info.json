@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9A624b4190F38c888BbF7F845f14198f9C951de7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Burnace is the World's Highest Hyper deflationary Token created to evolve with burn methods."
+  },
+  "id": "1786d6b3-842d-4d33-bf56-46b8c1d38c6a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9A624b4190F38c888BbF7F845f14198f9C951de7",
+    "website": "https://burnace.io",
+    "twitter": "https://twitter.com/burnace_io",
+    "github": "https://github.com/burnace/burnace",
+    "telegram": "https://t.me/burnace",
+    "telegramNews": "https://t.me/burnacenews",
+    "blog": "https://burnace.medium.com",
+    "docs": "https://docs.burnace.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9A624b4190F38c888BbF7F845f14198f9C951de7/logo.png"
+  },
+  "name": "BURNACE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

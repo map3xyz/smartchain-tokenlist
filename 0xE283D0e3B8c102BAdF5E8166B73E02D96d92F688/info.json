@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "- Rediscover innovation with rewards without farming or staking Balanced distribution. Fueled by ecosystem contracts. Frictionless rewards directly to holder’s wallet Locked-liquidity. Auto-rebalancing burn address. A cashflow asset"
+  },
+  "id": "37f33108-1565-4494-a086-f2c460d796c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+    "website": "https://elephant.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688/logo.png"
+  },
+  "name": "Elephant Money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELEPHANT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "bShiba is a community driven, fair launched DeFi Token which works by applying a 10% fee to each transaction, where 5% of the transaction fee is instantly split among all holders of the token and the other 5% fee is added and locked into the bShiba-BNB liquidity pool on Pancakeswap."
+  },
+  "id": "0155006e-ab70-46cf-975f-b373f9d9a2a6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e",
+    "website": "https://shibacorp.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6158b3435DC3bc54a19A32Da2A2ed22aeC3bEF3e/logo.png"
+  },
+  "name": "bscShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bShiba",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

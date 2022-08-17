@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7cE4AcCd9bb261508ABd20B134D6278902369057",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AINORI is develops various platforms such as Mining, Staking, Yield Farming, Binary Options, etc. called MyCoinGet. TAMAGO, which can be obtained from MyCoinGet mining,"
+  },
+  "id": "743894fd-950c-4fa4-bfbe-41b20abbe8a6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7cE4AcCd9bb261508ABd20B134D6278902369057",
+    "website": "https://mycoinget.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7cE4AcCd9bb261508ABd20B134D6278902369057/logo.png"
+  },
+  "name": "AINORI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EverETH is a native utility token that is used for recieving dividends in Ethereum."
+  },
+  "id": "f85e5807-9e8f-44f0-ab54-30925a157c89",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037",
+    "website": "https://evereth.net",
+    "twitter": "https://twitter.com/EverETHofficial",
+    "facebook": "https://facebook.com/EverETHofficial",
+    "telegram": "https://t.me/EverETHofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037/logo.png"
+  },
+  "name": "EverETH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EverETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

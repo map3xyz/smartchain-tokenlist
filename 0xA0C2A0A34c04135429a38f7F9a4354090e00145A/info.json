@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xA0C2A0A34c04135429a38f7F9a4354090e00145A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PRX is a token issued by Primex under Binance Smart-Chain."
+  },
+  "id": "bf2c1e51-145c-482e-85e7-13bccfa82c17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA0C2A0A34c04135429a38f7F9a4354090e00145A",
+    "website": "https://prxeco.io/",
+    "twitter": "https://twitter.com/PrimexCapital",
+    "github": "https://github.com/primexdev",
+    "telegram": "https://t.me/prxeco",
+    "whitepaper": "https://prxeco.io/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA0C2A0A34c04135429a38f7F9a4354090e00145A/logo.png"
+  },
+  "name": "Primex Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

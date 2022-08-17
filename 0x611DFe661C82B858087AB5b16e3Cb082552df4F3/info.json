@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x611DFe661C82B858087AB5b16e3Cb082552df4F3",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm Chia on Binance Smart Chain."
+  },
+  "id": "97e66ef8-2b7c-4f23-ac39-db581731264d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x611DFe661C82B858087AB5b16e3Cb082552df4F3",
+    "website": "https://chianetwork.app/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x611DFe661C82B858087AB5b16e3Cb082552df4F3/logo.png"
+  },
+  "name": "Chia",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Chia",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

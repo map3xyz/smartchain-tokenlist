@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xA7f552078dcC247C2684336020c03648500C6d9F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ellipsis Finance aims to offer secure low-slippage stable swapping."
+  },
+  "id": "b9ae9da8-216f-4b74-b952-f1fd7845e707",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA7f552078dcC247C2684336020c03648500C6d9F",
+    "website": "https://ellipsis.finance/",
+    "twitter": "https://twitter.com/Ellipsisfi",
+    "coingecko": "https://coingecko.com/en/coins/ellipsis/",
+    "telegram": "https://t.me/ellipsisfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ellipsis/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA7f552078dcC247C2684336020c03648500C6d9F/logo.png"
+  },
+  "name": "Ellipsis",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EPS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

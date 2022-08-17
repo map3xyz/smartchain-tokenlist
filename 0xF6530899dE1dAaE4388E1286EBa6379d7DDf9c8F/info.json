@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF6530899dE1dAaE4388E1286EBa6379d7DDf9c8F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Aurora Finance (AURO) is a new project that provides automated rewards to users who hold the token."
+  },
+  "id": "c3082ea5-00af-4c00-a458-a90a39d13f20",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF6530899dE1dAaE4388E1286EBa6379d7DDf9c8F",
+    "website": "https://auro.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF6530899dE1dAaE4388E1286EBa6379d7DDf9c8F/logo.png"
+  },
+  "name": "Aurora Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AURO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

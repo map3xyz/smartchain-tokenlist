@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x375A7B6A6F74a5Acb86C420c53C4Ce8cf1d51b4D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HUP.LIFE ($HUP) is building an all-in-one NFT Marketplace enabling socially conscious visual artists and collectors to authenticate their artwork, find copycats across the web, and buy, sell, and license their artwork through its copyright - while complying with international copyright and securities law."
+  },
+  "id": "fd8a157f-4706-40f4-ac90-45be05e4a92f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d",
+    "website": "https://www.hup.life",
+    "github": "https://github.com/HUP-LIFE",
+    "twitter": "https://twitter.com/hupdotlife",
+    "reddit": "https://reddit.com/r/huplife",
+    "telegram": "https://t.me/hupdotlife",
+    "coingecko": "https://coingecko.com/en/coins/huplife",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hup-life/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x375A7B6A6F74a5Acb86C420c53C4Ce8cf1d51b4D/logo.png"
+  },
+  "name": "HUP.LIFE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

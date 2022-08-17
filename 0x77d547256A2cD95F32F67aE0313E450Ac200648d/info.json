@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BEP-20 utility token for S.S. Lazio"
+  },
+  "id": "33129419-cb1d-4693-a990-40baaba499e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+    "website": "https://www.binance.com/en/fan-token/team-profile/lazio",
+    "twitter": "https://twitter.com/OfficialSSLazio",
+    "coinmarketcap": "https://coinmarketcap.com/lazio-fan-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x77d547256A2cD95F32F67aE0313E450Ac200648d/logo.png"
+  },
+  "name": "S.S. Lazio Fan Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAZIO",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

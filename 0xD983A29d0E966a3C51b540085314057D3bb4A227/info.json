@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD983A29d0E966a3C51b540085314057D3bb4A227",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Future Gaming Community Token.We will provide exclusive reward, NFTs and partnership along gamer community across the world."
+  },
+  "id": "fedc1bc2-8121-43f3-9c3d-a8600b9f2fa8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD983A29d0E966a3C51b540085314057D3bb4A227",
+    "website": "https://www.polarium.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD983A29d0E966a3C51b540085314057D3bb4A227/logo.png"
+  },
+  "name": "Polarium.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POLARIUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7e8DB69dcff9209E486a100e611B0af300c3374e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TRDC is a decentralized platform project of cryptocurrencies trading where users get full control of their money."
+  },
+  "id": "1134829d-384d-494b-bea1-23e89c1357a1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e8DB69dcff9209E486a100e611B0af300c3374e",
+    "website": "https://trdctoken.com",
+    "twitter": "https://twitter.com/TradersCoinTRDC",
+    "reddit": "https://reddit.com/r/traderscoinTRDC/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/traders-coin/",
+    "telegram": "https://t.me/trdc_family",
+    "coingecko": "https://coingecko.com/en/coins/traders-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7e8DB69dcff9209E486a100e611B0af300c3374e/logo.png"
+  },
+  "name": "Traders Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

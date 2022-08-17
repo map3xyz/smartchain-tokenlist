@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Green Chart provides a secure platform for yield farming for it's holders via staking rewards with a fixed APY compounding. "
+  },
+  "id": "c7307052-1e1b-4a12-af4c-4a61c1d7beb1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0",
+    "website": "https://green-chart.com/ ",
+    "twitter": "https://twitter.com/GreenChartBSC",
+    "telegram": "https://t.me/greenchartbsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/green-chart/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0/logo.png"
+  },
+  "name": "Green Chart",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GREEN",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

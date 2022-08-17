@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x694Dc0619e7140D83F2627D573015565096832d3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "COUGAR is a community driven, fair launched DeFi Token. 6% of every transaction is donated to http://savelacougars.org to help fund California's first freeway wildlife crossing."
+  },
+  "id": "25d47d5c-76c2-4bf4-bb01-02e73fce5491",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x694dc0619e7140d83f2627d573015565096832d3",
+    "website": "https://cougarcoin.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x694Dc0619e7140D83F2627D573015565096832d3/logo.png"
+  },
+  "name": "Cougar Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COUGAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org"
+  },
+  "id": "074f1a08-e0e9-459d-a84c-59c9bcd74610",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
+    "website": "https://milliontoken.org",
+    "discord": "https://discord.com/invite/million",
+    "telegram": "https://t.me/millionjacuzzibar",
+    "reddit": "https://reddit.com/r/milliontoken/",
+    "twitter": "https://twitter.com/Million__Token",
+    "facebook": "https://facebook.com/groups/milliontoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/million/",
+    "coingecko": "https://coingecko.com/en/coins/million"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png"
+  },
+  "name": "Million",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

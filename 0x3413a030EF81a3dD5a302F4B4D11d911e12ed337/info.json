@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3413a030EF81a3dD5a302F4B4D11d911e12ed337",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "63f9fab5-568e-4573-b229-2721e3b7b11d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3413a030EF81a3dD5a302F4B4D11d911e12ed337",
+    "website": "https://makerdao.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3413a030EF81a3dD5a302F4B4D11d911e12ed337/logo.png"
+  },
+  "name": "DAI (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

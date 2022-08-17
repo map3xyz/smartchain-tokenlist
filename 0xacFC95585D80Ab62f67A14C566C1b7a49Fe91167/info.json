@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FEG is a decentralized token that has developed the first fork to combine the powers of Shiba Inu (SHIB) and reflect.finance (RFI) with a super deflationary black hole that hyper-deflates the supply of the FEG governance token."
+  },
+  "id": "93372c76-9024-48b5-9e19-4f928256bbc0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
+    "website": "https://fegtoken.com",
+    "twitter": "https://twitter.com/fegtoken",
+    "telegram": "https://t.me/fegchat",
+    "discord": "https://discord.com/invite/K372n4NkbJ",
+    "reddit": "https://reddit.com/r/FegToken_Official/",
+    "medium": "https://fegtoken.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167/logo.png"
+  },
+  "name": "FEG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FEGbsc",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

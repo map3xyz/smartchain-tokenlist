@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7c1608C004F20c3520f70b924E2BfeF092dA0043",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Defi ecosystem by CZodiac with farms, pools, NFTs, stablecoin borrowing, and the best APR on BSC."
+  },
+  "id": "71408ab4-36c5-4c5e-a671-3323a5a44169",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7c1608C004F20c3520f70b924E2BfeF092dA0043",
+    "website": "https://czodiac.com",
+    "twitter": "https://twitter.com/zodiacs_c",
+    "github": "https://github.com/chinese-zodiac/czodiac",
+    "telegram": "https://t.me/CZodiacofficial",
+    "telegramNews": "https://t.me/CZodiacANN",
+    "whitepaper": "https://czodiac.gitbook.io/czodiac-litepapper/",
+    "medium": "https://czodiacs.medium.com/",
+    "discord": "https://discord.com/FEpu3xF2Hb"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7c1608C004F20c3520f70b924E2BfeF092dA0043/logo.png"
+  },
+  "name": "CZFarm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CZF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

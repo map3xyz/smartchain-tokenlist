@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "JumpToken is a utility token for use in the JumpTask ecosystem, a decentralized work platform built to efficiently match work demand with a worldwide workforce"
+  },
+  "id": "72e16f7a-bab3-490b-bc06-509a406014cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x88d7e9b65dc24cf54f5edef929225fc3e1580c25",
+    "website": "https://jumptask.io",
+    "twitter": "https://twitter.com/JumpTask_app",
+    "telegram": "https://t.me/jumptask",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/jumptoken/",
+    "whitepaper": "https://gitbook.jumptask.io/",
+    "coingecko": "https://coingecko.com/coins/jumptoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25/logo.png"
+  },
+  "name": "JumpToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JMPT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

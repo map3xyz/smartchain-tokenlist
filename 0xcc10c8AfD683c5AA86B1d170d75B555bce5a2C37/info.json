@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcc10c8AfD683c5AA86B1d170d75B555bce5a2C37",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We created $Xpose to provide our holders with leading tokenomics within the DeFi space."
+  },
+  "id": "e94838df-f6f7-4d1f-8808-e55d8ab94d7f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcc10c8AfD683c5AA86B1d170d75B555bce5a2C37",
+    "website": "https://xposeprotocol.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcc10c8AfD683c5AA86B1d170d75B555bce5a2C37/logo.png"
+  },
+  "name": "Xpose",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Xpose",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

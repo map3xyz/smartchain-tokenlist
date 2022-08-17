@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xe5a46Bf898ce7583B612E5D168073ff773D7857e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CVIP is a decentralized protocol on binance smart chain where users can farm ,stake participate in IDOs. Users and Partners can perform farm optimisers and earn crypto by participating in various options."
+  },
+  "id": "983c66fa-519f-4767-b296-5fa9f2efe481",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe5a46Bf898ce7583B612E5D168073ff773D7857e",
+    "website": "https://www.cvip.io/",
+    "twitter": "https://twitter.com/CVIP_IO?t=fWZ9WdMsFI8rPQqvcp4Dzw&s=09",
+    "telegram": "https://t.me/cvipdotio",
+    "whitepaper": "https://www.cvip.io/static/file/CVIP-WHITEPAPER1.0.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cvip/",
+    "coingecko": "https://coingecko.com/coins/cvip"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe5a46Bf898ce7583B612E5D168073ff773D7857e/logo.png"
+  },
+  "name": "CVIP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CVIP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

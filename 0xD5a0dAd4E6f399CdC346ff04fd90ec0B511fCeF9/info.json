@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Beer Token is a new currency on a mission to make cryptocurrency normalized in the beer buying world."
+  },
+  "id": "77fa635b-5c41-49c4-9014-3cb54d9bd575",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
+    "website": "https://beertoken.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9/logo.png"
+  },
+  "name": "Beer Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

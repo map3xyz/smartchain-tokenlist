@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xe320Df552e78D57E95cF1182B6960746d5016561",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first reflection token and soft drink at the same time. Every buy gives members more with the auto-boost and hyper deflation system in place."
+  },
+  "id": "6f742af8-ea91-41ed-9e2a-f23b4ea8e98b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe320df552e78d57e95cf1182b6960746d5016561",
+    "website": "https://www.dogecola.finance/",
+    "github": "https://github.com/dogecola",
+    "twitter": "https://twitter.com/doge_cola",
+    "telegram": "https://t.me/dogecola"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe320Df552e78D57E95cF1182B6960746d5016561/logo.png"
+  },
+  "name": "DogeCola",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGECOLA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

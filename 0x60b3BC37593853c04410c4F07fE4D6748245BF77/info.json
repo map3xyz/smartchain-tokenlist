@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SHIELD is a Second Layer Security Platform based on the Binance Smart Chain"
+  },
+  "id": "e8f77f69-c036-4bf2-acea-6edfdbe2cf03",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x60b3bc37593853c04410c4f07fe4d6748245bf77",
+    "website": "https://shieldprotocol.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x60b3BC37593853c04410c4F07fE4D6748245BF77/logo.png"
+  },
+  "name": "Shield Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIELD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

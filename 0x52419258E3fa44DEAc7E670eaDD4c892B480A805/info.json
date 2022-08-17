@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$STARSHIP is a decentralized token on the Binance Smart Chain that empowers its members, contributors and business partners to co-create a platform where every person matters. With an NFT game, Centralized Exchange (CEXy.Finance) and much more, Deploy StarShip provides a launch pad into the worlds of business and technology—all while igniting the imagination"
+  },
+  "id": "0895efe0-35ae-40a4-95df-05166575ad03",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
+    "website": "https://deploystarship.com",
+    "twitter": "https://twitter.com/deploystarship",
+    "github": "https://github.com/deploystarship",
+    "telegram": "https://t.me/deploystarship",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/starship/",
+    "coingecko": "https://coingecko.com/en/coins/starship",
+    "whitepaper": "https://drive.google.com/file/d/12jdTeh3MCGakkyY19PyQK855rgeCrWhM/view",
+    "medium": "https://medium.com/@deploystarship",
+    "youtube": "https://youtube.com/c/DeployStarShipNFT"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x52419258E3fa44DEAc7E670eaDD4c892B480A805/logo.png"
+  },
+  "name": "StarShip",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STARSHIP",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

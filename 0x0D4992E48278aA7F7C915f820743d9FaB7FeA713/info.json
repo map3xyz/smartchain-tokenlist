@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0D4992E48278aA7F7C915f820743d9FaB7FeA713",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "MetaZilla, is a community token that draws its name from the city-destroying monster GodZilla and Meta, the realm beyond reality."
+  },
+  "id": "2595d0f4-31ab-460f-a2cf-fcc70ccb23ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0d4992e48278aa7f7c915f820743d9fab7fea713",
+    "website": "https://www.metazillabsc.org",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metazilla/",
+    "twitter": "https://twitter.com/TheMetaZilla"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0D4992E48278aA7F7C915f820743d9FaB7FeA713/logo.png"
+  },
+  "name": "MetaZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

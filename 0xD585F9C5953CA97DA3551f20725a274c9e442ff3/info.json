@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD585F9C5953CA97DA3551f20725a274c9e442ff3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Pegazus is a charity - oriented token, a new cryptocurrency (BEP-20 Token) and smart contract ecosystem.."
+  },
+  "id": "db7d000b-b4d0-4ece-ae72-b8092123037f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd585f9c5953ca97da3551f20725a274c9e442ff3",
+    "website": "https://pegazus.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD585F9C5953CA97DA3551f20725a274c9e442ff3/logo.png"
+  },
+  "name": "Pegazus Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

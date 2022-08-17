@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DeFireX provides an opportunity to earn in DeFi with minimum risks. Its DeFi service works directly with Venus and offers profitable and reliable yield farming in BUSD, USDT, BNB, DAI, DFX, ETH and other tokens."
+  },
+  "id": "3ae8318d-5391-46bc-878e-4089090a50d4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
+    "website": "https://defirex.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF/logo.png"
+  },
+  "name": "DeFireX on BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DFX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Margin call – token for community and community is owner"
+  },
+  "id": "5560fca8-0c55-4128-ac83-07a9fb081add",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x899dcde4f486816afae42442d4b1b6a7c6fe9c63",
+    "website": "https://margincall.cc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63/logo.png"
+  },
+  "name": "MARGIN CALL TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$MC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

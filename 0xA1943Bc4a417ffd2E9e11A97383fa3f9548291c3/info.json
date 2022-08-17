@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xA1943Bc4a417ffd2E9e11A97383fa3f9548291c3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "API Inu provide a traditional API service to smart contracts in a decentralized way."
+  },
+  "id": "c1192064-edc8-496a-8784-c3347d3dd05b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1943bc4a417ffd2e9e11a97383fa3f9548291c3",
+    "website": "https://www.apiinu.com/",
+    "twitter": "https://twitter.com/apiinu",
+    "github": "https://github.com/apiinu",
+    "telegram": "https://t.me/apiinu",
+    "whitepaper": "https://apiinu.com/assets/api_inu_whitepaper.pdf",
+    "medium": "https://medium.com/@apiinu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/api-inu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA1943Bc4a417ffd2E9e11A97383fa3f9548291c3/logo.png"
+  },
+  "name": "API Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "API",
+  "tags": [
+    "defi",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

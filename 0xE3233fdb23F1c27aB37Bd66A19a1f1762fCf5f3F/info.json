@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Elemon is a NFTs game based on blockchain technology with the purposes and missions to deliver sustainable values to all users and investors in the Cryptocurrency field. More specifically, Elemon is constructed with a comprehensive ecosystem and hosted on the BSC platform with ERC-721 standard."
+  },
+  "id": "3b9d3e4a-b318-48d5-a60b-c049469d4554",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F",
+    "website": "https://elemon.io/",
+    "telegram": "https://t.me/ElemonAnnouncement",
+    "twitter": "https://twitter.com/ElemonGame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/elemon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F/logo.png"
+  },
+  "name": "Elemon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

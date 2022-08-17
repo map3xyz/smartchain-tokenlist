@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "RichQUACK is a stealth fair launched token that has passsed Security Audit by TechRate, LP Locked, RUG-Proof & 100% community-driven project. Deflationary token with built in 10% transaction fee: 5% Safe Auto-Farm Redistributed to Holders including BlackHole, 5% for Auto LP"
+  },
+  "id": "82c3b879-13ee-49b1-8aab-a189cd7a9567",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD74b782E05AA25c50e7330Af541d46E18f36661C",
+    "website": "https://www.RichQuack.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD74b782E05AA25c50e7330Af541d46E18f36661C/logo.png"
+  },
+  "name": "RichQuack",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QUACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

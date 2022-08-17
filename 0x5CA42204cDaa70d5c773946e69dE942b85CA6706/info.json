@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees."
+  },
+  "id": "2fef47be-4d0e-4022-be82-230896a4f075",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
+    "website": "https://position.exchange",
+    "twitter": "https://twitter.com/PositionEx",
+    "github": "https://github.com/PositionExchange",
+    "telegram": "https://t.me/PositionExchange",
+    "telegramNews": "https://t.me/PositionAnn",
+    "blog": "https://positionex.medium.com/",
+    "docs": "https://docs.position.exchange/",
+    "forum": "https://www.reddit.com/r/PositionExchange/",
+    "reddit": "https://reddit.com/r/PositionExchange/",
+    "whitepaper": "https://position.exchange/whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/position-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5CA42204cDaa70d5c773946e69dE942b85CA6706/logo.png"
+  },
+  "name": "Position",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POSI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

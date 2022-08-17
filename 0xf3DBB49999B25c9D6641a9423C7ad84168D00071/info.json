@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xf3DBB49999B25c9D6641a9423C7ad84168D00071",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Multi-chain protocols securing the web3 reality."
+  },
+  "id": "82f98e35-f369-44b2-acc5-070b52c9ab63",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf3DBB49999B25c9D6641a9423C7ad84168D00071",
+    "research": "https://github.com/HydroBlockchain/Hydro-Docs",
+    "website": "https://projecthydro.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf3DBB49999B25c9D6641a9423C7ad84168D00071/logo.png"
+  },
+  "name": "Hydro Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HYDRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

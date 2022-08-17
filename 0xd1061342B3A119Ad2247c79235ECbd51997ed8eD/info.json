@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd1061342B3A119Ad2247c79235ECbd51997ed8eD",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Feg Token is an interface token and provides back-end support to new DeFi projects and tokens."
+  },
+  "id": "53828965-e130-4353-8489-e706bc6658f6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd1061342B3A119Ad2247c79235ECbd51997ed8eD",
+    "website": "https://www.babyfeg.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd1061342B3A119Ad2247c79235ECbd51997ed8eD/logo.png"
+  },
+  "name": "BabyFeg",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

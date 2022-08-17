@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gourmetgalaxy is a fusion between a DeFi Yield Farming, a NFTs Gaming dApp, LaunchPad platform aim at solving the problems that overshadowed Yield Farming platforms."
+  },
+  "id": "89dbc920-5a4c-4ae6-b5df-32b2f1920194",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "website": "https://gourmetgalaxy.io/",
+    "github": "https://github.com/gourmetgalaxy",
+    "telegram": "https://t.me/gourmetgalaxy_chat",
+    "medium": "https://gourmetgalaxy.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462/logo.png"
+  },
+  "name": "Gourmetgalaxy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

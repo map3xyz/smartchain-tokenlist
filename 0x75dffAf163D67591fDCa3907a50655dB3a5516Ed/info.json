@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x75dffAf163D67591fDCa3907a50655dB3a5516Ed",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TODO"
+  },
+  "id": "5ed1b5a6-f719-4c79-bae4-30cf26487714",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75dffAf163D67591fDCa3907a50655dB3a5516Ed",
+    "website": "https://glitchy.wtf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x75dffAf163D67591fDCa3907a50655dB3a5516Ed/logo.png"
+  },
+  "name": "Glitchy Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Glitchy",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

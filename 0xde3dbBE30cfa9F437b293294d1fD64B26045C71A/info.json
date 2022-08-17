@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTB is a token issued by NFTb Marketplace."
+  },
+  "id": "e30ff51e-e8cd-464b-8678-105d9045b50c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+    "website": "https://nftb.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xde3dbBE30cfa9F437b293294d1fD64B26045C71A/logo.png"
+  },
+  "name": "NFTB Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

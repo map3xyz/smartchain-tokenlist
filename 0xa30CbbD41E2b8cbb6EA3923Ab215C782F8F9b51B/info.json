@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa30CbbD41E2b8cbb6EA3923Ab215C782F8F9b51B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The happiest meme token inspired by shiba inu"
+  },
+  "id": "e0da5e06-db16-4dfc-a381-e0ba196246ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa30CbbD41E2b8cbb6EA3923Ab215C782F8F9b51B",
+    "website": "https://www.yukitoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa30CbbD41E2b8cbb6EA3923Ab215C782F8F9b51B/logo.png"
+  },
+  "name": "Yuki Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YUKINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

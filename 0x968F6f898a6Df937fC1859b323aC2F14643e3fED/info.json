@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets."
+  },
+  "id": "7fffa900-d6b2-454a-aade-dda2550a7164",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+    "website": "https://newscrypto.io/",
+    "twitter": "https://twitter.com/NwcPublic",
+    "telegram": "https://t.me/nwc_public",
+    "facebook": "https://facebook.com/Newscrypto.io",
+    "whitepaper": "https://newscrypto.io/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x968F6f898a6Df937fC1859b323aC2F14643e3fED/logo.png"
+  },
+  "name": "Newscrypto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NWC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x1F5d9fFAFa57604Ae2A43cebAdEcC175DF2F069e",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "InfinitX is a rebase token that also rewards in XRP."
+  },
+  "id": "0cf7965d-1580-4676-940f-9aa6627e8b0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f5d9ffafa57604ae2a43cebadecc175df2f069e",
+    "website": "https://infinitx.io/",
+    "github": "https://github.com/InfinitXToken",
+    "twitter": "https://twitter.com/infinitX_bsc",
+    "telegram": "https://t.me/infinitx_token",
+    "medium": "https://infinitx.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/infinitx",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/infinitx/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1F5d9fFAFa57604Ae2A43cebAdEcC175DF2F069e/logo.png"
+  },
+  "name": "InfinitX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

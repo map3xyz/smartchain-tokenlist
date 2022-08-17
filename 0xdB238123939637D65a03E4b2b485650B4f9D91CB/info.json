@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdB238123939637D65a03E4b2b485650B4f9D91CB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TasteNFT is a static liquidity protocol empowering creators of exclusive NFT artwork with sensual Taste"
+  },
+  "id": "1cb1c0fc-4c8c-45b3-84c7-ca571b7db743",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdB238123939637D65a03E4b2b485650B4f9D91CB",
+    "website": "https://tastenfts.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdB238123939637D65a03E4b2b485650B4f9D91CB/logo.png"
+  },
+  "name": "TasteNFT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TASTE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

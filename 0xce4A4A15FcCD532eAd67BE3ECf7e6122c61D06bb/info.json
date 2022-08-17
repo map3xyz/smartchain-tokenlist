@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The world 1st double reward reflection token using the power of 80% CAKE / 20% THOREUM."
+  },
+  "id": "304e8e2a-d0bf-490c-9c72-98bbaaebb1ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
+    "website": "https://www.thundercake.app/",
+    "twitter": "https://twitter.com/ThunderCakeApp",
+    "telegram": "https://t.me/ThunderCakeOfficial",
+    "medium": "https://thundercake.medium.com",
+    "docs": "https://docs.thundercake.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb/logo.png"
+  },
+  "name": "ThunderCake Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THUNDERCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

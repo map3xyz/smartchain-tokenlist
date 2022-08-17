@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2AA504586d6CaB3C59Fa629f74c586d78b93A025",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ArenaPlay is committed to building on-chain infrastructure covering; gaming, quizzes, E-Sports, NFT, and the wider Meta-Universe."
+  },
+  "id": "c6f52d8d-c51e-4bb2-987f-3aac95b2e209",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2AA504586d6CaB3C59Fa629f74c586d78b93A025",
+    "website": "https://www.arenaplaycoin.com/ ",
+    "twitter": "https://twitter.com/ArenaPlayAPC",
+    "telegram": "https://t.me/ArenaPlayOnly",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/arenaplay/",
+    "coingecko": "https://coingecko.com/en/coins/arenaplay"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2AA504586d6CaB3C59Fa629f74c586d78b93A025/logo.png"
+  },
+  "name": "ArenaPlay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "APC",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

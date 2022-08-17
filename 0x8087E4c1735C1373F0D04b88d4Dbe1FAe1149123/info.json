@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonJuice, The Block-Chain Powered Energy Drink; Bridging the gap between retail and crypto"
+  },
+  "id": "297f9363-88f9-423e-96b3-722c90c023c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
+    "website": "https://www.moonjuice.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123/logo.png"
+  },
+  "name": "MoonJuice",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOJO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

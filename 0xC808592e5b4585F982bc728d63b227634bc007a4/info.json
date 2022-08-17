@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC808592e5b4585F982bc728d63b227634bc007a4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoFrog.Finance is the first collectible frog NFT and a yield farming project on Binance Smart Chain."
+  },
+  "id": "54689e02-f3d0-49a2-844b-4b65846477b6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC808592e5b4585F982bc728d63b227634bc007a4",
+    "website": "https://cryptofrog.finance",
+    "github": "https://github.com/cryptofrogfinance",
+    "twitter": "https://twitter.com/CryptoFrogFi",
+    "telegram": "https://t.me/cryptofrogfinance",
+    "medium": "https://cryptofrogfinance.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC808592e5b4585F982bc728d63b227634bc007a4/logo.png"
+  },
+  "name": "CryptoFrog.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FROG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The first multi-chain DEX for MEME tokens with an entire ecosystem around meme tokens."
+  },
+  "id": "7dc5989b-4d3c-4b66-9a7b-ee000d24ea12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+    "website": "https://memex.exchange"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46/logo.png"
+  },
+  "name": "MEMEX.EXCHANGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEMEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

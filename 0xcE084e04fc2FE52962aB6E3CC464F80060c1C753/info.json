@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcE084e04fc2FE52962aB6E3CC464F80060c1C753",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Doge Shiba ($DOGES) is a community driven, fair launched, DeFi token which rewards its users with the ability to earn passive income, without having to lift a paw."
+  },
+  "id": "9bac8ade-2a5d-4c32-8b93-1752024d5afd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcE084e04fc2FE52962aB6E3CC464F80060c1C753",
+    "website": "https://dogeshiba.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcE084e04fc2FE52962aB6E3CC464F80060c1C753/logo.png"
+  },
+  "name": "DogeShib",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Doges",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

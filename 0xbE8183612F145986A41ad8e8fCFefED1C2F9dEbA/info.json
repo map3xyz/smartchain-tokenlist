@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbE8183612F145986A41ad8e8fCFefED1C2F9dEbA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moon Bud is a deflationary meme token that supports charities worldwide"
+  },
+  "id": "62dc7438-fea8-4a0d-a75c-d08af7ad0271",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbe8183612f145986a41ad8e8fcfefed1c2f9deba",
+    "website": "https://moonbud.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbE8183612F145986A41ad8e8fCFefED1C2F9dEbA/logo.png"
+  },
+  "name": "Moon Bud",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

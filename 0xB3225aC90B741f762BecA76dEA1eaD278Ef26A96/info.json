@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$LOF is a High-Yield, Deflationary, and Frictionless Farming Token on the Binance Smart Chain. We support content creators & always reward our holders. At $LOF, we care and have made it one of our top goals to donate to charities preventing human trafficking. We’re proud to say that within 24 hours of launch $LOF reached a historical figure $29 million market cap with a record amount of holders. We are humbled & grateful for those who believed in our project from day one."
+  },
+  "id": "8cd92319-b77c-48f7-9949-e455a22f701a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96",
+    "website": "https://lofcrypto.com/",
+    "github": "https://github.com/LonelyFans/LonelyFans/",
+    "twitter": "https://twitter.com/LOFcrypto",
+    "telegram": "https://t.me/LOFcrypto",
+    "reddit": "https://reddit.com/r/LOFcrypto/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96/logo.png"
+  },
+  "name": "LOFcrypto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

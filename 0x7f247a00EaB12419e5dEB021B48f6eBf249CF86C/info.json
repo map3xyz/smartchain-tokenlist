@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7f247a00EaB12419e5dEB021B48f6eBf249CF86C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A new smart blockchain based marketplace for trading digital goods and assets according to users interests. Automatic matching of buyers and sellers via unique artificial intelligence approach."
+  },
+  "id": "f907731a-bc6a-46d5-920c-4b56f4ee2166",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7f247a00EaB12419e5dEB021B48f6eBf249CF86C",
+    "website": "https://cgbcoin.co/",
+    "twitter": "https://twitter.com/cgb_coin",
+    "facebook": "https://facebook.com/CgbcoinCryptoCurrency/",
+    "telegram": "https://t.me/cgbcoinfuturecurrency"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7f247a00EaB12419e5dEB021B48f6eBf249CF86C/logo.png"
+  },
+  "name": "CGB COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CGB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

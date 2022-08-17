@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "A social simulation Blockchain game owned by players."
+  },
+  "id": "8d8908db-5b7a-4cc8-b8a8-57ff47d7f8b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+    "website": "https://www.myneighboralice.com",
+    "telegram": "https://t.me/MyNeighborAlice",
+    "twitter": "https://twitter.com/MyNeighborAlice/",
+    "reddit": "https://reddit.com/r/MyNeighborAlice/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/myneighboralice/",
+    "coingecko": "https://coingecko.com/en/coins/my-neighbor-alice/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png"
+  },
+  "name": "My Neighbor Alice",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

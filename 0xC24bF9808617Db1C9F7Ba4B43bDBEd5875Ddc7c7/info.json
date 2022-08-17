@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC24bF9808617Db1C9F7Ba4B43bDBEd5875Ddc7c7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpacePath token is backed by the SpacePath marketplace. The first NFT marketplace with no platform fees."
+  },
+  "id": "5e6a461c-07a3-4f88-a543-d25f304aff5c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC24bF9808617Db1C9F7Ba4B43bDBEd5875Ddc7c7",
+    "website": "https://spacepath.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC24bF9808617Db1C9F7Ba4B43bDBEd5875Ddc7c7/logo.png"
+  },
+  "name": "SpacePath",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

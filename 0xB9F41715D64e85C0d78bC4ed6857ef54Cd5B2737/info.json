@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB9F41715D64e85C0d78bC4ed6857ef54Cd5B2737",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ARTC is the smartest way to be involved with crypto. ART COIN brings everything under one format for utility of your crypto."
+  },
+  "id": "44c3329b-962f-45bc-b416-f8ef4ab7abf0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB9F41715D64e85C0d78bC4ed6857ef54Cd5B2737",
+    "website": "https://smartuse.art/",
+    "twitter": "https://twitter.com/artccoin",
+    "facebook": "https://facebook.com/ART-COIN-100248662370343/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB9F41715D64e85C0d78bC4ed6857ef54Cd5B2737/logo.png"
+  },
+  "name": "ART COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

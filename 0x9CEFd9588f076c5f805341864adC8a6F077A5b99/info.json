@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The $867 Casino is an all-inclusive crypto casino and community entertainment platform! With various casino style games scheduled for release! The 867 Casino is sure to entertain everyone! /KEEP_WATCHING The casino platform will allow holders of $867 tokens to access and play a wide range of casino style, casino tournament style games, and skill based games. "
+  },
+  "id": "0831a296-d4ef-4e3a-93f9-daeb3b4c57d5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
+    "website": "https://867crypto.com/",
+    "twitter": "https://twitter.com/867_crypto",
+    "telegram": "https://t.me/EightSixSeven",
+    "whitepaper": "https://867crypto.com/wp-content/uploads/2021/08/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/867/",
+    "coingecko": "https://coingecko.com/en/coins/867"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9CEFd9588f076c5f805341864adC8a6F077A5b99/logo.png"
+  },
+  "name": "867",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$867",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

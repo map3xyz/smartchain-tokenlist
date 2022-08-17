@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COW is the platform token of CoinWind. CoinWind is a DeFi ecological smart mining financial platform."
+  },
+  "id": "b8d6f4b4-04b0-4686-904c-bf6cd516e8cf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730",
+    "website": "https://www.coinwind.pro/",
+    "twitter": "https://twitter.com/coinwind_com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinwind/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730/logo.png"
+  },
+  "name": "COW",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

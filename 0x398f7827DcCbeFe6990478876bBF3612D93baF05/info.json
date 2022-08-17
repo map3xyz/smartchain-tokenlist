@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x398f7827DcCbeFe6990478876bBF3612D93baF05",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MIX is a platform token, representing the platform's growth of value. The total amount of MIX is constant at 10 billion and will never be over-issued. A substantial amount of MIX is generated through community PoA (Proof of Action). The actions that are counted as ecosystem-friendly, such as marketing, contributing applications, creating content, providing services, are rewarded with MIX."
+  },
+  "id": "3b1850cd-6c76-4979-865d-09cf9d5c975f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x398f7827DcCbeFe6990478876bBF3612D93baF05",
+    "website": "https://www.mixmarvel.com/",
+    "facebook": "https://facebook.com/mixmarvelplatform",
+    "twitter": "https://twitter.com/MIXMARVELGAME",
+    "medium": "https://medium.com/mixmarvel-official-blog"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x398f7827DcCbeFe6990478876bBF3612D93baF05/logo.png"
+  },
+  "name": "MixMarvel Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

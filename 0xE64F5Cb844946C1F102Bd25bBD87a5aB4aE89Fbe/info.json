@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Roobee is a blockchain-based investment platform for non-professional and private investors. Roobee allows you to build an investment portfolio consisting of various assets, from cryptocurrencies to stocks and ETFs. The payment can be made in any convenient way, without limitations, and without high entry thresholds."
+  },
+  "id": "1c8c35ce-5ea8-4dbf-ad41-f6d6d714e1a3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe",
+    "website": "https://roobee.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe/logo.png"
+  },
+  "name": "ROOBEE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bROOBEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

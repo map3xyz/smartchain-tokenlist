@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20 to maximize your earnings for both now & future"
+  },
+  "id": "40b72df0-6801-491b-acbf-6262065de3e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7",
+    "website": "https://thunderbnb.app/",
+    "twitter": "https://twitter.com/ThunderBNBapp",
+    "telegram": "https://t.me/ThunderBNB",
+    "docs": "https://docs.thunderbnb.app/",
+    "reddit": "https://reddit.com/r/thunderBNB/",
+    "youtube": "https://youtube.com/channel/UCdEqg6tOw9RRQR7adkX1pvw",
+    "coingecko": "https://coingecko.com/en/coins/thunderbnb",
+    "github": "https://github.com/ThunderBnb/contracts"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb9654A42f0F5dCDEf5617DebF8bd048E33F180E7/logo.png"
+  },
+  "name": "ThunderBNB Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THUNDERBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

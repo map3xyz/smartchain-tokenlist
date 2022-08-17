@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xBC12aD556581ff7162E595E5956F5F3845FDB38c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Helicopter Finance is Auto-liquidity token forked off Safemoon. USP of stimulus packages where major coins will be airdropped to holders - charity utility TBA."
+  },
+  "id": "f3712464-5e24-4858-b9ba-8007e52175bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBC12aD556581ff7162E595E5956F5F3845FDB38c",
+    "website": "https://helicopterfinance.co/",
+    "twitter": "https://twitter.com/Helicoptercorp",
+    "telegram": "https://t.me/helicopter_finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBC12aD556581ff7162E595E5956F5F3845FDB38c/logo.png"
+  },
+  "name": "Helicopter Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COPTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

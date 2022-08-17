@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x5bcd91C734d665Fe426A5D7156f2aD7d37b76e30",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VicMove is a web3 fitness and lifestyle mobile app where you can earn rewards just by movement like Walking, Running and Cycling."
+  },
+  "id": "1b6c4dc6-b005-4b60-bcea-8c56dedd4f56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5bcd91C734d665Fe426A5D7156f2aD7d37b76e30",
+    "website": "https://vicmove.com",
+    "twitter": "https://twitter.com/VICMOVEOfficial",
+    "github": "https://github.com/VicMove/Vicmove.com",
+    "telegram": "https://t.me/VICMOVEOfficial",
+    "telegramNews": "https://t.me/VICMOVEAnnouncement",
+    "discord": "https://discord.com/invite/6uVPZPvbF5",
+    "whitepaper": "https://whitepaper.vicmove.com",
+    "coinmarketcap": "https://coinmarketcap.com/vi/currencies/vicmove/",
+    "reddit": "https://reddit.com/user/VICMOVE"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5bcd91C734d665Fe426A5D7156f2aD7d37b76e30/logo.png"
+  },
+  "name": "VicMove",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIM",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

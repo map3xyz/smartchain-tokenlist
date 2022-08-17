@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Getart is aiming to build a digital marketplace for non-fungible tokens (NFTs). Users in the platform can buy, sell, own various digital assets, and search different NFTs within the Getart market."
+  },
+  "id": "4b0655a1-5fc9-4882-b0b0-5256fb766a48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF",
+    "website": "https://getart.io/ "
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF/logo.png"
+  },
+  "name": "GETART Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

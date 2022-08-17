@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "e1456c7e-504a-43ad-868a-a33d560432aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661",
+    "website": "https://basicattentiontoken.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661/logo.png"
+  },
+  "name": "Basic Attention Token (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAT",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nabox aims to allow users to utilize their digital assets across chains at the click of a button."
+  },
+  "id": "05153b64-2be4-40d4-a381-d3f3cd723e28",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x755f34709E369D37C6Fa52808aE84A32007d1155",
+    "website": "https://nabox.io/",
+    "telegram": "https://t.me/naboxcommunity",
+    "twitter": "https://twitter.com/naboxwallet",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nabox/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x755f34709E369D37C6Fa52808aE84A32007d1155/logo.png"
+  },
+  "name": "Nabox Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NABOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x8e428aA75b271EbF905DB7e3F2970453E976481e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Connect companies to influencers."
+  },
+  "id": "191467cb-9b80-49fe-a031-4e52a921863e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8e428aA75b271EbF905DB7e3F2970453E976481e",
+    "website": "https://nxt-token.com/",
+    "twitter": "https://twitter.com/token_next",
+    "github": "https://github.com/NXTtoken",
+    "telegram": "https://t.me/OFFICIALNXTTOKENChat",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/next-token/",
+    "sourceCode": "https://bscscan.com/address/0x8e428aa75b271ebf905db7e3f2970453e976481e#contracts",
+    "discord": "https://discord.com/uv6Utknfsw",
+    "reddit": "https://reddit.com/user/NextTokenOfficial",
+    "whitepaper": "https://nxt-token.com/en/white-paper",
+    "facebook": "https://facebook.com/NEXT-TOKEN-101559578929673",
+    "coingecko": "https://coingecko.com/pi%C3%A8ces/next-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8e428aA75b271EbF905DB7e3F2970453E976481e/logo.png"
+  },
+  "name": "Next Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

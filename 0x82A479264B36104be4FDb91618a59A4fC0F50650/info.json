@@ -1,0 +1,33 @@
+{
+  "active": false,
+  "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Welcome to Birb, a high deflationary defi token built on the Binance Smart Chain."
+  },
+  "id": "840d3cc5-46c3-4bbf-a5b2-311ad0c6621c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x82a479264b36104be4fdb91618a59a4fc0f50650",
+    "website": "https://birb.com",
+    "github": "https://github.com/birbdev",
+    "twitter": "https://twitter.com/BirbDefi",
+    "telegram": "https://t.me/birbdefi",
+    "coingecko": "https://coingecko.com/en/coins/birb",
+    "whitepaper": "https://dessertswap.finance/audits/Birb%20BEP-20%20Audit%209082831.pdf",
+    "reddit": "https://reddit.com/r/BirbDefi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x82A479264B36104be4FDb91618a59A4fC0F50650/logo.png"
+  },
+  "name": "Birb",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIRB",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

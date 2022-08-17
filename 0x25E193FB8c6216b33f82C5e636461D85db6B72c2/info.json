@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x25E193FB8c6216b33f82C5e636461D85db6B72c2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TWERK FINANCE IS A LIQUIDITY GENERATING DEFI"
+  },
+  "id": "b7c405f0-bcbd-401a-933b-bfa67b4d10da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25e193fb8c6216b33f82c5e636461d85db6b72c2",
+    "website": "https://twerk-finance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x25E193FB8c6216b33f82C5e636461D85db6B72c2/logo.png"
+  },
+  "name": "TWERK Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TWERK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

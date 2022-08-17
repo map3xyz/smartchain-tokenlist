@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The future of decentralized exchange & farming platform on BSC"
+  },
+  "id": "8f87f743-55f6-490c-992b-533d9fc4ed47",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "website": "https://macaronswap.finance/",
+    "twitter": "https://twitter.com/macaronswap",
+    "telegram": "https://t.me/macaronswap",
+    "medium": "https://medium.com/macaronswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xacb2d47827C9813AE26De80965845D80935afd0B/logo.png"
+  },
+  "name": "MacaronSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MCRN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

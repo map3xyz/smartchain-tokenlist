@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AutoCrypto is an automated broker app managed by an Artificial Intelligence that combines mathematical extrapolation polynomials alongside a pre-trained time-series prediction neuronal network to predict very precisely the evolution of the top 200 cryptocurrencies and investing automatically for you."
+  },
+  "id": "911a565e-1cb0-4487-ba57-18a96882dc54",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+    "website": "https://www.autocrypto.ai/",
+    "twitter": "https://twitter.com/Autocrypto_ai",
+    "telegram": "https://t.me/AutoCryptoInternational",
+    "telegramNews": "https://t.me/AutoCryptoAnnouncements",
+    "discord": "https://discord.com/autocrypto",
+    "medium": "https://autocrypto.medium.com/",
+    "whitepaper": "https://autocrypto-web-assets.s3.eu-west-1.amazonaws.com/autocrypto-whitepaper-en.pdf",
+    "reddit": "https://reddit.com/r/AutoCrypto/",
+    "docs": "https://autocryptofinance.gitbook.io/autocrypto/",
+    "youtube": "https://youtube.com/channel/UCELjg1NB4uQLc3A1saVc0Ig",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/autocrypto/",
+    "coingecko": "https://coingecko.com/en/coins/autocrypto",
+    "github": "https://github.com/autocryptoai/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15/logo.png"
+  },
+  "name": "AutoCrypto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AU",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

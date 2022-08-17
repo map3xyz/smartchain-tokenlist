@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD80BeA63a208770e1c371DFBF70Cb13469D29Ae6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The cryptocurrency for Agribusiness"
+  },
+  "id": "e3d88edb-ee58-4c79-8c4a-5778e337e936",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD80BeA63a208770e1c371DFBF70Cb13469D29Ae6",
+    "website": "https://cryptoagrocash.com",
+    "twitter": "https://twitter.com/cryptoagrocash",
+    "whitepaper": "https://drive.google.com/file/d/1AJrTNeY29JZWV-JNAkrSXDW1qCYetg9M/view",
+    "coingecko": "https://coingecko.com/en/coins/agrocash-x",
+    "telegram": "https://t.me/agrocashxptbr",
+    "docs": "https://drive.google.com/file/d/12QYe9KfTejQyWW9JpcY9VHWyjCGH6xqo/view"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD80BeA63a208770e1c371DFBF70Cb13469D29Ae6/logo.png"
+  },
+  "name": "Agrocash X",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "xAGC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

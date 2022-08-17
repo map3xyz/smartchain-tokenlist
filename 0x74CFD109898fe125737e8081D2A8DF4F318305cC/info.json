@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x74CFD109898fe125737e8081D2A8DF4F318305cC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Memes Token"
+  },
+  "id": "2cb11c31-4055-4fbd-9a1c-bd2c649d7640",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x74CFD109898fe125737e8081D2A8DF4F318305cC",
+    "website": "https://bitcoinelon.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x74CFD109898fe125737e8081D2A8DF4F318305cC/logo.png"
+  },
+  "name": "Bitcoin ELON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTCELON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

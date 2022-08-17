@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SafeDancer is programmed to reward holders and built on transparency and trust. We are being audited and will be open with our community with frequent AMA's, questions and more."
+  },
+  "id": "efa866ce-617f-4e50-97f7-6012d578bd1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+    "website": "https://safedancer.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4/logo.png"
+  },
+  "name": "SafeDancer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$DANCE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

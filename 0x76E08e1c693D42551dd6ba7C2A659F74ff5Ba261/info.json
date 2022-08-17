@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x76E08e1c693D42551dd6ba7C2A659F74ff5Ba261",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it’s growth."
+  },
+  "id": "968aa89f-9049-4fb5-8973-3720770fc4ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261",
+    "website": "https://www.shakitainu.com/",
+    "twitter": "https://twitter.com/ShakitaInu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shakita-inu/",
+    "coingecko": "https://coingecko.com/en/coins/shakita-inu",
+    "reddit": "https://reddit.com/r/ShakitaInu/",
+    "telegram": "https://t.me/shakinu",
+    "telegramNews": "https://t.me/shakita_inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x76E08e1c693D42551dd6ba7C2A659F74ff5Ba261/logo.png"
+  },
+  "name": "Shakita Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Shak",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

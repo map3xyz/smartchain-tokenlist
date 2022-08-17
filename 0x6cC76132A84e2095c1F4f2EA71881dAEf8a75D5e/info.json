@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6cC76132A84e2095c1F4f2EA71881dAEf8a75D5e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ninebot is an app to manage automatic trading on Binance. Ninebot also makes your trading transactions run automatically according to the settings in App you provide."
+  },
+  "id": "514cd1a2-ccba-4855-a9dd-7bf4b81f22f7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6cC76132A84e2095c1F4f2EA71881dAEf8a75D5e",
+    "website": "https://ninebot.io/",
+    "twitter": "https://twitter.com/NinebotIO",
+    "telegram": "https://t.me/NineBotCommunity",
+    "docs": "https://docs.ninebot.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6cC76132A84e2095c1F4f2EA71881dAEf8a75D5e/logo.png"
+  },
+  "name": "Ninebot",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NBG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

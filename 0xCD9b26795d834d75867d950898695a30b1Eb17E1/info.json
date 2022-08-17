@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCD9b26795d834d75867d950898695a30b1Eb17E1",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "NFTs for anything digital, verified by VIDT Datalink"
+  },
+  "id": "7f37faf5-d2c1-48bb-8a63-17ed81055423",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCD9b26795d834d75867d950898695a30b1Eb17E1",
+    "website": "https://vidt-datalink.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCD9b26795d834d75867d950898695a30b1Eb17E1/logo.png"
+  },
+  "name": "VIDTC NFT Claim",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

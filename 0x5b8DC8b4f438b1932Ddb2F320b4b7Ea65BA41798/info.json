@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5b8DC8b4f438b1932Ddb2F320b4b7Ea65BA41798",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitica Token, created in 2018, it is based on BEP-20 Smart Technology which is owned by Block Beats Company Registered in Estonia (the first country to legalise Cryptocurreny)."
+  },
+  "id": "b6cec09a-1548-471e-8292-ced6da760b33",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5b8DC8b4f438b1932Ddb2F320b4b7Ea65BA41798",
+    "website": "https://www.thebitica.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5b8DC8b4f438b1932Ddb2F320b4b7Ea65BA41798/logo.png"
+  },
+  "name": "BDCC COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

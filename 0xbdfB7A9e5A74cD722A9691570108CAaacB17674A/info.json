@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$SPACESHARKS is a deflationary and frictionless yield token built to connect digital artists and those of interest!"
+  },
+  "id": "973f62a1-8932-4b2e-92ef-000ce36c4e6f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
+    "website": "https://spacesharks.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbdfB7A9e5A74cD722A9691570108CAaacB17674A/logo.png"
+  },
+  "name": "$SpaceSharks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPACESHARKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

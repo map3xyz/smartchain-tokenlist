@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9628542656482DdeE1989b04133f02A799eB0936",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "VIAGRA is a charity token to raise money for men's health issues."
+  },
+  "id": "182bd34a-fde3-489e-9bd7-72f0c59b1971",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9628542656482DdeE1989b04133f02A799eB0936",
+    "website": "https://viagrat.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9628542656482DdeE1989b04133f02A799eB0936/logo.png"
+  },
+  "name": "Viagra",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIAGRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

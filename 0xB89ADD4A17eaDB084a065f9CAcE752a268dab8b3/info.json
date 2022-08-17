@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "$ZETBNB is Multi Purpose Project | Auto-generate Advertisment , liquidity , DeFi , and NFT aircraft Market | project built on Binance Smart Chain #BSC"
+  },
+  "id": "880b5287-9ee4-4142-9dba-7d549dc5f67b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3",
+    "website": "https://zetbnb.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB89ADD4A17eaDB084a065f9CAcE752a268dab8b3/logo.png"
+  },
+  "name": "ZETBNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZETBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

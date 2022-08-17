@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xb6090a50f66046E3c6aFB9311846a6432E45060A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The next frontier in community driven value - Auto locking LP to enable contract driven passive rewards. Simply hold the token to join the journey and reap the rewards."
+  },
+  "id": "30be5825-b59a-4b2b-9f39-5fd65f19ab14",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb6090a50f66046E3c6aFB9311846a6432E45060A",
+    "website": "https://www.pinkmoon.finance/",
+    "twitter": "https://twitter.com/pinkmoonfinance",
+    "telegram": "https://t.me/pinkmoonfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb6090a50f66046E3c6aFB9311846a6432E45060A/logo.png"
+  },
+  "name": "PinkMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINKM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x00000ee41472D518B364FA09866532A792F4009B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TBCC token is a utility token that was issued by TBCC development team. "
+  },
+  "id": "92f1ac79-2ac6-4b08-b89d-2bc6695cdbe1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x00000ee41472D518B364FA09866532A792F4009B",
+    "website": "https://www.tbcc.com/footer/token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x00000ee41472D518B364FA09866532A792F4009B/logo.png"
+  },
+  "name": "TBCC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TBCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

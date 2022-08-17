@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MAMADOGE is the creator and birth mother of the #1 meme coin out there: DOGE Coin."
+  },
+  "id": "961e10c5-108d-4db7-b635-e30871293113",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
+    "website": "https://www.mamadogecoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE/logo.png"
+  },
+  "name": "MAMADOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MAMADOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

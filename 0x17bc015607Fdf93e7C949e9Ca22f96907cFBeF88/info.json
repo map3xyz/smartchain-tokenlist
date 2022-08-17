@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BSC Farm."
+  },
+  "id": "94d5ba95-3fe6-4b8e-a09e-771d5301639b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
+    "website": "https://bsc.farm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88/logo.png"
+  },
+  "name": "BSC Farm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

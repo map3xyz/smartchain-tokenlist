@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Global marketplace of digital assets, for Players and Clubs to share their stories with fans and invite them to join in collecting digital sports memorabilia directly from their idols."
+  },
+  "id": "a96e155a-876e-4c1d-a170-0204a3a77bd3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a",
+    "website": "https://shirtum.com",
+    "twitter": "https://twitter.com/shirtumapp",
+    "github": "https://github.com/Shirtum",
+    "telegram": "https://t.me/shirtum",
+    "coingecko": "https://coingecko.com/es/monedas/shirtum"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a/logo.png"
+  },
+  "name": "Shirtum",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

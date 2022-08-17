@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Earn passive income and help the world like a boss"
+  },
+  "id": "3cdfbdf4-0bcc-412c-9451-c1b42c684b8f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+    "website": "https://oros.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9/logo.png"
+  },
+  "name": "Oros",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OROS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

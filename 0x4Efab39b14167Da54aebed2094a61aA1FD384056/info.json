@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4Efab39b14167Da54aebed2094a61aA1FD384056",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Power of Leopard driven by Community"
+  },
+  "id": "93964ef0-d8a2-4d06-ae8a-bd15a9eff17e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4Efab39b14167Da54aebed2094a61aA1FD384056",
+    "website": "https://leopardbsc.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4Efab39b14167Da54aebed2094a61aA1FD384056/logo.png"
+  },
+  "name": "LEOPARD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEOPARD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

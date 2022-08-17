@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2794DAD4077602eD25A88d03781528D1637898B4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VITE(Vite) is a lightning-fast blockchain where transactions incur zero fees."
+  },
+  "id": "21a656cf-3cfb-4e5b-b392-6d3c477e6ee9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2794DAD4077602eD25A88d03781528D1637898B4",
+    "website": "https://vite.org",
+    "github": "https://github.com/vitelabs",
+    "twitter": "https://twitter.com/vitelabs",
+    "medium": "https://medium.com/vitelabs"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2794DAD4077602eD25A88d03781528D1637898B4/logo.png"
+  },
+  "name": "VITE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VITE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

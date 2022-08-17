@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26619FA1d4c957C58096bBbeCa6588dCFB12E109",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TIME is a token that can be earned or used in a developed game for entertainment."
+  },
+  "id": "2892947d-9dd5-479f-835a-ba393e085e32",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26619FA1d4c957C58096bBbeCa6588dCFB12E109",
+    "website": "https://meta-time.org/",
+    "blog": "https://www.meta-time.org/",
+    "whitepaper": "https://www.meta-time.org/whitepaper.pdf",
+    "github": "https://bscscan.com/address/0x26619FA1d4c957C58096bBbeCa6588dCFB12E109#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x26619FA1d4c957C58096bBbeCa6588dCFB12E109/logo.png"
+  },
+  "name": "TIME",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TIME",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

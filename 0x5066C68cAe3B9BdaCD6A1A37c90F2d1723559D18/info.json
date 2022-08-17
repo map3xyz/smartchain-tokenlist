@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WIZARD is a first-of-a-kind fantasy token and NFT marketplace which brings a magical experience to all who behold it, combining crypto with games for multiplied rewards."
+  },
+  "id": "ff6077e7-e872-4239-bcb9-96b63a797e56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18",
+    "website": "https://wizard.financial",
+    "twitter": "https://twitter.com/WIZARD_BSC",
+    "telegram": "https://t.me/wizard_financial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wizard",
+    "medium": "https://medium.com/@wizardtokenofficial",
+    "coingecko": "https://coingecko.com/en/coins/wizard-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18/logo.png"
+  },
+  "name": "WIZARD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WIZARD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

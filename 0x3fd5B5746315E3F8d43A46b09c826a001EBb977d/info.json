@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3fd5B5746315E3F8d43A46b09c826a001EBb977d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Charging the Future of Blockchains"
+  },
+  "id": "a7693bd8-1e69-428c-8373-cf503c5c4ad0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3fd5B5746315E3F8d43A46b09c826a001EBb977d",
+    "website": "https://www.oxbull.tech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3fd5B5746315E3F8d43A46b09c826a001EBb977d/logo.png"
+  },
+  "name": "oxbull.tech",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OXB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

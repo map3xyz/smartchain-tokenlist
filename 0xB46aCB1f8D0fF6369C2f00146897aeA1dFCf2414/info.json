@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB46aCB1f8D0fF6369C2f00146897aeA1dFCf2414",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Andromeda M31, we value honesty and transparency. We work hard for our investments and YOUR investments. We also strive to make a lasting impact in decentralized finance."
+  },
+  "id": "dfd94c22-353a-459f-9b32-5fd48ce1f79f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB46aCB1f8D0fF6369C2f00146897aeA1dFCf2414",
+    "website": "https://orbitlaunch.io",
+    "telegram": "https://t.me/orbitlaunchbsc",
+    "twitter": "https://twitter.com/Orbit_crypto_"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB46aCB1f8D0fF6369C2f00146897aeA1dFCf2414/logo.png"
+  },
+  "name": "Andromeda V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "M31",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

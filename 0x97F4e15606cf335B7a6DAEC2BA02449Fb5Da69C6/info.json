@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Token Programmed to Reward Holders"
+  },
+  "id": "8091fb1f-1aec-4117-8140-c52d3c5e7aa4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6",
+    "website": "https://vancatdogtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x97F4e15606cf335B7a6DAEC2BA02449Fb5Da69C6/logo.png"
+  },
+  "name": "VANCATDOG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VANCATDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x6eA05F63DAF6b0Dc6b8bea94342330CC602c5536",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeSex Finance is token deployed on binance smart chain network. It is deflationary token with feature of rewarding holders in every transaction done by other buyers and sellers. SafeSex finance is working with aim of charity to sex victims, human trafficking victims, kids with poo economic condition for schools, autism community. It has aim to create awareness about safe sex education to the community with the help of defi."
+  },
+  "id": "b36667d2-0898-4f4b-a9c6-853cf316b6d3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6ea05f63daf6b0dc6b8bea94342330cc602c5536",
+    "website": "https://safesexfinance.com/",
+    "github": "https://github.com/safesexfinance",
+    "whitepaper": "https://30fde514-9cd9-448c-822b-163b0c205141.filesusr.com/ugd/7cbad4_7cf6e0aa6a554b49b69f5c52ec5ac907.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6eA05F63DAF6b0Dc6b8bea94342330CC602c5536/logo.png"
+  },
+  "name": "SafeSex Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

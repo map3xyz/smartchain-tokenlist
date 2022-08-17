@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x95df1652cBAB65fd566C088531B7760C9dA19f5F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ASTROAPE TOKEN works with 3 simple functions in each transaction: Reward + LP Generation + Token burn thereby increasing the value of tokens with every buy or sell"
+  },
+  "id": "b4a1cd19-1845-4cba-b397-effaa3a2ab4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95df1652cBAB65fd566C088531B7760C9dA19f5F",
+    "website": "https://astroape.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x95df1652cBAB65fd566C088531B7760C9dA19f5F/logo.png"
+  },
+  "name": "Astroape",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Astroape",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

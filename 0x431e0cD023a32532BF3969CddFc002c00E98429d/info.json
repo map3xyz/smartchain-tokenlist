@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x431e0cD023a32532BF3969CddFc002c00E98429d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "XCAD network is a tokenisation platform for content creators & their fans. Think CHZ fan tokens but for content creators"
+  },
+  "id": "a0a7b456-d2ae-4e91-96e5-5cb0e1c83b14",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x431e0cD023a32532BF3969CddFc002c00E98429d",
+    "website": "https://xcademytoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x431e0cD023a32532BF3969CddFc002c00E98429d/logo.png"
+  },
+  "name": "XCAD Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

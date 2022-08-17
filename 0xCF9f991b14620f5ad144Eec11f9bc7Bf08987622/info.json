@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$PORNROCKET is revolutionizing the way adult entertainers share their saucy content with their fans and monetize their influence through a subscription based offering."
+  },
+  "id": "9fae0f40-0c67-428f-900c-a2afe8eecae5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcf9f991b14620f5ad144eec11f9bc7bf08987622",
+    "website": "https://pornrocket.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622/logo.png"
+  },
+  "name": "PORNROCKET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PORNROCKET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

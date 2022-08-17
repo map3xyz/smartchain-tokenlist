@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x57067A6BD75c0E95a6A5f158455926e43E79BeB0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A fair launch yield farming and staking platform on Binance Smart Chain."
+  },
+  "id": "317d4c50-96cf-4c40-b3e4-c7df42c7b608",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57067a6bd75c0e95a6a5f158455926e43e79beb0",
+    "website": "https://blizzard.money",
+    "twitter": "https://twitter.com/money_blizzard",
+    "telegram": "https://t.me/BlizzardMoney",
+    "medium": "https://blizzardmoney.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57067A6BD75c0E95a6A5f158455926e43E79BeB0/logo.png"
+  },
+  "name": "Blizzard.money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLZD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

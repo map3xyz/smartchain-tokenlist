@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE78a58ACB18811E840DD828d4f0116389e953592",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationary cryptocurrency that has a locked liquidity and is community backed. Our aim is to help those without electricity receive it in a way that helps our planet."
+  },
+  "id": "885b2f3a-a49a-4c62-9854-4cd76a4956a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe78a58acb18811e840dd828d4f0116389e953592",
+    "website": "https://www.voltbit.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE78a58ACB18811E840DD828d4f0116389e953592/logo.png"
+  },
+  "name": "VoltBit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VBit",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

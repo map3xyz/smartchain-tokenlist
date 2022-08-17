@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DFI.Money (YFII) is a DeFi platform which aims to build products on aggregated liquidity provision, leveraged trading, automated marketing making."
+  },
+  "id": "f1b534dd-93e7-434a-90f2-4011af80e231",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+    "research": "https://research.binance.com/en/projects/dfimoney",
+    "website": "https://yfii.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5/logo.png"
+  },
+  "name": "Binance-Peg YFII.finance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YFII",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

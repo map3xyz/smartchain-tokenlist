@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xF520f5D709dCD40529caaFc02B297e7225ff8372",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever."
+  },
+  "id": "c8979fd2-882b-439d-8ac8-adea992b6d27",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf520f5d709dcd40529caafc02b297e7225ff8372",
+    "website": "https://moonwilly.com",
+    "github": "https://github.com/top1st/Moonwilly-Protocal/",
+    "twitter": "https://twitter.com/Moonwillycoin",
+    "reddit": "https://reddit.com/r/moonwilly",
+    "telegram": "https://t.me/moonwillyproject",
+    "facebook": "https://facebook.com/MoonWilly-101277595537126",
+    "medium": "https://medium.com/@moonwillycoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF520f5D709dCD40529caaFc02B297e7225ff8372/logo.png"
+  },
+  "name": "MoonWilly",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MoonWilly",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

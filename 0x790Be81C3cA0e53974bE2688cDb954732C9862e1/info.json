@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CafeSwap is a revolutionary yield farming and staking platform on Binance Smart Chain"
+  },
+  "id": "938a3a11-6965-4b06-8813-f7c229ffd7bf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
+    "research": "https://docs.cafeswap.finance/",
+    "website": "https://cafeswap.finance/",
+    "twitter": "https://twitter.com/cafeswapfinance",
+    "telegram": "https://t.me/CafeSwap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x790Be81C3cA0e53974bE2688cDb954732C9862e1/logo.png"
+  },
+  "name": "CafeSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BREW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

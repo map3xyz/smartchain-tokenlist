@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BEP-20 Utility token for FC Porto"
+  },
+  "id": "4f3bdcfa-aead-4879-96d5-6f70be253a4d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+    "website": "https://www.binance.com/en/fan-token/team-profile/porto",
+    "twitter": "https://twitter.com/FCPorto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fc-porto/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x49f2145d6366099e13B10FbF80646C0F377eE7f6/logo.png"
+  },
+  "name": "FC Porto Fan Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PORTO",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

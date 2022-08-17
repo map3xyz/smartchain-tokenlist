@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xb1547683DA678f2e1F003A780143EC10Af8a832B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "354efeb4-67f0-47f9-8e0c-03c6105ac70a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb1547683DA678f2e1F003A780143EC10Af8a832B",
+    "website": "https://shibatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb1547683DA678f2e1F003A780143EC10Af8a832B/logo.png"
+  },
+  "name": "Shiba Inu (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

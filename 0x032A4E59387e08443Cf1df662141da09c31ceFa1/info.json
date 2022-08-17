@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x032A4E59387e08443Cf1df662141da09c31ceFa1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hero Cat game is a Metaverse about cat heros. It bringing new gamefi playand earn experience for its players. Players can use Hero Cat crypto to fight, develop, upgrade, and join battles. Players will earn crypto by playing or contributing to the community."
+  },
+  "id": "af6780f8-216e-4779-91c7-a0c3f94b02aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x032A4E59387e08443Cf1df662141da09c31ceFa1",
+    "website": "https://herocat.io",
+    "twitter": "https://twitter.com/HeroCatGameFi",
+    "telegram": "https://t.me/herocatgamefi",
+    "discord": "https://discord.com/invite/2hAGKY7dZK",
+    "whitepaper": "https://faqen.herocat.io/",
+    "facebook": "https://facebook.com/herocatgamefiio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/herocatkey/",
+    "coingecko": "https://coingecko.com/en/coins/hero-cat-key"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x032A4E59387e08443Cf1df662141da09c31ceFa1/logo.png"
+  },
+  "name": "HeroCatKey",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HCK",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

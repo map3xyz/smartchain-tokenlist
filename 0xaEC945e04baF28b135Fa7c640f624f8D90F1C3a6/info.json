@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator."
+  },
+  "id": "73dddcf4-e7ac-4c2e-8ef7-436de8fbbda5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+    "website": "https://coin98.com",
+    "github": "https://github.com/coin98",
+    "twitter": "https://twitter.com/coin98_finance",
+    "telegram": "https://t.me/coin98_labs",
+    "whitepaper": "https://coin98.com/coin98-whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coin98/",
+    "coingecko": "https://coingecko.com/en/coins/coin98/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6/logo.png"
+  },
+  "name": "Coin98",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "C98",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

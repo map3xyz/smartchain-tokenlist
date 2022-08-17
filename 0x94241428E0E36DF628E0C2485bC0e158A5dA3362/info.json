@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CrazyTime is an automatic LP generating lottery token. The lottery function randomly chooses a holder and sends them 5% of the transaction value in CrazyTime. "
+  },
+  "id": "50a38e58-a261-417c-813f-cd41866368a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+    "website": "https://www.moochii.net/crazytime"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x94241428E0E36DF628E0C2485bC0e158A5dA3362/logo.png"
+  },
+  "name": "CrazyTime",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CrazyTime",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

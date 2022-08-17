@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Autofarm is a suite of products in Decentralized Finance (DeFi) that provides DEX aggregation and, yield farming aggregation on the various blockchains."
+  },
+  "id": "3810fee4-3c8c-4fb3-9880-973791a4919b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+    "website": "https://autofarm.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa184088a740c695E156F91f5cC086a06bb78b827/logo.png"
+  },
+  "name": "AUTOv2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AUTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x6266a18F1605DA94e8317232ffa634C74646ac40",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The MetFx Marketplace is where you will find all the accessories you may require to do so, and also find a wide range of NFT’s that can be used in our metaverse."
+  },
+  "id": "b9aef0c0-c980-49ee-8119-3090f8971c66",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6266a18F1605DA94e8317232ffa634C74646ac40",
+    "website": "https://www.metfx.io",
+    "twitter": "https://twitter.com/metfxmetaverse",
+    "telegram": "https://t.me/METFXWORLD",
+    "facebook": "https://facebook.com/metfx.official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metfx-watch-to-earn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6266a18F1605DA94e8317232ffa634C74646ac40/logo.png"
+  },
+  "name": "METFX Watch-To-Earn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MFX",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

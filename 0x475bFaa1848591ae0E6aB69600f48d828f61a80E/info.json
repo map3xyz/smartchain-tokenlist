@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Everdome will provide a destination for Metahero’s remarkable tech to live, interact and flourish. Taking Metahero from the gateway into the metaverse, together with Everdome, to a fully ubiquitous web3 experience - to the point when you take off your VR headset you won’t be able to tell what’s real and what’s not."
+  },
+  "id": "3b98d330-2b0c-48f3-bf04-546278ad522e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+    "website": "https://everdome.io/",
+    "twitter": "https://twitter.com/Everdome_io",
+    "telegram": "https://t.me/everdome"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x475bFaa1848591ae0E6aB69600f48d828f61a80E/logo.png"
+  },
+  "name": "Everdome",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOME",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TCG Coin 2.0 is the foundation for two online economies bringing gaming and collectible trading and selling to the Binance chain."
+  },
+  "id": "5af4db4d-31af-4bd8-a73d-7db69e197a1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA",
+    "website": "https://tcg.world/",
+    "twitter": "https://twitter.com/OfficialTCGCoin/",
+    "telegram": "https://t.me/TCGGaming/",
+    "coingecko": "https://coingecko.com/en/coins/tcgcoin-2-0/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tcgcoin-2-0/",
+    "facebook": "https://facebook.com/TCGCoinOfficial/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF73d8276C15Ce56b2f4AeE5920e62F767A7f3aEA/logo.png"
+  },
+  "name": "TCGCoin 2.0",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCG2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

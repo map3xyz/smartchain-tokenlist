@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "World First Liquidity Mining Coin with Static Rewards."
+  },
+  "id": "1e0e4ff5-9cef-43d9-a071-3d64b20368e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+    "website": "https://thoreum.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x580dE58c1BD593A43DaDcF0A739d504621817c05/logo.png"
+  },
+  "name": "Thoreum Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THOREUM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

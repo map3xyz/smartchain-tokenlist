@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Adamant is a hyperdeflationary token and is the Governance Token of the charity NFT Game Adamant Mine"
+  },
+  "id": "0c54f93f-4b0e-498d-87b2-e2d49fe1467d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
+    "website": "https://www.adamantcoin.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/adamant/",
+    "twitter": "https://twitter.com/adamantcoin",
+    "telegram": "https://t.me/admcadamant",
+    "medium": "https://adamantcoin.medium.com/",
+    "discord": "https://discord.com/adamant"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69/logo.png"
+  },
+  "name": "Adamant",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADMC",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

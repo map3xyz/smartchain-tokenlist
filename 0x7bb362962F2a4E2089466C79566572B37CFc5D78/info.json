@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x7bb362962F2a4E2089466C79566572B37CFc5D78",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token - Reflection paid back to holders."
+  },
+  "id": "18b1e467-d22f-4a48-9943-20cce4cbf052",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7bb362962F2a4E2089466C79566572B37CFc5D78",
+    "website": "https://bafe.io",
+    "twitter": "https://twitter.com/Bafeio",
+    "telegram": "https://t.me/bafeio",
+    "discord": "https://discord.com/invite/ZFR6MrB6Vg",
+    "medium": "https://bafe-io.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7bb362962F2a4E2089466C79566572B37CFc5D78/logo.png"
+  },
+  "name": "Bafe.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

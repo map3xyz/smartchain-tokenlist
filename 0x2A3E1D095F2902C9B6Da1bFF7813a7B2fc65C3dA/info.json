@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2A3E1D095F2902C9B6Da1bFF7813a7B2fc65C3dA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Red Floki is a Deflationary Token That Charges Tx Fees On Everything But Buys. The Fees Charged On All Non-Buy Transactions Help Reward And Protect All HOLDRs. Everyone loves profits."
+  },
+  "id": "dcc271d0-92fd-4161-9ab2-2ca592f59b7c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2A3E1D095F2902C9B6Da1bFF7813a7B2fc65C3dA",
+    "website": "https://redfloki.com",
+    "twitter": "https://twitter.com/RedFloki",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/red-floki/",
+    "telegram": "https://t.me/Red_Floki",
+    "telegramNews": "https://t.me/RedFloki_Giveaways"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2A3E1D095F2902C9B6Da1bFF7813a7B2fc65C3dA/logo.png"
+  },
+  "name": "Red Floki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REDFLOKI",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

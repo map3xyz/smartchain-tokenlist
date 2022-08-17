@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Virtual token that allows the Vote Escrowed (ve) EverRise weighted governance tokens from EverRise Staking NFTs to display in wallet balances."
+  },
+  "id": "0a113fb3-4377-4841-908f-a0ca1c2031b3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b",
+    "website": "https://www.everrise.com/",
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "youtube": "https://youtube.com/c/everriseofficial/",
+    "reddit": "https://reddit.com/r/EverRise",
+    "discord": "https://discord.com/invite/everrise",
+    "github": "https://github.com/everrise-ecosystem",
+    "facebook": "https://facebook.com/EverRiseToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDbA7b24257fC6e397cB7368B4BC922E944072f1b/logo.png"
+  },
+  "name": "Vote-escrowed EverRise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "veRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

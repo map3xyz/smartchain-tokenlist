@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x02A40C048eE2607B5f5606e445CFc3633Fb20b58",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kaby Arena is a tactical multiplayer role playing game which combines Free-to-Play and Play-to-Earn to provide an open economy for every player"
+  },
+  "id": "ed236af8-0ae2-4490-8767-34594cda30ed",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
+    "website": "https://kabyarena.com",
+    "telegram": "https://t.me/KabyArena",
+    "twitter": "https://twitter.com/KabyArena",
+    "coingecko": "https://coingecko.com/en/coins/kaby-arena",
+    "medium": "https://medium.com/@kabyarena",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kaby-arena/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02A40C048eE2607B5f5606e445CFc3633Fb20b58/logo.png"
+  },
+  "name": "Kaby Arena",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KABY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

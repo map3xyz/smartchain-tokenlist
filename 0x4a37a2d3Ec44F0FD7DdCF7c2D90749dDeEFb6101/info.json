@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4a37a2d3Ec44F0FD7DdCF7c2D90749dDeEFb6101",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MOONBEE.FINANCE Protocol is a community driven, fair launched DeFi Token. Four simple functions occur during each trade: Reflection, LP Acquisition, Food Charity and Burn."
+  },
+  "id": "e99cea7d-6f9a-4329-965f-16578b39b0b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a37a2d3Ec44F0FD7DdCF7c2D90749dDeEFb6101",
+    "website": "https://moonbee.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a37a2d3Ec44F0FD7DdCF7c2D90749dDeEFb6101/logo.png"
+  },
+  "name": "MOON BEE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONBEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

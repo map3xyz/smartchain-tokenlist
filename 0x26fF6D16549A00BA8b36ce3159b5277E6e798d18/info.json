@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x26fF6D16549A00BA8b36ce3159b5277E6e798d18",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Small - but most aggressive brother of Doge Coin!"
+  },
+  "id": "5aaeb2f7-7ca0-4f25-90d7-a0e3ec1d13ed",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26fF6D16549A00BA8b36ce3159b5277E6e798d18",
+    "website": "https://www.chihuatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x26fF6D16549A00BA8b36ce3159b5277E6e798d18/logo.png"
+  },
+  "name": "Chihua Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHIHUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

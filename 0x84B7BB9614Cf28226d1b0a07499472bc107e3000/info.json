@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x84B7BB9614Cf28226d1b0a07499472bc107e3000",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EverestCoin is a Play to Earn Game token and will be the biggest token on BSC."
+  },
+  "id": "48511a52-aad8-4d4d-bd9c-4aca69f435ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x84B7BB9614Cf28226d1b0a07499472bc107e3000",
+    "website": "https://everestcoin.io",
+    "twitter": "https://twitter.com/coineverest",
+    "github": "https://github.com/everestgithub",
+    "telegram": "https://t.me/TheEverestCoin",
+    "telegramNews": "https://t.me/EverestCoinChannel",
+    "blog": "https://blog.everestcoin.io",
+    "discord": "https://discord.com/S8V9H6yE",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/everestcoin/",
+    "coingecko": "https://coingecko.com/en/coins/everestcoin",
+    "youtube": "https://youtube.com/channel/UCRUb5jOLSi73bzUBh7Ao5og"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x84B7BB9614Cf28226d1b0a07499472bc107e3000/logo.png"
+  },
+  "name": "EverestCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EVCoin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

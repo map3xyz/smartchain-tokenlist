@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7895B3DE4169635da889Ca842740748136Ac7B11",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SUPER DOGE is DOGE Memes Token"
+  },
+  "id": "bb10acdf-d9e4-41d8-b5fb-257fd64d43d6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7895B3DE4169635da889Ca842740748136Ac7B11",
+    "website": "https://superdogebsc.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7895B3DE4169635da889Ca842740748136Ac7B11/logo.png"
+  },
+  "name": "SUPER DOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUPERDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mogul Productions is a decentralized film financing (DeFi) and movie-based NFT platform that connects creators, movie fans, and film financiers in one space to ensure the best films get made by giving everyone a voice. By leveraging blockchain technology, NFTs and a tokenized system, Mogul incentivizes participation and rewards engagement. Using the Mogul in-app payment and utility token (STARS), users can vote on, greenlight and participate in key decision-making aspects of production."
+  },
+  "id": "82ae16ca-4c06-4d2c-bb9f-819c0f865a68",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbd83010eb60f12112908774998f65761cf9f6f9a",
+    "website": "https://www.mogulproductions.com/stars",
+    "telegram": "https://t.me/mogulproductions",
+    "twitter": "https://twitter.com/mogulofficial_",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mogul-productions/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbD83010eB60F12112908774998F65761cf9f6f9a/logo.png"
+  },
+  "name": "Mogul Stars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STARS",
+  "tags": [
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

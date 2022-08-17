@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe77011ed703ed06927dBd78e60c549baBAbF913e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Micro Bitcoin mBTC is frictionless mining generation mBTC hard-coded on its smart contract to use as future store of value currency."
+  },
+  "id": "b5a9e07f-1e30-45c6-ba02-0db197bebc5e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe77011ed703ed06927dBd78e60c549baBAbF913e",
+    "website": "https://mbitcoin.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe77011ed703ed06927dBd78e60c549baBAbF913e/logo.png"
+  },
+  "name": "Micro Bitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

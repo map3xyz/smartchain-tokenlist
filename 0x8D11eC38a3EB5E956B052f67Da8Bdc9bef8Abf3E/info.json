@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Maintain 100% liquidity of your capital, trade and use DeFi while simultaneously earning block and fee rewards by staking ANY digital asset"
+  },
+  "id": "1069da84-b0be-4295-93c3-dcceb8ee00a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "website": "https://kira.network",
+    "twitter": "https://twitter.com/kira_core",
+    "telegram": "https://t.me/kirainterex",
+    "blog": "https://blog.kira.network",
+    "whitepaper": "https://wp.kira.network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kira-network/",
+    "coingecko": "https://coingecko.com/en/coins/kira-network/",
+    "github": "https://git.kira.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
+  },
+  "name": "KIRA Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x33A3d962955A3862C8093D1273344719f03cA17C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Spore is an international movement of artists and blockchain developers who are building an ecosystem that connects content creators with users, using open standards for fair distribution. The ecosystem, which includes an NFT platform, is fueled by SPORE, a deflationary, globally-accepted currency available on Avalanche and Binance Smart Chain. The token seamlessly connects two massive blockchains and their user bases with the first of its kind Avalanche-BSC bridge, developed in-house by Spore."
+  },
+  "id": "aaecd152-c09c-4931-b62b-fde77c190d88",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x33A3d962955A3862C8093D1273344719f03cA17C",
+    "website": "https://spore.earth/",
+    "github": "https://github.com/sporeproject",
+    "twitter": "https://twitter.com/sporeproject",
+    "telegram": "https://t.me/sporefinanceofficial",
+    "discord": "https://discord.com/invite/xRrArCTG9Q",
+    "facebook": "https://facebook.com/sporeproject",
+    "youtube": "https://youtube.com/sporeproject",
+    "reddit": "https://reddit.com/r/sporeproject",
+    "medium": "https://sporeproject.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x33A3d962955A3862C8093D1273344719f03cA17C/logo.png"
+  },
+  "name": "Spore",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPORE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

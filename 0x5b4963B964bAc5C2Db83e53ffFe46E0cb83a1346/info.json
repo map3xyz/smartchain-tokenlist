@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5b4963B964bAc5C2Db83e53ffFe46E0cb83a1346",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kitty Token is a Decentralized Meme Token. Make the Fun with Kitty. Mine BNB with #KITTY upto 1000 BNB."
+  },
+  "id": "d462a0ad-8892-40fc-b314-4ce0e33e22af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5b4963B964bAc5C2Db83e53ffFe46E0cb83a1346",
+    "website": "https://kittytoken.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5b4963B964bAc5C2Db83e53ffFe46E0cb83a1346/logo.png"
+  },
+  "name": "Kitty Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KITTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

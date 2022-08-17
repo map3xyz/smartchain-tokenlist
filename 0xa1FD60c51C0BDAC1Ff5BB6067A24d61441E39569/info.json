@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xa1FD60c51C0BDAC1Ff5BB6067A24d61441E39569",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The SafeNebula Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn."
+  },
+  "id": "411410a6-6291-4e92-a8e2-cd81eade6d4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569",
+    "website": "https://safenebula.com",
+    "twitter": "https://twitter.com/safe_nebula",
+    "telegram": "https://t.me/safenebula"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa1FD60c51C0BDAC1Ff5BB6067A24d61441E39569/logo.png"
+  },
+  "name": "SafeNebula",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x52cF099D7C891951eAce3E99ABC580BDa26912fC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Give your shot at one of the most lucrative lottery game on BSC! Our team are developing an online casino with lottery concepts for those investing on our token. Our project will develop the concept with low-tax contract, with up to 1000% possible winning!"
+  },
+  "id": "e03ef83a-413b-4f1d-ab54-1b4723532021",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52cF099D7C891951eAce3E99ABC580BDa26912fC",
+    "website": "https://nevada.casino/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nevada",
+    "coingecko": "https://coingecko.com/en/coins/nevada"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x52cF099D7C891951eAce3E99ABC580BDa26912fC/logo.png"
+  },
+  "name": "Nevada",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEVADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

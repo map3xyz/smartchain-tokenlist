@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x09d96101dB62FfAc32f798CB9A61e501337b79C6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WEB3 Game building a Game Studio, Metaverse, DeFi and Web3.0. An unique play-to-earn game that strives to return ownership back to the gamers"
+  },
+  "id": "a48b0d17-d9ca-4a4b-adad-896e4969de2c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x09d96101db62ffac32f798cb9a61e501337b79c6",
+    "website": "https://web3game.tech",
+    "twitter": "https://twitter.com/Web3GamesBSC",
+    "github": "https://github.com/web3gameTECH",
+    "telegram": "https://t.me/web3_game",
+    "whitepaper": "https://web3game.tech/assets/web3game_whitepaper_v1.pdf",
+    "medium": "https://medium.com/@Web3_Game",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/web3-game/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x09d96101dB62FfAc32f798CB9A61e501337b79C6/logo.png"
+  },
+  "name": "WEB3 Game",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEB3",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

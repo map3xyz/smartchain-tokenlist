@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "X World Games is the next-generation decentralized blockchain game ecosystem. \"X World\" represents an unknown universe to be explored, and \"Games\" represents more games that will be added to this ecosystem. The vision of X World Games is to build a diversified gaming ecosystem that connects traditional game players and the blockchain world and help more game developers who want to enter the crypto space to create the underlying blockchain framework."
+  },
+  "id": "8d816f57-0817-4f33-b7cc-9374b53aa6bc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
+    "website": "https://xwg.games/",
+    "twitter": "https://twitter.com/xwg_games",
+    "github": "https://github.com/XWorldGames",
+    "telegram": "https://t.me/xworldgames",
+    "discord": "https://discord.com/invite/xworldgames",
+    "medium": "https://medium.com/x-world-games",
+    "reddit": "https://reddit.com/r/XWorldGames/",
+    "facebook": "https://facebook.com/XWGgames",
+    "youtube": "https://youtube.com/c/XWorldGames",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/x-world-games/",
+    "docs": "https://docs.xwg.games/",
+    "whitepaper": "https://docs.xwg.games/docs/whitepaper",
+    "telegramNews": "https://t.me/xwg_games_ann",
+    "coingecko": "https://coingecko.com/coins/x-world-games"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc/logo.png"
+  },
+  "name": "X World Games",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XWG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

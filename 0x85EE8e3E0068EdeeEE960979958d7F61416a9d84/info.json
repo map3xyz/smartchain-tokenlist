@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x85EE8e3E0068EdeeEE960979958d7F61416a9d84",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$STORY is the token fueling our crowdfunding platform called Story. Story provides anyone, anywhere with the platform to help others. Simply share their Story in 60 seconds or less and our community listens."
+  },
+  "id": "cc174cc8-ce7b-4842-8f73-01cbd799cea2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x85EE8e3E0068EdeeEE960979958d7F61416a9d84",
+    "website": "https://storytoken.app",
+    "twitter": "https://twitter.com/StoryToken_",
+    "telegram": "https://t.me/storytoken_official",
+    "coingecko": "https://coingecko.com/en/coins/story",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/story/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x85EE8e3E0068EdeeEE960979958d7F61416a9d84/logo.png"
+  },
+  "name": "Story",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STORY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "XcelDefi is native token of XcelLab ecosystem and is the governance token for XcelSwap, a decentralised exchange built to power the future of finance by the XcelLab ecosystem. Users can vote by holding and staking XcelDefi and propose changes in the mechanics of XcelSwap."
+  },
+  "id": "cef2a220-0a14-4bf6-9457-1088ac510078",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
+    "website": "https://www.xceldefi.com",
+    "github": "https://github.com/XcelDefi",
+    "whitepaper": "https://www.xceldefi.com/whitepaper",
+    "telegram": "https://t.me/XcelToken",
+    "twitter": "https://twitter.com/XcelDefi",
+    "medium": "https://xceldefi.medium.com",
+    "discord": "https://discord.com/channels/843873130808213524",
+    "facebook": "https://facebook.com/XcelDefiOfficial",
+    "youtube": "https://youtube.com/channel/UCJwGB8JGkh15KBV8a5NwsJA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2/logo.png"
+  },
+  "name": "XcelDefi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationary burn mechanism and static reward protocol, are the core functions of upShib."
+  },
+  "id": "eb60b9f7-4c2b-471d-8c95-3a3283047710",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+    "website": "https://www.upshib.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x795D38678D5a3f7Ad80DDED5e27644e9c0352904/logo.png"
+  },
+  "name": "upShib",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UPSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

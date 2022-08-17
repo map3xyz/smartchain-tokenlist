@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x93DfC1e09b7164Bafd4860963B6D94CbC4284774",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationary, community-oriented coin that provides rewards for holders through redistribution of coins"
+  },
+  "id": "db485cd9-f942-4953-b7e1-845e1f9805a4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x93DfC1e09b7164Bafd4860963B6D94CbC4284774",
+    "website": "https://www.nocapcoin.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x93DfC1e09b7164Bafd4860963B6D94CbC4284774/logo.png"
+  },
+  "name": "NoCapCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

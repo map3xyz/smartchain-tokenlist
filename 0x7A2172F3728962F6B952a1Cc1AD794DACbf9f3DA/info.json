@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7A2172F3728962F6B952a1Cc1AD794DACbf9f3DA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTs for equity and shared ownership"
+  },
+  "id": "260f75ed-d918-4ca0-8985-204c96f38649",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7a2172f3728962f6b952a1cc1ad794dacbf9f3da",
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7A2172F3728962F6B952a1Cc1AD794DACbf9f3DA/logo.png"
+  },
+  "name": "VIDTC Company stocks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
