@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7EA2b25C1a558C6F9b4649358183152b0eA4c03f",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Next Gen Mining Chip Smaller, faster"
+  },
+  "id": "1e8fed0c-d008-4cd3-a000-bc63754c3e13",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7ea2b25c1a558c6f9b4649358183152b0ea4c03f",
+    "website": "https://bitchip.farm/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7EA2b25C1a558C6F9b4649358183152b0eA4c03f/logo.png"
+  },
+  "name": "Bitchip Farm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

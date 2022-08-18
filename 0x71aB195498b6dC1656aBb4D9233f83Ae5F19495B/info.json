@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Marvin INU has more than just hype backing it. The ambitious team behind this project has committed to providing multiple utilities within the ecosystem. Marvin is here to stay, not only as a tribute to Elon’s dog, but to bring you a full suite of treats, including his Launchpad, Staking, Farming, and more. "
+  },
+  "id": "f9400e78-a9ec-4a62-908a-38db1e1c03a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B",
+    "website": "https://marvininueth.com/",
+    "telegram": "https://t.me/MarvinInuofficial",
+    "twitter": "https://twitter.com/marvin_inu?s=21"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x71aB195498b6dC1656aBb4D9233f83Ae5F19495B/logo.png"
+  },
+  "name": "Marvin Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARVIN",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

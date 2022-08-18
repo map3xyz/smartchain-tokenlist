@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x698111b771363B81D1179AD102e3d8B9cD093a11",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Uka Doge is an adventure game being built on a BSC and Ethereum, Polygon network"
+  },
+  "id": "bed0631a-04af-4322-9d73-5bda018418b5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x698111b771363b81d1179ad102e3d8b9cd093a11",
+    "website": "https://ukadoge.com/",
+    "twitter": "https://twitter.com/ukadoge",
+    "telegram": "https://t.me/ukadogechat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x698111b771363B81D1179AD102e3d8B9cD093a11/logo.png"
+  },
+  "name": "UKA DOGE COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UDOGE",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

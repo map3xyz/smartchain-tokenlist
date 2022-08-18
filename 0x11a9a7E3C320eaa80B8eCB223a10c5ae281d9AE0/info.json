@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x11a9a7E3C320eaa80B8eCB223a10c5ae281d9AE0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTD is a smart NFT supermarket system for digitals products. In this smart shopping system, the sellers and each product they sell are identified as a unique tokenID. Once the transaction is completed, the buyer's ownership will be confirmed immediately."
+  },
+  "id": "60774b47-7aa0-4849-bb9f-8f2cdebad261",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11a9a7E3C320eaa80B8eCB223a10c5ae281d9AE0",
+    "website": "https://nft.uquid.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x11a9a7E3C320eaa80B8eCB223a10c5ae281d9AE0/logo.png"
+  },
+  "name": "NFTD Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

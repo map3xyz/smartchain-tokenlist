@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Solarfare (SLF) is a BEP-20 token with LP acquisition, staking to earn BNB, and charity donations to the Binance wallet."
+  },
+  "id": "13eedf1e-1ba4-4152-8cb8-d4e5183fc238",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2",
+    "website": "https://solarfare.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2/logo.png"
+  },
+  "name": "Solarfare",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

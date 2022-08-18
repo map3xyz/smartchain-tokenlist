@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "OCTANS aka $OCTA is a auto yield and liquidity smart contract."
+  },
+  "id": "58d33269-6b4f-46e8-b8da-ead55af6587f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+    "website": "https://octanscrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28/logo.png"
+  },
+  "name": "Octans",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

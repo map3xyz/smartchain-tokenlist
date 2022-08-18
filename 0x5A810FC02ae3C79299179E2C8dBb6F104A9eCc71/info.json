@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5A810FC02ae3C79299179E2C8dBb6F104A9eCc71",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DARK SHIBA INU is Memes Token"
+  },
+  "id": "6c50f1da-98ae-4a82-b3e5-3ac1a7aa4101",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5A810FC02ae3C79299179E2C8dBb6F104A9eCc71",
+    "website": "https://darkshiba.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5A810FC02ae3C79299179E2C8dBb6F104A9eCc71/logo.png"
+  },
+  "name": "DARK SHIBA INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

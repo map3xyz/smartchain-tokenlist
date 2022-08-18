@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The KingDoge is a community-driven DeFi. We love doges and we know what they can do. We will do much better."
+  },
+  "id": "803ec0ce-e081-4c09-9463-43439a5c774e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+    "website": "https://kingdoge.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770/logo.png"
+  },
+  "name": "KingDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

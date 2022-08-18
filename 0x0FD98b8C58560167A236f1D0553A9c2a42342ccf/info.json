@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Devolution is an NFT based game. You can collect, earn, win and trade your NFTs while playing and socializing with your friends."
+  },
+  "id": "e0c632b7-4fe9-4d1a-902e-f31057b19488",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
+    "website": "https://www.devolution-world.com",
+    "twitter": "https://twitter.com/Game_Devolution",
+    "telegram": "https://t.me/devolutionofficial",
+    "coingecko": "https://coingecko.com/en/coins/devolution",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/devolution/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0FD98b8C58560167A236f1D0553A9c2a42342ccf/logo.png"
+  },
+  "name": "DeVolution",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEVO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

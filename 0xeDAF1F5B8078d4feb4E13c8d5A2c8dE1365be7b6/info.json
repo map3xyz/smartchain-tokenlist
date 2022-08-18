@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Altrucoin is a decentralized finance token built for yield generation, charitable donations, decentralized governance, and defi lending."
+  },
+  "id": "dbe4b66b-3cdb-4734-b5fb-55657420a3c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6",
+    "website": "https://altrucoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeDAF1F5B8078d4feb4E13c8d5A2c8dE1365be7b6/logo.png"
+  },
+  "name": "Altrucoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALTRUCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Metaverse Assets Liquidation Aggregator for Everyone"
+  },
+  "id": "6b212c94-7306-4eb5-b678-2634579d8ec7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8",
+    "website": "https://xcarnival.fi",
+    "github": "https://github.com/xcarnival",
+    "twitter": "https://twitter.com/XCarnival_Lab",
+    "medium": "https://xcarnival-lab.medium.com/",
+    "telegram": "https://t.me/XCarnivalCommunity",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xcarnival/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8/logo.png"
+  },
+  "name": "XCarnival",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

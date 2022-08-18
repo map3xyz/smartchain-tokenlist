@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Donkey King finance is a passive income generating, deflationary, DeFi token."
+  },
+  "id": "d1144d10-584c-4fd6-82a1-aaaf8f75ed91",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+    "website": "https://www.donk.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1F82a9b541FE4C322B5cd81DCB066620D57de35C/logo.png"
+  },
+  "name": "Donkey King",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DONK",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

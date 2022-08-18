@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3F7200CC81D3fa6B8dB6f8fCC2393D158E542F49",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Love Inu. Projects built on the foundation of community involvement are the untamed wilderness of our future."
+  },
+  "id": "e83cf58c-11db-4639-aad4-3ec475dd98c7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3F7200CC81D3fa6B8dB6f8fCC2393D158E542F49",
+    "website": "https://loveinutoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3F7200CC81D3fa6B8dB6f8fCC2393D158E542F49/logo.png"
+  },
+  "name": "Love Inu Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOVEINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

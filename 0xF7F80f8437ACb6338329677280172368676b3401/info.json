@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF7F80f8437ACb6338329677280172368676b3401",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "EUR/T offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising EUR/T Token."
+  },
+  "id": "b74d3f0a-59ba-4709-a0a8-4600f33a4b8b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF7F80f8437ACb6338329677280172368676b3401",
+    "website": "https://tether.work/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF7F80f8437ACb6338329677280172368676b3401/logo.png"
+  },
+  "name": "Tether/EURO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EUR/T",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

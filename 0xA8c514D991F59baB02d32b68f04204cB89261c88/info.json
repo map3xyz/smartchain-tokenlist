@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA8c514D991F59baB02d32b68f04204cB89261c88",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "First Blockchain Socio-Political Media Platform"
+  },
+  "id": "88d39eff-75a9-4f55-b425-67919b8856d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA8c514D991F59baB02d32b68f04204cB89261c88",
+    "website": "https://safeprotocol.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA8c514D991F59baB02d32b68f04204cB89261c88/logo.png"
+  },
+  "name": "Safe Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

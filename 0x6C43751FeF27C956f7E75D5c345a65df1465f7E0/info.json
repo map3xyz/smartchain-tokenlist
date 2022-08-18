@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x6C43751FeF27C956f7E75D5c345a65df1465f7E0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CR7 Token is a token built for the next generation of fan engagement and the digital assets that power it!"
+  },
+  "id": "c9595891-8174-4751-b616-8da1171f1b29",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6C43751FeF27C956f7E75D5c345a65df1465f7E0",
+    "website": "https://www.cr7.cash/",
+    "twitter": "https://twitter.com/CR7cash",
+    "github": "https://github.com/CR7cash",
+    "telegram": "https://t.me/cr7cash",
+    "whitepaper": "https://cr7.cash/assets/whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UCdxGttfREGLqCRKTizaq1gg",
+    "sourceCode": "https://bscscan.com/address/0x6c43751fef27c956f7e75d5c345a65df1465f7e0#code#L1"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6C43751FeF27C956f7E75D5c345a65df1465f7E0/logo.png"
+  },
+  "name": "CR7 Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CR7",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

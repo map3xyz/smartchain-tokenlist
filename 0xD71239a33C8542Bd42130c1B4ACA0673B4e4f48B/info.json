@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "By the time you get into our journey, you will find out that Legend of Fantasy War (LFW) is not just any ordinary game, it contains its own ecosystem and the most unique concept of many different universes within one world, we call it the Legendary Fantasy World."
+  },
+  "id": "b85f5e74-47fc-476b-9bf2-1c3913c38b02",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
+    "website": "https://legendfantasywar.com",
+    "twitter": "https://twitter.com/Legend_LFW",
+    "telegram": "https://t.me/LFWofficial",
+    "coingecko": "https://coingecko.com/en/coins/legend-of-fantasy-war",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/legend-of-fantasy-war"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B/logo.png"
+  },
+  "name": "LFW Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LFW",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Orbs Network is a public blockchain infrastructure designed for businesses looking at trust as a competitive strategy"
+  },
+  "id": "bc77c5e2-2d78-4c74-9216-bb864695e05e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+    "website": "https://www.orbs.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeBd49b26169e1b52c04cFd19FCf289405dF55F80/logo.png"
+  },
+  "name": "Orbs",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ORBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

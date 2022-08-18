@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2D862c9FC46608d7ff83293cEB83330D6135BE5E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FalconX is a Bep 20 Token within the FalconX NFT Ecosystem. FalconX community members will be able to access FalconX NFT’s which reward holders with daily passive income."
+  },
+  "id": "7eade8d6-245f-4229-9861-50a5e8ab93e7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2d862c9fc46608d7ff83293ceb83330d6135be5e",
+    "website": "https://projectfalconx.com",
+    "twitter": "https://twitter.com/projectfalconx",
+    "youtube": "https://youtube.com/channel/UCemByi8cdWT9246H235UOcw",
+    "telegram": "https://t.me/ProjectFalconX"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2D862c9FC46608d7ff83293cEB83330D6135BE5E/logo.png"
+  },
+  "name": "FalconX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FALCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

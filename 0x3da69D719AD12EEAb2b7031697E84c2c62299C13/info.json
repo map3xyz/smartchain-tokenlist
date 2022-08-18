@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3da69D719AD12EEAb2b7031697E84c2c62299C13",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Kshark Token is a MEME Token that originates from the community, serves the community, and is self-governed by the community. It is fair and has a variety of gameplay methods."
+  },
+  "id": "a142ef36-85be-45fe-844e-998e5bfc30de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3da69D719AD12EEAb2b7031697E84c2c62299C13",
+    "website": "https://kshark.io",
+    "twitter": "https://twitter.com/KShark_official",
+    "telegram": "https://t.me/KShark_Official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3da69D719AD12EEAb2b7031697E84c2c62299C13/logo.png"
+  },
+  "name": "Baby KShark",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

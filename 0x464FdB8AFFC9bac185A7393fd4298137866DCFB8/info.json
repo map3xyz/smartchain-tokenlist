@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x464FdB8AFFC9bac185A7393fd4298137866DCFB8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "REALM is the native token of the Realm metaverse."
+  },
+  "id": "f18054b7-c7cf-43fe-9c9a-8e0ec063c9f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x464FdB8AFFC9bac185A7393fd4298137866DCFB8",
+    "website": "https://realm.art",
+    "twitter": "https://twitter.com/Enter_Realm",
+    "telegram": "https://t.me/Enter_Realm",
+    "coingecko": "https://coingecko.com/en/coins/realm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x464FdB8AFFC9bac185A7393fd4298137866DCFB8/logo.png"
+  },
+  "name": "REALM Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REALM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

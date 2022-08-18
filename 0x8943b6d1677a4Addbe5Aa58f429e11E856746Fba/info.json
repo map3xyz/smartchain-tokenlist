@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DuiCoin is the first hybrid CatDog meme coin! Dui is a real life animal and will represent our journey. The destiny? The first MemeCoin Ecosystem!"
+  },
+  "id": "dec4e273-bb46-4dba-af6c-d29487506300",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8943b6d1677a4addbe5aa58f429e11e856746fba",
+    "website": "https://www.duicrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba/logo.png"
+  },
+  "name": "DUI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$DUI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

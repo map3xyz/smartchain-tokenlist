@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x25F6524C2bfA5eebcc50beaFD08525E0786082cf",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MarioBros is a frictionless, community driven contract that allows you to hold tokens of increasing value due to deflationary structure."
+  },
+  "id": "fecfb2ed-d7a8-49c2-9a05-cc1068e7d8a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25f6524c2bfa5eebcc50beafd08525e0786082cf",
+    "website": "https://www.mariobros.info/",
+    "github": "https://github.com/MarioBros-Coin/MarioBrosCoin",
+    "twitter": "https://twitter.com/Mariobroscoin",
+    "telegram": "https://t.me/mariobros_coin",
+    "reddit": "https://reddit.com/r/MarioBrostoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x25F6524C2bfA5eebcc50beaFD08525E0786082cf/logo.png"
+  },
+  "name": "MarioBros",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARIO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

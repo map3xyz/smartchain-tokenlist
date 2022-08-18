@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x1F36FB2D91d9951Cf58aE4c1956C0b77e224F1E9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$VCG is developed on top of a social commerce platform that connects gamers and enables them to buy and sell digital gaming items and gaming NFTs."
+  },
+  "id": "eadd647a-9369-4c86-9994-b61073a38698",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f36fb2d91d9951cf58ae4c1956c0b77e224f1e9",
+    "website": "https://token.vcgamers.com/",
+    "twitter": "https://twitter.com/vcgamers_io",
+    "github": "https://github.com/vcgamers/",
+    "telegram": "https://t.me/vcgamers_io",
+    "telegramNews": "https://t.me/vcgamers_news",
+    "blog": "https://news.vcgamers.com/crypto/",
+    "discord": "https://discord.com/invite/2ZCcTXx5Vr",
+    "whitepaper": "https://docs.google.com/document/d/1k_bWHxRYI2WGjqVZE32yyJ2LRnBTXkbDrzH0ODoqx18/edit?usp=sharing",
+    "youtube": "https://youtube.com/c/VCGamersIndonesia",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vcgamers/",
+    "coingecko": "https://coingecko.com/coins/vcgamers",
+    "facebook": "https://facebook.com/vcgamers.id",
+    "sourceCode": "https://github.com/vcgamers/smartcontract"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1F36FB2D91d9951Cf58aE4c1956C0b77e224F1E9/logo.png"
+  },
+  "name": "VCGamers",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VCG",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

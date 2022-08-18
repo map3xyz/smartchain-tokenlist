@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8baf35803b452836a05A3e01ac36F3DDbF98bbE8",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "MULTI BLOCKCHAIN - Decentralized Exchange Platform Network"
+  },
+  "id": "3fd00530-7153-49f2-bace-ee24d0f5a5c7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8baf35803b452836a05A3e01ac36F3DDbF98bbE8",
+    "website": "https://www.loveswap.com/",
+    "twitter": "https://twitter.com/loveswapdex",
+    "whitepaper": "https://www.loveswap.com/LoveswapWhitepaper.pdf",
+    "telegramNews": "https://t.me/LoveswapDex",
+    "telegram": "https://t.me/LoveswapDexGroup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8baf35803b452836a05A3e01ac36F3DDbF98bbE8/logo.png"
+  },
+  "name": "Loveswap DEX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Loveswap",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cex / Dex Multi-Chain IDO Launchpad. CoinxPad is where you get access to the best new tokens before they list on other centralized or decentralized exchanges."
+  },
+  "id": "95b67fe0-dcbe-43a9-a8be-740588ff654a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99",
+    "website": "https://coinxpad.io/",
+    "whitepaper": "https://coinxpad.io/whitepaper",
+    "twitter": "https://twitter.com/coinxpad",
+    "telegram": "https://t.me/Coinxpad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99/logo.png"
+  },
+  "name": "CXPAD Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CXPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

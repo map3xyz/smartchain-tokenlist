@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xfE073C3B891325AE8686d9Cf2C8b3586674f7BE2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Innovation in financial transactions within online and live poker."
+  },
+  "id": "f19e015f-70c5-494a-9a33-e3dd98aa0253",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfE073C3B891325AE8686d9Cf2C8b3586674f7BE2",
+    "website": "https://pokerfi.finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pokerfi",
+    "coingecko": "https://coingecko.com/en/coins/pokerfi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfE073C3B891325AE8686d9Cf2C8b3586674f7BE2/logo.png"
+  },
+  "name": "PokerFI.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PokerFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

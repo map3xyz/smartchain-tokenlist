@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x22439bE3AeBC1590B05E3243780eD4156b629604",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DAFI reinvents network rewards for every decentralized economy"
+  },
+  "id": "70d404d4-9fae-40ee-8a59-57edc1f56c5b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x22439bE3AeBC1590B05E3243780eD4156b629604",
+    "website": "https://dafiprotocol.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x22439bE3AeBC1590B05E3243780eD4156b629604/logo.png"
+  },
+  "name": "DAFI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

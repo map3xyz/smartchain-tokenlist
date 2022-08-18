@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1FDB2c3851D067502Ce2122bE80a41ea212949E2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PIGE INU is a fully decentralized and community driven project, our contract is fully renounced Liquidity pool burned or locked forever"
+  },
+  "id": "07ccc5ed-c29d-4a54-b669-c1b35f9add73",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1FDB2c3851D067502Ce2122bE80a41ea212949E2",
+    "website": "https://pigeinu.io/#",
+    "twitter": "https://twitter.com/PigeInu",
+    "github": "https://github.com/PigeInu/",
+    "telegram": "https://t.me/pigeinu",
+    "blog": "https://medium.com/@pigeinubsc",
+    "whitepaper": "https://pigeinu.io/PigeWP.pdf",
+    "medium": "https://medium.com/@pigeinubsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pige-inu/",
+    "coingecko": "https://coingecko.com/coins/pige-inu",
+    "youtube": "https://youtube.com/channel/UCM3UyEcna3hk2m_lftbiXOA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1FDB2c3851D067502Ce2122bE80a41ea212949E2/logo.png"
+  },
+  "name": "Pige Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINU",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

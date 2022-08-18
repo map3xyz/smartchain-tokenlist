@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "a7af3433-dec5-42e9-b6ce-f44a093d80c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
+    "website": "https://streamity.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb/logo.png"
+  },
+  "name": "Streamity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

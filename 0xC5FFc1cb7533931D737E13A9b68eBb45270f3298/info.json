@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC5FFc1cb7533931D737E13A9b68eBb45270f3298",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The UltimateToken is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn."
+  },
+  "id": "fcf49efa-308d-426e-9c3d-47fff1431dcd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC5FFc1cb7533931D737E13A9b68eBb45270f3298",
+    "website": "https://ultimatetokenbsc.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC5FFc1cb7533931D737E13A9b68eBb45270f3298/logo.png"
+  },
+  "name": "UltimateToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ULTIMATE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

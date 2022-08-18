@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x1fC9004eC7E5722891f5f38baE7678efCB11d34D",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "APENFT was born with the mission to register world-class artworks as NFTs on blockchain. It aims to build a bridge between top-notch artists and blockchain, and to support the growth of native crypto NFT artists."
+  },
+  "id": "e77bf1d0-82d9-437c-be00-5135ce24b168",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+    "website": "https://www.apenft.org/",
+    "telegram": "https://t.me/apenftEN",
+    "twitter": "https://twitter.com/apenftorg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/apenft/",
+    "coingecko": "https://coingecko.com/coins/apenft/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1fC9004eC7E5722891f5f38baE7678efCB11d34D/logo.png"
+  },
+  "name": "Binance-Peg APENFT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFT",
+  "tags": [
+    "binance-peg",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

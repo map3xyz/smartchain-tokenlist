@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CAPT token is the main token and store of value for CaptainSwap"
+  },
+  "id": "74ea0f2f-9900-4935-9937-2c3b6d1b7af3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
+    "website": "https://capttoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5/logo.png"
+  },
+  "name": "Captain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

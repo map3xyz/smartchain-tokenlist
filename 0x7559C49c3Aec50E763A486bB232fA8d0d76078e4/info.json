@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7559C49c3Aec50E763A486bB232fA8d0d76078e4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Artrade app provides NFT creators and NFT investors with a streamlined, user-friendly app that eliminates the high minting fees, exorbitant commissions, social disconnect, and environmental impact of the current NFT marketplace."
+  },
+  "id": "927310e1-c712-4e7e-952b-bd79c32abd87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7559C49c3Aec50E763A486bB232fA8d0d76078e4",
+    "website": "https://www.artrade.app/fr",
+    "twitter": "https://twitter.com/ArtradeApp",
+    "github": "https://github.com/artradeapp/",
+    "telegram": "https://t.me/ArtradeEnglish",
+    "youtube": "https://youtube.com/channel/UCj5xp_nfvY01RVLT45_lOWQ"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7559C49c3Aec50E763A486bB232fA8d0d76078e4/logo.png"
+  },
+  "name": "Artrade Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB6D053E260d410eAc02eA28755696F90A8ECca2B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SHIKO is a 100% community-driven decentralized utility token offering multiple swap capabilities and investment tools."
+  },
+  "id": "73b05b2c-d81b-4df6-b546-6dfbd2e8fad5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB6D053E260d410eAc02eA28755696F90A8ECca2B",
+    "website": "https://shikoku.exchange/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB6D053E260d410eAc02eA28755696F90A8ECca2B/logo.png"
+  },
+  "name": "SHIKOKU INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIKO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

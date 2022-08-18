@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x451329F2FCb88C398A4cDD4A8a98780B4D62873C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralised MEME Platform with NFT"
+  },
+  "id": "7108709c-9528-44a4-9db2-e46e89d4c290",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x451329F2FCb88C398A4cDD4A8a98780B4D62873C",
+    "website": "http://catecoin.club"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x451329F2FCb88C398A4cDD4A8a98780B4D62873C/logo.png"
+  },
+  "name": "CateCoin 1",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATE1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

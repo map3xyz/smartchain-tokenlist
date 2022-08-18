@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x35b2a25087A4D33dADBFB7625bfa7f1e0853f723",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Money Markets. A Decentralized Marketplace for Lenders and Borrowers"
+  },
+  "id": "8094c782-d396-4423-9b10-f8dc08cb0045",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x35b2a25087A4D33dADBFB7625bfa7f1e0853f723",
+    "website": "https://www.annex.finance/",
+    "twitter": "https://twitter.com/AnnexFinance",
+    "medium": "https://annexfinance.medium.com/",
+    "telegram": "https://t.me/Annex_finance_group",
+    "github": "https://github.com/annexfinance/annex-protocol",
+    "reddit": "https://reddit.com/r/AnnexFinance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x35b2a25087A4D33dADBFB7625bfa7f1e0853f723/logo.png"
+  },
+  "name": "Annex USDT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "aUSDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

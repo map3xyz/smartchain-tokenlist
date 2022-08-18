@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x64619f611248256F7F4b72fE83872F89d5d60d64",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Connecting the Metaverse to the Real World"
+  },
+  "id": "11df34a4-e295-48a8-93a8-4691c56bf258",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64619f611248256F7F4b72fE83872F89d5d60d64",
+    "website": "https://quint.io/",
+    "twitter": "https://twitter.com/projectquint",
+    "telegram": "https://t.me/projectquint",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/quint",
+    "coingecko": "https://coingecko.com/coins/quint"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x64619f611248256F7F4b72fE83872F89d5d60d64/logo.png"
+  },
+  "name": "QUINT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QUINT",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

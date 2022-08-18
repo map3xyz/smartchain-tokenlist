@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyDeFido is a memecoin based on Coinbase's Dog mascot DeFido, a french dogge. BabyDeFido is a low tax coin with reflections in native tokens, with staking and an Ethereum bridge along the road."
+  },
+  "id": "c274246b-3e5a-46c7-b9fc-a57c593d22ab",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
+    "website": "https://www.babydefido.finance/",
+    "telegram": "https://t.me/BabyDeFido_BSC",
+    "twitter": "https://twitter.com/Baby_Defido",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-defido/",
+    "coingecko": "https://coingecko.com/en/coins/baby-defido"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d/logo.png"
+  },
+  "name": "Baby DeFido",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyDeFido",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

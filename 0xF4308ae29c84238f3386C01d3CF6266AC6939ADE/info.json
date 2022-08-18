@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF4308ae29c84238f3386C01d3CF6266AC6939ADE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LAZY is the native token of LazyMint Finance, The new type of Yield Farm with Automatic Liquidity Acquisition integrated with Delegated Farming on Binance Smart Chain."
+  },
+  "id": "8f21948e-85c1-4e9e-acdc-e5da73e2b123",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF4308ae29c84238f3386C01d3CF6266AC6939ADE",
+    "website": "https://lazymint.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF4308ae29c84238f3386C01d3CF6266AC6939ADE/logo.png"
+  },
+  "name": "Lazy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAZY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

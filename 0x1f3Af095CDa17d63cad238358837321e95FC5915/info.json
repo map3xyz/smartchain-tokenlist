@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x1f3Af095CDa17d63cad238358837321e95FC5915",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mint Club is a smart token building platform that has no need to code and provides instant liquidity. Anyone can launch a smart token with just a few simple clicks."
+  },
+  "id": "5cc8388d-64c6-4a66-9210-5ef88b637399",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f3Af095CDa17d63cad238358837321e95FC5915",
+    "website": "https://mint.club",
+    "github": "https://github.com/Steemhunt/mint.club-contract",
+    "twitter": "https://twitter.com/MintClubPro",
+    "telegram": "https://t.me/mint_club",
+    "docs": "https://docs.mint.club"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1f3Af095CDa17d63cad238358837321e95FC5915/logo.png"
+  },
+  "name": "Mint.club",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MINT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

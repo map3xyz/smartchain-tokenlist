@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3FAF7e4Fe6a1c30F78Cc3A83755E33364BAb77Ed",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Created by accident, destined to greatness"
+  },
+  "id": "9f3b7fd8-2032-4145-957c-4b95471bf2ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3FAF7e4Fe6a1c30F78Cc3A83755E33364BAb77Ed",
+    "website": "https://www.donotbuythetoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3FAF7e4Fe6a1c30F78Cc3A83755E33364BAb77Ed/logo.png"
+  },
+  "name": "TEST DO NOT BUY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TEST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xE49b84771470A87F4D9544685ea0F0517933B2B4",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "A non-custodial, smart contract powered P2P gateway to blockchain and DeFi"
+  },
+  "id": "8418f5e8-4084-4d4a-b091-79b6b3d5644c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe49b84771470a87f4d9544685ea0f0517933b2b4",
+    "website": "https://cryptolocally.com/",
+    "github": "https://github.com/CryptoLocally/Resources",
+    "whitepaper": "https://cryptolocally.com/en/blog/giv-whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE49b84771470A87F4D9544685ea0F0517933B2B4/logo.png"
+  },
+  "name": "CryptoLocally (GIV)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GIV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

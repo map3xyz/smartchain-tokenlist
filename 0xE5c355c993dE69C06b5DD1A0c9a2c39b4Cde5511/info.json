@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE5c355c993dE69C06b5DD1A0c9a2c39b4Cde5511",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Frog Inu is a meme token that only rewards investors for holding, the number of rewards received will increase over time if investors hold them longer. We are the safest place for long- and short-term investors in the meme category."
+  },
+  "id": "b860173a-30aa-44cb-82b3-9deffb16880a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE5c355c993dE69C06b5DD1A0c9a2c39b4Cde5511",
+    "website": "https://froginu.io/",
+    "twitter": "https://twitter.com/Froginutoken",
+    "telegram": "https://t.me/FrogInuOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE5c355c993dE69C06b5DD1A0c9a2c39b4Cde5511/logo.png"
+  },
+  "name": "Frog Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FGI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

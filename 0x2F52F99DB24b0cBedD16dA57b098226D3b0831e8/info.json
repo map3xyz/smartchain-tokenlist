@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LittleGecko is a promising project that aims to be the leading BEP-20 (crypto)currency project with yield and social media contents/meme/yield/Nft farming: run and owned by its community."
+  },
+  "id": "5103c771-027e-4b8f-bf97-6477016e35b1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8",
+    "website": "https://littlegecko.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2F52F99DB24b0cBedD16dA57b098226D3b0831e8/logo.png"
+  },
+  "name": "LittleGecko",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "littlegecko",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

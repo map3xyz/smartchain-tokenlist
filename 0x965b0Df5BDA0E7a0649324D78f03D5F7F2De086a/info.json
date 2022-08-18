@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COOK token is a governance and utility token issued by Cook Protocol."
+  },
+  "id": "0ffe22b0-1981-49c7-bc7c-4ee9ed001140",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+    "website": "https://cook.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a/logo.png"
+  },
+  "name": "COOK Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MiniShiba is built by a strong team of crypto experts that aim to build a sustainable, long term token bringing innovative ideas into the crypto space. In addition, we focus on building a strong community of investors that are in it for the long run. Join MiniShiba now and become part of this revolution. "
+  },
+  "id": "a068d8dc-e78b-4c21-84c8-53be01afa078",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
+    "website": "https://www.minishibatoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mini-shiba/",
+    "telegram": "https://t.me/MiniShibaInu",
+    "twitter": "https://twitter.com/MiniShiba_Token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f/logo.png"
+  },
+  "name": "MiniShibaInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MiniSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

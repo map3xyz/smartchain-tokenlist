@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x31D0a7AdA4d4c131Eb612DB48861211F63e57610",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bsc starter finance aims to offer secure community-owned and governed token presale platform for Binance Smart Chain."
+  },
+  "id": "1af4a808-d94e-4b80-a015-08385119383d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31D0a7AdA4d4c131Eb612DB48861211F63e57610",
+    "research": "https://docs.bscstarter.finance/",
+    "website": "https://bscstarter.finance",
+    "github": "https://github.com/bscstarter",
+    "twitter": "https://twitter.com/bscstarter",
+    "telegram": "https://t.me/bscstarter",
+    "medium": "https://bscstarter.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x31D0a7AdA4d4c131Eb612DB48861211F63e57610/logo.png"
+  },
+  "name": "BSCstarter token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "START",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "address": "0xE0399378f7a92A39DA849EB64CdDdE2940e234Bb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ZionTopia will act as a tokenized decentralised VR Crypto Underground world. The ZionTopia Metaverse will work as a real estate and present shops that can be purchased, sold or governed by the ZION token holders."
+  },
+  "id": "36b8d521-108b-4b81-9bbb-2023883bd01b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE0399378f7a92A39DA849EB64CdDdE2940e234Bb",
+    "website": "https://ziontopia.com/",
+    "twitter": "https://twitter.com/zion_topia",
+    "github": "https://github.com/ZionTopia",
+    "telegram": "https://t.me/ziontopia",
+    "telegramNews": "https://t.me/",
+    "blog": "https://medium.com/@ziontopia",
+    "docs": "https://medium.com/@ziontopia",
+    "forum": "https://www.reddit.com/user/ziontopia",
+    "discord": "https://discord.com/",
+    "reddit": "https://reddit.com/user/ziontopia",
+    "whitepaper": "https://cdnziontopia.com/router/whitepaper.php",
+    "medium": "https://medium.com/@ziontopia",
+    "youtube": "https://youtube.com/ziontopia",
+    "facebook": "https://facebook.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ziontopia",
+    "coingecko": "https://coingecko.com/en/coins/ziontopia",
+    "sourceCode": "https://github.com/ZionTopia/ziontopia/blob/main/ziontopia"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE0399378f7a92A39DA849EB64CdDdE2940e234Bb/logo.png"
+  },
+  "name": "ZionTopia",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZION",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xbDDD7D426274fc5F370817C80C06b86D651963e4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Moola a token for an upcoming defi statistics platform and deflationary yield farming dapp"
+  },
+  "id": "e604f014-fa31-41a5-b72d-034775667336",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbDDD7D426274fc5F370817C80C06b86D651963e4",
+    "website": "https://getmoola.org",
+    "twitter": "https://twitter.com/mlatoken",
+    "telegram": "https://t.me/moolatoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbDDD7D426274fc5F370817C80C06b86D651963e4/logo.png"
+  },
+  "name": "Moola",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

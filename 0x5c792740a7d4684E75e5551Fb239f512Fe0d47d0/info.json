@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x5c792740a7d4684E75e5551Fb239f512Fe0d47d0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Marco token is hosted by Binance Smart Chain, and its sole purpose is to function as a form of currency, storing value over time and allowing businesses to account for and pay for services.."
+  },
+  "id": "38a54092-bbc6-4eda-81cf-09e31de0d048",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5c792740a7d4684e75e5551fb239f512fe0d47d0",
+    "website": "https://marco.travel/mrc-token/",
+    "facebook": "https://facebook.com/marco.travelll",
+    "twitter": "https://twitter.com/Marco___travel",
+    "discord": "https://discord.com/invite/S76sGk5gTA",
+    "telegram": "https://t.me/marrco_travel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5c792740a7d4684E75e5551Fb239f512Fe0d47d0/logo.png"
+  },
+  "name": "MRC Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MRC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

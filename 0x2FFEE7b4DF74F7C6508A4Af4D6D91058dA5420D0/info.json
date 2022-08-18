@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The future of the arcade is here! ChainCade is developing its one-of-a-kind blockchain arcade ecosystem to benefit players, creators, and investors together. Join the arcade revolution."
+  },
+  "id": "d0230ae3-ea6e-41dd-bb8f-f18f46207815",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
+    "website": "https://www.chaincade.com",
+    "twitter": "https://twitter.com/chaincadebsc",
+    "github": "https://github.com/chaincade",
+    "telegram": "https://t.me/ChainCade",
+    "telegramNews": "https://t.me/ChainCadeNews",
+    "discord": "https://discord.com/invite/wNfRfunMpQ",
+    "reddit": "https://reddit.com/chaincade",
+    "whitepaper": "https://chaincade.com/wp-content/uploads/2021/07/WhitepaperV1.pdf",
+    "youtube": "https://youtube.com/channel/UCP2iWL-CWMOhpHluqdZmciA",
+    "facebook": "https://facebook.com/Chaincade-106501661730295/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chaincade/",
+    "coingecko": "https://coingecko.com/en/coins/chaincade/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0/logo.png"
+  },
+  "name": "ChainCade",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ChainCade",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

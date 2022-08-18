@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x346b426b5c4d3bcBb129Ed84b52D8717e245BCE1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Create contents to raise awareness of protecting dogs. Earn money and influence on social network"
+  },
+  "id": "49612931-1431-42e2-be05-0435e5558f79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x346b426b5c4d3bcBb129Ed84b52D8717e245BCE1",
+    "website": "https://dogedu.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x346b426b5c4d3bcBb129Ed84b52D8717e245BCE1/logo.png"
+  },
+  "name": "DogEdu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

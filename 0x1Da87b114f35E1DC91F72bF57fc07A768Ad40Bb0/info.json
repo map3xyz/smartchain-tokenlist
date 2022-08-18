@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DeFi Flash Loans Made Easy. The first dedicated platform that equalizes the decentralized markets."
+  },
+  "id": "c088c90b-6450-4bde-bbfa-31474ff10bb9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+    "website": "https://equalizer.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0/logo.png"
+  },
+  "name": "Equalizer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EQZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "dd48565d-ba07-48cb-9171-b8ddcf89d49b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b",
+    "website": "https://stake.lido.fi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x986854779804799C1d68867F5E03e601E781e41b/logo.png"
+  },
+  "name": "Lido DAO (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LDO",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

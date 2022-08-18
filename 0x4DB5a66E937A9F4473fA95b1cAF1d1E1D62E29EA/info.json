@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "854c8ffd-dab4-4e25-abb3-fb6492f1c1a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+    "website": "https://ethereum.org/en/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA/logo.png"
+  },
+  "name": "Ether (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

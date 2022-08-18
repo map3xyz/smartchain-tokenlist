@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "miniSHIB aims to bring cryptocurrency to a wider audience through engaging content, whilst raising funds for animal welfare charities."
+  },
+  "id": "2e6bfa6f-e7cd-4b8a-964c-64353ad1158b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
+    "website": "https://minishib.com/",
+    "github": "https://github.com/MiniShibTeam",
+    "twitter": "https://twitter.com/realminishib",
+    "reddit": "https://reddit.com/r/MinishibGroup/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B/logo.png"
+  },
+  "name": "miniShibaToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "miniSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

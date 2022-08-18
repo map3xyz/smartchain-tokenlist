@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Bfd4cA8eC078d613eD6a5248Eb2c7a0d5c38b7b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ecochain Token is a decentralized deflationary token which aims to bring multiple aspects together to create stability in the ecosystem and economy"
+  },
+  "id": "5291c137-5002-4953-8d45-3f0bdff7d857",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b",
+    "website": "https://ecochaintoken.finance",
+    "reddit": "https://reddit.com/user/EcoChainOfficial?utm_medium=android_app&utm_source=share",
+    "twitter": "https://twitter.com/EcoChainToken?s=09",
+    "telegram": "https://t.me/joinchat/Id7sXKJ0Xvw5ZTY0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6Bfd4cA8eC078d613eD6a5248Eb2c7a0d5c38b7b/logo.png"
+  },
+  "name": "Ecochaintoken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralised MEME Platform with NFT Market"
+  },
+  "id": "c7884b29-6686-4cd6-8da6-826da397ab17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+    "website": "http://catecoin.club"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE4FAE3Faa8300810C835970b9187c268f55D998F/logo.png"
+  },
+  "name": "CateCoin ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

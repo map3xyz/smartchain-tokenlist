@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEVR is the fuel of the RealFevr ecosystem of video collectibles"
+  },
+  "id": "959c7c8f-a212-4546-b70d-86538fe7629c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc",
+    "website": "https://realfevr.com/fevr",
+    "twitter": "https://twitter.com/realfevr",
+    "telegram": "https://t.me/realfevrofficial",
+    "github": "https://github.com/tbem/rf-erc20/blob/master/contracts/RealFevrToken.sol",
+    "coingecko": "https://coingecko.com/en/coins/realfevr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/realfevr/",
+    "whitepaper": "https://realfevr-production.s3.eu-central-1.amazonaws.com/nfts-markeplace/LitePaperExports.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x82030CDBD9e4B7c5bb0b811A61DA6360D69449cc/logo.png"
+  },
+  "name": "FEVR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FEVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

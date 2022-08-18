@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Litecoin Token (LTC BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Litecoin (LTC) at a ratio of 1:1."
+  },
+  "id": "ed1f4e74-30df-412d-b5ef-393b194a932d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "research": "https://research.binance.com/en/projects/litecoin",
+    "website": "https://litecoin.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png"
+  },
+  "name": "Binance-Peg Litecoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTC",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

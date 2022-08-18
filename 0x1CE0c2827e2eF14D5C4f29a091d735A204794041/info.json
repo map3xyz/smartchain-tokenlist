@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Avalanche is an open-source platform for launching Decentralized Finance (DeFi) applications and enterprise blockchain deployments in an interoperable, highly scalable ecosystem."
+  },
+  "id": "af77c7e7-3bfa-4e73-bf9e-c1bf847fc4f0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "research": "https://research.binance.com/en/projects/avalanche",
+    "website": "http://avax.network",
+    "github": "https://github.com/ava-labs",
+    "whitepaper": "https://www.avalabs.org/whitepapers"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png"
+  },
+  "name": "Binance-Peg Avalanche Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

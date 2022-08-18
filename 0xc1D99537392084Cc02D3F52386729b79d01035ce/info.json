@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc1D99537392084Cc02D3F52386729b79d01035ce",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first rebase project pegged to crypto, stocks and gold markets, built on Binance Smart Chain."
+  },
+  "id": "700e5d0d-133c-4ab5-b42e-49a3c89ca98b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce",
+    "website": "https://staysbase.org",
+    "github": "https://github.com/staysbase/",
+    "twitter": "https://twitter.com/StaysBASE",
+    "telegram": "https://t.me/StaysBASE",
+    "whitepaper": "https://staysbase.org/media/lightpaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc1D99537392084Cc02D3F52386729b79d01035ce/logo.png"
+  },
+  "name": "StaysBASE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MDEX integrates the advantages of multiple chains to create a high-performance composite DEX ecosystem, to maximize the rewards of participants with the 'dual mining incentives' of liquid mining and transaction mining."
+  },
+  "id": "1db8861d-ef57-4290-b766-3837f1fa8e92",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+    "website": "https://bsc.mdex.com/",
+    "twitter": "https://twitter.com/Mdextech",
+    "github": "https://github.com/mdexSwap",
+    "telegram": "https://t.me/MixDex"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739/logo.png"
+  },
+  "name": "MDX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MDX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

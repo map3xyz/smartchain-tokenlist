@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x5344C20FD242545F31723689662AC12b9556fC3d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A decentralized meme token built as a charity-oriented meme token that is entirely for social good across the globe."
+  },
+  "id": "94ea48b1-2ada-499e-92e8-123144709000",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5344C20FD242545F31723689662AC12b9556fC3d",
+    "website": "https://www.wakandainu.com",
+    "github": "https://github.com/WakandaInu",
+    "telegram": "https://t.me/wakandainu",
+    "twitter": "https://twitter.com/Wakandainu",
+    "facebook": "https://facebook.com/wakandainu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5344C20FD242545F31723689662AC12b9556fC3d/logo.png"
+  },
+  "name": "Wakanda Inu Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WKD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

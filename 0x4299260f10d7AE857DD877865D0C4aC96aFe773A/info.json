@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4299260f10d7AE857DD877865D0C4aC96aFe773A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DAM is a token used to compensate Alaskainu community. "
+  },
+  "id": "c000cf42-26ab-48e0-b0dd-69a44688c273",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4299260f10d7ae857dd877865d0c4ac96afe773a",
+    "website": "https://alaskatoken.io/",
+    "github": "https://github.com/Alaskatoken",
+    "twitter": "https://twitter.com/AlaskaInu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/diamonds-alaska-malamuted/",
+    "docs": "https://docs.alaskatoken.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4299260f10d7AE857DD877865D0C4aC96aFe773A/logo.png"
+  },
+  "name": "DiamondsAlaskaMalamute",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

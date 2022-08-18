@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The official token for Curate"
+  },
+  "id": "4c12a6e8-9044-4f02-a86f-feb33c88753f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
+    "website": "https://curate.style",
+    "telegram": "https://t.me/curate",
+    "twitter": "https://twitter.com/curateproject",
+    "reddit": "https://reddit.com/r/XCUR",
+    "discord": "https://discord.com/invite/mtBpcqtBaK",
+    "github": "https://github.com/curate-project"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2/logo.png"
+  },
+  "name": "Curate",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCUR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

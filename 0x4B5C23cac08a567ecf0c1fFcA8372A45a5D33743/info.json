@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques."
+  },
+  "id": "01df99bd-51a7-4178-a50e-3846b8d9b77f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+    "website": "https://harvest.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743/logo.png"
+  },
+  "name": "Harvest Reward Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FARM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd0840D5F67206f865AeE7cCE075bd4484cD3cC81",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Afen Blockchain is Revolutionizing Opportunities Through Blockchain"
+  },
+  "id": "124beb16-04ba-4141-aad8-f177f2fc7a92",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
+    "website": "https://afengroup.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd0840D5F67206f865AeE7cCE075bd4484cD3cC81/logo.png"
+  },
+  "name": "Afen Blockchain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AFEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

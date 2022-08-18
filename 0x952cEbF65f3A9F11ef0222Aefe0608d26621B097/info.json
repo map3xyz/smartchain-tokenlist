@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x952cEbF65f3A9F11ef0222Aefe0608d26621B097",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EDXA Dex and Yield Farm"
+  },
+  "id": "1124f9af-d6fc-4852-a239-dc3a319eb615",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x952cEbF65f3A9F11ef0222Aefe0608d26621B097",
+    "website": "https://edxa.co",
+    "github": "https://github.com/EdxaLabs",
+    "twitter": "https://twitter.com/EdxaLabs",
+    "telegram": "https://t.me/edxa_group_official",
+    "medium": "https://edxalabs.medium.com",
+    "whitepaper": "https://edxalabs.gitbook.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x952cEbF65f3A9F11ef0222Aefe0608d26621B097/logo.png"
+  },
+  "name": "EDXA Labs",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EDXA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

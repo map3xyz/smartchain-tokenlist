@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x400613f184D1207f5C07a67D67040A4e23E92feB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "UPDOG is a charity focused auto-yielding deflationary token on Binance Smart Chain."
+  },
+  "id": "65df15eb-3f12-4721-af59-c12d6f7b8426",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x400613f184d1207f5c07a67d67040a4e23e92feb",
+    "website": "https://updog.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x400613f184D1207f5C07a67D67040A4e23E92feB/logo.png"
+  },
+  "name": "UPDOG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UPDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

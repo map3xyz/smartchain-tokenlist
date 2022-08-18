@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x13DfE44c7B461222e10597E517e4485Ff4766582",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Utility token to play and inGame economy of Moon Nation Game."
+  },
+  "id": "7099f5ac-5dfe-47fb-812d-ee8a89d41aa1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x13DfE44c7B461222e10597E517e4485Ff4766582",
+    "website": "https://moonnation.org/",
+    "twitter": "https://twitter.com/MoonNation0",
+    "telegram": "https://t.me/moonnation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/moon-nation-game/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x13DfE44c7B461222e10597E517e4485Ff4766582/logo.png"
+  },
+  "name": "Moon Nation Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNG",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

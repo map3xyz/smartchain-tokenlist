@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x1e3f4174b6d226354E1fb2325E6f76c1919Bd9eB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpaceVikings is a Danish DeFi Crypto project with real life use cases "
+  },
+  "id": "3aa57e68-df1f-4837-b20c-f46d05b74c4d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1e3f4174b6d226354E1fb2325E6f76c1919Bd9eB",
+    "website": "https://SpaceVikings.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1e3f4174b6d226354E1fb2325E6f76c1919Bd9eB/logo.png"
+  },
+  "name": "SpaceVikings Token ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SVT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x996c1bf72Ec220289ae0edd3a8d77080642121a2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Defi Connect aims to bring real-life and DeFi together by building applications of DeFi in digital marketing, healthcare, transportation, and logistics"
+  },
+  "id": "9466c70b-8a11-48fa-be1f-2e151943f124",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x996c1bf72Ec220289ae0edd3a8d77080642121a2",
+    "website": "https://deficonnect.tech/",
+    "twitter": "https://twitter.com/deficonnect",
+    "github": "https://github.com/deficonnect/dfctoken/",
+    "telegram": "https://t.me/deficonnectgroup",
+    "telegramNews": "https://t.me/deficonnect",
+    "blog": "https://deficonnect.medium.com/",
+    "medium": "https://deficonnect.medium.com/",
+    "sourceCode": "https://bscscan.com/address/0x996c1bf72ec220289ae0edd3a8d77080642121a2#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x996c1bf72Ec220289ae0edd3a8d77080642121a2/logo.png"
+  },
+  "name": "DefiConnect",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

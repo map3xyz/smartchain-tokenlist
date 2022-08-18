@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Squirrel Finance is a new ecosystem on the BinanceSmartChain to empower simple & secure DeFi."
+  },
+  "id": "23f8892f-93a0-418e-91da-5c3a72348289",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556",
+    "website": "https://squirrel.finance",
+    "twitter": "https://twitter.com/SquirrelDeFi",
+    "telegram": "https://t.me/SquirrelDeFi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556/logo.png"
+  },
+  "name": "Squirrel Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NUTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

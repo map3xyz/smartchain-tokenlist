@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
+  "color": null,
+  "decimals": 2,
+  "description": {
+    "en": "Suntrust Finance A community-focused decentralized transaction network"
+  },
+  "id": "d4838a08-b9e3-484c-9c1a-1b155ee8b3be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7",
+    "website": "https://suntrust.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x319Bf3bB8aB93658074Be595C4Aa55Cd60380AF7/logo.png"
+  },
+  "name": "Suntrust Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

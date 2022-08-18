@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xDa4714fEE90Ad7DE50bC185ccD06b175D23906c1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Godzilla from the underwater world will break the old blockchain order and lead to a new community.Godzilla=Game + DEFI + DAO + NFT."
+  },
+  "id": "d6949c5f-331a-4283-9ef4-dd4e77f1bd59",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDa4714fEE90Ad7DE50bC185ccD06b175D23906c1",
+    "website": "https://godzillacoin.io/",
+    "twitter": "https://twitter.com/coingodzilla",
+    "telegram": "https://t.me/godzillaen"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDa4714fEE90Ad7DE50bC185ccD06b175D23906c1/logo.png"
+  },
+  "name": "Godzilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GODZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

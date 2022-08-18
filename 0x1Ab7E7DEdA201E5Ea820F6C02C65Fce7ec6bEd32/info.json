@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BOT is a token issued by Botplanet Ltd"
+  },
+  "id": "f1baeec5-e840-4843-aacd-489f3da97a8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
+    "website": "https://www.botpla.net/",
+    "twitter": "https://twitter.com/BotPlanet_",
+    "github": "https://github.com/BOTDeFi",
+    "telegram": "https://t.me/botplanetglobal",
+    "telegramNews": "https://t.me/botplanetnews",
+    "blog": "https://botpla.net/blog/",
+    "whitepaper": "https://botpla.net/wp-content/uploads/2022/02/White-Paper.pdf",
+    "medium": "https://botplanet.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32/logo.png"
+  },
+  "name": "BOT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

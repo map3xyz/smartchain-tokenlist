@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sonar Platform is the next-gen crypto tracking dashboard. It's a complete and easy to use tracking and analytics tool for the BSC and ETH networks."
+  },
+  "id": "02d291a2-8a2c-4d11-906f-9825016f5678",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
+    "website": "https://www.sonarplatform.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5/logo.png"
+  },
+  "name": "PING",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

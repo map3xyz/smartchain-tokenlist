@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4d50471035d65810cdB9B34550D46B31bf398cB8",
+  "color": null,
+  "decimals": 14,
+  "description": {
+    "en": "OCEN is a fully decentralized token create a stable token."
+  },
+  "id": "e3a40b22-73c3-455c-8e9e-26b8d2965af6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d50471035d65810cdB9B34550D46B31bf398cB8",
+    "website": "https://ocen.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4d50471035d65810cdB9B34550D46B31bf398cB8/logo.png"
+  },
+  "name": "Ocen Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

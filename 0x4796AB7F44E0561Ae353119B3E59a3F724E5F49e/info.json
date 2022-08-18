@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FoxNFT is an ecological platform focusing on NFT to promote the concept of digital brand assets, it is based on the BSC smart chain and through encryption technology to solve brand assets’ issues in casting, trading, storaging, distributing and other issues.FoxNFT can empower NFT and brands in financial, game, collecting, social and other scenarios, opening barriers to the real and encrypted world."
+  },
+  "id": "a76691c3-ce0d-4882-9316-dbf85f6b0d8c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4796ab7f44e0561ae353119b3e59a3f724e5f49e",
+    "website": "https://foxnft.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e/logo.png"
+  },
+  "name": "FOX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

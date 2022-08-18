@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x97a30C692eCe9C317235d48287d23d358170FC40",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof."
+  },
+  "id": "1af1d7e4-80dc-482a-9a41-0d550c7fab6b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x97a30C692eCe9C317235d48287d23d358170FC40",
+    "website": "https://cryptexlock.me/",
+    "twitter": "https://twitter.com/ExLocker",
+    "telegram": "https://t.me/cryptexlocker",
+    "whitepaper": "https://cryptexlock.me/CryptEx-Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x97a30C692eCe9C317235d48287d23d358170FC40/logo.png"
+  },
+  "name": "CryptEx Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

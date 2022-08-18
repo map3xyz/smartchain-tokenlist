@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x843D4a358471547f51534e3e51fae91cb4Dc3F28",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Loser coin is created by two young man in China, aiming to provide a shelter for all losers and inspire them to never give up."
+  },
+  "id": "01ab39d7-2f31-42de-beb9-ae91ed838020",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x843D4a358471547f51534e3e51fae91cb4Dc3F28",
+    "website": "https://loserswap.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x843D4a358471547f51534e3e51fae91cb4Dc3F28/logo.png"
+  },
+  "name": "loser coin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "lowb",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

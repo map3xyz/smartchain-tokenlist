@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x3244478Da3F518B33b99D5929Dd0bC3396C56981",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaMate is a unique social and dating metaverse combining a digital dating platform and an NFT game."
+  },
+  "id": "3c764908-2724-4045-9577-634fa27789a6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3244478Da3F518B33b99D5929Dd0bC3396C56981",
+    "website": "https://metamatenft.com/",
+    "twitter": "https://twitter.com/MetaMate_NFT",
+    "facebook": "https://facebook.com/MetaMateNFT",
+    "telegram": "https://t.me/metamatenft",
+    "coinmarketcap": "https://coinmarketcap.com/vi/currencies/metamatenft/",
+    "whitepaper": "https://metamatenft.gitbook.io/whitepaper/introduction/why-metamate",
+    "github": "https://github.com/metamate-blockchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3244478Da3F518B33b99D5929Dd0bC3396C56981/logo.png"
+  },
+  "name": "MetaMate Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTM",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

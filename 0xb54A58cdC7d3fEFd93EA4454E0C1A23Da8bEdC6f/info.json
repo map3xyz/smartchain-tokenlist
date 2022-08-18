@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f",
+  "color": null,
+  "decimals": 12,
+  "description": {
+    "en": "HoodRat is a BEP-20 utility token building an AI anti rug-pull scanner."
+  },
+  "id": "72f58d71-3e8b-4212-9740-1f5671a43f3c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f",
+    "website": "https://hoodrat.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f/logo.png"
+  },
+  "name": "hoodrat.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOODRAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

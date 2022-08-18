@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x76F6cd75cE81E88916f8D933ab76efE18cEd6ad3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFT Global is a revolutionary NFT marketplace for ambitious artists, collectors, and traders. Built on the Binance network, we are making NFTs more available and accessible."
+  },
+  "id": "caf5ee47-7f85-4bb0-9ff0-56bcb938ed20",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x76F6cd75cE81E88916f8D933ab76efE18cEd6ad3",
+    "website": "https://nftglobal.space",
+    "twitter": "https://twitter.com/NFT_Globall",
+    "telegram": "https://t.me/NFT_Globall"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x76F6cd75cE81E88916f8D933ab76efE18cEd6ad3/logo.png"
+  },
+  "name": "NFT Global",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

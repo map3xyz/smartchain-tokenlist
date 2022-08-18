@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD83C88DB3A6cA4a32FFf1603b0f7DDce01F5f727",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "C.R.E.A.M. bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. C.R.E.A.M. has launched on Ethereum and Binance Smart Chain."
+  },
+  "id": "4cd75a31-b2cc-4e2b-accc-dfb69fd8b7ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD83C88DB3A6cA4a32FFf1603b0f7DDce01F5f727",
+    "research": "https://docs.cream.finance",
+    "website": "https://app.cream.finance",
+    "github": "https://github.com/CreamFi",
+    "twitter": "https://twitter.com/CreamdotFinance",
+    "telegram": "https://t.me/creamfinance",
+    "discord": "https://discord.com/invite/8Ms25mV",
+    "medium": "https://medium.com/@CreamdotFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD83C88DB3A6cA4a32FFf1603b0f7DDce01F5f727/logo.png"
+  },
+  "name": "Cream USD Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "crUSDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

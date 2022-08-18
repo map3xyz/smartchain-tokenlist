@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7C48834445f81f2F4453eAED510eb8a3a47A7CFA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bees the first deflationary token on the BSC that will save the bees, which will save us. All for Bees."
+  },
+  "id": "24ae254d-a835-4d45-90e1-2813fba635a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7C48834445f81f2F4453eAED510eb8a3a47A7CFA",
+    "website": "https://beesonbsc.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7C48834445f81f2F4453eAED510eb8a3a47A7CFA/logo.png"
+  },
+  "name": "BEES",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

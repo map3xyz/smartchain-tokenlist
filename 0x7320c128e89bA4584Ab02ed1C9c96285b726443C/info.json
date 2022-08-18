@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x7320c128e89bA4584Ab02ed1C9c96285b726443C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kokoswap is a unique decentralised platform that is transforming the world of crypto, NFTs & Game-Fi."
+  },
+  "id": "e757524d-a293-4a51-9058-63a65ce7d47d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7320c128e89bA4584Ab02ed1C9c96285b726443C",
+    "website": "https://kokoswap.org",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kokoswap/",
+    "telegram": "https://t.me/kokoswap",
+    "github": "https://github.com/Kokoswap-org",
+    "blog": "https://kokoswap.medium.com/",
+    "docs": "https://kokoswap.org/assets/pdf/kokoswap_whitepaper.pdf",
+    "twitter": "https://twitter.com/kokoswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7320c128e89bA4584Ab02ed1C9c96285b726443C/logo.png"
+  },
+  "name": "Kokoswap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KOKO",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

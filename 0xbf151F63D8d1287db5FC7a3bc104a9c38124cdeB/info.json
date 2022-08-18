@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AVNRich was founded in 2019, AVNRich token is an innovative e-commerce and decentralized token based on the Binance Smart Chain Network that is used to reward users in a modern way by providing shopping, staking, farming, and IFO benefits to all users."
+  },
+  "id": "faa7fbe4-c848-4741-b557-0422d478ff92",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
+    "website": "https://avnrich.shop",
+    "telegram": "https://t.me/AVNRich_Chat",
+    "twitter": "https://twitter.com/avnrich",
+    "github": "https://github.com/AvnrichDefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB/logo.png"
+  },
+  "name": "AVNRich Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AVN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB3b8326C75893632945cA6E4f4Bd76E7a7c7D5Ac",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Binance Smart Chain BOY CZ is a token of the same project as Binance Smart Chain Girl."
+  },
+  "id": "6cd78146-f543-4a96-a6f0-2853e67f7eda",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB3b8326C75893632945cA6E4f4Bd76E7a7c7D5Ac",
+    "website": "https://bscgirl.site/",
+    "twitter": "https://twitter.com/BSC_Girl?s=09",
+    "telegram": "https://t.me/joinchat/X21yx11I-hMyMzQ1",
+    "whitepaper": "https://bscgirl.site/wp-content/uploads/2021/06/BSCGIRL_whitepaper.pdf",
+    "medium": "https://bscgirl.medium.com/",
+    "youtube": "https://youtube.com/user/Belew101",
+    "facebook": "https://facebook.com/BSCGIRL.CHAN/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB3b8326C75893632945cA6E4f4Bd76E7a7c7D5Ac/logo.png"
+  },
+  "name": "Binance Smart Chain BOY CZ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCCZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

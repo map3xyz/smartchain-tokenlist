@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x31F0Bc450C12eb62B4c617d4C876f7a66470Fcb3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Deflationary token with automatic profit distribution and blocked liquidity pool"
+  },
+  "id": "23d56f12-e6b1-41f0-88eb-947d3cc699b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31F0Bc450C12eb62B4c617d4C876f7a66470Fcb3",
+    "website": "https://freemoon.finance",
+    "twitter": "https://twitter.com/FREEMOONCOIN",
+    "github": "https://github.com/freemoon-protocol",
+    "telegram": "https://t.me/freemoon_finance",
+    "telegramNews": "https://t.me/freemoon_bot"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x31F0Bc450C12eb62B4c617d4C876f7a66470Fcb3/logo.png"
+  },
+  "name": "FREEMOON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FREEMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

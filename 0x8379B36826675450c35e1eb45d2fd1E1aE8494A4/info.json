@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8379B36826675450c35e1eb45d2fd1E1aE8494A4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alpha Kombat is a global blockchain tournament game with NFTs rewards, a platform created to reward your leisure and provide passive income through several token utilities and platform utilities."
+  },
+  "id": "dc85ecac-a648-4c5c-a8bd-65c2d186c7c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8379B36826675450c35e1eb45d2fd1E1aE8494A4",
+    "website": "https://alphakombat.com/",
+    "twitter": "https://twitter.com/AlphaKombatgame",
+    "telegram": "https://t.me/AlphaKombatChat",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/alpha-kombat/",
+    "coingecko": "https://coingecko.com/en/coins/alpha-kombat/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8379B36826675450c35e1eb45d2fd1E1aE8494A4/logo.png"
+  },
+  "name": "ALPHAKOMBAT TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALKOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CanYaCoin (CAN) is the BEP20 asset for the CanWork ecosystem"
+  },
+  "id": "177d5825-a594-49d4-af9f-13e870fbe3af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
+    "website": "https://canwork.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56/logo.png"
+  },
+  "name": "CanYaCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

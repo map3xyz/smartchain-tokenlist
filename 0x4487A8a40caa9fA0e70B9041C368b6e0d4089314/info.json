@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4487A8a40caa9fA0e70B9041C368b6e0d4089314",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Poodledog Swap is an Automated Market Maker."
+  },
+  "id": "33c4cb84-2203-4b15-999f-e5d4a4421b1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4487a8a40caa9fa0e70b9041c368b6e0d4089314",
+    "website": "https://poodledog.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4487A8a40caa9fA0e70B9041C368b6e0d4089314/logo.png"
+  },
+  "name": "Poodledog Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POODLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa898dF02906d40ec81900B3a5Ba36ea20d09b7Cc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TurboTrix Finance is a decentralised dual blockchain utility defi project securely running on Binance Smart Chain and empowering the Twin TurboTrx ecosystem on Tron with faster transactions and low gas fees. Hodl, signup and earn more token both in Tron and TurboTrix. - Nobody Gets Left Behind."
+  },
+  "id": "2d2b8b49-a839-4234-b02f-85c132834962",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa898dF02906d40ec81900B3a5Ba36ea20d09b7Cc",
+    "website": "https://turbotrix.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa898dF02906d40ec81900B3a5Ba36ea20d09b7Cc/logo.png"
+  },
+  "name": "TURBOTRIX FINANCE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

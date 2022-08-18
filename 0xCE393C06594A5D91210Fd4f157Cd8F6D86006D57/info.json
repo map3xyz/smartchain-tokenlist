@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCE393C06594A5D91210Fd4f157Cd8F6D86006D57",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AQUAPIG is all of us! This project was born out of a spirit of community and coming together, to help each other navigate the murky waters of the crypto world, and have fun at the same time! A true community led project is transparent, open to suggestion, considerate of criticism, and ready to meet the needs and exceed the expectations of those it serves. We hope that after looking at our road map and engaging with our community that you will join us on this journey."
+  },
+  "id": "06d12087-8144-4bdd-9a20-d1c2415643a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCE393C06594A5D91210Fd4f157Cd8F6D86006D57",
+    "website": "https://www.aquapig.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCE393C06594A5D91210Fd4f157Cd8F6D86006D57/logo.png"
+  },
+  "name": "Aqua Pig",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AquaPig",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

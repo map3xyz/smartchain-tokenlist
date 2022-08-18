@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xDE2F075f6F14EB9D96755b24E416A53E736Ca363",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design."
+  },
+  "id": "5500425d-be54-4670-8146-b2998878e673",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDE2F075f6F14EB9D96755b24E416A53E736Ca363",
+    "website": "https://frax.finance/",
+    "github": "https://github.com/FraxFinance",
+    "twitter": "https://twitter.com/Frax Finance",
+    "telegram": "https://t.me/fraxfinance",
+    "discord": "https://discord.com/invite/Xwe8kAwZ4a"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDE2F075f6F14EB9D96755b24E416A53E736Ca363/logo.png"
+  },
+  "name": "Frax Share",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FXS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x56eab07247e3e6404ac90140F20bba61375d5C3C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TAPSwap is a revolutionary Decentralize Exchange(DEX) Protocol powered by Binance Smartchain & Uniswap AMM implementation.Use TapSwap for Swapping , Market Creation, Provide Liquidity & Staking."
+  },
+  "id": "70474b06-7d90-47f5-bda4-a9cc3225eb79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x56eab07247e3e6404ac90140F20bba61375d5C3C",
+    "website": "https://tapswap.money/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x56eab07247e3e6404ac90140F20bba61375d5C3C/logo.png"
+  },
+  "name": "TapSwap.Money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TAPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

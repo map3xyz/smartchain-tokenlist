@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd6004836cb07D063f2cB498C25e351CC93194079",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First Literature Non-Fungible Token (NFT) in Crypto Assets. Long Asset Token functions for Staking, Farming, and can also be used for transactions at the LONG NFT Marketplace, Collectibles & NFTs."
+  },
+  "id": "766fa7cc-678f-460a-8d51-b7970b75026a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd6004836cb07D063f2cB498C25e351CC93194079",
+    "website": "https://longasset.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd6004836cb07D063f2cB498C25e351CC93194079/logo.png"
+  },
+  "name": "Long Asset",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LONG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

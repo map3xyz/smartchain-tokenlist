@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VANGOLD is one of the worlds first blockchain-based freelancer platform on the Binance Chain network, working with 100% decentralized smart contract."
+  },
+  "id": "8b227c38-4649-43aa-9da9-cbaaff67e32d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44",
+    "website": "https://vangold.finance",
+    "twitter": "https://twitter.com/vangoldfinance",
+    "github": "https://github.com/vangoldfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44/logo.png"
+  },
+  "name": "Vangold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VGD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

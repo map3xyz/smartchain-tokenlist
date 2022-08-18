@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The lucrative NFT fantasy-themed RPG Game on BSC and Polygon"
+  },
+  "id": "946a8187-9994-403a-a217-49a54dd4b47b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+    "website": "https://stephero.io/",
+    "twitter": "https://twitter.com/StepHeroNFTs",
+    "telegram": "https://t.me/stephero_chat",
+    "facebook": "https://facebook.com/StepHeroNFTs",
+    "github": "https://github.com/stepherogame"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545/logo.png"
+  },
+  "name": "Step Hero",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3EDb027e03Dd8348e4006F6a0b1659d4D6A38b1E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DOGE BARKING Community Project"
+  },
+  "id": "ccec0242-74ca-4998-83f9-0be61c0e51a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3EDb027e03Dd8348e4006F6a0b1659d4D6A38b1E",
+    "website": "https://dogebarking.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3EDb027e03Dd8348e4006F6a0b1659d4D6A38b1E/logo.png"
+  },
+  "name": "DOGE BARKING",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

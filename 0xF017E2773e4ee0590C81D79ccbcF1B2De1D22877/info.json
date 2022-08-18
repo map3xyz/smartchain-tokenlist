@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Safemoon Cash is – in short – a rug proof, ownership renounced community driven project that will bring rivalry to Safemoon with positive vibes only."
+  },
+  "id": "1617df94-6703-4306-b383-729e11871077",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
+    "website": "https://safemooncash.org",
+    "twitter": "https://twitter.com/safemooncash",
+    "telegram": "https://t.me/safemooncash",
+    "discord": "https://discord.com/invite/fDp6pQ4Hbd",
+    "reddit": "https://reddit.com/r/SAFEMOONCASHCommunity/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877/logo.png"
+  },
+  "name": "SAFEMOONCASH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMOONCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

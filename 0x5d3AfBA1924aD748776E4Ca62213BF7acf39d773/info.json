@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "KGO is the Token of Kiwigo."
+  },
+  "id": "a7bb8f9b-9597-4d6d-baf1-580a01637069",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+    "research": "https://www.kiwigo.app/kgo-kiwigo-crypto-currency/",
+    "website": "https://kiwigo.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773/logo.png"
+  },
+  "name": "KIWIGO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

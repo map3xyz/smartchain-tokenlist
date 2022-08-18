@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7CD8c22D3F4b66230F73D7FfCB48576233c3fe33",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The spacemap focuses on the development of the technology, operations infrastructure, new partnerships, and marketing initiatives."
+  },
+  "id": "e6ea5def-7049-4ead-acc6-9bde1d1acb5b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7CD8c22D3F4b66230F73D7FfCB48576233c3fe33",
+    "website": "https://metagalaxyland.com",
+    "telegram": "https://t.me/metagalaxyland",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metagalaxy-land/",
+    "twitter": "https://twitter.com/metagalaxyland"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7CD8c22D3F4b66230F73D7FfCB48576233c3fe33/logo.png"
+  },
+  "name": "METAGALAXY LAND",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEGALAND",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

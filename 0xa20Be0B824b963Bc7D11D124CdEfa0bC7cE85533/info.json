@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa20Be0B824b963Bc7D11D124CdEfa0bC7cE85533",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm Ddai on Binance Smart Chain."
+  },
+  "id": "ede92948-a51e-4c88-8f5f-e9c33def6481",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa20Be0B824b963Bc7D11D124CdEfa0bC7cE85533",
+    "website": "https://wdai.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa20Be0B824b963Bc7D11D124CdEfa0bC7cE85533/logo.png"
+  },
+  "name": "Wrapped Dai",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Ddai",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

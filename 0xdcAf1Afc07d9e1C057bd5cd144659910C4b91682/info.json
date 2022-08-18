@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdcAf1Afc07d9e1C057bd5cd144659910C4b91682",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Space Cowboy aims to be the NFT platform for digital art and assets related to the theme of Sci-Fi, Bulls and Space Meme"
+  },
+  "id": "4eb59a6d-107d-4080-b6b7-ee61c17d536f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdcAf1Afc07d9e1C057bd5cd144659910C4b91682",
+    "website": "https://scb.oxbull.tech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdcAf1Afc07d9e1C057bd5cd144659910C4b91682/logo.png"
+  },
+  "name": "SpaceCowBoy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

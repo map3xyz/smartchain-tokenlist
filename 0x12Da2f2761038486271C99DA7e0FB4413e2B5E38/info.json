@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x12Da2f2761038486271C99DA7e0FB4413e2B5E38",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "In NFTBlackMarket you can create, collect, and trade NFT Tokens."
+  },
+  "id": "2a9a4b5e-6317-460d-b561-89cb76359e49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12Da2f2761038486271C99DA7e0FB4413e2B5E38",
+    "website": "https://nftblackmarket.io",
+    "github": "https://github.com/NFTBlackMarket",
+    "twitter": "https://twitter.com/NFT_BlackMarket",
+    "reddit": "https://reddit.com/r/NFT_BlackMarket",
+    "telegram": "https://t.me/NFTBlackMarketChat",
+    "whitepaper": "https://nftblackmarket.io/static/pdf/NFTBlackMarket.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x12Da2f2761038486271C99DA7e0FB4413e2B5E38/logo.png"
+  },
+  "name": "NFTBlackMarket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NBM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

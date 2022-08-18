@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x01600Ed07fC7493686ef143D1b92cd5612d50D5b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We created a new NFT platform on BinanceSmartChain. We want to take part in Binance's NFT move."
+  },
+  "id": "2462e8e5-ccb6-4e0d-ae74-54a0cc9d630d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01600Ed07fC7493686ef143D1b92cd5612d50D5b",
+    "website": "https://pinkpanther.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x01600Ed07fC7493686ef143D1b92cd5612d50D5b/logo.png"
+  },
+  "name": "PinkPanther NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PANTHER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

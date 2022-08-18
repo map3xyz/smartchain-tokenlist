@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8789337a176e6e7223Ff115F1CD85C993D42C25c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Copiosa is a cryptocurrency and technological stack that sits on the Binance Smart Chain that wants to enable others to purchase small cap cryptocurrencies safely, simply and efficiently."
+  },
+  "id": "b72b2ba4-ea13-4fd7-b768-f2732e108b5c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8789337a176e6e7223ff115f1cd85c993d42c25c",
+    "website": "https://copiosa.io",
+    "twitter": "https://twitter.com/copiosaofficial",
+    "telegram": "https://t.me/copiosatelegram",
+    "reddit": "https://reddit.com/r/copiosaofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8789337a176e6e7223Ff115F1CD85C993D42C25c/logo.png"
+  },
+  "name": "Copiosa Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

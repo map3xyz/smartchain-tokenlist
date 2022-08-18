@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7f9C20c4C09c32478AE10A7543E5199C2F53691d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PLS2E.io = DAO+DEX+NFTs+GameFi LaunchPad. The best GameFi infrastructure platform on BSC and put forward the concept of Earn As A Service (EAAS)"
+  },
+  "id": "13e389de-963d-4355-a3d7-483a8d8edebb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7f9C20c4C09c32478AE10A7543E5199C2F53691d",
+    "website": "https://www.pls2e.io/",
+    "twitter": "https://twitter.com/PLS2Eio",
+    "telegram": "https://t.me/p2e_official",
+    "github": "https://github.com/PLS2E-IO",
+    "telegramNews": "https://t.me/p2e_channel",
+    "whitepaper": "https://docs.pls2e.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7f9C20c4C09c32478AE10A7543E5199C2F53691d/logo.png"
+  },
+  "name": "P2E Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "P2E",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

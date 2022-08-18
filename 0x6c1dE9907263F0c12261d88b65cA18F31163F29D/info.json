@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x6c1dE9907263F0c12261d88b65cA18F31163F29D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Welcome to OCTION! Trade options through CeDeFi, with no middlemen, no centralized organization, lower fees, more option types and zero data or market manipulation. OCTION allows for options trading through a democratic framework on the Blockchain, specifically the Binance Smart Chain."
+  },
+  "id": "a7159e8f-a5dd-4b24-950b-1a0f3e177759",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6c1dE9907263F0c12261d88b65cA18F31163F29D",
+    "website": "https://oction.io/",
+    "github": "https://github.com/OCTIONOFFICIAL",
+    "twitter": "https://twitter.com/octionofficial",
+    "telegram": "https://t.me/octionofficial",
+    "medium": "https://octionofficial.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6c1dE9907263F0c12261d88b65cA18F31163F29D/logo.png"
+  },
+  "name": "OCTIONToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCTI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

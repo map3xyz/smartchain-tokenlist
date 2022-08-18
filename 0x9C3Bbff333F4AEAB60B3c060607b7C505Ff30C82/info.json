@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9C3Bbff333F4AEAB60B3c060607b7C505Ff30C82",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "From the developers of Rootkit Finance - upBNB (upBNB) is The first ERC-31337 token on Binance Smart Chain. upBNB will be the cornerstone asset and vault for the upToken ecosystem on BSC"
+  },
+  "id": "820c69c7-852a-40f9-a08a-04e152f60ff2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9c3bbff333f4aeab60b3c060607b7c505ff30c82",
+    "website": "https://upbnb.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9C3Bbff333F4AEAB60B3c060607b7C505Ff30C82/logo.png"
+  },
+  "name": "upBNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "upBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

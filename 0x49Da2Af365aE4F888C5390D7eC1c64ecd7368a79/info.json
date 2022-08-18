@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ShibS token is a community driven token with automatic LP and reflective rewards."
+  },
+  "id": "48eb6fc4-6f8a-4162-b44c-06de65882130",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+    "website": "https://shibasaur.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79/logo.png"
+  },
+  "name": "ShibaSaur INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ShibS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

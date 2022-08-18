@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x738f3810b3dA0F3e6dC8C689D0d72f3b4992c43b",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "C.R.E.A.M. bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. C.R.E.A.M. has launched on Ethereum and Binance Smart Chain."
+  },
+  "id": "39404c9a-8eb9-4912-b649-49f06d8512bf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x738f3810b3dA0F3e6dC8C689D0d72f3b4992c43b",
+    "research": "https://docs.cream.finance",
+    "website": "https://app.cream.finance",
+    "github": "https://github.com/CreamFi",
+    "twitter": "https://twitter.com/CreamdotFinance",
+    "telegram": "https://t.me/creamfinance",
+    "discord": "https://discord.com/invite/8Ms25mV",
+    "medium": "https://medium.com/@CreamdotFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x738f3810b3dA0F3e6dC8C689D0d72f3b4992c43b/logo.png"
+  },
+  "name": "Cream Band Protocol Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "crBAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

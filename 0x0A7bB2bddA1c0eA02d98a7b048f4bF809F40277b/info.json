@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The next evolution of a reflection token on the BSC with double reward reflection token using the power of 80/20 to maximize your earnings for both now & future"
+  },
+  "id": "d7f0046a-19eb-4caa-a261-77772413aea7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b",
+    "website": "https://thunderada.app/",
+    "twitter": "https://twitter.com/ThunderADAapp",
+    "telegram": "https://t.me/ThunderADA",
+    "docs": "https://docs.thunderada.app/",
+    "reddit": "https://reddit.com/r/thunderADA/",
+    "youtube": "https://youtube.com/channel/UCldCQAHBwYYSPrmYm5sJsCg",
+    "coingecko": "https://coingecko.com/en/coins/thunderada-app",
+    "github": "https://github.com/ThunderAda/contracts"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0A7bB2bddA1c0eA02d98a7b048f4bF809F40277b/logo.png"
+  },
+  "name": "ThunderADA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THUNDERADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

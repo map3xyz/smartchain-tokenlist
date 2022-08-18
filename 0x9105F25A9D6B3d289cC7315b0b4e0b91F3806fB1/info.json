@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Deflationary meme coin with products like NFT Market+ Mobile wallet"
+  },
+  "id": "89955443-de9d-46ec-ad38-172afbc1fac5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
+    "website": "https://shibamask.org",
+    "twitter": "https://twitter.com/shibamaskcoin",
+    "github": "https://github.com/shibamask"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1/logo.png"
+  },
+  "name": "ShibamasK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHBMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

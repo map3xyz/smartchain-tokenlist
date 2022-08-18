@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeB22C12429ff03688dD15a34824d736741605ca0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PocMon ($PMON) is a decentralized community experiment in Binance Smart Chain, with prospects of becoming the #1 Gaming NFT Ecosystem. All that honouring the Pocket Monsters we all know and love."
+  },
+  "id": "2a5ea5e2-8052-452d-8275-1005608241e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeB22C12429ff03688dD15a34824d736741605ca0",
+    "website": "https://pocmon.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeB22C12429ff03688dD15a34824d736741605ca0/logo.png"
+  },
+  "name": "PocMon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

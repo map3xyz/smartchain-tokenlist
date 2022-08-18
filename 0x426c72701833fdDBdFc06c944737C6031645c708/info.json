@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x426c72701833fdDBdFc06c944737C6031645c708",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FINA is BEP-20 governance and utility token for the Defina Metaverse ecosystem. There are multiple use cases for FINA and it plays a very important role in both gaming and community governance."
+  },
+  "id": "f04c1a29-6334-44b0-bcfc-1078c1d8a5f6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x426c72701833fddbdfc06c944737c6031645c708",
+    "website": "https://defina.finance/",
+    "twitter": "https://twitter.com/Defina_Official",
+    "telegram": "https://t.me/definafinance1",
+    "telegramNews": "https://t.me/Defina_announcement",
+    "blog": "https://defina-finance.medium.com/",
+    "docs": "https://docs.defina.finance/",
+    "discord": "https://discord.com/invite/rBecngEFnu",
+    "whitepaper": "https://docs.defina.finance/",
+    "medium": "https://defina-finance.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defina-finance/",
+    "coingecko": "https://coingecko.com/en/coins/defina-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x426c72701833fdDBdFc06c944737C6031645c708/logo.png"
+  },
+  "name": "Defina Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FINA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

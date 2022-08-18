@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token - Reflection paid back to holders."
+  },
+  "id": "7fd3970b-138e-4650-b575-bdee10c7a0b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
+    "website": "https://safecometcrypto.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231/logo.png"
+  },
+  "name": "SafeComet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFECOMET",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1759254EB142bcF0175347D5A0f3c19235538a9A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First BSC token in the upOnly ecosystem, from the developers of ROOTKIT and iFUND on ETH! This token has revolutionary tokenomics, blowing away the deflationary tokens of the past. There are 2 main mechanisms that combine to make UpBNB go up over time: Buybacks and the Pricefloor."
+  },
+  "id": "04273650-b0cb-4ba1-b797-bcfc7d828cbc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1759254EB142bcF0175347D5A0f3c19235538a9A",
+    "website": "https://upbnb.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1759254EB142bcF0175347D5A0f3c19235538a9A/logo.png"
+  },
+  "name": "upBNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "upBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

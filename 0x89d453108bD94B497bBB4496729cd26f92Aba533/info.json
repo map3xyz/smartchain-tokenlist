@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x89d453108bD94B497bBB4496729cd26f92Aba533",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Nexus of a multichain DEX and Launchpad for developers."
+  },
+  "id": "d47c960e-fca8-4036-b7b0-faedafe74513",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x89d453108bD94B497bBB4496729cd26f92Aba533",
+    "website": "https://supersonic.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x89d453108bD94B497bBB4496729cd26f92Aba533/logo.png"
+  },
+  "name": "Supersonic Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SSN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

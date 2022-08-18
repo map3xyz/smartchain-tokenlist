@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6fbFf934ec9D724450E66d9AcE621cb7E67CeB5A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CACT helping cancer research and treatment around the world, in addition to providing a BNB reward pool and reflection to holders through every transaction."
+  },
+  "id": "5e0e8be7-fe6f-41b7-b18d-4c48ea183ebc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6fbff934ec9d724450e66d9ace621cb7e67ceb5a",
+    "website": "https://cryptoagainstcancer.fund/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6fbFf934ec9D724450E66d9AcE621cb7E67CeB5A/logo.png"
+  },
+  "name": "Crypto Against Cancer Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CACT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

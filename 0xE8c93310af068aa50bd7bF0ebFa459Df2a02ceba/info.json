@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MOON is a native token of HoneyFarm Layer 3 - HoneyMoon"
+  },
+  "id": "1ce13121-232c-4dbf-8744-f0b007f8c9f5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba",
+    "website": "https://moon.honeyfarm.finance?utm_source=twt&utm_medium=wallet&utm_campaign=twt",
+    "twitter": "https://twitter.com/HoneyFarmFi",
+    "github": "https://github.com/HoneyFarmFi/HoneyFarmContracts",
+    "telegram": "https://t.me/HoneyFarmChat",
+    "telegramNews": "https://t.me/HoneyFarmAnn",
+    "blog": "https://medium.com/@honeyfarmchef",
+    "docs": "https://docs.honeyfarm.finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/honeymoon-finance/",
+    "coingecko": "https://coingecko.com/en/coins/honeymoon-token",
+    "reddit": "https://reddit.com/r/HoneyFarm_Official/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba/logo.png"
+  },
+  "name": "HoneyMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

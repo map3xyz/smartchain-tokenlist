@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A charity coin based on the binance smart chain network with the goal of aiding measures against climate change and world hunger."
+  },
+  "id": "89790959-ef4d-477e-8e60-16a2a88485e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395",
+    "website": "https://oventoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395/logo.png"
+  },
+  "name": "Oven",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Oven",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

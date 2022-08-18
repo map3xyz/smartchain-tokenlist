@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xD1A6eFF20958403F9fa137760e62dfDE4516a0b1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaMatrix is a cryptocurrency built on Binance Smart Chain (BEP20). MetaMatrix is also a community NFT Marketplace connected with an NFT Launchpad platform."
+  },
+  "id": "76b49202-db69-40ec-ba26-0c67c72d4b09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD1A6eFF20958403F9fa137760e62dfDE4516a0b1",
+    "website": "https://www.metamatrix.network",
+    "twitter": "https://twitter.com/MetaMatrixBSC",
+    "telegram": "https://t.me/MetaverseMatrix",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metamatrix/",
+    "coingecko": "https://coingecko.com/en/coins/metamatrix/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD1A6eFF20958403F9fa137760e62dfDE4516a0b1/logo.png"
+  },
+  "name": "MetaMatrix",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

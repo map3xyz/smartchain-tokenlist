@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3920123482070C1a2dff73AaD695c60e7c6F6862",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Eulers can be used both as utility and investment. We created a subscription system that unlocks professional features in our site and a reliable Mining Pool mechanism, that allows holders to receive rewards from each transaction."
+  },
+  "id": "33fa73b3-130e-4a49-aafa-29af97cd1335",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3920123482070C1a2dff73AaD695c60e7c6F6862",
+    "website": "https://euler.tools"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3920123482070C1a2dff73AaD695c60e7c6F6862/logo.png"
+  },
+  "name": "Euler",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EULER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC7B7844494c516b840A7a4575ff3E60ff0f056a9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mech Master is a first-ever 3D Mecha NFT game, with strategic RPG elements, where you can earn tokens through skillful gameplay and smart trading on the Marketplace. Players can assemble a lineup full of giant Mechas with gorgeous 3D models to battle against others, recruit pilots, collect weapons, buy land and build your own top-secret base on the Moon!"
+  },
+  "id": "3df46605-5ed1-42d3-aac5-dd1d55092efe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC7B7844494c516b840A7a4575ff3E60ff0f056a9",
+    "website": "https://mechmaster.io/",
+    "twitter": "https://twitter.com/MechMaster_IO",
+    "telegram": "https://t.me/MechMaster_Official",
+    "facebook": "https://facebook.com/mechmaster.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mech-master/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC7B7844494c516b840A7a4575ff3E60ff0f056a9/logo.png"
+  },
+  "name": "Mech Master",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MECH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

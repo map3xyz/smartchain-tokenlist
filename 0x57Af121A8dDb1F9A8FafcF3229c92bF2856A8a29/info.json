@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x57Af121A8dDb1F9A8FafcF3229c92bF2856A8a29",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A soccer community with NFTs, Farms, DeFi, and sports betting platfrom."
+  },
+  "id": "64891936-ce3a-4ead-93b9-a2819eae54f5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57af121a8ddb1f9a8fafcf3229c92bf2856a8a29",
+    "website": "https://www.socaverse.one/",
+    "twitter": "https://twitter.com/Socaverse",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/socaverse/",
+    "telegram": "https://t.me/SocaverseGlobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57Af121A8dDb1F9A8FafcF3229c92bF2856A8a29/logo.png"
+  },
+  "name": "Socaverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOCA",
+  "tags": [
+    "defi",
+    "gamefi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "f8867552-7ddc-4a0a-bf5d-8f83d9971e57",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B",
+    "research": "https://research.binance.com/en/projects/venus",
+    "website": "https://venus.io/",
+    "github": "https://github.com/SwipeWallet/venus-protocol",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57A5297F2cB2c0AaC9D554660acd6D385Ab50c6B/logo.png"
+  },
+  "name": "Venus LTC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vLTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

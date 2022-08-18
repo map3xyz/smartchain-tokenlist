@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9DAAa05946e486ADd2c81e0d32D936866B8449D9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "xxxNifty is a NSFW Adult Content NFT Marketplace."
+  },
+  "id": "a0dadcc4-4d4c-459d-b4cf-40039c7b89e1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9daaa05946e486add2c81e0d32d936866b8449d9",
+    "website": "https://xxxNifty.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9DAAa05946e486ADd2c81e0d32D936866B8449D9/logo.png"
+  },
+  "name": "xxxNifty",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NSFW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xE9c7a827a4bA133b338b844C19241c864E95d75f",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "FSV is the world's first interstellar video public chain based on ipfs application, focusing on distributed storage of video files."
+  },
+  "id": "db1146fc-0d87-4b91-87d1-30da52ee6aff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE9c7a827a4bA133b338b844C19241c864E95d75f",
+    "website": "https://www.fs.video",
+    "twitter": "https://twitter.com/FSV_fsvideo",
+    "github": "https://github.com/FileSystemVideo",
+    "telegram": "https://t.me/FSV1111",
+    "whitepaper": "https://dsw3rxqm9wq1x.cloudfront.net/book/FSV-White-Paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE9c7a827a4bA133b338b844C19241c864E95d75f/logo.png"
+  },
+  "name": "FileSystemVideo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FSV",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

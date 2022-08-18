@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C",
+  "color": null,
+  "decimals": 16,
+  "description": {
+    "en": "NEFTiPEDiA is NEFTiPEDiA is a marketplace that will fulfil the niche of much required decentralized venue for selling not only the pieces of art or other intangible valuables but also will allow trading is jewelry, fashion and even vehicles and property"
+  },
+  "id": "30918612-d716-4e40-b5cb-c02bc835d9f5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C",
+    "website": "https://neftipedia.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C/logo.png"
+  },
+  "name": "NEFTiPEDiA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The One And Only Doge And Lucky Cat Hybrid In Crypto World!"
+  },
+  "id": "40f2efe7-8425-4299-aa42-5ad43ef2f55d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
+    "website": "https://babydogemoneymaker.com/",
+    "telegram": "https://t.me/BabyDogeMoneyMaker",
+    "twitter": "https://twitter.com/BabyDMoneyMaker",
+    "reddit": "https://reddit.com/r/BabyDogeMoneyMaker/",
+    "facebook": "https://facebook.com/BABYDMONEYMAKER/",
+    "youtube": "https://youtube.com/channel/UCcoVgeOmjqHj3NG_tsnHc_w",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-doge-money-maker/",
+    "coingecko": "https://coingecko.com/en/coins/baby-doge-money-maker",
+    "whitepaper": "https://babydogemoneymaker.com/assets/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC/logo.png"
+  },
+  "name": "Baby Doge Money Maker",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYDOGEMM",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

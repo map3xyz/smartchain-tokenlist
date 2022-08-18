@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x4F7B627b88651e3DddcA0240bcA68a3062632C8c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Black Eye Galaxy is a cross-chain space NFT metaverse with a unique economy. Buy planets and solar systems, explore the galaxy, mine resources, start your civilization!"
+  },
+  "id": "712445b0-7a4b-4469-a85b-7622a5ad48fa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4F7B627b88651e3DddcA0240bcA68a3062632C8c",
+    "website": "https://blackeyegalaxy.space",
+    "twitter": "https://twitter.com/blackeyegalaxy_",
+    "telegram": "https://t.me/blackeyegalaxypublic",
+    "telegramNews": "https://t.me/blackeyegalaxyann",
+    "medium": "https://medium.com/black-eye-galaxy",
+    "youtube": "https://youtube.com/channel/UCesvfL9Uq8cEBY-4QzvYTZg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/black-eye-galaxy/",
+    "coingecko": "https://coingecko.com/en/coins/black-eye-galaxy/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4F7B627b88651e3DddcA0240bcA68a3062632C8c/logo.png"
+  },
+  "name": "BlackEyeGalaxy Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BYG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

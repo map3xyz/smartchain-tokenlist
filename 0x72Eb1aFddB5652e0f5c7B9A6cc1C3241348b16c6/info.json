@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x72Eb1aFddB5652e0f5c7B9A6cc1C3241348b16c6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Two Missions, A Charity and Payment Token"
+  },
+  "id": "91279688-80a9-4cee-9c1f-9e9f5fd37632",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6",
+    "website": "https://safe-pizza.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x72Eb1aFddB5652e0f5c7B9A6cc1C3241348b16c6/logo.png"
+  },
+  "name": "SAFEPIZZA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIZZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

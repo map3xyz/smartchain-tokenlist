@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xDd17629D05E068A9D118ee35d11101d4140D0586",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Safe, Secure, Eco-Friendly, DeFi Cryptocurrency Engineered with the Lowest Trading Fees Available as well as Automatic Rewards for Life!"
+  },
+  "id": "b9ca6d1a-ef9e-4438-bfe0-6c7e520bf369",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDd17629D05E068A9D118ee35d11101d4140D0586",
+    "website": "https://yoco.finance",
+    "twitter": "https://twitter.com/yocoiny",
+    "telegram": "https://t.me/YOCOyocoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yocoin-yoco/",
+    "reddit": "https://reddit.com/r/yocoiny",
+    "discord": "https://discord.com/discord.gg/yocoinyoco",
+    "coingecko": "https://coingecko.com/en/coins/yocoinyoco",
+    "whitepaper": "https://yoco.finance/whitepaper/",
+    "facebook": "https://facebook.com/groups/yocoin",
+    "youtube": "https://youtube.com/c/yocoinyoco"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDd17629D05E068A9D118ee35d11101d4140D0586/logo.png"
+  },
+  "name": "YoCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YOCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

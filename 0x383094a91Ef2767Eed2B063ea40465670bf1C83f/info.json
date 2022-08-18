@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x383094a91Ef2767Eed2B063ea40465670bf1C83f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Limocoin Swap is a token created to allow, by the principle of cryptographic assets, the evolution of market solutions. It is based on a strong community built in four years by one of the subsidiaries of the parent company SIMTREX COMMERCIAL BROKERS LLC, GIT. SA"
+  },
+  "id": "744bedfe-542f-4e6b-b8f5-e86b72e608e8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x383094a91Ef2767Eed2B063ea40465670bf1C83f",
+    "website": "https://www.liyeplimal.net",
+    "twitter": "https://twitter.com/limocoinswap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/limocoin-swap/",
+    "coingecko": "https://coingecko.com/en/coins/limocoin-swap",
+    "telegram": "https://t.me/limocoinswapofficial",
+    "whitepaper": "https://www.liyeplimal.net/assets/images/uploads/Livre_Blanc_LIMOCOIN_Version_en_Anglais.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x383094a91Ef2767Eed2B063ea40465670bf1C83f/logo.png"
+  },
+  "name": "LIMOCOIN SWAP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LMCSWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fully Decentralized Protocol for Private Transactions on Binance Smart Chain"
+  },
+  "id": "6457d478-dd13-41c7-a147-d122e055f312",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+    "website": "https://morphose.cash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1/logo.png"
+  },
+  "name": "Morphose",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MORPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

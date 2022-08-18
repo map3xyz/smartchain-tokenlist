@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First generation deflationary auto-yield token with evolutive fee, making it more rewarding as time passes"
+  },
+  "id": "d1e3b28a-6ca3-4835-8016-c9d8cf9c3078",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
+    "website": "https://hypermeteor.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0/logo.png"
+  },
+  "name": "HyperMeteor",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HyMETEOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

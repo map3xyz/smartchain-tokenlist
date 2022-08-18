@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$POOROCKET is the fairest launched, anti-whale, community driven, DeFi Token instructed to reward holders through its frictionless yield and liquidity generation protocol. Within the POOROCKET application, we have developed a fully bespoke digital wallet offering to store your cryptocurrencies in the safest, most immutable environment on the market."
+  },
+  "id": "7f1a53d9-1ddd-4941-8ec9-432e3b6c5825",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2ed990dce85f30951d1bc26676ed0a5fcbdc12d2",
+    "website": "https://poorocket.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2/logo.png"
+  },
+  "name": "POOROCKET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POOROCKET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

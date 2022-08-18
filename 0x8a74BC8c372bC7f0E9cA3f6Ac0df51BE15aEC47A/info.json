@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PulsePad is a launchpad"
+  },
+  "id": "4ad8e212-7aa2-4f60-b54b-039422213e16",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
+    "website": "https://pulsepad.io/",
+    "twitter": "https://twitter.com/PulsePad_App",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pulsepad/",
+    "coingecko": "https://coingecko.com/pulsepad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A/logo.png"
+  },
+  "name": "PulsePad.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PLSPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

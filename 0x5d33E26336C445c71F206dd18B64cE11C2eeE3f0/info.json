@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x5d33E26336C445c71F206dd18B64cE11C2eeE3f0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Future Fashion is shaped by unstoppable nft technology. Nft-Style; It will be the first nft fashion stop where fashion icons, stylists, world brands and amateur artists will guide fashion. The future will now be felt much more closely.Who knows, maybe in the very near future your fashion design will become a unique icon in the world of Fortnite."
+  },
+  "id": "cda12d71-8acf-4478-ab13-7cad93b4e5c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5d33E26336C445c71F206dd18B64cE11C2eeE3f0",
+    "website": "https://www.nft-style.com/",
+    "twitter": "https://twitter.com/NFTStyleToken",
+    "github": "https://github.com/developernftstyle",
+    "telegram": "https://t.me/nftstyletoken",
+    "whitepaper": "https://www.nft-style.com/file/wp.pdf",
+    "youtube": "https://youtube.com/channel/UChIe0f7Oiqj6Sb4dbtPa8wg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nftstyle/",
+    "coingecko": "https://coingecko.com/en/coins/nftstyle",
+    "telegramNews": "https://t.me/nftstylenews",
+    "reddit": "https://reddit.com/r/NFTStyle/",
+    "medium": "https://medium.com/@nftstyle"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5d33E26336C445c71F206dd18B64cE11C2eeE3f0/logo.png"
+  },
+  "name": "NFTStyle",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTSTYLE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

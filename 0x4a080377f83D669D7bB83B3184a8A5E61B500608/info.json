@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4a080377f83D669D7bB83B3184a8A5E61B500608",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Global DeFi Platform for Credit Unions and Cooperatives"
+  },
+  "id": "d1fe02f7-8cc8-425d-a458-d5026b5c2f43",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a080377f83d669d7bb83b3184a8a5e61b500608",
+    "website": "https://xend.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a080377f83D669D7bB83B3184a8A5E61B500608/logo.png"
+  },
+  "name": "XEND",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XEND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb813939458aA42ca57B870bEf4bEc24945aDDA6D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MONKI is a brand new Meme token,The only currency of coming up cyberpunk era."
+  },
+  "id": "015628b0-0452-4a88-80b7-8fa735b3d22f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb813939458aA42ca57B870bEf4bEc24945aDDA6D",
+    "website": "https://www.monki.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb813939458aA42ca57B870bEf4bEc24945aDDA6D/logo.png"
+  },
+  "name": "MONKI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MONKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

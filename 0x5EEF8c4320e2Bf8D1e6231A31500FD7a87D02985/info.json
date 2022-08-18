@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Creating new ways for content creators to connect with their audience."
+  },
+  "id": "075ba7d6-981d-4f1f-a8a3-553dfac1ac73",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+    "website": "https://fomolab.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985/logo.png"
+  },
+  "name": "FOMO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOMO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

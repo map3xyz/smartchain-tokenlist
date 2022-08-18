@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The BLP token powers The BullPerks ecosystem allowing holders to participate in deals on the platform."
+  },
+  "id": "be912bf8-d8dd-494d-b400-e9ce8a96cad4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404",
+    "website": "https://bullperks.com",
+    "twitter": "https://twitter.com/bullperks",
+    "telegram": "https://t.me/BullPerks_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bullperks/",
+    "whitepaper": "https://bullperks.com/wp-content/uploads/2022/02/BullPerks-Whitepaper-compressed.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404/logo.png"
+  },
+  "name": "BLP Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

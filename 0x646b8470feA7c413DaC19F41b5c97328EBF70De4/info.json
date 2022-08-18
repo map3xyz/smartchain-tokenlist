@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x646b8470feA7c413DaC19F41b5c97328EBF70De4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitcoin Networks is a new form token, which is digitally mineable using Binance Smart Chain blocks and fair mining reward system for everyone."
+  },
+  "id": "592d806f-35a1-4d43-b580-25be7a3bab05",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x646b8470feA7c413DaC19F41b5c97328EBF70De4",
+    "website": "http://bitcoinnetworks.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x646b8470feA7c413DaC19F41b5c97328EBF70De4/logo.png"
+  },
+  "name": "Bitcoin Networks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTCN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

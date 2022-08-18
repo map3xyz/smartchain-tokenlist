@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7EeFB6AeB8BC2c1ba6be1D4273eC0758a1321272",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ENG is the main key to the Endless Board Game gaming platform for different P2E games."
+  },
+  "id": "daf11959-6d49-4a2e-9178-febac7cfee2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272",
+    "website": "https://endlessboardgame.com",
+    "twitter": "https://twitter.com/EngToken",
+    "telegram": "https://t.me/endlessbg",
+    "whitepaper": "https://endlessboardgame.com/Content/ENG%20Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7EeFB6AeB8BC2c1ba6be1D4273eC0758a1321272/logo.png"
+  },
+  "name": "Endless Board Game",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ENG",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x5EcFcced226bA9fCcD8663e7b3263cBd8C84eDB5",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wearable technologies are rapidly taking their place in our lives all over the world. Xtremcoin brings you a brand new technology in the world of crypto money."
+  },
+  "id": "0d136500-f1c5-46a6-8d3e-127374656c71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5EcFcced226bA9fCcD8663e7b3263cBd8C84eDB5",
+    "website": "https://xtremcoin.io",
+    "twitter": "https://twitter.com/xtremcoin",
+    "github": "https://github.com/xtremcoin",
+    "telegram": "https://t.me/xtremcoin",
+    "telegramNews": "https://t.me/xtremcoin_news",
+    "blog": "https://blog.xtremcoin.com",
+    "reddit": "https://reddit.com/Xtremcoin",
+    "whitepaper": "https://xtremcoin.io/whitepaper/Xtremcoin-Whitepaper.pdf",
+    "medium": "https://medium.com/@Xtremcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5EcFcced226bA9fCcD8663e7b3263cBd8C84eDB5/logo.png"
+  },
+  "name": "Xtremcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

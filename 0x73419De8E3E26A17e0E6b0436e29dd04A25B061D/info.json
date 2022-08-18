@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x73419De8E3E26A17e0E6b0436e29dd04A25B061D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Miku is token built on binance smart chain with unique product and tokenomics, a unique original character created as a brand, a girl from heaven with blue hair and the power of wings, the goddess of trust and loyalty."
+  },
+  "id": "4b9f444f-caa8-4ccd-9673-7f5b98601141",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x73419De8E3E26A17e0E6b0436e29dd04A25B061D",
+    "website": "https://mikubsc.com",
+    "twitter": "https://twitter.com/MikuBSC",
+    "telegram": "https://t.me/MikuBSC",
+    "medium": "https://medium.com/@mikucoin",
+    "whitepaper": "https://mikucoin.gitbook.io/miku-coin-official-whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/miku/",
+    "coingecko": "https://coingecko.com/coins/miku"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x73419De8E3E26A17e0E6b0436e29dd04A25B061D/logo.png"
+  },
+  "name": "MIKU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MIKU",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

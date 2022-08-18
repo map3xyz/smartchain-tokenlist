@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x840BCd536d647C3433bF830DBCb8debFa5B71c79",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BNB Cash is the native token of the BNB Fintech ecosystem"
+  },
+  "id": "27d08537-aead-4999-8f72-2d3293670b01",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x840BCd536d647C3433bF830DBCb8debFa5B71c79",
+    "website": "https://bnbfintech.com",
+    "twitter": "https://twitter.com/BNBCashOfficial",
+    "github": "https://github.com/BNBCash",
+    "telegram": "https://t.me/BNBCashOfficial",
+    "coingecko": "https://coingecko.com/en/coins/bnb-cash",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bnb-cash/",
+    "reddit": "https://reddit.com/r/BNBCash/",
+    "facebook": "https://facebook.com/BNBCash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x840BCd536d647C3433bF830DBCb8debFa5B71c79/logo.png"
+  },
+  "name": "BNB Cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

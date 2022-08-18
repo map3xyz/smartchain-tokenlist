@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops."
+  },
+  "id": "ae9ae365-4b67-4630-a891-aa5320afaae3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
+    "website": "https://foxfinance.io/",
+    "twitter": "https://twitter.com/foxfinancebsc",
+    "telegram": "https://t.me/foxfinancebsc",
+    "discord": "https://discord.com/invite/ZAvHGr3VGS",
+    "reddit": "https://reddit.com/r/foxfinance/",
+    "medium": "https://medium.com/@foxfinance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFAd8E46123D7b4e77496491769C167FF894d2ACB/logo.png"
+  },
+  "name": "Fox Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

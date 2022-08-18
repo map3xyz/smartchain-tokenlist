@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SHIBANOMICS is a deflationary token which means the Total Supply is always decreasing, making it more and more rare"
+  },
+  "id": "2cf67a8f-09ff-45f3-b10a-4b115cc9fc4d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA",
+    "website": "https://shibanomics.co.uk/",
+    "telegram": "https://t.me/shibanomics",
+    "twitter": "https://twitter.com/shibanomicsbsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA/logo.png"
+  },
+  "name": "SHIBANOMICS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

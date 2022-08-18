@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xe0191fEfdd0D2B39b1a2E4E029cCDA8A481b7995",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoMines Reborn is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $CRUX, this mineral allows them to live another day and make some profits along the way."
+  },
+  "id": "5c00e1c8-063d-4ba4-8c46-6836e6b1f146",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995",
+    "website": "https://cryptomines.app/",
+    "twitter": "https://twitter.com/CryptoMinesApp",
+    "discord": "https://discord.com/invite/cryptomines",
+    "telegram": "https://t.me/cryptominesapp"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe0191fEfdd0D2B39b1a2E4E029cCDA8A481b7995/logo.png"
+  },
+  "name": "CryptoMines Reborn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRUX",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

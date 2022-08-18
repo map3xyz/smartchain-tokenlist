@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x639AD7c49EC616a64e074c21a58608C0d843A8a3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TripCandy is an accommodations booking platform that brings you great discounts via cashback rewards in the form of blockchain tokens, turning your bookings into lucrative investments."
+  },
+  "id": "7b16a113-dcad-442b-ab3d-186e9ad2e8ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x639AD7c49EC616a64e074c21a58608C0d843A8a3",
+    "website": "https://tripcandy.io",
+    "telegram": "https://t.me/tripcandy",
+    "telegramNews": "https://t.me/tripcandyio",
+    "twitter": "https://twitter.com/Tripcandyio",
+    "coingecko": "https://coingecko.com/en/coins/tripcandy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tripcandy",
+    "whitepaper": "https://bit.ly/36t38gq",
+    "reddit": "https://reddit.com/r/tripcandyio",
+    "discord": "https://discord.com/invite/ArktEv22D5",
+    "medium": "https://medium.com/@tripcandy",
+    "facebook": "https://facebook.com/tripcandyio",
+    "youtube": "https://youtube.com/channel/UCG4_fomFKDwVe6IWmMrHd-Q"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x639AD7c49EC616a64e074c21a58608C0d843A8a3/logo.png"
+  },
+  "name": "TripCandy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CANDY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

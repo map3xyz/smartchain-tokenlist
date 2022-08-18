@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9c9843a65302BA0F1778593CaE1De6478596eFFB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TRUSTMAX is a blockchain technology development project protected and managed by Bright Invest GmbH, Darmstadt."
+  },
+  "id": "6e51109a-df66-4345-9000-2a4e999d01bf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9c9843a65302ba0f1778593cae1de6478596effb",
+    "website": "https://trustmax.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9c9843a65302BA0F1778593CaE1De6478596eFFB/logo.png"
+  },
+  "name": "TrustMax",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

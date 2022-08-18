@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xe65313B085258a671d044F7Ad9D9fcd514c5d9e9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FAF token will be the first one to be implemented as a reward token on B2C platforms."
+  },
+  "id": "39a9275a-d4f0-48bc-ad5c-b552b1d513dd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe65313b085258a671d044f7ad9d9fcd514c5d9e9",
+    "website": "https://www.fairface.io/",
+    "twitter": "https://twitter.com/Faftoken",
+    "telegram": "https://t.me/fairfacereview"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe65313B085258a671d044F7Ad9D9fcd514c5d9e9/logo.png"
+  },
+  "name": "Fairface Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FAF",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

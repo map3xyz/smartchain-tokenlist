@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "StarSharks is a community-driven shark metaverse where players, developers and investors could define the value evolution of underlying NFTs in a sustainable ecosystem. This project aims to cultivate and share value of content with the community, and to disrupt the current GameFi world where assets are isolated in one game. StarSharks is powered with dual-token system: SSS, governance token; and SEA, game token."
+  },
+  "id": "1a5fd825-cf19-4abd-898b-038ad1939dcc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa",
+    "website": "https://starsharks.com/",
+    "twitter": "https://twitter.com/StarSharks_SSS",
+    "telegram": "https://t.me/starsharks_SSS",
+    "discord": "https://discord.com/invite/TZfxJbnS3e",
+    "medium": "https://medium.com/@StarSharks",
+    "coinmarketcap": "https://coinmarketcap.com/zh/currencies/starsharks-sss/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa/logo.png"
+  },
+  "name": "StarSharks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SEA",
+  "tags": [
+    "nft",
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

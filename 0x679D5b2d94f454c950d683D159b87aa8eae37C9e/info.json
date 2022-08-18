@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x679D5b2d94f454c950d683D159b87aa8eae37C9e",
+  "color": null,
+  "decimals": 7,
+  "description": {
+    "en": "Hamster is MemeToken"
+  },
+  "id": "babc7cae-72cd-42d7-ae2b-92ddfa8891c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+    "website": "https://www.coinhamster.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x679D5b2d94f454c950d683D159b87aa8eae37C9e/logo.png"
+  },
+  "name": "HAMSTER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

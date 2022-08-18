@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2f053e33bd590830858161d42C67e9E8A9390019",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Philippines' First NFT Marketplace for Local Artists & Celebrities."
+  },
+  "id": "f572138c-32dc-4c00-968a-a04dcecef0c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2f053e33bd590830858161d42C67e9E8A9390019",
+    "website": "https://vention.app/",
+    "twitter": "https://twitter.com/ventionapp",
+    "telegram": "https://t.me/ventionapp",
+    "facebook": "https://facebook.com/VentionApp"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2f053e33bd590830858161d42C67e9E8A9390019/logo.png"
+  },
+  "name": "Vention",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

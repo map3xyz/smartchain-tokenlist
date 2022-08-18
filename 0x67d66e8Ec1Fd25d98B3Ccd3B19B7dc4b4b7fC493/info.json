@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Feeder Finance is a DeFi aggregator for diversified yield generation on Binance Smart Chain (“BSC”). Feeder aims to allow investors to feed capital into lending protocols, liquidity pools, vaults, and other DeFi products in an automated and diversified process — A single deposit with macro exposure."
+  },
+  "id": "2b5254c4-5134-4642-9ec5-5ba8352fd4a6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
+    "website": "https://feeder.finance/",
+    "github": "https://github.com/FeederFinance/",
+    "twitter": "https://twitter.com/FeederFinance",
+    "telegram": "https://t.me/FeederFinance",
+    "telegramNews": "https://t.me/FeederFinanceNews",
+    "medium": "https://medium.com/feeder-finance",
+    "discord": "https://discord.com/invite/CBCrxVbkmv",
+    "youtube": "https://youtube.com/channel/UC7M0nZAc0IqmY3VZ8ZcettA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/feeder-finance/",
+    "coingecko": "https://coingecko.com/en/coins/feeder-finance",
+    "blog": "https://blog.feeder.finance",
+    "docs": "https://docs.feeder.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493/logo.png"
+  },
+  "name": "Feeder Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FEED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

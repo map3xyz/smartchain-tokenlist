@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "5be4f49c-6f3c-44de-9d10-4bd1718f75ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x83850D97018f665EB746FBb8f18351e977d1b0D6",
+    "website": "https://staratlas.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x83850D97018f665EB746FBb8f18351e977d1b0D6/logo.png"
+  },
+  "name": "Star Atlas (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATLAS",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

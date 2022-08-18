@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE02018491ADf33B3Ef3001a0e2F2139821dA8d2F",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm SPR on Binance Smart Chain."
+  },
+  "id": "997c5a92-2b45-4b46-a4c1-6b505d2c2a89",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE02018491ADf33B3Ef3001a0e2F2139821dA8d2F",
+    "website": "https://supernova.investments/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE02018491ADf33B3Ef3001a0e2F2139821dA8d2F/logo.png"
+  },
+  "name": "SuperNova",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7e2AFE446A30fA67600a5174Df7f4002B8E15B03",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ormeus Coin is a new digital money system backed by an industrial crypto mining operation."
+  },
+  "id": "6123eb76-5ec0-42cd-943c-1f58fbe176b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e2AFE446A30fA67600a5174Df7f4002B8E15B03",
+    "website": "https://ormeuscoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7e2AFE446A30fA67600a5174Df7f4002B8E15B03/logo.png"
+  },
+  "name": "Ormeus Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ORME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

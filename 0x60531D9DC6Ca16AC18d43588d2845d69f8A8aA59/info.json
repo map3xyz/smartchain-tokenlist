@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x60531D9DC6Ca16AC18d43588d2845d69f8A8aA59",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A hybrid coin created to transform crypto and car enthusiasts into the most interactive and influential community on the planet. A deflationary, static yield farming, automatic liquidity generating token on the Binance Smart Chain."
+  },
+  "id": "6aa480f9-d1eb-4dbd-9886-43523adefdf2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x60531D9DC6Ca16AC18d43588d2845d69f8A8aA59",
+    "website": "https://bitgatti.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x60531D9DC6Ca16AC18d43588d2845d69f8A8aA59/logo.png"
+  },
+  "name": "Bitgatti",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BITGATTI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

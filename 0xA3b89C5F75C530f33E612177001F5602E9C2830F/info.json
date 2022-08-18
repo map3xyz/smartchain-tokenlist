@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA3b89C5F75C530f33E612177001F5602E9C2830F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "miniBabydoge is a BEP20 project that is focused on the entire cryptocurrency community. We plan to build a strong community through honest, friendly and constant social media engagement on our channels, thereby facilitating mainstream adoption of decentralised blockchain technology."
+  },
+  "id": "e82e0884-7793-47b8-8c8a-477f1acf12dd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa3b89c5f75c530f33e612177001f5602e9c2830f",
+    "website": "https://www.minibabydogeofficial.com/",
+    "telegram": "https://t.me/miniBABYDOGEofficialgroup",
+    "twitter": "https://twitter.com/MBabydoge",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mini-baby-doge/",
+    "coingecko": "https://coingecko.com/en/coins/mini-baby-doge",
+    "github": "https://bscscan.com/address/0xa3b89c5f75c530f33e612177001f5602e9c2830f#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA3b89C5F75C530f33E612177001F5602E9C2830F/logo.png"
+  },
+  "name": "miniBABYDOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "miniBABYDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

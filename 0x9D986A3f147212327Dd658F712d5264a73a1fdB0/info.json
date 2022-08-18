@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Landshare brings tokenized real estate to the Binance Smart Chain."
+  },
+  "id": "f3681de8-4356-47f5-8fe9-cfef9395a703",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9D986A3f147212327Dd658F712d5264a73a1fdB0",
+    "website": "https://landshare.io",
+    "twitter": "https://twitter.com/landshareio",
+    "github": "https://github.com/Landshare-io",
+    "telegram": "https://t.me/landshare",
+    "blog": "https://landshare.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9D986A3f147212327Dd658F712d5264a73a1fdB0/logo.png"
+  },
+  "name": "Landshare Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

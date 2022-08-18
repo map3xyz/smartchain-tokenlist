@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "74cf2494-acb2-4aca-bbc2-d4c62ab7e62b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4",
+    "website": "https://projectserum.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4/logo.png"
+  },
+  "name": "Serum (Portal from Solana)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SRMso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

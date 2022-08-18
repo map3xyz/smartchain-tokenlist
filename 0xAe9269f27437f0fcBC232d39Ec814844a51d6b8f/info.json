@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A democratized AMM on Binance Smart Chain."
+  },
+  "id": "7702cb07-365f-40ec-93a5-32dabd3f432a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "research": "https://research.binance.com/en/projects/burger-swap",
+    "website": "https://burgerswap.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f/logo.png"
+  },
+  "name": "Burger Swap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURGER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

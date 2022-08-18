@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x2089F0CbE8Aca0950FA8c5Bb04ADe2323AEE832F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Londex (LDC) is a revolutionary rewards token pioneering trust, transparency and integrity on the binance smart chain. We have introduced a vast utility platform called to accompany the londex token for all crypto investors."
+  },
+  "id": "f3a48dcc-423c-4f48-8b85-02862cc6b978",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2089F0CbE8Aca0950FA8c5Bb04ADe2323AEE832F",
+    "website": "https://londex.io/",
+    "github": "https://github.com/monkey-shanti/londex",
+    "twitter": "https://twitter.com/londexofficial",
+    "reddit": "https://reddit.com/r/londex",
+    "medium": "https://medium.com/@londex/londex-token-ldx-launched-today-7acf5d4968a5",
+    "facebook": "https://facebook.com/groups/449913419583073",
+    "discord": "https://discord.com/invite/bdZpap8Wbd",
+    "whitepaper": "https://londex.io/wp-content/uploads/2021/10/wp-londex.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/londex",
+    "coingecko": "https://coingecko.com/en/coins/londex"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2089F0CbE8Aca0950FA8c5Bb04ADe2323AEE832F/logo.png"
+  },
+  "name": "Londex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

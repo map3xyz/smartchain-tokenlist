@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x461f6C9aE13a7daC7055C73fBF8daB529D667041",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pollo is a social contribution project launched by academics and experts in cryptocurrency development. PoFi is the only token that connects to all of Pollo DAO's governance, seigniorage (algorithmic staple coin), and Vaults (Auto Farming).Maximum Supply is 500,000."
+  },
+  "id": "07140ce6-03fd-4d6e-9ac2-40766725badc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x461f6C9aE13a7daC7055C73fBF8daB529D667041",
+    "website": "https://official.pollo.finance/",
+    "github": "https://github.com/pollofinance",
+    "twitter": "https://twitter.com/FinancePollo",
+    "telegram": "https://t.me/pollofi",
+    "medium": "https://medium.com/@pollofinancegroup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x461f6C9aE13a7daC7055C73fBF8daB529D667041/logo.png"
+  },
+  "name": "PoFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PoFi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

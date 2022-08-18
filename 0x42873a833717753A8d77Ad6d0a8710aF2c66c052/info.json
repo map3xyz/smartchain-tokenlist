@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x42873a833717753A8d77Ad6d0a8710aF2c66c052",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$PUFFY is a hyper deflationary token that is build around the love of animals, cannabis and good music. The community is a place where you can build relationships, safely grow your money while raising awareness on the medicinal benefits of cannabis."
+  },
+  "id": "62ab5ba2-2f51-469a-aaf6-014ecfb462b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42873a833717753A8d77Ad6d0a8710aF2c66c052",
+    "website": "https://PuffyDogCoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x42873a833717753A8d77Ad6d0a8710aF2c66c052/logo.png"
+  },
+  "name": "PuffyDogCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PUFFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

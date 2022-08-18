@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "GST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers – walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers."
+  },
+  "id": "dbf42018-b5ba-4197-8d36-9d0733a7ea4c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+    "website": "https://www.stepn.com",
+    "reddit": "https://reddit.com/r/StepN/",
+    "twitter": "https://twitter.com/Stepnofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/green-metaverse-token/",
+    "coingecko": "https://coingecko.com/en/coins/stepn",
+    "discord": "https://discord.com/invite/stepn"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98/logo.png"
+  },
+  "name": "Green Satoshi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GST",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

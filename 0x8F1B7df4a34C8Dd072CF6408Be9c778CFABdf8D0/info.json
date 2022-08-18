@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8F1B7df4a34C8Dd072CF6408Be9c778CFABdf8D0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "IQ is a multi-chain (NeoScrypt and BEP-20) masternode cryptocurrency for Investors, Traders and Miners. Fork of DASH. Users can earn rewards with masternodes, benefiting the entire network and ecosysytem."
+  },
+  "id": "22c34c80-f0aa-4616-99c8-5b459cd50b0d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8F1B7df4a34C8Dd072CF6408Be9c778CFABdf8D0",
+    "website": "https://IQ.cash/",
+    "twitter": "https://twitter.com/IQ_crypto",
+    "telegram": "https://t.me/IQ_cash",
+    "discord": "https://discord.com/invite/qekuX6r",
+    "facebook": "https://facebook.com/TradersFair/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8F1B7df4a34C8Dd072CF6408Be9c778CFABdf8D0/logo.png"
+  },
+  "name": "Wrapped IQ.Cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WIQ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xcB5EDCB7A2aDe21Ae4A695A5c7fFB7Aa01DFaA5d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FetaToken uses the technology of crypto to support charitable organizations and create community engagement with future projects. The FetaToken community holds events where portions of tokens in the charity wallet gets donated to the community's decided charity organization. FETA, also known as the Fun Ethical Triangular Alt-coin, is a Binance Smart Chain token with an automatic 9% tax on every transaction, of which 3% is distributed to holders, 3% is burned and 3% is sent to the charity wallet."
+  },
+  "id": "435bf69f-8b66-4f65-a556-121f9d51996e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcb5edcb7a2ade21ae4a695a5c7ffb7aa01dfaa5d",
+    "website": "https://fetatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcB5EDCB7A2aDe21Ae4A695A5c7fFB7Aa01DFaA5d/logo.png"
+  },
+  "name": "FetaToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FETA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

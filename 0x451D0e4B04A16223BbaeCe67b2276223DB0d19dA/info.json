@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GCR is a stable digital asset, that is both backed by and tethered to the price of gold"
+  },
+  "id": "907361da-7f73-4d7d-ac3a-9eb358b950b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA",
+    "website": "https://Goldcoinreserve.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA/logo.png"
+  },
+  "name": "GoldCoin Reserve",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GCR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

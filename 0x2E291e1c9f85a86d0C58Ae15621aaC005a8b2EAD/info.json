@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token - Reflection paid back to holders."
+  },
+  "id": "53981040-dbfd-4ebe-8b6f-e449cb1e0003",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
+    "website": "https://zeppelindao.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD/logo.png"
+  },
+  "name": "Zeppelin.dao",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

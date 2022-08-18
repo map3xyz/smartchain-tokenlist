@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x6D6bA21E4C4b29CA7Bfa1c344Ba1E35B8DaE7205",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Katana Inu is a play2earn metaverse NFT-Game in an interactive openworld - All skins and weapons are NFTs. A project that focuses on driving Gaming & NFT crypto innovation through its innovative game offerings with auto staking in in-game reward method."
+  },
+  "id": "c929060c-5695-4147-a3c5-a5bf2985d755",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
+    "website": "https://katanainu.com",
+    "github": "https://github.com/katanainu/katacoin-contract",
+    "twitter": "https://twitter.com/katanainu",
+    "telegramNews": "https://t.me/katanainuannouncement",
+    "telegram": "https://t.me/katanainu",
+    "medium": "https://medium.com/@katanainu/katana-inu-a-great-play2earn-battle-royale-pc-game-with-nft-marketplace-on-layer-2-a56f9bbcce79",
+    "whitepaper": "https://katanainu.com/katanainuwhitepaper.pdf/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/katana-inu/",
+    "coingecko": "https://coingecko.com/en/coins/katana-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6D6bA21E4C4b29CA7Bfa1c344Ba1E35B8DaE7205/logo.png"
+  },
+  "name": "Katana Inu Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KATA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

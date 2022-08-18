@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
+  "color": null,
+  "decimals": 10,
+  "description": {
+    "en": "SMD COIN is the world’s first integrated platform, providing Coins Staking, Yield Farming and Self-Holding. SMD COIN provides customers with decentralized farming services, personalized financial solutions, and a variety of interest models and earning opportunities. "
+  },
+  "id": "40ef6f99-7bef-4860-bc91-f61d7138f240",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947",
+    "website": "https://smdcoin.com",
+    "twitter": "https://twitter.com/smdcoinofficial",
+    "whitepaper": "https://smdcoin.com/css/whitepaper/SMDwhitepaper.pdf",
+    "telegram": "https://t.me/smdofficial",
+    "coingecko": "https://coingecko.com/en/coins/smd-coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/smd-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2b31b83D2a960d648e9c8d3B84dF5452c80aB947/logo.png"
+  },
+  "name": "SMD Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

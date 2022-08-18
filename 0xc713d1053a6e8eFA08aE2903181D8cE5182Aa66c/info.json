@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFTBOX is a decentralized finance (DeFi) token."
+  },
+  "id": "b8a64a19-5fe4-4b2f-a060-b11a3ff113e7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+    "website": "https://nftbox.fun"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c/logo.png"
+  },
+  "name": "NFTBOX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTBOX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

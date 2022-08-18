@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nafter is an online marketplace for creators and fans to buy, sell, mint & collect content NFTs - all in one app."
+  },
+  "id": "436eed64-ef07-4e51-83fb-acc85472a848",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
+    "website": "https://nafter.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD7730681B1DC8f6F969166B29D8A5EA8568616a3/logo.png"
+  },
+  "name": "Nafter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NAFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

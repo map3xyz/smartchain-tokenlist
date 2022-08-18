@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x0EBc30459551858e81306d583025d12C7d795FA2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AmazingDoge token is a part of dogecoin family"
+  },
+  "id": "d5d1125a-9bc5-4b99-85fe-8007b75925aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0EBc30459551858e81306d583025d12C7d795FA2",
+    "website": "https://www.amazingdogebsc.com",
+    "twitter": "https://twitter.com/apecoin",
+    "whitepaper": "https://amazingdogebsc.com/#whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0EBc30459551858e81306d583025d12C7d795FA2/logo.png"
+  },
+  "name": "Amazing Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Adoge",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

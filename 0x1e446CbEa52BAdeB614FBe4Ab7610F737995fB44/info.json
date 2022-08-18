@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1e446CbEa52BAdeB614FBe4Ab7610F737995fB44",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Saturna is a frictionless yield community-driven project. With tokenomics designed to keep building the price floor and reflecting transaction taxes back to holders and liquidity."
+  },
+  "id": "53b0d859-c799-49cb-8b99-8a00a3e53ac0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1e446CbEa52BAdeB614FBe4Ab7610F737995fB44",
+    "website": "https://saturna.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1e446CbEa52BAdeB614FBe4Ab7610F737995fB44/logo.png"
+  },
+  "name": "Saturna",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

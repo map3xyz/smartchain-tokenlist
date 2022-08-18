@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE44946b6A075b2C99fDe1dD0c4dA4a3436211f8C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Built by the fan community, Manchester United Fan Token (MUFC) is a cryptocurrency representing voting rights in distribution mechanism as well as various benefits and rewards for holders, which they can leverage to engage and express the love to the Manchester United F.C. football club"
+  },
+  "id": "b204ab0e-e3cf-4552-91a1-7a92d9ce8dbf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE44946b6A075b2C99fDe1dD0c4dA4a3436211f8C",
+    "website": "https://mutoken.io",
+    "whitepaper": "https://drive.google.com/file/d/1rzrF-drYWCire2ghGarFi-J1gI_lWo0S/view",
+    "twitter": "https://twitter.com/mufantoken",
+    "telegram": "https://t.me/MUFC_official_channel",
+    "medium": "https://medium.com/@mufantoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE44946b6A075b2C99fDe1dD0c4dA4a3436211f8C/logo.png"
+  },
+  "name": "MUFC Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MUFC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

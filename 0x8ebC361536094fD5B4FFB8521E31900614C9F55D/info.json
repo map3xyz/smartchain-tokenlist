@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8ebC361536094fD5B4FFB8521E31900614C9F55D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DARC is the main token for Konstellation network, a blockchain ecosystem for the global financial services industry."
+  },
+  "id": "dc94577b-f8a0-464b-beca-527f3839b204",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8ebC361536094fD5B4FFB8521E31900614C9F55D",
+    "website": "https://konstellation.tech/",
+    "twitter": "https://twitter.com/KNSTL_TECH",
+    "telegram": "https://t.me/Konstellation"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8ebC361536094fD5B4FFB8521E31900614C9F55D/logo.png"
+  },
+  "name": "DARC Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DARC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

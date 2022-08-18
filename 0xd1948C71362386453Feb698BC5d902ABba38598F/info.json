@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd1948C71362386453Feb698BC5d902ABba38598F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "100% OF MERCH DONATIONS TO yield COLLABORATIVE."
+  },
+  "id": "62afb936-c243-4b20-a625-7d46426391b3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd1948C71362386453Feb698BC5d902ABba38598F",
+    "website": "http://unidoge.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd1948C71362386453Feb698BC5d902ABba38598F/logo.png"
+  },
+  "name": "UniDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

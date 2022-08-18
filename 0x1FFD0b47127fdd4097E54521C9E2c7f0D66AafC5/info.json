@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Interoperable Smart Contracts & dApps Network"
+  },
+  "id": "09c286a1-dcaf-4de3-9606-46d9dee1f895",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
+    "website": "https://tixl.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5/logo.png"
+  },
+  "name": "Tixl",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TXL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

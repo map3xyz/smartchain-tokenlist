@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0Da1774e58eD28fF9749340F116055F8d836A7C8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "VANCAT Token is the governance token of the VANCAT platform. Users can mint Standard NFTs or Special NFTs with platform and get paid with VANCAT. The platform presents VANCAT Wallet App, VANSwap, gaming awards (play to earn) and its own metaverse."
+  },
+  "id": "70d7cd7f-bee0-4b26-94d0-924ee8b97ef7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0Da1774e58eD28fF9749340F116055F8d836A7C8",
+    "website": "https://vancattoken.com/",
+    "telegram": "https://t.me/vancattokencommunity",
+    "twitter": "https://twitter.com/vancattoken",
+    "coingecko": "https://coingecko.com/en/coins/vancat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0Da1774e58eD28fF9749340F116055F8d836A7C8/logo.png"
+  },
+  "name": "VANCAT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VANCAT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

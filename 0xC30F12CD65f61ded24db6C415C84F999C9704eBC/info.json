@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Earning money and helping dogs at the same time."
+  },
+  "id": "d233bb1a-6f9a-4a1a-b29a-e60fe0f99717",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC30F12CD65f61ded24db6C415C84F999C9704eBC",
+    "website": "https://sabakatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC30F12CD65f61ded24db6C415C84F999C9704eBC/logo.png"
+  },
+  "name": "Sabaka Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SABAKA INU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

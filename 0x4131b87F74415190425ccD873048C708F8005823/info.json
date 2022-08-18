@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x4131b87F74415190425ccD873048C708F8005823",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Multiplier is a non-custodial lending protocol on Binance Smart Chain with flash loans."
+  },
+  "id": "c482f891-dc69-4fc0-9a20-f690e09c2d43",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4131b87f74415190425ccd873048c708f8005823",
+    "website": "https://multiplier.finance",
+    "github": "https://github.com/Multiplier-Finance",
+    "twitter": "https://twitter.com/MultiplierMXX",
+    "telegram": "https://t.me/themultiplierio"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4131b87F74415190425ccD873048C708F8005823/logo.png"
+  },
+  "name": "Multiplier Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bMXX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

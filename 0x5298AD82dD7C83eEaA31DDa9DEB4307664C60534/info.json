@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x5298AD82dD7C83eEaA31DDa9DEB4307664C60534",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moonshot is a deflationary, frictionless yield and liquidity generation protocol featuring MoonBoxes.io and MoonSea.io"
+  },
+  "id": "1564f34d-80bb-4466-bdcf-05c372d099e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5298AD82dD7C83eEaA31DDa9DEB4307664C60534",
+    "website": "https://project-moonshot.me",
+    "twitter": "https://twitter.com/RS25Moonshot",
+    "github": "https://github.com/moonshot-platform",
+    "telegram": "https://t.me/MoonShotChat",
+    "telegramNews": "https://t.me/RS25Moonshot",
+    "medium": "https://rs25moonshot.medium.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/moonshot",
+    "coingecko": "https://coingecko.com/coins/moonshot"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5298AD82dD7C83eEaA31DDa9DEB4307664C60534/logo.png"
+  },
+  "name": "Moonshot",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSHOT",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

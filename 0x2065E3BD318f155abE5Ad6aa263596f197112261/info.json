@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2065E3BD318f155abE5Ad6aa263596f197112261",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ULTGG - The game-changing esports token."
+  },
+  "id": "c3341373-cecd-487a-b3fa-c5bb253a3706",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2065E3BD318f155abE5Ad6aa263596f197112261",
+    "website": "https://www.ultgg.io",
+    "telegram": "https://t.me/ultgg",
+    "twitter": "https://twitter.com/ultimoggesports",
+    "youtube": "https://youtube.com/c/UltimoHombre/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2065E3BD318f155abE5Ad6aa263596f197112261/logo.png"
+  },
+  "name": "UltimoGG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ULTGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

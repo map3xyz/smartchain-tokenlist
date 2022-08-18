@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DisCas Vision is the world’s first and only decentralized platform, built on blockchain technology and smart contracts. We unite governments, organizations and communities into a decentralized, open and fair network. The smart contract technology that underlies the platform will provide an automated and transparent system for investment and profit distribution. For more information please visit our site and our offering and solutions is here https://discas.vision/white-paper/"
+  },
+  "id": "35050f80-e5f0-4da3-881e-034883c86af6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569",
+    "website": "https://discas.vision/",
+    "twitter": "https://twitter.com/discasvision",
+    "telegram": "https://t.me/discasvision",
+    "facebook": "https://facebook.com/discas.vision"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569/logo.png"
+  },
+  "name": "DisCas Vision",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DISC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

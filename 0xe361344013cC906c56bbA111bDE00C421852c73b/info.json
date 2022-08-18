@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe361344013cC906c56bbA111bDE00C421852c73b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonBoys Finance is a community-driven, fair-launched DeFi token which builds exponential value for its holders using three main principles : static rewards, liquidity pool acquisition, and burns."
+  },
+  "id": "5e02b302-3fb0-4801-bdd4-21a139351c03",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe361344013cC906c56bbA111bDE00C421852c73b",
+    "website": "https://moonboys.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe361344013cC906c56bbA111bDE00C421852c73b/logo.png"
+  },
+  "name": "MOONBOYS FINANCE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

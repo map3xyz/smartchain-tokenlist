@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A token with its own digital ecosystem, that reinvests in both the platform and the community with each transaction."
+  },
+  "id": "daeeb296-94f1-4cc9-91e4-6800354c27a1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd50787a5f21bcc10c1a738e7de33001786c5fc24",
+    "research": "https://smartworth.org",
+    "website": "https://smartworth.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD50787A5f21bcC10C1a738E7DE33001786c5fc24/logo.png"
+  },
+  "name": "SMARTWORTH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMARTWORTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

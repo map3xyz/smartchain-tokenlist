@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC14dF1E2fFf3708816495e7364Ff274aCEEcAd91",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A community of people who loves cryptocurrencies and blockchain, with a high level of expertise they can share with others"
+  },
+  "id": "298e08e5-2f52-46ba-a19f-cbfd49754e61",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc14df1e2fff3708816495e7364ff274aceecad91",
+    "website": "https://www.n1ce.community/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC14dF1E2fFf3708816495e7364Ff274aCEEcAd91/logo.png"
+  },
+  "name": "N1CE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "N1CE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

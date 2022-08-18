@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dragon Slayer is a NFT gaming ecosystem aiming to build a vast Dragon Universe living on the Binance Smart Chain where millions of players all around the world participate in the blockchain-based NFT game in a simple, fast and fun way. Dragon Slayer creates a complete blockchain gaming ecosystem that connects game players, developers, communities and distributors."
+  },
+  "id": "22305614-3ff6-4e71-9774-46d1c50d3831",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C",
+    "website": "https://www.dragonslayer.games/",
+    "twitter": "https://twitter.com/DragonSlayerNft",
+    "telegram": "https://t.me/DragonSlayerNftChannel",
+    "facebook": "https://facebook.com/DragonSlayer2NFT",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dragon-slayer",
+    "coingecko": "https://coingecko.com/en/coins/dragon-slayer"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc8E8ecB2A5B5d1eCFf007BF74d15A86434aA0c5C/logo.png"
+  },
+  "name": "DragonSlayer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

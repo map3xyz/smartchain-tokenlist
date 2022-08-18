@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6169b3b23e57dE79a6146A2170980cEb1F83b9e0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Vetter Platform is where crowdsourcing meets A.I. and gamification to empower the crypto investor"
+  },
+  "id": "7480ffc2-5283-4ecd-beda-e5e24594cccd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6169b3b23e57dE79a6146A2170980cEb1F83b9e0",
+    "website": "https://vetter.ai",
+    "telegram": "https://t.me/vetterplatform",
+    "facebook": "https://facebook.com/vetterplatform",
+    "twitter": "https://twitter.com/vetterplatform"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6169b3b23e57dE79a6146A2170980cEb1F83b9e0/logo.png"
+  },
+  "name": "Vetter Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VETTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

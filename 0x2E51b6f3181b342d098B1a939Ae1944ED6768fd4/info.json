@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Demon Ecosystem integrates a lucrative finance vault with unique Metaverse gamification making it one of the exclusive DeFi project in the market."
+  },
+  "id": "b2e6742d-1f47-4198-aba3-10134b66a853",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4",
+    "website": "https://www.demonfinance.com",
+    "telegram": "https://t.me/DemonFinanceCommunity",
+    "twitter": "https://twitter.com/DemonEcosystem"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4/logo.png"
+  },
+  "name": "Demon Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEMON",
+  "tags": [
+    "defi",
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xa321fC1171EB85498faD47D3d127368eBa70265C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A new cryptocurrency based on BNB smart chain. 4% of each transaction is always distributed to all holders as a reward. Thus, personal wealth increases automatically with every purchase or sale."
+  },
+  "id": "0c044239-5c36-4e21-afc3-c82ed2e53641",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa321fC1171EB85498faD47D3d127368eBa70265C",
+    "website": "https://www.drive-token.com",
+    "twitter": "https://twitter.com/safedrive19",
+    "discord": "https://discord.com/invite/cHusGCKb\""
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa321fC1171EB85498faD47D3d127368eBa70265C/logo.png"
+  },
+  "name": "SafeDrive",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Drive",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

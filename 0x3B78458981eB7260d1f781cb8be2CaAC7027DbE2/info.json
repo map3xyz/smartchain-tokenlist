@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LaunchZone is The Ultimate DeFi Platform. $LZ is the utility and governance token of LaunchZone Ecosystem"
+  },
+  "id": "b2e357b0-3854-4f75-aca5-487144194269",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2",
+    "website": "https://lz.finance",
+    "github": "https://github.com/launchzone",
+    "twitter": "https://twitter.com/launchzoneann",
+    "whitepaper": "https://docs.lz.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2/logo.png"
+  },
+  "name": "LaunchZone",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

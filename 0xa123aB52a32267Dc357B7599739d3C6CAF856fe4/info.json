@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AIR was issued to mock the madness of the cryptocurrency market. AIR is everywhere, after buying Air coin you get nothing but AIR."
+  },
+  "id": "66762f0b-4478-47a9-8975-4b2332e0649d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+    "website": "https://aircoin.cool"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xa123aB52a32267Dc357B7599739d3C6CAF856fe4/logo.png"
+  },
+  "name": "AIR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAcab3Ee32aacdbC745667FB261ED7af1de5c5EcD",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Community driven, fair launched DeFi Token. Renounced & burnt."
+  },
+  "id": "35b53a23-aeee-4de1-b7cd-db8f703236b6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAcab3Ee32aacdbC745667FB261ED7af1de5c5EcD",
+    "website": "https://orange-token.website"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAcab3Ee32aacdbC745667FB261ED7af1de5c5EcD/logo.png"
+  },
+  "name": "Orange Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ORANGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

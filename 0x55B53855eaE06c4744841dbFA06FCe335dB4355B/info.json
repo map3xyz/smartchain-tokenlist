@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x55B53855eaE06c4744841dbFA06FCe335dB4355B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "An Accelerated Hyper-Deflationary Token powered by advanced tokenomics and the SSB Business Model."
+  },
+  "id": "a711c4df-9810-42f5-a6ee-0c8a3b2c8a98",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x55B53855eaE06c4744841dbFA06FCe335dB4355B",
+    "website": "https://ssbtoken.com",
+    "twitter": "https://twitter.com/satoshistrbets",
+    "telegram": "https://t.me/SSBTokenOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/satoshistreetbets/",
+    "coingecko": "https://coingecko.com/coins/satoshistreetbets"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x55B53855eaE06c4744841dbFA06FCe335dB4355B/logo.png"
+  },
+  "name": "SatoshiStreetBets Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SSB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

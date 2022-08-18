@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7c67DCCb04b67d4666fd97B2a00bb6D9B8D82E3F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Goatcoin - The governance and reward token of Goatcha.io | an NFT marketplace platform on BSC."
+  },
+  "id": "e187c070-a394-4ed8-af8a-2d70ec852813",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7c67DCCb04b67d4666fd97B2a00bb6D9B8D82E3F",
+    "website": "https://goatcoin.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7c67DCCb04b67d4666fd97B2a00bb6D9B8D82E3F/logo.png"
+  },
+  "name": "Goatcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

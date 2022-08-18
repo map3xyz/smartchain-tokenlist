@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdCA8a5bb74Ec9536D13511C51f6A68821Bf6a1a6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "CBD + NFT = A brand new way to categorize CBD on the blockchain via Strains.Finance"
+  },
+  "id": "b14e310a-087a-48ce-8db2-6fea54e86fc5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6",
+    "website": "https://strains.finance",
+    "github": "https://github.com/strainsfinance/Strains-SFN-",
+    "twitter": "https://twitter.com/strainsfinance",
+    "telegram": "https://t.me/strainsfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdCA8a5bb74Ec9536D13511C51f6A68821Bf6a1a6/logo.png"
+  },
+  "name": "Strains Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MGP (Magic Power) is the governance token of the Magic Power community which will help the Magic Cube Ecosystem grow into a system of decentralized finance(DeFi). It’s created to connect the whole token system at Magic Cube’s phase 1 ecosystem."
+  },
+  "id": "a50badcd-cbd9-4771-b5df-d7ae14b0cf4b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+    "website": "https://magic-cube.finance/#/home",
+    "twitter": "https://twitter.com/MagicCubeDeFi",
+    "telegram": "https://t.me/magicpowercommunityglobal",
+    "github": "https://github.com/MagicCubeFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005/logo.png"
+  },
+  "name": "Magic Power Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MGP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x56083560594E314b5cDd1680eC6a493bb851BBd8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BEP20 token merging Artificial intelligence and Biotechnology in the Metaverse to solve ageing and genetic disorders."
+  },
+  "id": "48ea8817-4ab0-4214-9c85-364e43df630a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x56083560594E314b5cDd1680eC6a493bb851BBd8",
+    "website": "https://www.transhumancoin.finance",
+    "twitter": "https://twitter.com/transhumancoin",
+    "telegram": "https://t.me/joinchat/hYQyhaCsavlmNjQ0",
+    "coingecko": "https://coingecko.com/en/coins/transhuman-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x56083560594E314b5cDd1680eC6a493bb851BBd8/logo.png"
+  },
+  "name": "Transhuman Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

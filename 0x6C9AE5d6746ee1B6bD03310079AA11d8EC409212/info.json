@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x6C9AE5d6746ee1B6bD03310079AA11d8EC409212",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fino DAO Token is a new BEP20 token with an elastic supply and automatic LP adds."
+  },
+  "id": "3b26c003-9d93-4656-91cf-1c7f70f688fc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6C9AE5d6746ee1B6bD03310079AA11d8EC409212",
+    "website": "https://finodao.com/",
+    "twitter": "https://twitter.com/Fino_DAO",
+    "telegram": "https://t.me/finofinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fino-dao/",
+    "whitepaper": "https://finofinance.gitbook.io/fino",
+    "github": "https://github.com/finodao/smartcontracts/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6C9AE5d6746ee1B6bD03310079AA11d8EC409212/logo.png"
+  },
+  "name": "FINO DAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FINO",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

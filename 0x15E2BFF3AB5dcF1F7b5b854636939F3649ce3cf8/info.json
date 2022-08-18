@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x15E2BFF3AB5dcF1F7b5b854636939F3649ce3cf8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DogeFather is a community owned Meme token, which aims to build a completely decentralised ecosystem. It aims to develop dGames dChart dSwap dPad."
+  },
+  "id": "a4201df3-5642-4dbb-84fe-c3aa3b8152cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x15e2bff3ab5dcf1f7b5b854636939f3649ce3cf8",
+    "website": "https://dogefat.com",
+    "twitter": "https://twitter.com/dogefatherDEFI",
+    "telegram": "https://t.me/dogefather_global",
+    "whitepaper": "https://dogefat.com/assets/dogefather_whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dogefather-token/",
+    "coingecko": "https://coingecko.com/en/coins/dogefather-token",
+    "medium": "https://medium.com/@dogefatherGlobal",
+    "github": "https://bscscan.com/address/0x15e2bff3ab5dcf1f7b5b854636939f3649ce3cf8#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x15E2BFF3AB5dcF1F7b5b854636939F3649ce3cf8/logo.png"
+  },
+  "name": "DogeFather",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FATHER",
+  "tags": [
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

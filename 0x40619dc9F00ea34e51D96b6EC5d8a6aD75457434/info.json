@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "1Doge is building a comprehensive platform with Static reflection and play to earn gaming mechanisms to enable gamers from all over the world experience Gaming and NFT on the blockchain. "
+  },
+  "id": "10850cfa-2260-48be-97bb-653a2cc25f57",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434",
+    "website": "https://1doge.io",
+    "twitter": "https://twitter.com/1dogeBSC",
+    "github": "https://github.com/MiniPadLaunchpad/1doge",
+    "telegram": "https://t.me/OneDogeGroup",
+    "telegramNews": "https://t.me/OneDogeAnn",
+    "whitepaper": "https://docs.1doge.io/",
+    "medium": "https://onedogefinance.medium.com/",
+    "youtube": "https://youtube.com/channel/UCf5H5967XWppQA0WA6qcTsA",
+    "facebook": "https://facebook.com/1dogebsc",
+    "coingecko": "https://coingecko.com/en/coins/1doge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434/logo.png"
+  },
+  "name": "1Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "1DOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

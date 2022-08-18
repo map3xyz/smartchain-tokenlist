@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3220CCbbC29d727Bde85b7333D31b21e0d6bC6F4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A new cryptocurrency called Pup Doge Coin was launched in July 2021, making it one of the fastest-growing cryptocurrencies on the market. Besides helping save dogs as well as bringing crypto to the average person, Pup Doge is decentralized. The Binance Smart Chain (BSC) technology made Pup Doge a faster Coin with 10x faster block speeds and a cheaper gas fee. "
+  },
+  "id": "7e51258d-69f3-4384-9781-65db4e5a2d85",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3220CCbbC29d727Bde85b7333D31b21e0d6bC6F4",
+    "website": "https://pupdoge.finance/",
+    "twitter": "https://twitter.com/PupDogeCoin",
+    "telegram": "https://t.me/pupdogecoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3220CCbbC29d727Bde85b7333D31b21e0d6bC6F4/logo.png"
+  },
+  "name": "Pup Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PupDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

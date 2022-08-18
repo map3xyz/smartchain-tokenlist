@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x27a339d9B59b21390d7209b78a839868E319301B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OpenWorld works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow."
+  },
+  "id": "4a0dd643-a9a2-41d4-b79c-63c56a9b7a58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27a339d9B59b21390d7209b78a839868E319301B",
+    "website": "https://openworld.vision/",
+    "twitter": "https://twitter.com/OpenWorldVision",
+    "telegram": "https://t.me/openworldglobal",
+    "docs": "https://wiki.cryptowar.network/",
+    "coingecko": "https://coingecko.com/en/coins/cryptowar-xblade"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x27a339d9B59b21390d7209b78a839868E319301B/logo.png"
+  },
+  "name": "Open World",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OPEN",
+  "tags": [
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

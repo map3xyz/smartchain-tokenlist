@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ASPO is expected as a game universe backed by a strong and talented Vietnamese team with the hope of turning P2E games into the future of digital assets. ASPO is currently developing its very first project called ASPO World, a tactics-based game allowing people to interact with one another in the virtual world we create. ASPO World is expected to compete with all existing NFTs games on the world right now."
+  },
+  "id": "e0acc684-2c1d-4907-b42d-eb5ceca7061b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
+    "website": "https://aspo.world",
+    "twitter": "https://twitter.com/AspoWorld",
+    "github": "https://github.com/ASPO-World",
+    "telegram": "https://t.me/joinchat/PjbO1XlvWgw3ZWY9",
+    "telegramNews": "https://t.me/joinchat/PjbO1XlvWgw3ZWY9",
+    "blog": "https://aspo.world/list-news/",
+    "docs": "https://docs.aspo.world/",
+    "whitepaper": "https://drive.google.com/file/d/1GqDwdexXoAIaI_nNKOtJ-k86kbX3JpjA/view",
+    "youtube": "https://youtube.com/channel/UCxNjpMPgPfeceY497FoKHPw",
+    "facebook": "https://facebook.com/aspoworld",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aspo-world/",
+    "coingecko": "https://coingecko.com/en/coins/aspo-world",
+    "sourceCode": "https://github.com/phugt/aspoerc20"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E/logo.png"
+  },
+  "name": "ASPO World",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ASPO",
+  "tags": [
+    "staking",
+    "nft",
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

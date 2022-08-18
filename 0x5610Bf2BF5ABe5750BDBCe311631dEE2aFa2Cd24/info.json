@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonPump ($PUMP) is the community-built utility token for the upcoming PumpLaunch platform."
+  },
+  "id": "11cf7734-3e33-4da4-b7d0-914fd382b344",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24",
+    "website": "https://moonpump.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24/logo.png"
+  },
+  "name": "MoonPump Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PUMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xcBc919D845f393Aa0ceD76085Fd082c8aDcE00be",
+  "color": null,
+  "decimals": 7,
+  "description": {
+    "en": "Contribute to making a better world with blockchain technology as a project enabler."
+  },
+  "id": "2c53d55a-bf00-4ee3-8d6c-3d0610b4168c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcBc919D845f393Aa0ceD76085Fd082c8aDcE00be",
+    "research": "https://bosagora.io",
+    "website": "https://bosagora.io",
+    "github": "https://github.com/bosagora",
+    "twitter": "https://twitter.com/BOSAGORA1",
+    "telegram": "https://t.me/bpf_eng",
+    "medium": "https://medium.com/bosagora"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xcBc919D845f393Aa0ceD76085Fd082c8aDcE00be/logo.png"
+  },
+  "name": "BOSAGORA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

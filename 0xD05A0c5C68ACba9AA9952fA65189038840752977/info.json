@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xD05A0c5C68ACba9AA9952fA65189038840752977",
+  "color": null,
+  "decimals": 2,
+  "description": {
+    "en": "A rebase token, born to be unleashed and destined to reign in the ZillaMatrix."
+  },
+  "id": "753d8e67-cb8c-4be3-8ca8-6edcda8720b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd05a0c5c68acba9aa9952fa65189038840752977",
+    "website": "https://zillamatrix.com/",
+    "github": "https://github.com/monkey-shanti/ZillaMatrix/",
+    "twitter": "https://twitter.com/zillamatrix",
+    "reddit": "https://reddit.com/r/ZillaMatrixBsc/",
+    "medium": "https://medium.com/@ZillaMatrix",
+    "facebook": "https://facebook.com/ZillaMatrix-111312108032120",
+    "discord": "https://discord.com/invite/kU2z3KsrkZ",
+    "whitepaper": "https://dropbox.com/s/rv9yezsua2gdltx/ZillaMatrix%20WhitePaper%20v1.pdf?dl=0",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zillamatrix/",
+    "coingecko": "https://coingecko.com/en/coins/zillamatrix"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD05A0c5C68ACba9AA9952fA65189038840752977/logo.png"
+  },
+  "name": "ZillaMatrix",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZMAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

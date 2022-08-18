@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x0A950AC7f14a4982Cee3BF24AdB1dAD17E0A9026",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Disrupting the B2B industry by creating smart solutions for entrepreneurs around the world."
+  },
+  "id": "a1805358-8a9b-4129-acca-9397c42f8c7e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0A950AC7f14a4982Cee3BF24AdB1dAD17E0A9026",
+    "website": "https://www.drivenx.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0A950AC7f14a4982Cee3BF24AdB1dAD17E0A9026/logo.png"
+  },
+  "name": "DRIVENX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DVX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "The Moon Protocol Bridge objective is to provide a tool that connects every single DeFi platform. Thanks to Moon Protocol Bridge, you’ll be able to manage and trade with ease, no matter which protocol your favorite asset is using."
+  },
+  "id": "22aba1d9-e24b-4e45-bfcf-dd96c450ad3b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+    "website": "https://moonprotocol.finance/",
+    "twitter": "https://twitter.com/ProtocolMoon",
+    "telegram": "https://t.me/MoonProtocolGroupTG",
+    "telegramNews": "https://t.me/MoonProtocolann"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96/logo.png"
+  },
+  "name": "Moon Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MPF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

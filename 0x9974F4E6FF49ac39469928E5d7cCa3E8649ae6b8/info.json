@@ -1,0 +1,28 @@
+{
+  "active": false,
+  "address": "0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first pre-auditing self-sustained launchpad https://github.com/trustwallet/assets/pull/8804"
+  },
+  "id": "031b1be9-e4e8-4218-ae58-3bb60ddef7e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+    "website": "https://pathfund.net",
+    "twitter": "https://twitter.com/@PathFund",
+    "github": "https://github.com/PathFund",
+    "telegram": "https://t.me/PathFund"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8/logo.png"
+  },
+  "name": "PathFund",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PATH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

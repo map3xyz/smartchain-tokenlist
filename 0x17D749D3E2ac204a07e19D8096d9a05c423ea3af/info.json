@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x17D749D3E2ac204a07e19D8096d9a05c423ea3af",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LTRBT Token is capable of gasless instant yield generation. This means that holder can generate yield just holding the token in their wallet, without any further action required."
+  },
+  "id": "61531aa9-2aef-4152-99a6-8a43328b8181",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17D749D3E2ac204a07e19D8096d9a05c423ea3af",
+    "website": "https://newlittlerabbit.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x17D749D3E2ac204a07e19D8096d9a05c423ea3af/logo.png"
+  },
+  "name": "Little Rabbit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTRBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

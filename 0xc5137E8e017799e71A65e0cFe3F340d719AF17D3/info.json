@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc5137E8e017799e71A65e0cFe3F340d719AF17D3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ethereum on the Binance Smart Chain wrapped via the JustLiquidity Token Bridge"
+  },
+  "id": "3c5027cf-638c-4329-a8d0-e753eb59ba32",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc5137e8e017799e71a65e0cfe3f340d719af17d3",
+    "website": "https://ethbridge.justliquidity.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc5137E8e017799e71A65e0cFe3F340d719AF17D3/logo.png"
+  },
+  "name": "ETHb",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHb",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

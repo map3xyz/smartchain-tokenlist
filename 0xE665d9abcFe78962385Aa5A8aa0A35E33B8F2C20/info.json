@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE665d9abcFe78962385Aa5A8aa0A35E33B8F2C20",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Token for the NextMoon ecosystem, focused on NFTs and high potential blockchain assets. The contract has a 5 percent burn rate on each transaction."
+  },
+  "id": "68e7e956-7f42-45b1-b50e-5b1abecfd6df",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe665d9abcfe78962385aa5a8aa0a35e33b8f2c20",
+    "website": "https://nextmoon.org/",
+    "twitter": "https://twitter.com/NextMoonToken",
+    "telegram": "https://t.me/NextMoonToken",
+    "reddit": "https://reddit.com/r/NextMoonToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE665d9abcFe78962385Aa5A8aa0A35E33B8F2C20/logo.png"
+  },
+  "name": "NextMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NextMoon",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

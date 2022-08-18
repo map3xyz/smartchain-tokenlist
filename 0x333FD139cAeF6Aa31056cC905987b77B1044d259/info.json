@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x333FD139cAeF6Aa31056cC905987b77B1044d259",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Web3 Project provides a high, stable and fixed yield to their users whilst bridging the gap between web2 and web3 for the masses."
+  },
+  "id": "7e08b231-2ee7-410c-9925-6add63b0b296",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x333FD139cAeF6Aa31056cC905987b77B1044d259",
+    "website": "https://www.theweb3project.com",
+    "twitter": "https://twitter.com/TheWeb3Project",
+    "telegram": "https://t.me/TheWeb3Project",
+    "docs": "https://docs.theweb3project.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x333FD139cAeF6Aa31056cC905987b77B1044d259/logo.png"
+  },
+  "name": "The Web3 Project",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEB3",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

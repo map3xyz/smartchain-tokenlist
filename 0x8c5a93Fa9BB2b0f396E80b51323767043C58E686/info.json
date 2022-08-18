@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8c5a93Fa9BB2b0f396E80b51323767043C58E686",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "What we do? Three words. We plant trees. Simple yet impactful."
+  },
+  "id": "116e7748-cd0f-40ff-8d3c-499cc6af1d35",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8c5a93Fa9BB2b0f396E80b51323767043C58E686",
+    "website": "https://forestrytoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8c5a93Fa9BB2b0f396E80b51323767043C58E686/logo.png"
+  },
+  "name": "Forestry",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FORESTRY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

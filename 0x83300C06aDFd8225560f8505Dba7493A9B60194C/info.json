@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x83300C06aDFd8225560f8505Dba7493A9B60194C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NDT METAVERSE is a far-reaching technology that has brought breakthrough ideas into life. This token is a revolutionary product, as it is one of the latest developments in the crypto space that utilities state-of-the-art technologies."
+  },
+  "id": "837c3811-f022-40c4-92db-72ad67581eaa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x83300C06aDFd8225560f8505Dba7493A9B60194C",
+    "website": "https://ndtmetaverse.io",
+    "twitter": "https://twitter.com/MetaverseNdt",
+    "facebook": "https://facebook.com/NDT-Metaverse-101922252455454",
+    "whitepaper": "https://ndtmetaverse.io/NDT-Profile-Whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UCYDhnjyL-Tbrt8sFzIxnU1Q"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x83300C06aDFd8225560f8505Dba7493A9B60194C/logo.png"
+  },
+  "name": "NDT METAVERSE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NDT",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

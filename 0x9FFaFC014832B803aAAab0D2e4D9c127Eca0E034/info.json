@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9FFaFC014832B803aAAab0D2e4D9c127Eca0E034",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "COCO is a deflationary crypto currency with doxxed devs."
+  },
+  "id": "53207d43-555f-4196-8b60-491903ea9d87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9FFaFC014832B803aAAab0D2e4D9c127Eca0E034",
+    "website": "https://cocoin.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9FFaFC014832B803aAAab0D2e4D9c127Eca0E034/logo.png"
+  },
+  "name": "Cocoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

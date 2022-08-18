@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user."
+  },
+  "id": "bf7acf42-cd55-42a0-8410-7dc07042f1cc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e",
+    "website": "https://bumoon.io",
+    "twitter": "https://twitter.com/Bumoon_io",
+    "github": "https://github.com/bumoonio",
+    "telegram": "https://t.me/bumoonenglish",
+    "discord": "https://discord.com/invite/xFMZ9dxqVB",
+    "medium": "https://bumoon.medium.com/",
+    "reddit": "https://reddit.com/user/bumoonio",
+    "facebook": "https://facebook.com/BUMooNio-102624585390653",
+    "youtube": "https://youtube.com/c/BUMooNOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bumoon//",
+    "docs": "https://docs.bumoon.io",
+    "whitepaper": "https://bumoon.io/BUMooN%20Whitepaper.pdf",
+    "telegramNews": "https://t.me/bumoonannouncement",
+    "coingecko": "https://coingecko.com/en/coins/bumoon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e/logo.png"
+  },
+  "name": "BUMooN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUMN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

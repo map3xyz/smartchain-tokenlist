@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xBE2a26889CE30a1515055a192797083B1FDe8844",
+  "color": null,
+  "decimals": 3,
+  "description": {
+    "en": "StrikeCoin is a ground-breaking frictionless liquidity protocol with limitless potential. With straight forward transparent Tokenomics StrikeCoin allows for a fair and high yield investment for all Holders. The real-world use and scalability of StrikeCoin is our main driver. Future integration to the equities, crypto and NFT trading markets will open further opportunities and allow StrikeCoin to grow in both use and value for years to come."
+  },
+  "id": "e020441c-6554-4c0d-9173-62814da6ef74",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbe2a26889ce30a1515055a192797083b1fde8844",
+    "website": "https://www.strikecoin.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBE2a26889CE30a1515055a192797083B1FDe8844/logo.png"
+  },
+  "name": "STRIKE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STRIKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

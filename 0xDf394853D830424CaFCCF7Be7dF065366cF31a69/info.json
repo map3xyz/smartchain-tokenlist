@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xDf394853D830424CaFCCF7Be7dF065366cF31a69",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A cute Deflationary Cryptocurrency on Binance Smart Chain."
+  },
+  "id": "b24eba41-8623-4ff5-ad72-5f5f58207c68",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDf394853D830424CaFCCF7Be7dF065366cF31a69",
+    "website": "https://bichontoken.com",
+    "twitter": "https://twitter.com/BICHON MEME TOKEN",
+    "telegram": "https://t.me/bichoncommunity"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDf394853D830424CaFCCF7Be7dF065366cF31a69/logo.png"
+  },
+  "name": "BICHON TOKENT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BICHON",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

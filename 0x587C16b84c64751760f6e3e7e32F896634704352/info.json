@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x587C16b84c64751760f6e3e7e32F896634704352",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class."
+  },
+  "id": "3455a795-f0b2-4ae5-b34e-b636cd778be3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x587C16b84c64751760f6e3e7e32F896634704352",
+    "website": "http://whalefall-defi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x587C16b84c64751760f6e3e7e32F896634704352/logo.png"
+  },
+  "name": "WhaleFall",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WHALE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

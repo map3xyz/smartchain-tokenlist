@@ -1,0 +1,27 @@
+{
+  "active": false,
+  "address": "0xb26D2d67C7652f361b73552310dA5753041b3867",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binapet deprecated token."
+  },
+  "id": "81393bae-1ae5-4b90-b8a1-7be9fa4b4c36",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb26D2d67C7652f361b73552310dA5753041b3867",
+    "website": "https://binapet.com",
+    "twitter": "https://twitter.com/binapet",
+    "reddit": "https://reddit.com/user/binapet"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xb26D2d67C7652f361b73552310dA5753041b3867/logo.png"
+  },
+  "name": "Binapet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BPET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEDd822B00c48D8A1C416ee17507bEFC2ad71d8c4",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm Shiba on Binance Smart Chain."
+  },
+  "id": "abac1955-c1e7-4ae6-8eba-4da65b3c388a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEDd822B00c48D8A1C416ee17507bEFC2ad71d8c4",
+    "website": "https://shiba.limited/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEDd822B00c48D8A1C416ee17507bEFC2ad71d8c4/logo.png"
+  },
+  "name": "My Shiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Shiba",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

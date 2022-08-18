@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first and biggest Cardano ADA reflection token with auto-claim feature."
+  },
+  "id": "18d71cfc-e0eb-440b-a00f-3a6ad0bc3d18",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0",
+    "website": "https://minicardano.finance/",
+    "twitter": "https://twitter.com/minicardano",
+    "telegram": "https://t.me/mini_cardano",
+    "coingecko": "https://coingecko.com/en/coins/mini-cardano",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mini-cardano/",
+    "github": "https://github.com/Mini-Cardano/MiniCardano-Contract"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0/logo.png"
+  },
+  "name": "Mini Cardano",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

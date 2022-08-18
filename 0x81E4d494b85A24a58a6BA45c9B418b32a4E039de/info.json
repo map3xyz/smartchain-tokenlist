@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x81E4d494b85A24a58a6BA45c9B418b32a4E039de",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We keep it simple, We Moon. Rugproof. Audited. Community Owned #MoonToken."
+  },
+  "id": "eb4e7ce4-ffae-45f2-8970-a8b0e3efd291",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de",
+    "website": "https://www.moontoken.xyz/",
+    "twitter": "https://twitter.com/MoonToken_BSC",
+    "telegram": "https://t.me/MoonTokenBSCChat",
+    "discord": "https://discord.com/invite/mtMQSNSE"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de/logo.png"
+  },
+  "name": "MoonToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

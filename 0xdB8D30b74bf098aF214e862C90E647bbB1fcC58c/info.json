@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Baby Cake is the first token on the BSC to reward holders with Cake."
+  },
+  "id": "482ed5e6-9cf4-4ef7-b2a1-844a0e76f27e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+    "website": "https://babycake.app/",
+    "twitter": "https://twitter.com/BabyCakeBSC",
+    "telegram": "https://t.me/babycakeBSC",
+    "medium": "https://medium.com/@babycake",
+    "whitepaper": "https://babycake.app/white-paper/",
+    "github": "https://github.com/babycakebsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c/logo.png"
+  },
+  "name": "BABY CAKE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

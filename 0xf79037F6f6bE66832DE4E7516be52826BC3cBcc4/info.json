@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Harvest is the world’s first cross-chain money market that enables you to earn more with your digital assets."
+  },
+  "id": "1949c84d-c247-409f-914f-b54e6af5ac32",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf79037f6f6be66832de4e7516be52826bc3cbcc4",
+    "research": "https://research.binance.com/en/projects/hard-protocol",
+    "website": "https://hard.kava.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4/logo.png"
+  },
+  "name": "Hard Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HARD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

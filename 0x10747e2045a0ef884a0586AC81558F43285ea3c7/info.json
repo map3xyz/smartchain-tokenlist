@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "ef218ba8-d28a-4a30-860a-eeb968c68c9d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+    "website": "https://bsc.bestswap.com/swap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x10747e2045a0ef884a0586AC81558F43285ea3c7/logo.png"
+  },
+  "name": "Best",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

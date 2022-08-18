@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc864019047B864B6ab609a968ae2725DFaee808A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Biconomy is a Canadian digital currency exchange."
+  },
+  "id": "5a2fc226-1e42-46d4-8e73-96839bb0ad52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc864019047B864B6ab609a968ae2725DFaee808A",
+    "website": "https://biconomy.com",
+    "twitter": "https://twitter.com/SheludkoDmitriy?s=12",
+    "telegram": "https://t.me/Biconomy_Global",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/biconomy-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc864019047B864B6ab609a968ae2725DFaee808A/logo.png"
+  },
+  "name": "Biconomy Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

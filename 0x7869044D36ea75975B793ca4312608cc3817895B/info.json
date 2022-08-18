@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7869044D36ea75975B793ca4312608cc3817895B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The sensible project’s main aim is to let users create easy, fast and automatic yield farm portfolios and also to help with charity contributions to the people in need. This is done by smart contracts that take the user’s deposited funds and spread them across 10-15 yield farms. The yield is collected daily and sent to the user’s wallet."
+  },
+  "id": "51616533-e9e1-430c-9ff5-bcf573d85536",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7869044D36ea75975B793ca4312608cc3817895B",
+    "website": "https://sensible.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7869044D36ea75975B793ca4312608cc3817895B/logo.png"
+  },
+  "name": "Sensible Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SENSI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x10f6F43d8321A3C86c2986BA4753ceBEba477BAa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baitcoin is a full-on-chain liquidity protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain."
+  },
+  "id": "9f199623-915f-446b-8f74-e25112b9bc55",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10f6F43d8321A3C86c2986BA4753ceBEba477BAa",
+    "website": "https://www.baitcoin.com",
+    "telegram": "https://t.me/BaitCoinBSC",
+    "twitter": "https://twitter.com/BaitcoinBSC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baitcoin/",
+    "blog": "https://www.forbes.com/sites/tommywilliams1/2021/05/19/meet-antz-influencer--record-label-ceo-launching-an-nft-focused-cryptocurrency-called-baitcoin-to-collide-crypto-with-the-industry/?sh=6fbf93dd1d54"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x10f6F43d8321A3C86c2986BA4753ceBEba477BAa/logo.png"
+  },
+  "name": "BaitCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

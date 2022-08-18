@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AMM and yield farming platform on Binance Smart Chain"
+  },
+  "id": "62b2c44c-458e-484b-b679-7a4f3990d15d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27",
+    "website": "https://dankswap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27/logo.png"
+  },
+  "name": "Weed Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

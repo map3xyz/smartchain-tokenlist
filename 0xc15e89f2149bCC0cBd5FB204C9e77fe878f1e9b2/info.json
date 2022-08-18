@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HUH Token is the first ever UTIMEME cryptocurrency combining the power of meme tokens with the usability of utility tokens. Refer friends now and earn 10% in BNB."
+  },
+  "id": "ffe72734-2ee0-498c-ab30-5cfe0e10e2bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2",
+    "website": "https://huh.social/",
+    "telegram": "https://t.me/HuHToken",
+    "twitter": "https://twitter.com/HuhToken",
+    "github": "https://github.com/HUH-Token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/huh/",
+    "whitepaper": "https://whitepaper.huh.social/",
+    "docs": "https://docs.huh.social/documents-landing-page/",
+    "coingecko": "https://coingecko.com/en/coins/huh"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc15e89f2149bCC0cBd5FB204C9e77fe878f1e9b2/logo.png"
+  },
+  "name": "HUH Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

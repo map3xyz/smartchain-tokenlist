@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x07af67b392B7A202fAD8E0FBc64C34F33102165B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AquaGoat Finance is a decentralized community-led eco-DeFi project, with AquaGoat acting as its DeFi alternative to conventional high-interest savings accounts."
+  },
+  "id": "58cde279-964c-4a59-90a1-e3b99292d51f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x07af67b392b7a202fad8e0fbc64c34f33102165b",
+    "website": "https://www.aquagoat.finance/",
+    "twitter": "https://twitter.com/AquaBsc?s=09",
+    "telegram": "https://t.me/AquaGoat",
+    "discord": "https://discord.com/invite/E94cMhRhyu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x07af67b392B7A202fAD8E0FBc64C34F33102165B/logo.png"
+  },
+  "name": "Aquagoat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AQUAGOAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

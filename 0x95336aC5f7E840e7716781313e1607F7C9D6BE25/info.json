@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x95336aC5f7E840e7716781313e1607F7C9D6BE25",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RobustSwap by Robust Protocol is an anti-bot and flash loan attack proof decentralized exchange (DEX), automated market maker (AMM) with yield farming designed to optimize profitability through scarcity and liquidity generation."
+  },
+  "id": "23dd63c3-7081-4196-af00-100ed5c3ca62",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95336aC5f7E840e7716781313e1607F7C9D6BE25",
+    "website": "https://robustswap.com",
+    "github": "https://github.com/robustprotocol",
+    "docs": "https://docs.robustswap.com",
+    "twitter": "https://twitter.com/robustswap",
+    "telegram": "https://t.me/robustswap",
+    "telegramNews": "https://t.me/robustprotocol",
+    "medium": "https://robustprotocol.medium.com",
+    "reddit": "https://reddit.com/r/robustprotocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x95336aC5f7E840e7716781313e1607F7C9D6BE25/logo.png"
+  },
+  "name": "RobustSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

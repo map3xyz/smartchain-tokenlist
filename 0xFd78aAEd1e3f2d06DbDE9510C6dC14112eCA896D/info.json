@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are Anonymous (ANON)"
+  },
+  "id": "08526562-4301-408e-840d-8c4909f11bee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+    "website": "https://4n0nym0u5.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D/logo.png"
+  },
+  "name": "Anonymous",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

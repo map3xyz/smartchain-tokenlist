@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "This is the request from https://github.com/trustwallet/assets/pull/10118 Already paid and just needed for new PR due to correction"
+  },
+  "id": "b9ab88dc-13ae-4e45-a9ed-b760b610e499",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+    "website": "https://crucifearous.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6bf3a93793e52f75543c92AfEC4636559988e3c1/logo.png"
+  },
+  "name": "Crucifearous Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CIFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

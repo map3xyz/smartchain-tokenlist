@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa83E84d45EDB55324E2d10e1817F071481289D90",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cranch is online gaming, staking, farming & NFT marketplace a decentralized cryptocurrency based on the blockchain technology. "
+  },
+  "id": "f11f5a04-03bf-42c8-b2a8-4eeb14fd1d7d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa83E84d45EDB55324E2d10e1817F071481289D90",
+    "website": "https://cranch.io",
+    "github": "https://github.com/cranchtoken/",
+    "twitter": "https://twitter.com/cranch_io",
+    "telegram": "https://t.me/cranch_community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa83E84d45EDB55324E2d10e1817F071481289D90/logo.png"
+  },
+  "name": "Cranch",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

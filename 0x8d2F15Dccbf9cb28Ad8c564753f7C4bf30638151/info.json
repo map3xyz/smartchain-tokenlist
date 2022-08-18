@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8d2F15Dccbf9cb28Ad8c564753f7C4bf30638151",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CVD19 is a community driven, fair launched DeFi Token Built under BSC (Binance smart chain, To help adaption of cashless system of payment based on blockchain system in order to reduce COVID19 spread which can be caused by cash, Also the community make profit by just holding their CVD19 token due to deflation process during Token transfer and holding reward which occur automatically from CVD19 contract (auto staking)"
+  },
+  "id": "6a8a6e63-e0ed-4eca-9e79-8f845c4d88da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8d2F15Dccbf9cb28Ad8c564753f7C4bf30638151",
+    "website": "https://nocovid19.finance/",
+    "github": "https://github.com/CVD19",
+    "twitter": "https://twitter.com/nocovid19_cvd19",
+    "telegram": "https://t.me/CVD19chat",
+    "telegramNews": "https://t.me/CVD19_channel",
+    "reddit": "https://reddit.com/user/CVD19coin/",
+    "facebook": "https://facebook.com/CVD19-COIN-104675865192360/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8d2F15Dccbf9cb28Ad8c564753f7C4bf30638151/logo.png"
+  },
+  "name": "Nocovid19",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CVD19",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

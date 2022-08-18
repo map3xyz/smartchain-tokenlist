@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x09d975C3351DBdED28617517FC6982284a787f03",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CISLA is a community driven token set to buy and decentralize a private island which will be co-owned by its holders and supported by a community app."
+  },
+  "id": "92389368-a938-4648-8bdd-c59527abae97",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x09d975C3351DBdED28617517FC6982284a787f03",
+    "website": "https://cryptoisland.group",
+    "twitter": "https://twitter.com/Cryptoislandgr1",
+    "github": "https://github.com/CryptoIslandgroup/",
+    "telegram": "https://t.me/cryptoislandgroup",
+    "discord": "https://discord.com/invite/274APUJTEQ",
+    "facebook": "https://facebook.com/Cryptoislandgroup",
+    "coingecko": "https://coingecko.com/nl/coins/crypto-island"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x09d975C3351DBdED28617517FC6982284a787f03/logo.png"
+  },
+  "name": "Crypto Island",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CISLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

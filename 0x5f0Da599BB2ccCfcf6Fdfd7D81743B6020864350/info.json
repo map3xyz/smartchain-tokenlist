@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Maker is a utility token, governance token and recapitalization resource of the Maker system."
+  },
+  "id": "4fb7015e-fdea-40b3-a20d-5ffdac45c7d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+    "research": "https://research.binance.com/en/projects/maker",
+    "website": "https://makerdao.com",
+    "blog": "https://blog.makerdao.com/",
+    "whitepaper": "https://makerdao.com/assets/documents/purple.pdf",
+    "reddit": "https://reddit.com/r/MakerDAO/",
+    "coingecko": "https://coingecko.com/en/coins/maker/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350/logo.png"
+  },
+  "name": "Binance-Peg Maker",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MKR",
+  "tags": [
+    "defi",
+    "governance",
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

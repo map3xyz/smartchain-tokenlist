@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Buff Shiba Inu, a community-driven token that empowers small and non-private investors to build stronger portfolios."
+  },
+  "id": "742674e4-83f4-4a18-9e67-1dc3dd9c2e22",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
+    "website": "https://buffshibainu.io",
+    "twitter": "https://twitter.com/buffshibainu",
+    "github": "https://github.com/buffshibainu",
+    "telegram": "https://t.me/buffshibainu",
+    "telegramNews": "https://t.me/buffshibachannel",
+    "reddit": "https://reddit.com/r/buffshibainu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf2673f49d2737f97d70995eD43D128E0B8E560c5/logo.png"
+  },
+  "name": "Buff Shiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUFFSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

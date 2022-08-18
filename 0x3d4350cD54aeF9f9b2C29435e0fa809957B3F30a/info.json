@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "be4c38aa-4fb9-4414-875c-e2f49b75910c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a",
+    "website": "https://wormholebridge.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a/logo.png"
+  },
+  "name": "UST (Wormhole)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

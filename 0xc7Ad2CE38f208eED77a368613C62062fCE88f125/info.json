@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc7Ad2CE38f208eED77a368613C62062fCE88f125",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$AER token offers holders redistribution %, $AER airdrops & free access to the first Defi launchpad for new tokens offering exclusive airdrops."
+  },
+  "id": "0fc95f9a-23fa-4d66-90d2-56b3921dc46c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc7Ad2CE38f208eED77a368613C62062fCE88f125",
+    "website": "https://www.aerdrop.finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aerdrop/",
+    "coingecko": "https://coingecko.com/en/coins/aerdrop",
+    "telegram": "https://t.me/aerdropofficial",
+    "telegramNews": "https://t.me/aerdropann",
+    "youtube": "https://youtube.com/channel/UCOpRiuwOQgEYFkljfJmpNWg",
+    "twitter": "https://twitter.com/AerdropOfficial",
+    "reddit": "https://reddit.com/r/AerdropOfficial/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc7Ad2CE38f208eED77a368613C62062fCE88f125/logo.png"
+  },
+  "name": "AERDROP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

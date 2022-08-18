@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x295F2122EbfCC5c38b4Bd33879A37348195b61fb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "THANOS Token is the world’s first crypto-powered clothing marketplace, combining your NFT artworks into authentic, verified brands owned by you."
+  },
+  "id": "a4a5501e-d1c3-41b7-b181-aea663fb1adf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x295F2122EbfCC5c38b4Bd33879A37348195b61fb",
+    "website": "https://thanostoken.finance/",
+    "twitter": "https://twitter.com/TheThanosToken",
+    "telegram": "https://t.me/joinchat/W9abcM-WeDgyZTBh"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x295F2122EbfCC5c38b4Bd33879A37348195b61fb/logo.png"
+  },
+  "name": "Thanos Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THANOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

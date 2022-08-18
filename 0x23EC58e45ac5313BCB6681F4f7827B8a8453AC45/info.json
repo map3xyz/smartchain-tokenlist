@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x23EC58e45ac5313BCB6681F4f7827B8a8453AC45",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers."
+  },
+  "id": "ff17dc22-3df2-495b-a0cf-8acb388f4ca9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x23EC58e45ac5313BCB6681F4f7827B8a8453AC45",
+    "website": "http://zenfuse.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x23EC58e45ac5313BCB6681F4f7827B8a8453AC45/logo.png"
+  },
+  "name": "Zenfuse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZEFU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

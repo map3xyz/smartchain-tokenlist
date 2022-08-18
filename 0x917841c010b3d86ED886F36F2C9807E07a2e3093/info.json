@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "RisingSun powers the greatest play to earn NFT card game ecosystem on the Binance Smart Chain. Over 4 billion collectable samurai battle cards make for one of the most unique gaming experiences on blockchain. The novel NFT card game is coming soon — SamuraiRising."
+  },
+  "id": "9041aebd-8061-473b-9f23-8681cb158f46",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+    "website": "https://risingsun.finance/",
+    "github": "https://github.com/RisingSun-Token",
+    "twitter": "https://twitter.com/risingsuntoken",
+    "telegram": "https://t.me/risingsun_token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/risingsun/",
+    "coingecko": "https://coingecko.com/en/coins/risingsun"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x917841c010b3d86ED886F36F2C9807E07a2e3093/logo.png"
+  },
+  "name": "RisingSun Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RSUN",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

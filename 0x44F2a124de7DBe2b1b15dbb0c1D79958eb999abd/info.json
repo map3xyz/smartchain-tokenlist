@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x44F2a124de7DBe2b1b15dbb0c1D79958eb999abd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Debtfree is a smart contract with a max circulating supply of 100Q. On every transaction, 10% will automatically be distributed to the holders and 1% will be burnt. This will allow investors to HODL for passive income."
+  },
+  "id": "b71a8baf-bdce-4802-83f2-c78883f6e884",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x44F2a124de7DBe2b1b15dbb0c1D79958eb999abd",
+    "website": "https://debtfreetoken.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x44F2a124de7DBe2b1b15dbb0c1D79958eb999abd/logo.png"
+  },
+  "name": "Debt Free Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEBTFREE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

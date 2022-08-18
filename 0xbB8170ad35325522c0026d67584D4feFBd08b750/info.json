@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbB8170ad35325522c0026d67584D4feFBd08b750",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Please update logo "
+  },
+  "id": "972f5ebb-9c32-4aac-8f49-7839dcf90100",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbB8170ad35325522c0026d67584D4feFBd08b750",
+    "website": "https://radditarium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbB8170ad35325522c0026d67584D4feFBd08b750/logo.png"
+  },
+  "name": "RADDITARIUM NETWORK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RADDIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

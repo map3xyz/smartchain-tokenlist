@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8D047F4F57A190C96c8b9704B39A1379E999D82B",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Etherconnect is an Open Decentralized Finance Ecosystem Platform for derivative financial instruments. It is on BEP20 blockchain technology, which helps you to turn your Crypto Holdings in to future growth."
+  },
+  "id": "dce4c419-e34d-4434-91be-8c573ab34f72",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8D047F4F57A190C96c8b9704B39A1379E999D82B",
+    "website": "https://etherconnect.co",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/etherconnect/",
+    "reddit": "https://reddit.com/user/Etherconnct",
+    "medium": "https://etherconnect.medium.com/",
+    "twitter": "https://twitter.com/Etherconnt",
+    "facebook": "https://facebook.com/Etherconnt"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8D047F4F57A190C96c8b9704B39A1379E999D82B/logo.png"
+  },
+  "name": "Etherconnect Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

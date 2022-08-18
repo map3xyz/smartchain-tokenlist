@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$RHYTHM is the token powering the Rhythm music streaming platform, which boasts a library of over 100 million songs, offering holders in-app rewards, perks, NFTs, and powering the Artist Partner Program."
+  },
+  "id": "7e9d762c-7647-4e44-bb7b-e564971f1c50",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb",
+    "website": "https://rhythm.cash/",
+    "twitter": "https://twitter.com/RhythmBSC",
+    "coingecko": "https://coingecko.com/en/coins/rhythm",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rhythm/",
+    "telegram": "https://t.me/RhythmChat",
+    "whitepaper": "https://rhythm.cash/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb/logo.png"
+  },
+  "name": "Rhythm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RHYTHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

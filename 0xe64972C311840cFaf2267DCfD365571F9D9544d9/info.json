@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xe64972C311840cFaf2267DCfD365571F9D9544d9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SphynxSwap aims to provide an AIO solution for trading, farming, staking and holding in a cross chain environment. The amount of platforms out there can be overwhelming and difficult for an individual to navigate. The idea is to break that massive barrier for those new to the world of crypto."
+  },
+  "id": "d757ceb3-cb31-4fd0-a725-99d83a813747",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe64972C311840cFaf2267DCfD365571F9D9544d9",
+    "website": "https://sphynxtoken.co",
+    "twitter": "https://twitter.com/sphynxswap?s=21",
+    "telegram": "https://t.me/sphynxswap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sphynx-bsc/",
+    "coingecko": "https://coingecko.com/coins/sphynx"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe64972C311840cFaf2267DCfD365571F9D9544d9/logo.png"
+  },
+  "name": "Sphynx BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPHYNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x464ACc420607d818f271875552868dDF8095CAfE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Meong Token is a meme coin that takes different approach from another meme coin. We don’t only create a common meme token, we create a social meme token that is intended to contribute in social and art movement."
+  },
+  "id": "98b3807e-1b46-452e-b66c-cebd577a494e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x464ACc420607d818f271875552868dDF8095CAfE",
+    "website": "https://meongtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x464ACc420607d818f271875552868dDF8095CAfE/logo.png"
+  },
+  "name": "Meong Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEONG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

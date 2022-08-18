@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x29B73ACC51999399b579e42d65e63fd0FcC3AbCe",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Create your experience ideas, make money, With SpaceNFT digital marketplace"
+  },
+  "id": "086662f5-794e-4f22-b2b2-906e475881ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x29B73ACC51999399b579e42d65e63fd0FcC3AbCe",
+    "website": "https://spacenft.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x29B73ACC51999399b579e42d65e63fd0FcC3AbCe/logo.png"
+  },
+  "name": "SpaceNFT.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SpaceNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

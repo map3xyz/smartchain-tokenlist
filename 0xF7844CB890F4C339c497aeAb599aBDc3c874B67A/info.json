@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF7844CB890F4C339c497aeAb599aBDc3c874B67A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Powering a new NFT/DeFi platform for all types of content."
+  },
+  "id": "a3aebd58-9357-4e7a-94c9-28e260afe8c0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+    "website": "https://nft-art.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF7844CB890F4C339c497aeAb599aBDc3c874B67A/logo.png"
+  },
+  "name": "NFT-Art.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

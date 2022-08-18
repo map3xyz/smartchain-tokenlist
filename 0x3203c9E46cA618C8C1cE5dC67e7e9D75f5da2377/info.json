@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain"
+  },
+  "id": "e492ef71-ff0e-42cf-8293-9e5cca2666fe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "website": "https://mobox.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377/logo.png"
+  },
+  "name": "MOBOX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBOX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

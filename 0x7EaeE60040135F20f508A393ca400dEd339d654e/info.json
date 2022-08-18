@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7EaeE60040135F20f508A393ca400dEd339d654e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Revival is a BEP-20 Token that gives 11% reflections paid in BNB so you do not have to tap into your RVL holdings to use your reflections!"
+  },
+  "id": "e6e70d97-7fd6-4a32-be3b-1b9394a04909",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7EaeE60040135F20f508A393ca400dEd339d654e",
+    "website": "https://revivaldefi.com",
+    "github": "https://github.com/revivaldefitech/",
+    "twitter": "https://twitter.com/revivaldefi",
+    "telegram": "https://t.me/revivaldefi",
+    "discord": "https://discord.com/revivaldefi",
+    "whitepaper": "https://revivaldefi.com/assets/docs/Litepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/revival/",
+    "coingecko": "https://coingecko.com/en/coins/revival"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7EaeE60040135F20f508A393ca400dEd339d654e/logo.png"
+  },
+  "name": "REVIVAL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RVL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

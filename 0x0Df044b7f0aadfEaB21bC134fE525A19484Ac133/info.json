@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0Df044b7f0aadfEaB21bC134fE525A19484Ac133",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Uzyth is developing an ecosystem of services aimed at providing users the possibility of being rewarded ZYTH tokens based on their active participation on the platform."
+  },
+  "id": "285e9f40-7ca3-42ce-b09c-f47b4e2749f0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0Df044b7f0aadfEaB21bC134fE525A19484Ac133",
+    "website": "https://www.uzyth.com/",
+    "twitter": "https://twitter.com/UZythOfficial",
+    "github": "https://github.com/",
+    "facebook": "https://facebook.com/UzythOfficial-110102891513219",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/uzyth/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0Df044b7f0aadfEaB21bC134fE525A19484Ac133/logo.png"
+  },
+  "name": "UZYTH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZYTH",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

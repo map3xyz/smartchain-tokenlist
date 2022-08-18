@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x28A27ba716d306c842a4b5dA20a42e1d4D1E8d6b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BitUp is the first automatic rebasing token on Binance Smart Chain that is programed to keep the chart constantly in a uptrend and also provides Bitcoin rewards to holders!"
+  },
+  "id": "8f8d49a4-9827-4445-bfca-33def937661b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x28A27ba716d306c842a4b5dA20a42e1d4D1E8d6b",
+    "website": "https://bitup.finance/",
+    "telegram": "https://t.me/BitUP_Official",
+    "twitter": "https://twitter.com/bitupbsc",
+    "discord": "https://discord.com/XzJapnwF"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x28A27ba716d306c842a4b5dA20a42e1d4D1E8d6b/logo.png"
+  },
+  "name": "BitUp",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BITUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

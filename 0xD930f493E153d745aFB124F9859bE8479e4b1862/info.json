@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD930f493E153d745aFB124F9859bE8479e4b1862",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Spaceman is a fairly propelled DeFi Token."
+  },
+  "id": "81990dcf-2319-481e-a527-360763086b17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD930f493E153d745aFB124F9859bE8479e4b1862",
+    "website": "https://www.spaceman.lol/",
+    "github": "https://github.com/syllena/spaceman-lol",
+    "twitter": "https://twitter.com/spaceman_lol",
+    "telegram": "https://t.me/joinchat/REDAvsM_ZAM3MmQ0",
+    "discord": "https://discord.com/invite/xEAzmzMZ",
+    "reddit": "https://reddit.com/user/spaceman_lol",
+    "medium": "https://spaceman-lol.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD930f493E153d745aFB124F9859bE8479e4b1862/logo.png"
+  },
+  "name": "Spaceman LOL Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SML",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

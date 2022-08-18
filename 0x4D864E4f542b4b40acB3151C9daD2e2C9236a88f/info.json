@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4D864E4f542b4b40acB3151C9daD2e2C9236a88f",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Token X is a peer to peer medium of exchange issued by XIXO, will be an initial exchange offering with a limited quantity that aims to become a tool to pay for all kinds of goods and services in the field of real estate, construction and industry as well as other platforms of XIXO"
+  },
+  "id": "234dcbee-cb1d-483c-85ef-4f54f9aad269",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4D864E4f542b4b40acB3151C9daD2e2C9236a88f",
+    "website": "https://xixochain.com/",
+    "twitter": "https://twitter.com/xixo_ecosystem",
+    "whitepaper": "https://bit.ly/3yr0WlA",
+    "github": "https://github.com/Xixo-EcoSystem",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/token-tkx/",
+    "coingecko": "https://coingecko.com/en/coins/token-tkx"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4D864E4f542b4b40acB3151C9daD2e2C9236a88f/logo.png"
+  },
+  "name": "Token X",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TKX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

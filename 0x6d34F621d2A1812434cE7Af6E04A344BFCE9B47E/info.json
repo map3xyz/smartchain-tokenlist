@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Peppa Network is an innovative new cryptocurrency designed by enthusiasts for blockchain technology and children’s development.Our goal is to aid thedevelopment of the next generation, and to help parentsincentivise good behaviour. Participation in Peppa world will help users’ development in planning and application, while also engaging the imagination through a well-known character."
+  },
+  "id": "124bbde8-af79-4865-a8d3-19d33ac7f3f4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E",
+    "website": "https://peppa.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6d34F621d2A1812434cE7Af6E04A344BFCE9B47E/logo.png"
+  },
+  "name": "Peppa Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEPPA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

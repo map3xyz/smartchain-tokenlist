@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross-chain liquidity mirror protocol"
+  },
+  "id": "5ed79e0d-ff0a-4090-b189-fc33b38eaf29",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "website": "https://pontoon.fi/",
+    "twitter": "https://twitter.com/pontoonfi/",
+    "telegram": "https://t.me/pontoon_fi",
+    "medium": "https://pontoonfi.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png"
+  },
+  "name": "PontoonToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

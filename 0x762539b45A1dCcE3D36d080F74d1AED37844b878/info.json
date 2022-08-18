@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Linear Finance is a cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity"
+  },
+  "id": "134e4ae7-0118-4a2c-a14a-7d5279a94658",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x762539b45a1dcce3d36d080f74d1aed37844b878",
+    "website": "https://linear.finance",
+    "github": "https://github.com/Linear-finance/linear",
+    "twitter": "https://twitter.com/LinearFinance",
+    "telegram": "https://t.me/linearfinanceofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/linear/",
+    "coingecko": "https://coingecko.com/en/coins/linear-bsc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x762539b45A1dCcE3D36d080F74d1AED37844b878/logo.png"
+  },
+  "name": "LINA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LINA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

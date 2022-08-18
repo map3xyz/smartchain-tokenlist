@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PUBE is a community run project focused on helping the homeless and various cancer organizations."
+  },
+  "id": "66d3eecd-c57e-4013-a7ac-55a2deb08e8b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+    "website": "https://pube.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4/logo.png"
+  },
+  "name": "PUBE Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PUBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

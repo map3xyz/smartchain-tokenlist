@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped DOT"
+  },
+  "id": "b7d63347-bda5-46d6-a3e2-cfba0c466eb6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e2d99b3b4854e741dc6ada101937a1a3aab861e",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e/logo.png"
+  },
+  "name": "FEG Wrapped DOT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fDOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

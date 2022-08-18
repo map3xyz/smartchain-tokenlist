@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfAF9Cc03C9855777FB56D02bC2Bcb9d57e0755DE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Token to provide solutions to Professional gamers and content creators in the gaming industry."
+  },
+  "id": "853c7f5c-c483-484e-accc-dc867866be50",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfAF9Cc03C9855777FB56D02bC2Bcb9d57e0755DE",
+    "website": "https://www.urgaming.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfAF9Cc03C9855777FB56D02bC2Bcb9d57e0755DE/logo.png"
+  },
+  "name": "Urgaming",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "URG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

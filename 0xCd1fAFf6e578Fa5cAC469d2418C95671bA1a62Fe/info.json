@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Torum is a SocialFi ecosystem (Social + NFT + DeFi + Metaverse) that is specially designed to connect cryptocurrency users"
+  },
+  "id": "7b3fbf66-2994-49ff-b7f0-7e89bdf1c95f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
+    "website": "https://intro.torum.com",
+    "twitter": "https://twitter.com/torum_official/",
+    "telegram": "https://t.me/torum_official_group_en",
+    "telegramNews": "https://t.me/torum_official",
+    "discord": "https://discord.com/torum",
+    "reddit": "https://reddit.com/torumtech/",
+    "whitepaper": "https://whitepaper.s3.us-east-2.amazonaws.com/torum-whitepaper-V4.0-EN.pdf",
+    "medium": "https://medium.com/torum-official",
+    "facebook": "https://facebook.com/torum.official/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/torum/",
+    "coingecko": "https://coingecko.com/coins/torum"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe/logo.png"
+  },
+  "name": "Torum",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XTM",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x432C7cf1dE2b97a013f1130f199ed9d1363215BA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoGuards is 3rd project of CryptoCity Metaverse"
+  },
+  "id": "99657709-a631-476b-a7c6-8d2e86c21f4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA",
+    "website": "https://cryptoguards.me/",
+    "twitter": "https://twitter.com/CryptoGuardsNFT",
+    "github": "https://github.com/cryptocitymetaverse/cryptoguards",
+    "telegram": "https://t.me/CryptoGuardsChannel",
+    "discord": "https://discord.com/cryptoguardsNFT",
+    "whitepaper": "https://whitepaper.cryptoguards.me/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptoguards/",
+    "coingecko": "https://coingecko.com/en/coins/cryptoguards"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA/logo.png"
+  },
+  "name": "CryptoGuards",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CGAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

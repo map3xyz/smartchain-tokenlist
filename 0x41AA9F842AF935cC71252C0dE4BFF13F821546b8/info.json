@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x41AA9F842AF935cC71252C0dE4BFF13F821546b8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first Social Farming Project on BSC"
+  },
+  "id": "e36a5fc0-f3f7-4653-9ce9-60c3cea8749a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x41AA9F842AF935cC71252C0dE4BFF13F821546b8",
+    "website": "https://tea-swap-app.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x41AA9F842AF935cC71252C0dE4BFF13F821546b8/logo.png"
+  },
+  "name": "SUGAR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUGAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

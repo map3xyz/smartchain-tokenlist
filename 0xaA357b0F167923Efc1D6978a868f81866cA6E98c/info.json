@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "SHIBX is the first Rebase token which passively rewards Binance Pegged $SHIB INU for holding the token. This Rebase tokens also known as elastic supply is a new contract function that has has taken the BSC network by storm."
+  },
+  "id": "30c2132e-aabc-4076-8fc0-f6e95436f56b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
+    "website": "https://shibxbsc.com/",
+    "twitter": "https://twitter.com/ShibXOfficial",
+    "telegram": "https://t.me/Shib_X",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibx/",
+    "coingecko": "https://coingecko.com/en/coins/shibx/",
+    "discord": "https://discord.com/invite/rgG7yEse",
+    "whitepaper": "https://shibxbsc.com/wp-content/uploads/2021/10/SHIBX-WHITEPAPER-1.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaA357b0F167923Efc1D6978a868f81866cA6E98c/logo.png"
+  },
+  "name": "ShibX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$ShibX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

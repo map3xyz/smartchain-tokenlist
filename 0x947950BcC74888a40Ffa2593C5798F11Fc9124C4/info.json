@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics."
+  },
+  "id": "9e6e1db4-8305-4d6e-86b3-a9f2e65f6daa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "research": "https://research.binance.com/en/projects/sushi",
+    "website": "https://sushiswap.fi",
+    "github": "https://github.com/sushiswap",
+    "twitter": "https://twitter.com/sushiswap",
+    "blog": "https://medium.com/sushiswap",
+    "coingecko": "https://coingecko.com/en/coins/sushiswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4/logo.png"
+  },
+  "name": "Sushi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUSHI",
+  "tags": [
+    "defi",
+    "governance",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

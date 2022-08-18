@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x52dCF5BEdc061604D8C592B0079A0FF2ceA22eB7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AXO is a meme-innovative Token Driven by community attention ."
+  },
+  "id": "89e98df0-4169-48ff-a095-30ee4a7d01f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52dCF5BEdc061604D8C592B0079A0FF2ceA22eB7",
+    "website": "https://Axolotl-Finance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x52dCF5BEdc061604D8C592B0079A0FF2ceA22eB7/logo.png"
+  },
+  "name": "Axolotl Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AXO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

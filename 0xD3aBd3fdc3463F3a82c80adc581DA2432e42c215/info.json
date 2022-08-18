@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Golden Shiba Inu. Projects built on the foundation of community involvement are the untamed wilderness of our future."
+  },
+  "id": "ba866596-7185-4d47-a7b6-20503d083cb1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215",
+    "website": "https://goldenshibainu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD3aBd3fdc3463F3a82c80adc581DA2432e42c215/logo.png"
+  },
+  "name": "Golden Shiba Inu Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOLDEN INU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x016C285d5b918B92aa85EF1e147498BADfe30d69",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "100xCoin is a deflationary currency with an liquidity generation protocol built by influencer Ken the Crypto on the Binance Smart Chain. "
+  },
+  "id": "8f28057a-3fd9-466c-8ac5-cbc43f0b22bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x016c285d5b918b92aa85ef1e147498badfe30d69",
+    "website": "http://100xCoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x016C285d5b918B92aa85EF1e147498BADfe30d69/logo.png"
+  },
+  "name": "100xCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "100x",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

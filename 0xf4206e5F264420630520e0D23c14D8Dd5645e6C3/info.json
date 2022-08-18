@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf4206e5F264420630520e0D23c14D8Dd5645e6C3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Innovative, decentralized yield farming token which automatically rewards both BNB and LUNAR goal is to create DEX tools such as limit buys/sells, stop loss/take profit, a liquidity sniper, and similar tools on top on pancakeswap."
+  },
+  "id": "2895074d-5896-4290-8aa0-d0fcaf057b6d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf4206e5F264420630520e0D23c14D8Dd5645e6C3",
+    "website": "https://lunarswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf4206e5F264420630520e0D23c14D8Dd5645e6C3/logo.png"
+  },
+  "name": "Lunar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LUNAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3048144676Ea683bF670392971e569d9511015eb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralizing the U.S dollar to create the worlds favourite USD stable token."
+  },
+  "id": "f7b50f81-20e1-426b-adc5-cc447eb55bc4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3048144676ea683bf670392971e569d9511015eb",
+    "website": "https://fusd.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3048144676Ea683bF670392971e569d9511015eb/logo.png"
+  },
+  "name": "FUSD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

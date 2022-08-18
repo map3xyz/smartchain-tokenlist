@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ken Inu ($KENU) is a decentralized, peer-to-peer, MEME digital currency, developing a community-driven ecosystem based on it’s native BSC token."
+  },
+  "id": "ac3daa9f-422d-44ab-8821-fa6568be0b07",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778",
+    "website": "https://keninu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778/logo.png"
+  },
+  "name": "Ken-Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KENU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

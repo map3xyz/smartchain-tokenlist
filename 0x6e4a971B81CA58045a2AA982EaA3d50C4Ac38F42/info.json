@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bridge Oracle System is a technology through which external data can be injected."
+  },
+  "id": "6b1742af-a45a-4f83-a15d-4668a1a1b421",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+    "website": "https://bridge.link",
+    "twitter": "https://twitter.com/bridge_oracle",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bridge-oracle/",
+    "discord": "https://discord.com/invite/brg",
+    "coingecko": "https://coingecko.com/coins/bridge-oracle/",
+    "telegram": "https://t.me/Bridge_Oracle",
+    "github": "https://github.com/BridgeOracle",
+    "whitepaper": "https://bridge.link/BRG-Whitepaper.pdf",
+    "medium": "https://medium.com/@bridge_oracle"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42/logo.png"
+  },
+  "name": "Bridge Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BRG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

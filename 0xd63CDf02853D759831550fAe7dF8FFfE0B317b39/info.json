@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "f8f4c246-d828-4a5e-bf75-90b4aa8f653e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd63CDf02853D759831550fAe7dF8FFfE0B317b39",
+    "website": "https://projectserum.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd63CDf02853D759831550fAe7dF8FFfE0B317b39/logo.png"
+  },
+  "name": "Serum (Portal from Ethereum)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SRMet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

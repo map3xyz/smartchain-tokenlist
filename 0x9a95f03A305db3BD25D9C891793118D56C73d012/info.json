@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x9a95f03A305db3BD25D9C891793118D56C73d012",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Shiba Monk's purpose is to create a platform devoted to teaching people mindfulness. By teaching people to take care of their minds, we can improve their mental health and create a better world for everyone."
+  },
+  "id": "455b8350-82a4-4480-847a-ec429bd06cfd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9a95f03A305db3BD25D9C891793118D56C73d012",
+    "website": "https://shibamonk.com/",
+    "twitter": "https://twitter.com/shiba_monk",
+    "telegram": "https://t.me/shiba_monk",
+    "github": "https://github.com/SHIBAMONK/shibamonk",
+    "forum": "https://bitcointalk.org/index.php?topic=5370041",
+    "discord": "https://discord.com/invite/swQFMMsJ",
+    "reddit": "https://reddit.com/r/shibamonk",
+    "whitepaper": "https://emily-9.gitbook.io/shiba-monk-whitepaper/",
+    "medium": "https://medium.com/@shibamonk",
+    "facebook": "https://facebook.com/shibamonk",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiba-monk/",
+    "coingecko": "https://coingecko.com/en/coins/shiba-monk",
+    "sourceCode": "https://bscscan.com/address/0x9a95f03a305db3bd25d9c891793118d56c73d012#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9a95f03A305db3BD25D9C891793118D56C73d012/logo.png"
+  },
+  "name": "Shiba Monk",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBAMONK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x47FdfeA2c5741Acd7Be0377029D6C507154D86B9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeETH is an autonomous yield and liquidly generation protocol."
+  },
+  "id": "fe219b9e-bd71-4f75-b878-737c6ecc9f93",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47FdfeA2c5741Acd7Be0377029D6C507154D86B9",
+    "website": "https://safeethbsc.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x47FdfeA2c5741Acd7Be0377029D6C507154D86B9/logo.png"
+  },
+  "name": "SafeETH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

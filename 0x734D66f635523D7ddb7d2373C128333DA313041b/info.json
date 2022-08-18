@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x734D66f635523D7ddb7d2373C128333DA313041b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token."
+  },
+  "id": "f71f4e5f-2b6a-4891-920b-79d5fbf99ad2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x734D66f635523D7ddb7d2373C128333DA313041b",
+    "website": "https://zedxion.io/",
+    "twitter": "https://twitter.com/zedxionc",
+    "telegram": "https://t.me/zedxion",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usdz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x734D66f635523D7ddb7d2373C128333DA313041b/logo.png"
+  },
+  "name": "ZEDXION",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDZ",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

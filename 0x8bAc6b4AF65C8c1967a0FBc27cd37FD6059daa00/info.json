@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8bAc6b4AF65C8c1967a0FBc27cd37FD6059daa00",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sphynx Network is aiming to improve the fundamental nature of DeFi by using alchemy in blockchain technology to comply with the next generation of yield farming and liquidity mining by implementing the NFT stake."
+  },
+  "id": "e11f8e21-09b0-47fb-9c9f-4b728e6acdb1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8bAc6b4AF65C8c1967a0FBc27cd37FD6059daa00",
+    "website": "https://sphynx.network",
+    "github": "https://github.com/SphynxNetworkGitHub",
+    "twitter": "https://twitter.com/SphynxNetwork",
+    "medium": "https://sphynx-network.medium.com/",
+    "telegram": "https://t.me/sphynxnetwork",
+    "coingecko": "https://coingecko.com/en/coins/sphynx-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sphynx-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8bAc6b4AF65C8c1967a0FBc27cd37FD6059daa00/logo.png"
+  },
+  "name": "Sphynx Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

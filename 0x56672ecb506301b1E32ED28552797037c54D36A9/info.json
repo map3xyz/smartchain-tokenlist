@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x56672ecb506301b1E32ED28552797037c54D36A9",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "wBIS is a BEP-20 BSC Token with 1:1 native BIS counterpart."
+  },
+  "id": "cafb30a2-9aba-4e54-9e27-da92a3d62384",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x56672ecb506301b1E32ED28552797037c54D36A9",
+    "website": "https://bismuth.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x56672ecb506301b1E32ED28552797037c54D36A9/logo.png"
+  },
+  "name": "Wrapped BIS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wBIS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Charity coin with a 10% tax- 4% sent to a charity address for Testicular and Prostate Research, 3% sent to all holders via reflection, and 3% added to the liquidity."
+  },
+  "id": "c61ab2ea-c5a6-47ad-99d3-8187543ec0e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+    "website": "https://www.deeznutscoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x01921A94e68F8D54F33C5D6f71d6664C35e33269/logo.png"
+  },
+  "name": "Deez Nuts",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEEZNUTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

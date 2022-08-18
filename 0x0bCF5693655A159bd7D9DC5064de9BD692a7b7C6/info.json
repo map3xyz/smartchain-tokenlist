@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0bCF5693655A159bd7D9DC5064de9BD692a7b7C6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Replace with old Contract 0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62, Reason (Compromise Private Key)"
+  },
+  "id": "e2091344-cfac-4ac3-bf2e-5c2487954316",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0bCF5693655A159bd7D9DC5064de9BD692a7b7C6",
+    "website": "https://bighbull.com/",
+    "twitter": "https://twitter.com/BIGHBULL1",
+    "facebook": "https://facebook.com/bighbullofficial",
+    "youtube": "https://youtube.com/channel/UCt_MNyjP4Q0ZbuWUpGHWweA",
+    "github": "https://github.com/BighBullTech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0bCF5693655A159bd7D9DC5064de9BD692a7b7C6/logo.png"
+  },
+  "name": "BIGH BULL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIGB",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

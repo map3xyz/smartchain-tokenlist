@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3B4443F97B37A6Ef864c3f0f1632E366B4f1d20f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$RICH is revolutionizing the Defi Token industry with a proprietary Luxury Tax model designed to reward holders by generating exponential growth through the highest static reward system on the market."
+  },
+  "id": "2dbb946b-38d5-4ff0-a2da-dca695802e8b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B4443F97B37A6Ef864c3f0f1632E366B4f1d20f",
+    "website": "https://www.richierichcoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3B4443F97B37A6Ef864c3f0f1632E366B4f1d20f/logo.png"
+  },
+  "name": "RichieRich Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RICH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "τBitcoin is a synthetic Bitcoin supported by some of the largest miners in the world. Implementing the τ protocol, τBitcoin shows superior capital efficiency and composability for DeFi uses."
+  },
+  "id": "4f209413-7220-47d2-9fb5-ae681cde5548",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
+    "website": "https://btcst.finance/",
+    "github": "https://github.com/Standard-Hashrate-Groupastronauttoken",
+    "whitepaper": "https://www.btcst.finance/static/Tau-Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c/logo.png"
+  },
+  "name": "τBitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "τBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

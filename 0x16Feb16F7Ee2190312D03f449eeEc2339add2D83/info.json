@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x16Feb16F7Ee2190312D03f449eeEc2339add2D83",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Frictionless Yield Generation, Community Driven Protocol."
+  },
+  "id": "4b30e8e7-8213-408b-9e56-423823d0ec5f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16Feb16F7Ee2190312D03f449eeEc2339add2D83",
+    "website": "https://safeuniverse.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x16Feb16F7Ee2190312D03f449eeEc2339add2D83/logo.png"
+  },
+  "name": "SafeUniverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFU",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

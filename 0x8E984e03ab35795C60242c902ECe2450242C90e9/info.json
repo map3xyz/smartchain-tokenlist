@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x8E984e03ab35795C60242c902ECe2450242C90e9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Key to the African Economic Revolution"
+  },
+  "id": "16a4ad53-5621-4eaa-8b63-01f1a372c71d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8E984e03ab35795C60242c902ECe2450242C90e9",
+    "website": "https://www.kampay.io",
+    "youtube": "https://youtube.com/channel/UCpknNVgAtnOv7v61tf1Lalw",
+    "twitter": "https://twitter.com/KamPayToken",
+    "github": "https://github.com/Kampay-io/token",
+    "whitepaper": "https://assets.website-files.com/61225286ea7a95b66ebd8987/613a6b9289b7b53cea6d6c7f_White%20Paper%2009092021.pdf",
+    "telegram": "https://t.me/KamPayOfficial",
+    "facebook": "https://facebook.com/KamPayToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kampay/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8E984e03ab35795C60242c902ECe2450242C90e9/logo.png"
+  },
+  "name": "Kampay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAMPAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

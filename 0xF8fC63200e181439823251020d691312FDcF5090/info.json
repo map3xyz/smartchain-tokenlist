@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF8fC63200e181439823251020d691312FDcF5090",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ExzoCoin 2.0 (EXZO) is a utility token that will be utilized on our decentralized exchange mobile application"
+  },
+  "id": "dacf0850-6cf5-449a-b02a-1c16bc5e1a72",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF8fC63200e181439823251020d691312FDcF5090",
+    "website": "https://exzocoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF8fC63200e181439823251020d691312FDcF5090/logo.png"
+  },
+  "name": "Exzocoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EXZO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

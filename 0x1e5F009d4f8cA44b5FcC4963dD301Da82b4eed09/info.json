@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zabaku Inu is one of the first fully-decentralized and deflationary token that unites every MEME lovers"
+  },
+  "id": "cc68162d-2bc3-4a87-8a85-9a4cbaf4e12a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
+    "website": "https://zabakuinu.herokuapp.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09/logo.png"
+  },
+  "name": "Zabaku Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZABAKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xe2e6e66551E5062Acd56925B48bBa981696CcCC2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeVault is the first 25.65% auto-reimbursing, BUSD rewarding token. It's Hyper-Deflationary & Self-Sustaining. The Vault team is proud to bring an unprecedented vision to the DeFi space."
+  },
+  "id": "763d8902-04d4-444f-a890-69d9ec8cb531",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe2e6e66551e5062acd56925b48bba981696cccc2",
+    "website": "https://vaultdefi.com",
+    "blog": "https://vaultdefi.com",
+    "twitter": "https://twitter.com/vaultdefi",
+    "facebook": "https://facebook.com/vaultdefiofficial",
+    "telegram": "https://t.me/vault_defi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe2e6e66551E5062Acd56925B48bBa981696CcCC2/logo.png"
+  },
+  "name": "SafeVault",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VAULT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

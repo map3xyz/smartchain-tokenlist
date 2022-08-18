@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x01eaedd1BC5F8198D174532Aa13BA150653E0E11",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$ONE aims to become the most decentralized BSC token.Through the usage of cutting-edge technology mechanisms, 10% of $ONE total supply will be distributed among BSC active users.Our goal is to spread $ONE philosophy by gaining trustworthy holders through the fair distribution of the token."
+  },
+  "id": "a5b9386f-c4ce-42bb-be8b-a42819484b61",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01eaedd1BC5F8198D174532Aa13BA150653E0E11",
+    "website": "https://onetoken.live"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x01eaedd1BC5F8198D174532Aa13BA150653E0E11/logo.png"
+  },
+  "name": "One Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "With Light DeFi, the currency will not depend so much on buying strength and selling strength. There will be external liquidity that will provide an automatic valuation of the asset."
+  },
+  "id": "93769f31-665e-4b7e-a347-119bb7b39c83",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
+    "website": "https://lightdefi.org/",
+    "twitter": "https://twitter.com/Light_DeFi",
+    "telegram": "https://t.me/grupolight",
+    "github": "https://bscscan.com/address/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98/logo.png"
+  },
+  "name": "Light DeFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIGHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

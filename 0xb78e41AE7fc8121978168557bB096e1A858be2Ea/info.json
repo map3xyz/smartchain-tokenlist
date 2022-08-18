@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MicroSHIBA is a brand new token from a very experienced team that has implemented a manual buy back system to help protect investors maintain a steady market price in the event of a whale dump or continuous market sells."
+  },
+  "id": "0e184476-fa17-493a-9587-b66ae834af08",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
+    "website": "https://www.microshiba.net/",
+    "telegram": "https://t.me/MicroshibaEN",
+    "twitter": "https://twitter.com/MicroShibaBSC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/microshib/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb78e41AE7fc8121978168557bB096e1A858be2Ea/logo.png"
+  },
+  "name": "MicroSHIBA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MICROSHIB",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

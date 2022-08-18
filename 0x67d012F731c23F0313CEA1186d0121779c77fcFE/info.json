@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "APOyield is a deflationary friction less yield product with it's own token called SOUL. Initially the number of SOUL tokens is equal to the number of citizens of earth. With every transaction 2% of the SOULS gets condemned forever and lost in hell. Yet another 8% gets another chance of survival in a shattered form in wallets of all remaining holders."
+  },
+  "id": "184cbe07-0c2e-4a24-b466-aa8b3156df91",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x67d012F731c23F0313CEA1186d0121779c77fcFE",
+    "website": "https://apoyield.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x67d012F731c23F0313CEA1186d0121779c77fcFE/logo.png"
+  },
+  "name": "APOyield SOULS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOUL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

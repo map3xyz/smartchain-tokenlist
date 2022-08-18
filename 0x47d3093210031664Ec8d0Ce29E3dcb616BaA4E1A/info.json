@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Xcell is a defi protocol powered by binance smart chain"
+  },
+  "id": "77e777c0-31a4-49c5-ba6f-7b5f28145d33",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A",
+    "website": "https://xcellfinance.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A/logo.png"
+  },
+  "name": "XCell Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCELL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

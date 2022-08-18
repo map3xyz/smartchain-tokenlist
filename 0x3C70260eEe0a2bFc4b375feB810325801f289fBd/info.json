@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3C70260eEe0a2bFc4b375feB810325801f289fBd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Omni Consumer Protocols aims to be the first DeFi DAO conglomerate with multiple interlinked protocols under the same family. This architecture from the outset allows our community to benefit not only from the underlying protocols, but the overall DAO as well"
+  },
+  "id": "d9abbefe-e3b5-410f-b915-bca28dd7da87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3C70260eEe0a2bFc4b375feB810325801f289fBd",
+    "website": "https://OCP.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3C70260eEe0a2bFc4b375feB810325801f289fBd/logo.png"
+  },
+  "name": "Omni Consumer Protocols",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

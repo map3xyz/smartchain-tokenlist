@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x016CF83732f1468150D87dCC5BdF67730B3934D3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AirNFTs is NFT marketplace built on Binance Smart Chain where you can Create, Buy and Sell NFTs"
+  },
+  "id": "16b69c1a-af8a-4092-9258-01e212b71d2b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x016cf83732f1468150d87dcc5bdf67730b3934d3",
+    "website": "http://airnfts.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x016CF83732f1468150D87dCC5BdF67730B3934D3/logo.png"
+  },
+  "name": "AirNFT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

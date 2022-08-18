@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1529642Cd0075d3DA049aA43005fdfaBCa54a070",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby CateCoin is a meme token that will have utility (e.g. Baby Cate Coin Swap, NFT Marketplace, Merch Shop, Wallet and P2E). It has a very strong community and a very hard working team that has a sole goal to make this successful."
+  },
+  "id": "23f9e017-0bad-4708-b0c8-00ce12583ee4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1529642Cd0075d3DA049aA43005fdfaBCa54a070",
+    "website": "https://babycatecoin.net/",
+    "twitter": "https://twitter.com/catecoinbaby",
+    "telegram": "https://t.me/BabyCate",
+    "discord": "https://discord.com/invite/Qc9eH4F3",
+    "reddit": "https://reddit.com/babycatecoin",
+    "whitepaper": "https://babycatecoin.net/wp-content/uploads/2021/11/WHITEPAPER-finalz.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1529642Cd0075d3DA049aA43005fdfaBCa54a070/logo.png"
+  },
+  "name": "Baby CateCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyCATE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

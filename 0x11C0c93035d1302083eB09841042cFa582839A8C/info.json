@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x11C0c93035d1302083eB09841042cFa582839A8C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Kaiken Shiba is not only hyper-deflationary with a built-in smart betting system to reward holders, but also helps save dogs that are in need."
+  },
+  "id": "18aed394-2e4e-4919-b9d8-4efdd203c771",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11C0c93035d1302083eB09841042cFa582839A8C",
+    "website": "https://kaikenshiba.com/",
+    "telegram": "https://t.me/KaiKenShiba_Chat",
+    "twitter": "https://twitter.com/KaikenShiba",
+    "github": "https://github.com/KaiKenShiba",
+    "reddit": "https://reddit.com/user/KaikenShiba",
+    "youtube": "https://youtube.com/channel/UC5Wchz1uKKWHnEVGU7AWagw"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x11C0c93035d1302083eB09841042cFa582839A8C/logo.png"
+  },
+  "name": "Kaiken Shiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

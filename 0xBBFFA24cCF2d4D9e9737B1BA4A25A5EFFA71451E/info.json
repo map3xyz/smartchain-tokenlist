@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBBFFA24cCF2d4D9e9737B1BA4A25A5EFFA71451E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tech Earnbd is a platform currency representing value and wealth in the decentralized economy used for the exchange of values between BDT!"
+  },
+  "id": "9f15988d-9750-4f46-b4dd-10c3764e987d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbbffa24ccf2d4d9e9737b1ba4a25a5effa71451e",
+    "website": "http://techearnbd.info",
+    "github": "https://github.com/Techearnbdt",
+    "twitter": "https://twitter.com/Techearnbdt",
+    "reddit": "https://reddit.com/user/Techearnbd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBBFFA24cCF2d4D9e9737B1BA4A25A5EFFA71451E/logo.png"
+  },
+  "name": "Tech Earnbd",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4cDa4daAd72340B28925cCd6fA78db631267D3C4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Auto yield and liquidity generation protocol"
+  },
+  "id": "72b61354-e5b0-46f8-9f41-23b3876ea5d9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4cDa4daAd72340B28925cCd6fA78db631267D3C4",
+    "website": "https://babydogecash.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4cDa4daAd72340B28925cCd6fA78db631267D3C4/logo.png"
+  },
+  "name": "BabyDogeCash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyDogeCash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

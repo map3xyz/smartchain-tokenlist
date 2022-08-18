@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2e42C9EAc96833C6e16Dc71c743cECC114CCD7e3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The metacash project is referred to the world of the metaverse and virtual reality, through creating a large community of more than 3000 members."
+  },
+  "id": "a017266e-c4f1-4ef5-b14c-6e9eed8c987e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2e42C9EAc96833C6e16Dc71c743cECC114CCD7e3",
+    "website": "https://metacashbsc.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metacash/",
+    "twitter": "https://twitter.com/MetaCashBSC",
+    "telegram": "https://t.me/MetaCash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2e42C9EAc96833C6e16Dc71c743cECC114CCD7e3/logo.png"
+  },
+  "name": "MetaCash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "META",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

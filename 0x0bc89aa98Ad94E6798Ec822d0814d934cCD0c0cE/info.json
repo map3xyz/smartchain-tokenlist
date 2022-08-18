@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BATH is the token that drives the Battle Hero economy, with it you can buy chests, use the marketplace, upgrade rarities and many other things."
+  },
+  "id": "b566c378-07f1-4b54-95b1-12607f92b4e1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+    "website": "https://battlehero.io/",
+    "twitter": "https://twitter.com/battleheronft",
+    "telegram": "https://t.me/battlehero_official",
+    "reddit": "https://reddit.com/r/battleheronft/",
+    "youtube": "https://youtube.com/channel/battleheronft",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/battle-hero/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE/logo.png"
+  },
+  "name": "Battle Hero",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BATH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

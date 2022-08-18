@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5EC8B32Ff33f8df977402F44602A59998941d240",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Lazaca® aims to be the 1st leader in the Digital Asset Marketplace."
+  },
+  "id": "cd4abdf7-b8d3-486f-8cce-f69fe2a82cbf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5EC8B32Ff33f8df977402F44602A59998941d240",
+    "website": "https://lazaca.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5EC8B32Ff33f8df977402F44602A59998941d240/logo.png"
+  },
+  "name": "LAZACA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LACA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The CAKEBANK protocol is a community inspired DeFi experiment built on Binance. every buy/sell is taken and redistributed to all holders. Hold CAKEBANK tokens, earn CAKE."
+  },
+  "id": "7e927204-c28e-4304-af17-79fa3f690492",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78",
+    "website": "https://cakebank.finance",
+    "twitter": "https://twitter.com/cakebank_bsc",
+    "github": "https://github.com/cakebank",
+    "telegram": "https://t.me/cakebank_bsc",
+    "medium": "https://medium.com/@cakebank",
+    "whitepaper": "https://cakebank.finance/assets/WhitePaper_v2.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cake-bank/",
+    "coingecko": "https://coingecko.com/en/coins/cake-bank",
+    "sourceCode": "https://bscscan.com/address/0x5f1b95784a033cd6842cf26eb9a9687f91ad9e78#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78/logo.png"
+  },
+  "name": "CAKE BANK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAKEBANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

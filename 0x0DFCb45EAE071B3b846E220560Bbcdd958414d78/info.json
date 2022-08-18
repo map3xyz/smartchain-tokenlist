@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Libero Finance is transforming DeFi with the Libero Autostaking Protocol (LAP) that delivers the industry’s fixed APY, compounding rewards every 30 minutes, and a simple buy-hold-earn system that grows Investors' portfolio in their wallet fast with fixed interest of 2.02% per day or 158,893.59% a year without having to do anything"
+  },
+  "id": "19c02ecf-686e-4404-8bd5-0fc875ac92ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
+    "website": "https://libero.financial/",
+    "twitter": "https://twitter.com/LiberoFinancial",
+    "telegram": "https://t.me/liberoofficialgroup",
+    "docs": "https://docs.libero.financial/",
+    "medium": "https://liberofinancial.medium.com/",
+    "youtube": "https://youtube.com/channel/UCkuCIjs-w5EpMlb9WGB4Lug",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/libero-financial/",
+    "github": "https://github.com/liberofinancial/LiberoFinancial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0DFCb45EAE071B3b846E220560Bbcdd958414d78/logo.png"
+  },
+  "name": "Libero Financial Freedom (LIBERO)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIBERO",
+  "tags": [
+    "defi",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF41D6F9680ea216aad62baa7101AF40FEe688046",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ComPro.Finaace, decentralized protocol for the synthetic assets."
+  },
+  "id": "4c6b4508-fae7-4f54-8cc5-e5492e24cded",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf41d6f9680ea216aad62baa7101af40fee688046",
+    "website": "https://defi.compro.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF41D6F9680ea216aad62baa7101AF40FEe688046/logo.png"
+  },
+  "name": "ComPro Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

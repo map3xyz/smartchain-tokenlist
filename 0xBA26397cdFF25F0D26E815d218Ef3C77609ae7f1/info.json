@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "High yields BSC farm brought by the Koalas. Earn LYPTUS through yield, then stake it in Pools to earn more tokens! Security first on Koala DeFi."
+  },
+  "id": "c7c5eba4-b8f0-48a8-bf15-8a9857b4a981",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xba26397cdff25f0d26e815d218ef3c77609ae7f1",
+    "research": "https://research.binance.com/",
+    "website": "https://koaladefi.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1/logo.png"
+  },
+  "name": "LYPTUS Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LYPTUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

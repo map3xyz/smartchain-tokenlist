@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Rangers Protocol, the future virtual world blockchain infrastructure, is fully compatible with Ethereum, professionally supports NFT and complex applications, and integrates and expands cross-chain, NFT, EVM, and distributed network protocols. It has created an innovative Rangers Engine to support the development of NFT and complex applications and a Rangers Connector to interconnector with various public chains and support asset cross-chain."
+  },
+  "id": "2ce85e0c-52b9-4ff3-bc6e-3fcbb0f19027",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+    "website": " https://rangersprotocol.com/",
+    "twitter": "https://twitter.com/rangersprotocol",
+    "telegram": "https://t.me/RangersProtocol",
+    "whitepaper": "https://www.rangersprotocol.com/pdf/RangersProtocolWhitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc2098a8938119A52B1F7661893c0153A6CB116d5/logo.png"
+  },
+  "name": "Rangers Protocol Gas(RPG)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RPG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

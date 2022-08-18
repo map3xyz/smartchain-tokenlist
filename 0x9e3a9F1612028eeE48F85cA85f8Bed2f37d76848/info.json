@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Quidax is an Africa-focused and globally accessible crypto exchange and the global home of BEP20 tokens."
+  },
+  "id": "ba366ea4-4f7b-4523-8dc4-95b4218a4132",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
+    "website": "https://quidax.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848/logo.png"
+  },
+  "name": "Quidax Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

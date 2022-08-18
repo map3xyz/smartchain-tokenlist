@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb358b0e5A8943029e66175830D85198fE6cC93f6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AIDI BSC is a deflationary BEP20 token, 100% decentralized, and is the main token in the Aidiverse ecosystem. We are bringing together complete decentralised finance solutions and integrating them with Blockchain gaming and NFTs."
+  },
+  "id": "b09662bd-8248-49a5-8041-4064f3f08c51",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb358b0e5a8943029e66175830d85198fe6cc93f6",
+    "website": "https://aidiverse.com",
+    "twitter": "https://twitter.com/AidiToken",
+    "github": "https://github.com/AidiFinance/Aidiverse-Contracts",
+    "telegram": "https://t.me/aidi_official",
+    "coingecko": "https://coingecko.com/en/coins/aidi-finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aidi-finance-bsc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb358b0e5A8943029e66175830D85198fE6cC93f6/logo.png"
+  },
+  "name": "Aidi Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

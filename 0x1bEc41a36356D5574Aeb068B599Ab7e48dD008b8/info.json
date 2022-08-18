@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DogeFood is a charity dog protection project. We are committed to making a dog charity organization to help every stray dog build their home.This project will gather: NFTs,gamefi, mining, swap concepts.We are building a strong community in the beginning of the DogeFood, finding more consensus in order to stabilize the team funding for further development of Dog charity."
+  },
+  "id": "8ea02887-049e-4877-b8f1-7481985f93e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8",
+    "website": "https://www.dogefoodbsc.com/",
+    "twitter": "https://twitter.com/dogefood_bsc",
+    "github": "https://github.com/Deepdarkforest",
+    "telegram": "https://t.me/DogefoodbscEN",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dogefood/",
+    "coingecko": "https://coingecko.com/en/coins/dogefood",
+    "sourceCode": "https://coingecko.com/en/coins/dogefood",
+    "reddit": "https://reddit.com/r/dogefoodbscofficial/",
+    "whitepaper": "https://github.com/Deepdarkforest/DogeFood-WhitePaper/blob/main/dogefood%20wp.pdf",
+    "medium": "https://medium.com/@Dogefood"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8/logo.png"
+  },
+  "name": "DOGEFOOD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEFOOD",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

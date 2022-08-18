@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4E84e47bBABD89835e2e9569d69A6d465DE38122",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Coin created to support babies with Sma"
+  },
+  "id": "008ce6eb-2f2c-4aaa-b001-d6b3dca862d9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4E84e47bBABD89835e2e9569d69A6d465DE38122",
+    "website": "https://sadbaby.org",
+    "twitter": "https://twitter.com/sadbabyglobal",
+    "telegramNews": "https://t.me/sadbabyglobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4E84e47bBABD89835e2e9569d69A6d465DE38122/logo.png"
+  },
+  "name": "Sadbaby",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SDBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x13969BbEEce18Da1354561E9B59Dc2937Ef5C95C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeSex is a token designed for safely interacting with adult performers"
+  },
+  "id": "294590c8-e681-4d9d-8d76-9acb2d8a69d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x13969bbeece18da1354561e9b59dc2937ef5c95c",
+    "website": "https://www.safesextoken.org",
+    "twitter": "https://twitter.com/Safesex_token/",
+    "telegram": "https://t.me/SafesextokenReal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x13969BbEEce18Da1354561E9B59Dc2937Ef5C95C/logo.png"
+  },
+  "name": "SafeSex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFESEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

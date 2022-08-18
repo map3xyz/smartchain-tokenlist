@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Anyswap aims to create a multi-platform cross-chain DEX using Fusion’s DCRM technology."
+  },
+  "id": "c6d4a977-8839-4ee8-af0d-de58313cfac8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
+    "website": "https://bsc.anyswap.exchange"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa/logo.png"
+  },
+  "name": "Anyswap-BEP20",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

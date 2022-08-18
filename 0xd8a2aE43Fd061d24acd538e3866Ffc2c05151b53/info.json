@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AIR is to mock the madness of the cryptocurrency market. AIR is everywhere, after buying AirCoin you get nothing but AIR."
+  },
+  "id": "ed21b3f8-b8ef-40e5-a023-68d1725d73ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
+    "website": "https://aircoin.cool",
+    "telegram": "https://t.me/aircoinreal",
+    "twitter": "https://twitter.com/Aircoinreal",
+    "github": "https://github.com/Aircoin-official",
+    "facebook": "https://facebook.com/aircoinreal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/air",
+    "coingecko": "https://coingecko.com/en/coins/aircoin",
+    "forum": "https://aircoin.community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53/logo.png"
+  },
+  "name": "AIR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x212fE6ACbd2083BA0fd7c13Bc57100Ce8bf52e75",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Join us for a safe way to the moon!"
+  },
+  "id": "37737082-38da-44f4-8d57-b2986070f242",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x212fE6ACbd2083BA0fd7c13Bc57100Ce8bf52e75",
+    "website": "https://www.safe-moon.tech/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x212fE6ACbd2083BA0fd7c13Bc57100Ce8bf52e75/logo.png"
+  },
+  "name": "SafeMoon.Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

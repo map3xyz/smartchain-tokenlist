@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ERTH Token is a deflationary BEP-20 Token that uses the reflection model to benefit charity & its holders. It also guarantees the project's longevity. We have a built-in mechanism to guarantee funding for charity & marketing."
+  },
+  "id": "710c0821-f44c-45ef-8255-66d80d536cfa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17",
+    "website": "https://erth.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17/logo.png"
+  },
+  "name": "Erth Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ERTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

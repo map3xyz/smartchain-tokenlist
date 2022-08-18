@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6E0fB6B19941FAf58982F09b33A9dceDa4377155",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Nero is decentralized finance, with the concept of auto staking and auto-create orphan liquidity and support for payments without fees"
+  },
+  "id": "0109771c-fb7f-48fa-bc27-13aed6294a48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6e0fb6b19941faf58982f09b33a9dceda4377155",
+    "website": "https://nero.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6E0fB6B19941FAf58982F09b33A9dceDa4377155/logo.png"
+  },
+  "name": "Nero Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

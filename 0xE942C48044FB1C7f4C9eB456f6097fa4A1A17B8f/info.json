@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Elvantis is a metaverse-inspired online NFT game that combines what you love about gaming with the addictive thrill of collectables. "
+  },
+  "id": "22c219bd-4b0b-417c-a128-54628f486a5c",
+  "links": {
+    "explorer": "Https://bscscan.com/token/0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f",
+    "website": "https://elvantis.com/",
+    "twitter": "https://twitter.com/ElvantisGame",
+    "discord": "https://discord.com/6YwurDbfRq",
+    "medium": "https://medium.com/@ElvantisOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/elvantis/",
+    "youtube": "https://youtube.com/channel/UCUmWgv0WmRMzC1yEFsn6vGQ",
+    "reddit": "https://reddit.com/user/ElvantisOfficial",
+    "telegram": "https://t.me/ELVANTIS"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f/logo.png"
+  },
+  "name": "Elvantis",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELV",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

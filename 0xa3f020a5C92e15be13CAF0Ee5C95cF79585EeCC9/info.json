@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aelf (ELF) is an enterprise-focused blockchain platform powered by cloud computing. Leveraging cloud nodes and parallel processing, Aelf is reportedly able to achieve secure transactions at scale for commercial use cases."
+  },
+  "id": "073261a7-c2ac-4bce-85f0-7cdfb3afcbac",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
+    "research": "https://research.binance.com/en/projects/aelf",
+    "website": "http://aelf.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9/logo.png"
+  },
+  "name": "aelf",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

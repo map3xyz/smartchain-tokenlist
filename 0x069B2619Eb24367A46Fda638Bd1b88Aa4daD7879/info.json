@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x069B2619Eb24367A46Fda638Bd1b88Aa4daD7879",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Every trade contributes toward automatically generating liquidity locked inside Pancakeswap LP."
+  },
+  "id": "282830d1-aa33-4b26-9766-a52be779bd80",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x069b2619eb24367a46fda638bd1b88aa4dad7879",
+    "website": "https://moondao.finance",
+    "twitter": "https://twitter.com/Moon_DAO_",
+    "telegram": "https://t.me/moon_dao"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x069B2619Eb24367A46Fda638Bd1b88Aa4daD7879/logo.png"
+  },
+  "name": "MoonDAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNDAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

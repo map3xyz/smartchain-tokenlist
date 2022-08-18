@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xAB844d316B5a5093b7e7EdDE11cc08BeCCA36d1C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Anubi is community driven token."
+  },
+  "id": "7dbf636a-46b5-42e0-ba08-e5f38b0f013b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAB844d316B5a5093b7e7EdDE11cc08BeCCA36d1C",
+    "website": "https://anubitoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAB844d316B5a5093b7e7EdDE11cc08BeCCA36d1C/logo.png"
+  },
+  "name": "Anubi Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANUBI",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

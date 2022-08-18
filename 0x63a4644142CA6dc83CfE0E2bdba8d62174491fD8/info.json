@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x63a4644142CA6dc83CfE0E2bdba8d62174491fD8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GAPT is a deflationary DeFi token with a passive yield mechanism. The smart contract takes a fee from every transaction of 0.5% which is dedicated to charity decided by the community"
+  },
+  "id": "591c7abc-ef92-40de-9ed2-db8382ad86e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x63a4644142ca6dc83cfe0e2bdba8d62174491fd8",
+    "website": "https://gapt.io/",
+    "twitter": "https://twitter.com/GaptToken",
+    "telegram": "https://t.me/GAPTCHAT",
+    "discord": "https://discord.com/invite/w5eEvK4aqy"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x63a4644142CA6dc83CfE0E2bdba8d62174491fD8/logo.png"
+  },
+  "name": "GAPTT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

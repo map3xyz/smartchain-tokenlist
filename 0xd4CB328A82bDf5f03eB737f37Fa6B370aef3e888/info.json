@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cream - Crypto Rules Everything Around Me"
+  },
+  "id": "d64532cb-6d1b-4d28-94c6-e1262d7dc6e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+    "website": "https://cream.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888/logo.png"
+  },
+  "name": "CREAM",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CREAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

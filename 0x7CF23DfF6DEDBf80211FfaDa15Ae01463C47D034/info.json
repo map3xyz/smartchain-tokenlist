@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7CF23DfF6DEDBf80211FfaDa15Ae01463C47D034",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Legion For Justice is a community-driven project built on Binance Smart Chain."
+  },
+  "id": "dd79ac33-d573-4c55-a106-d9d4491e188e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7cf23dff6dedbf80211ffada15ae01463c47d034",
+    "website": "https://legionforjustice.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7CF23DfF6DEDBf80211FfaDa15Ae01463C47D034/logo.png"
+  },
+  "name": "legion For Justice",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEGION",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

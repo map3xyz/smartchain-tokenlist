@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2ad7F18DcFA131e33411770A9c6c4fe49b187Bc2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaUFO is a decentralized gaming platform with play-to-earn elements, NFTs, its own NFT collection combined with an auto battler. MetaUFO is built on BSC."
+  },
+  "id": "5b070958-cafd-4059-8f6e-ee4b0f6ccbbb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2ad7F18DcFA131e33411770A9c6c4fe49b187Bc2",
+    "website": "http://metaufo.me/",
+    "telegram": "https://t.me/MetaUFO_Channel",
+    "twitter": "https://twitter.com/Meta_UFO",
+    "whitepaper": "https://link-bsc.gitbook.io/meta-ufo/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaufo/",
+    "github": "https://github.com/TechRate/Smart-Contract-Audits/blob/main/March/MetaUFO.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2ad7F18DcFA131e33411770A9c6c4fe49b187Bc2/logo.png"
+  },
+  "name": "MetaUFO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MetaUFO",
+  "tags": [
+    "governance",
+    "stablecoin",
+    "wrapped",
+    "synthetics",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

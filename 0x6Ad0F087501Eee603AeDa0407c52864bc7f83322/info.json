@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x6Ad0F087501Eee603AeDa0407c52864bc7f83322",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralized blockchain platform providing Face Nft for Metaverse"
+  },
+  "id": "9d96f847-bfa2-40a8-a39e-50d86fafa173",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6Ad0F087501Eee603AeDa0407c52864bc7f83322",
+    "website": "https://www.meta-face.space/",
+    "twitter": "https://twitter.com/Human_meta_face",
+    "github": "https://github.com/MetaFaceNft/mefa",
+    "reddit": "https://reddit.com/user/Meta-Face",
+    "telegram": "https://t.me/metafacenft",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaverse-face/",
+    "coingecko": "https://coingecko.com/coins/metaverse-face"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6Ad0F087501Eee603AeDa0407c52864bc7f83322/logo.png"
+  },
+  "name": "METAVERSE FACE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEFA",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

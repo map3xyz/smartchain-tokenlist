@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Vain is a token made to make the world a better and greener place by planting trees."
+  },
+  "id": "94513fc3-ccc3-40de-84f7-efc833cb47d3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+    "website": "https://vaintoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3/logo.png"
+  },
+  "name": "Vain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Vain",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

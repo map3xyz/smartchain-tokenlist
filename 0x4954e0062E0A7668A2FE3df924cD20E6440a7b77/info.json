@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4954e0062E0A7668A2FE3df924cD20E6440a7b77",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BYTENEXT aims to build up the AvatarArt platform to support art creators worldwide to make their paintings become NFT on Binance Smart Chain, conduct auctions and transactions globally. AvatarArt will be a pioneer in bringing real values in life to the NFT space."
+  },
+  "id": "832ddf50-02dd-4987-bb82-491bb9870701",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4954e0062e0a7668a2fe3df924cd20e6440a7b77",
+    "website": "https://bytenext.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4954e0062E0A7668A2FE3df924cD20E6440a7b77/logo.png"
+  },
+  "name": "ByteNext",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

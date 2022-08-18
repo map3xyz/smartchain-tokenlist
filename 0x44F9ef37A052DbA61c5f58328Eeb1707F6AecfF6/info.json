@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x44F9ef37A052DbA61c5f58328Eeb1707F6AecfF6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Do more with your Akita BSC."
+  },
+  "id": "e8ca8b3a-2610-44b3-a72e-c6c1a06ef36e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x44F9ef37A052DbA61c5f58328Eeb1707F6AecfF6",
+    "website": "https://akitabsc.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x44F9ef37A052DbA61c5f58328Eeb1707F6AecfF6/logo.png"
+  },
+  "name": "Akita BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AKIBSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

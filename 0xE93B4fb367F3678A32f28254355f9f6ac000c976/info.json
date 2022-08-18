@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xE93B4fb367F3678A32f28254355f9f6ac000c976",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Celestial is a cross chain metaverse game that combines Gamefi, Socialfi, and NFTSwap with the theme of interstellar warfare."
+  },
+  "id": "d4c36c18-8a35-45ee-b427-4f32b1c504c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE93B4fb367F3678A32f28254355f9f6ac000c976",
+    "website": "https://celt.game/",
+    "twitter": "https://twitter.com/GameCelt",
+    "github": "https://github.com/CeltGame",
+    "telegram": "https://t.me/CELT_Game",
+    "telegramNews": "https://t.me/CELT_Announcement",
+    "whitepaper": "https://bsc.celt.game/static/CELESTIAL_Whitepaper.pdf",
+    "medium": "https://medium.com/@celestial.gamefi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crystal/",
+    "coingecko": "https://coingecko.com/en/coins/crystal",
+    "youtube": "https://youtube.com/channel/UC3L64zz-sbwaEgMVotqLkTA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE93B4fb367F3678A32f28254355f9f6ac000c976/logo.png"
+  },
+  "name": "Celestial",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Crystal",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

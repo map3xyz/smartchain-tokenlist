@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x643B6ef6306417A0b3FA2813eb5BAf30F5dd8736",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hold SHILLING and earn BNB! 10% Tax, 4% goes to a claimable BNB that rewards holders every 3 days on our website."
+  },
+  "id": "a11fe282-3870-4144-ba52-cc84b3c052fc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x643B6ef6306417A0b3FA2813eb5BAf30F5dd8736",
+    "website": "https://www.knightsdefi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x643B6ef6306417A0b3FA2813eb5BAf30F5dd8736/logo.png"
+  },
+  "name": "Shilling",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHILLING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

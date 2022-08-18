@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ETHEKing Introduces A Whole New Gaming Term: Social Platform Battle. ETHEKing, a metaverse game that uses the BSC network and incorporates NFT technology, has already launched the first phase, which is backed by $ETHE, the game's native currency."
+  },
+  "id": "6005e500-eb7f-4961-97dc-add250b96c92",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2",
+    "website": "https://etheking.io/",
+    "twitter": "https://twitter.com/EthekingNetsky",
+    "github": "https://github.com/NS8888/EtheToken",
+    "telegram": "https://t.me/etheking",
+    "discord": "https://discord.com/invite/h8HYKVGuxn",
+    "whitepaper": "https://whitepaper.etheking.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/etheking"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2/logo.png"
+  },
+  "name": "ETHEKing",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHE",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

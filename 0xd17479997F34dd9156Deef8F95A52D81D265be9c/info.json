@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "USDD is a fully decentralized algorithmic stablecoin"
+  },
+  "id": "8a14b748-2719-4ef2-8f3d-207f7b9597a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+    "website": "https://usdd.io/",
+    "twitter": "https://twitter.com/usddio",
+    "whitepaper": "https://usdd.io/USDD-en.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd17479997F34dd9156Deef8F95A52D81D265be9c/logo.png"
+  },
+  "name": "Decentralized USD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

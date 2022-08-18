@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3D29Aa78fB558F84112bbC48a84F371147A920C9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A new deflationary token with 5% fees are distributed and 5% fees are added to liquidity pool."
+  },
+  "id": "cdc226a0-24f4-4104-a247-f6f64c6e69a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9",
+    "website": "https://dogefather.space/",
+    "twitter": "https://twitter.com/dogefatherbsc_",
+    "telegram": "https://t.me/dogefatherBSC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3D29Aa78fB558F84112bbC48a84F371147A920C9/logo.png"
+  },
+  "name": "Dogefather",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEFATHER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

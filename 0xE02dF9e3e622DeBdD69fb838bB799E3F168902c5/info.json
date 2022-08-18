@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BakerySwap, an AMM Dex on Binance Smart Chain."
+  },
+  "id": "f593b724-9666-4c3b-a45f-9382d8f836bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "research": "https://research.binance.com/en/projects/bakerytoken",
+    "website": "https://bakeryswap.org",
+    "blog": "https://medium.com/@BakerySwap",
+    "twitter": "https://twitter.com/bakery_swap",
+    "telegram": "https://t.me/bakeryswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png"
+  },
+  "name": "Bakery Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAKE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

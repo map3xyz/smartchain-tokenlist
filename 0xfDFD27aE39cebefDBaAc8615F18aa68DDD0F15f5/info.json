@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Giftedhands aims to offer solutions to constant issues in payment to freelancer developers in terms of speeding up the payment process."
+  },
+  "id": "08c9f53d-7b29-4c03-b16f-c1bacfeb1350",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5",
+    "website": "https://www.giftedhands.io",
+    "twitter": "https://twitter.com/giftedhandsGHD",
+    "telegram": "https://t.me/GiftedHandsTokenChannel",
+    "youtube": "https://youtube.com/watch?v=lu9I7rN2Mus",
+    "facebook": "https://facebook.com/Gitedhands-Token-100871005019968/",
+    "whitepaper": "https://drive.google.com/file/d/1Z7gUARX-h5xiF7Y5xFRQCiGf0yZQ7QP_/view"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfDFD27aE39cebefDBaAc8615F18aa68DDD0F15f5/logo.png"
+  },
+  "name": "Giftedhands on BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GHD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

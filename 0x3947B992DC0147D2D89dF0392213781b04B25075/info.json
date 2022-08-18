@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets."
+  },
+  "id": "949aac80-786b-4356-a5ad-13e34935321d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3947B992DC0147D2D89dF0392213781b04B25075",
+    "website": "https://mirror.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3947B992DC0147D2D89dF0392213781b04B25075/logo.png"
+  },
+  "name": "Wrapped Mirror AMZN Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mAMZN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

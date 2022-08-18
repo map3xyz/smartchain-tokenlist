@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xe75BF67Df2388183d9b7714231996C937d4a855A",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "Aeterna is a unique de-fi eco-system that offers a variety of ways to generate wealth and navigate your way through a confusing decentralized world."
+  },
+  "id": "f27a832b-206c-4877-bf7f-593b710553f5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe75BF67Df2388183d9b7714231996C937d4a855A",
+    "website": "https://www.aeterna.eco/",
+    "twitter": "https://twitter.com/project_aeterna",
+    "telegram": "https://t.me/aeternamain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aeterna/",
+    "discord": "https://discord.com/invite/snV7qnVWj8"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe75BF67Df2388183d9b7714231996C937d4a855A/logo.png"
+  },
+  "name": "Aeterna",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$Aeterna",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

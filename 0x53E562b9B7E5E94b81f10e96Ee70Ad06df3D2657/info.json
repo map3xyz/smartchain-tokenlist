@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain."
+  },
+  "id": "b4574c04-4b4e-40af-bed7-ca8104086233",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+    "website": "https://babyswap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657/logo.png"
+  },
+  "name": "BabySwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABY",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

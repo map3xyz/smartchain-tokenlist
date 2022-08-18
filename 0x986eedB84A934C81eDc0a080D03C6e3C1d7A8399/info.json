@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x986eedB84A934C81eDc0a080D03C6e3C1d7A8399",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first MEME token to incorporate Prediction Markets and Game Theory into NFTs, called mNFTs"
+  },
+  "id": "848680a1-a8d1-4db6-82fc-08211c0f02f4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x986eedB84A934C81eDc0a080D03C6e3C1d7A8399",
+    "website": "https://www.mrsdoge.club/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x986eedB84A934C81eDc0a080D03C6e3C1d7A8399/logo.png"
+  },
+  "name": "Dogette",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MRSDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

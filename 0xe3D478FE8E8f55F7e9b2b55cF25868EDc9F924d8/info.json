@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe3D478FE8E8f55F7e9b2b55cF25868EDc9F924d8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GEM PROTOCOL is a dApps platform that offers free applications for the Binance Smart Chain community."
+  },
+  "id": "d75d224a-a460-4e9a-b0f5-e059a9597e5e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe3D478FE8E8f55F7e9b2b55cF25868EDc9F924d8",
+    "website": "https://gemprotocol.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe3D478FE8E8f55F7e9b2b55cF25868EDc9F924d8/logo.png"
+  },
+  "name": "Gem Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

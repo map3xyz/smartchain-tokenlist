@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9C28E48Ea9170d9A9cB76d338655b8bd4124BC7A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EarnX is unheard of the version of NFTs that can retain their value lifelong and will be totally driven by our community. For EARNX, we will bring a completely new category of NFTs which will be a revolutionary in NFT ecosystem. eg., Persian Carpets NFTs which will be couriered to buyers with NFT RFID."
+  },
+  "id": "8dc75d5f-0108-437f-a0c2-1fa89c23598b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9c28e48ea9170d9a9cb76d338655b8bd4124bc7a",
+    "website": "http://www.yearnclassic.finance/",
+    "github": "https://github.com/YearnClassic",
+    "twitter": "https://twitter.com/earn_finance",
+    "telegram": "https://t.me/earndefi",
+    "medium": "https://earnfinance.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9C28E48Ea9170d9A9cB76d338655b8bd4124BC7A/logo.png"
+  },
+  "name": "EarnX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EarnX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

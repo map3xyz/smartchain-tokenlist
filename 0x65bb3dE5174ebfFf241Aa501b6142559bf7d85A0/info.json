@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x65bb3dE5174ebfFf241Aa501b6142559bf7d85A0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GymRocket is a fitness token that truly fuels your fitness $GAINZ"
+  },
+  "id": "ed92d5cc-aaf9-436e-84ea-4ebc8d273743",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x65bb3dE5174ebfFf241Aa501b6142559bf7d85A0",
+    "website": "https://www.gymrocketcrypto.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x65bb3dE5174ebfFf241Aa501b6142559bf7d85A0/logo.png"
+  },
+  "name": "GymRocketCrypto Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAINZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

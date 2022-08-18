@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+  "color": null,
+  "decimals": 7,
+  "description": {
+    "en": "High yielding BSC token with 15% transaction fee redistributed to existing wallet holders."
+  },
+  "id": "061d589b-5bed-49cb-8049-f3d203010c9d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+    "website": "https://wenmoon.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb93ba7DC61ECFced69067151FC00C41cA369A797/logo.png"
+  },
+  "name": "WenMoon Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WENMOON",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

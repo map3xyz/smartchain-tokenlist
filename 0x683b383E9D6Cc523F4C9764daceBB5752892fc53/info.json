@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x683b383E9D6Cc523F4C9764daceBB5752892fc53",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sparklab is a next generation portfolio tracker with tons of unique features to make your token management safer and easier. "
+  },
+  "id": "07d05d59-b172-43bf-b270-e8a06c778b71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x683b383E9D6Cc523F4C9764daceBB5752892fc53",
+    "website": "https://thesparklab.io",
+    "telegram": "https://t.me/SparkLabOfficialChannel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sparklab/",
+    "twitter": "https://twitter.com/Sparklab3",
+    "github": "https://github.com/TheSparkLab/SparkLab",
+    "facebook": "https://facebook.com/groups/400402991732597",
+    "discord": "https://discord.com/ea454HSz",
+    "reddit": "https://reddit.com/r/SparkLab/",
+    "whitepaper": "https://thesparklab.io/whitepapersparklab.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x683b383E9D6Cc523F4C9764daceBB5752892fc53/logo.png"
+  },
+  "name": "SparkLab",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Spark",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

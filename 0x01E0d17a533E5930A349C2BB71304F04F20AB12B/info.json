@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x01E0d17a533E5930A349C2BB71304F04F20AB12B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Revolve Games is redefining blockchain gaming, with a robust gaming ecosystem that is plugged into the heart of DeFi"
+  },
+  "id": "0fd4faba-d85f-45ff-baab-0c1b2ce5f07b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01E0d17a533E5930A349C2BB71304F04F20AB12B",
+    "website": "https://revolvegames.io",
+    "github": "https://github.com/Revolve-games",
+    "twitter": "https://twitter.com/RevolveGamesio",
+    "telegram": "https://t.me/revolvegames_official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x01E0d17a533E5930A349C2BB71304F04F20AB12B/logo.png"
+  },
+  "name": "REVOLVE GAMES",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RPG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

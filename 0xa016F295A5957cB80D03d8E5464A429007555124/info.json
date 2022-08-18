@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa016F295A5957cB80D03d8E5464A429007555124",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Welcome to the hamster army! The time has come when it is worth rewriting history."
+  },
+  "id": "7f1979f8-01ef-4738-9787-eca7c3a132f7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa016F295A5957cB80D03d8E5464A429007555124",
+    "website": "https://safehamsters.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa016F295A5957cB80D03d8E5464A429007555124/logo.png"
+  },
+  "name": "SafeHamsters",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEHAMSTERS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

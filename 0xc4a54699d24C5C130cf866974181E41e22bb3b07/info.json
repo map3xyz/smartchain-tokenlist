@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc4a54699d24C5C130cf866974181E41e22bb3b07",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "World's Best Community Meme Token"
+  },
+  "id": "6c432308-3669-4c47-a543-246fd3287ea4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc4a54699d24C5C130cf866974181E41e22bb3b07",
+    "website": "https://www.flokielon.net/",
+    "twitter": "https://twitter.com/floki_real",
+    "github": "https://github.com/flokielonreal",
+    "telegram": "https://t.me/Floki_Real",
+    "telegramNews": "https://t.me/FlokiReal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc4a54699d24C5C130cf866974181E41e22bb3b07/logo.png"
+  },
+  "name": "Floki Elon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FlokiElon",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ZCore Finance is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with features that let you earn and win tokens."
+  },
+  "id": "f3e8776f-b791-40f7-a9eb-22d47abfea8b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
+    "website": "http://finance.zcore.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07/logo.png"
+  },
+  "name": "ZCore Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZEFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

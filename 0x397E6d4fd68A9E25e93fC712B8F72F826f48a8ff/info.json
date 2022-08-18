@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DINGO platform allows users to easily deposit BEP20 tokens into an NFT. Dingo Token is the governance token of the platform."
+  },
+  "id": "23005eef-23e9-4592-978b-79b6b7876464",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff",
+    "website": "https://dingotoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x397E6d4fd68A9E25e93fC712B8F72F826f48a8ff/logo.png"
+  },
+  "name": "Dingo Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DINGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

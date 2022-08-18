@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA327179d47faD68d09e4501a838daaaf74faBb7c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Autonomous yield and liquidity generation protocol."
+  },
+  "id": "f36af28c-d9bf-4c78-b7e8-943c87044e9f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA327179d47faD68d09e4501a838daaaf74faBb7c",
+    "website": "https://safe-xi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA327179d47faD68d09e4501a838daaaf74faBb7c/logo.png"
+  },
+  "name": "SafeXI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SXI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

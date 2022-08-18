@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x33a669a350807552a005845C13A37662FAcb041B",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Experience the next generation of cryptocurrency token that automatically rewards you for holding."
+  },
+  "id": "dbf2d120-b41d-413d-86fd-80e83ddc73c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x33a669a350807552a005845C13A37662FAcb041B",
+    "website": "https://shaggytoken.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x33a669a350807552a005845C13A37662FAcb041B/logo.png"
+  },
+  "name": "SHAGGY TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHAGGY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xE0b1EF69BC4AB4173989C1190f0d77A813f3B726",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Fat Cat Killer is a secure, medium for crypto payment processing. Integration with commonly used Point-of-Sale systems uniquely position it in hospitality venues. Low transaction rates offer unbeatable savings for both buyers and merchants with luxury brands."
+  },
+  "id": "effa59d7-1c1c-4772-a806-00a6cf2a479c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe0b1ef69bc4ab4173989c1190f0d77a813f3b726",
+    "website": "https://fatcatkiller.com/",
+    "twitter": "https://twitter.com/Fat_Cat_Killer",
+    "facebook": "https://facebook.com/FatCatKiller/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fat-cat-killer/",
+    "telegram": "https://t.me/FatCatKillerPortal",
+    "whitepaper": "https://fatcatkiller.com/wp-content/uploads/2022/04/FINAL-WHITE-PAPER-ENG-2022-04-22.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE0b1EF69BC4AB4173989C1190f0d77A813f3B726/logo.png"
+  },
+  "name": "Fat Cat Killer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KILLER",
+  "tags": [
+    "defi",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9AA6FC71aed1130DeE06a91A487BF5eA481dE80D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COCO Swap token will be the fuel behind the Coco Swap decentralized platform. It is a progressive deflatory token build on latest DeFi protocol systems."
+  },
+  "id": "1074d835-3c74-4db9-ae2f-4c1f6362da06",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9AA6FC71aed1130DeE06a91A487BF5eA481dE80D",
+    "website": "https://coco-swap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9AA6FC71aed1130DeE06a91A487BF5eA481dE80D/logo.png"
+  },
+  "name": "Coco Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x834613c64522725b23b458aF04ED1590D189962F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DKKS is project to makes the lives of all those who believe in the project always lucky in life, enrich spiritually ,materially and help people in the world."
+  },
+  "id": "399208a4-7e7e-43cd-854b-2b266b6fe020",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x834613c64522725b23b458aF04ED1590D189962F",
+    "website": "https://daikokuten.finance/",
+    "github": "https://github.com/dkkstoken",
+    "twitter": "https://twitter.com/dkkstoken",
+    "reddit": "https://reddit.com/r/daikokuten_sama",
+    "whitepaper": "https://github.com/dkkstoken/Whitepaper/blob/main/DAIKOKUTEN-WHITEPAPER.pdf",
+    "telegram": "https://t.me/dkkstoken",
+    "telegramNews": "https://t.me/dkks_news",
+    "medium": "https://medium.com/@daikokuten_sama",
+    "facebook": "https://facebook.com/Daikokuten-Sama-107917314873088",
+    "youtube": "https://youtube.com/channel/UCScKOUFWSx3IUnvEvn1Y4zw",
+    "coinmarketcap": "https://coinmarketcap.com/vi/currencies/daikokuten-sama/",
+    "coingecko": "https://coingecko.com/en/coins/daikokuten-sama"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x834613c64522725b23b458aF04ED1590D189962F/logo.png"
+  },
+  "name": "DAIKOKUTEN SAMA TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DKKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

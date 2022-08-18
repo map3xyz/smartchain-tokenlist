@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Nerve token (NRV) is the governance token for the Nerve Finance ecosystem of low slippage stable-swaps and bridged assets from the BSC, Ethereum, and Bitcoin networks"
+  },
+  "id": "1d6dafe6-6d11-4417-a5ff-ee13c9c4cd9e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+    "website": "https://nerve.fi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096/logo.png"
+  },
+  "name": "Nerve",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

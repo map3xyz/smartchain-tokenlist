@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x10E76264489cDF4B4011F79086D0Bb6b55775E79",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LittleMouse Token is an ongoing game, NFT and outreach project. LittleMouse is a SWAP built on the BSC blockchain."
+  },
+  "id": "52f45e8c-1b31-4932-8d6b-cb30c3ed5990",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10E76264489cDF4B4011F79086D0Bb6b55775E79",
+    "website": "https://newlittlemouse.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x10E76264489cDF4B4011F79086D0Bb6b55775E79/logo.png"
+  },
+  "name": "LittleMouse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

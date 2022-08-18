@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sheesh is a Crypto Token created to Bridge the world of Social Media/Gaming with the world of crypto."
+  },
+  "id": "4641716f-483c-4b0f-8c33-2e47f628d631",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e5d52c3335c91af0da392bea4bb9e43f2aba62c",
+    "website": "https://sheeshtoken.com",
+    "twitter": "https://twitter.com/Sheeshtoken",
+    "telegram": "https://t.me/sheeshtokenchat",
+    "discord": "https://discord.com/invite/uYxAQQTA",
+    "reddit": "https://reddit.com/r/SheeshToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7E5d52C3335C91Af0da392BEa4BB9e43F2AbA62C/logo.png"
+  },
+  "name": "Sheesh it is bussin bussin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Sheesh",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

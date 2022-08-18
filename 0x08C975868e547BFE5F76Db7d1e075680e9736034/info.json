@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x08C975868e547BFE5F76Db7d1e075680e9736034",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Doge Back is a revolutionary token which combines buy back and also dividends, which results in real Doge Coin in your wallet."
+  },
+  "id": "ffdb71cd-861d-4913-a9f0-12ec3254f0ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x08C975868e547BFE5F76Db7d1e075680e9736034",
+    "website": "https://dogeback.finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/doge-back/",
+    "coingecko": "https://coingecko.com/en/coins/doge-back"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x08C975868e547BFE5F76Db7d1e075680e9736034/logo.png"
+  },
+  "name": "DogeBack",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEBACK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x136BFcdec5DB31b565052451AD806014ab9F2b38",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Building a Blockchain 4.0 Charity Community"
+  },
+  "id": "9a5c000f-388f-4607-8dbe-eb33b0e91b68",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x136BFcdec5DB31b565052451AD806014ab9F2b38",
+    "website": "https://candylad.net/",
+    "twitter": "https://twitter.com/candyladbsc",
+    "telegram": "https://t.me/candyladen",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/candylad/",
+    "coingecko": "https://coingecko.com/en/coins/candylad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x136BFcdec5DB31b565052451AD806014ab9F2b38/logo.png"
+  },
+  "name": "CANDYLAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CANDYLAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

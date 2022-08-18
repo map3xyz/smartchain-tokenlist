@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf78Bbc835b52D7f0e9538C3566997bA2bf050B85",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SkyBorn created and continues to grow a cryptocurrency community comprised of members to trade and create shareable community content. The SkyBorn project plans to incorporate NFTs for the upcoming release of Binance's release of NFT Marketplace on June 24th, 2021. Additionally, SkyBorn plans to design a mobile application (game) where all microtransactions will be used towards marketing of the token."
+  },
+  "id": "a8a3d6ed-c6cd-479c-90a0-430dc5ab6547",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf78Bbc835b52D7f0e9538C3566997bA2bf050B85",
+    "website": "https://www.skybornbsc.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf78Bbc835b52D7f0e9538C3566997bA2bf050B85/logo.png"
+  },
+  "name": "SkyBorn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SKYBORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

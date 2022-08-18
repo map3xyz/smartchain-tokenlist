@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc2a5FdFEa2A04955DF244eb52fFd986fA18cFcc6",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Panda Chain Finance smart contract generates of the stake amount daily and guarantees a final profit."
+  },
+  "id": "db59aa6c-fb8b-4c09-867c-4d080ae3b67e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc2a5fdfea2a04955df244eb52ffd986fa18cfcc6",
+    "website": "http://pandachain.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc2a5FdFEa2A04955DF244eb52fFd986fA18cFcc6/logo.png"
+  },
+  "name": "Panda Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Panda",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

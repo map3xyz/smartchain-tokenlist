@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "0765f166-4de4-4f57-885d-c7a9df034061",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA/logo.png"
+  },
+  "name": "Tether USD (Portal from Avalanche)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDTav",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

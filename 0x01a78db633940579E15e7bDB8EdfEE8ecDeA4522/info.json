@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x01a78db633940579E15e7bDB8EdfEE8ecDeA4522",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "An ecosystem to drive innovation in the early-stage web 3.0 space."
+  },
+  "id": "46c29fd6-6963-49d9-b4d0-027df5a1b3b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+    "website": "https://lithium.ventures"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x01a78db633940579E15e7bDB8EdfEE8ecDeA4522/logo.png"
+  },
+  "name": "Lithium",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EBSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

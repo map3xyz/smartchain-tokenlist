@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDE619A9E0eEeAA9F8CD39522Ed788234837F3B26",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Vizsla Inu is the best dogs meme and Charity Token in Hungary"
+  },
+  "id": "938b6352-93c7-43ae-b732-6611e54f864c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xde619a9e0eeeaa9f8cd39522ed788234837f3b26",
+    "website": "https://vizslainu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xDE619A9E0eEeAA9F8CD39522Ed788234837F3B26/logo.png"
+  },
+  "name": "Hungarian Vizsla Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HVI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

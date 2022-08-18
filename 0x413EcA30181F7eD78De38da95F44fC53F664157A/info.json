@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x413EcA30181F7eD78De38da95F44fC53F664157A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SON aims to build a sustainable, long term token bringing innovative ideas into the crypto space."
+  },
+  "id": "4b4dd36a-da87-443f-97e9-d1674433c496",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x413eca30181f7ed78de38da95f44fc53f664157a",
+    "website": "https://www.sonofshib.com/",
+    "twitter": "https://twitter.com/SONOfSHIB",
+    "telegram": "https://t.me/SONOfSHIB"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x413EcA30181F7eD78De38da95F44fC53F664157A/logo.png"
+  },
+  "name": "SonOfShib",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

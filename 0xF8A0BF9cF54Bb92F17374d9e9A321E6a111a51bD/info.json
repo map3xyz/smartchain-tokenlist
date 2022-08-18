@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg ChainLink (LINK BEP20) is a token issued by Binance on Smart Chain; its price is pegged to ChainLink (LINK ERC20) at a ratio of 1:1."
+  },
+  "id": "127c368c-ee0d-44d6-8c45-2cb9127955a5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "research": "https://research.binance.com/en/projects/chainlink",
+    "website": "https://chain.link"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png"
+  },
+  "name": "Binance-Peg ChainLink",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "binance-peg",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

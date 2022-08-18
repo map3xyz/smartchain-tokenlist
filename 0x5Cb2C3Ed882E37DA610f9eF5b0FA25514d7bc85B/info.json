@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mouse Haunt is a multiplayer play-to-earn game where players collect NFTs, farm tokens, breed characters, and build levels. In this revolutionary game, players play as the heroes, as the villains, and as the architects of the castles. If desired, players can exchange their earned tokens for real money."
+  },
+  "id": "5a49a70f-3933-47d2-82b1-372b270cdc06",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
+    "website": "https://mousehaunt.com/",
+    "twitter": "https://twitter.com/mousehaunt",
+    "github": "https://github.com/mousehaunt",
+    "telegram": "https://t.me/joinchat/QJNjRk7T06NjYjEx",
+    "telegramNews": "https://t.me/joinchat/QJNjRk7T06NjYjEx",
+    "discord": "https://discord.com/invite/UABfTV3AFn",
+    "whitepaper": "https://whitepaper.mousehaunt.com/",
+    "youtube": "https://youtube.com/channel/UC4IxztsJqxROLEU1CxHjYcw",
+    "medium": "https://mousehaunt.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mouse-haunt-token/",
+    "coingecko": "https://coingecko.com/coins/mouse-haunt"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B/logo.png"
+  },
+  "name": "Mouse Haunt Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MHT",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6306e883493824Ccf606D90E25F68a28e47b98a3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Extend Finance was built for the BSC chain with 4% reward & 1% burning emission"
+  },
+  "id": "54f70cdf-c47b-4ac2-8b88-e08317b40746",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6306e883493824ccf606d90e25f68a28e47b98a3",
+    "website": "https://extendfinance.online"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6306e883493824Ccf606D90E25F68a28e47b98a3/logo.png"
+  },
+  "name": "Extend Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EXF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

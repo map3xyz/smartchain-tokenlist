@@ -1,0 +1,28 @@
+{
+  "active": false,
+  "address": "0x927fF4AD97991C1eeC44AB02c6970088ffa85250",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Xtremcoin is a convenient online payment tool that combines functions of several cryptocurrency wallets and bank cards virtual and plastic ones."
+  },
+  "id": "99b8dfe4-92db-4962-ba97-1af075c19a69",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x927fF4AD97991C1eeC44AB02c6970088ffa85250",
+    "website": "https://www.xtremcoin.com",
+    "twitter": "https://twitter.com/xtremcoin",
+    "github": "https://github.com/xtremcoin",
+    "telegram": "https://t.me/xtremcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x927fF4AD97991C1eeC44AB02c6970088ffa85250/logo.png"
+  },
+  "name": "Xtremcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

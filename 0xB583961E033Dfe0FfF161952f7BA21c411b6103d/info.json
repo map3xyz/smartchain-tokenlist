@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xB583961E033Dfe0FfF161952f7BA21c411b6103d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "YOUWHO is a Crypto Based On-Demand Services Platform with the main focus of eliminating global unemployment. The YOUWHO platform enables everyone in the world to list their service (eg. maid, doctor, electrician, gardener, dog walker, saturation diver, astrophysicist, etc. whatever skill you possess!) and book and use these same services, effectively offering peer to peer services on a global scale."
+  },
+  "id": "b8f8261e-2c2d-479d-b484-43190e2247c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB583961E033Dfe0FfF161952f7BA21c411b6103d",
+    "website": "https://youwho.io",
+    "twitter": "https://twitter.com/you_youwho",
+    "github": "https://github.com/youwhoyou",
+    "telegram": "https://t.me/you_youwho",
+    "discord": "https://discord.com/invite/Sm77UDXdzZ",
+    "whitepaper": "https://wp.youwho.io",
+    "docs": "https://deck.youwho.io",
+    "reddit": "https://reddit.com/r/youwho/",
+    "youtube": "https://youtube.com/channel/UCrHJ4_9G1hVs9oeYBGs7CdQ",
+    "telegramNews": "https://t.me/you_youwho",
+    "facebook": "https://facebook.com/youwhouhu",
+    "blog": "https://why.youwho.io/news"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB583961E033Dfe0FfF161952f7BA21c411b6103d/logo.png"
+  },
+  "name": "YOUWHO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YOU",
+  "tags": [
+    "governance",
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

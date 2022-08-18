@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Elonomics is a Rebase and BUSD Rewards token in the BSC network."
+  },
+  "id": "7478addb-a7e2-4110-a9c6-d7a314ebad4d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd3ecc6a4ce1a9faec1aa5e30b55f8a1a4b84f938",
+    "website": "https://Elonomicstoken.com",
+    "twitter": "https://twitter.com/elonomicsbsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/elonomics",
+    "coingecko": "https://coingecko.com/en/coins/elonomics"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938/logo.png"
+  },
+  "name": "Elonomics",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$ELONOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

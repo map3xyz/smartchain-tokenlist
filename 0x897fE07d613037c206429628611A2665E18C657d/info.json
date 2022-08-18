@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x897fE07d613037c206429628611A2665E18C657d",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "5cd39f49-e2eb-4eff-8973-8649e6308a8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x897fE07d613037c206429628611A2665E18C657d",
+    "website": "https://nether.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x897fE07d613037c206429628611A2665E18C657d/logo.png"
+  },
+  "name": "Nether",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

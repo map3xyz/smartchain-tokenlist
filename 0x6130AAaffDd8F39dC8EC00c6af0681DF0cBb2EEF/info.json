@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PRYZ is a new community driven protocol, offering holders rewards with a difference."
+  },
+  "id": "cc09c018-aa2d-48fb-9b71-3c8d64de8c6c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+    "website": "https://pryz.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF/logo.png"
+  },
+  "name": "PRYZ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PRYZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

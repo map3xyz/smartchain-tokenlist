@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x71afF23750db1f4edbE32C942157a478349035b2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PRIVATEUM is a technological and legal solution based community platform that enables private assets management"
+  },
+  "id": "722c8817-3b4b-4d22-a76a-3be4f76bc41f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x71afF23750db1f4edbE32C942157a478349035b2",
+    "website": "https://privateum.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x71afF23750db1f4edbE32C942157a478349035b2/logo.png"
+  },
+  "name": "PRIVATEUM INITIATIVE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PVM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

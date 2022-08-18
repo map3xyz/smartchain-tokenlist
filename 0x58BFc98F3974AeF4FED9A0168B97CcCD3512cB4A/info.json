@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bubblegum is a sweet, auto-yield token + dapp for asset tracking."
+  },
+  "id": "17e90258-c23b-4bb1-816a-3e48824ae3ee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
+    "website": "https://www.bubblegum.life/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A/logo.png"
+  },
+  "name": "Bubblegum",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUBBLEGUM",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

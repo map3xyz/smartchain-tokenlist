@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "τDogecoin is a synthetic Dogecoin supported by some of the largest miners in the world. Implementing the τ protocol, τDogecoin shows superior capital efficiency and composability for DeFi uses."
+  },
+  "id": "c4d9fa25-e29a-4b69-9f94-b9b8a42e03bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
+    "website": "https://btcst.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A/logo.png"
+  },
+  "name": "τDogecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "τDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc41689A727469C1573009757200371edf36D540e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dynamix, The first token created with an evolving algorithm based on events. Dynamic rewards increased from 2% to 8% according to the number of holders, sell fees decreases from 17% to 5% according to hold time, and also buyback and burn system."
+  },
+  "id": "0725fc16-f035-4389-a4d2-bb44977fa9f4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc41689A727469C1573009757200371edf36D540e",
+    "website": "https://dynamix.finance/",
+    "github": "https://github.com/dynamixtoken",
+    "twitter": "https://twitter.com/Dynamixarmy",
+    "telegram": "https://t.me/DynamixToken",
+    "reddit": "https://reddit.com/r/Dynamixarmy/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc41689A727469C1573009757200371edf36D540e/logo.png"
+  },
+  "name": "Dynamix",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DYNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

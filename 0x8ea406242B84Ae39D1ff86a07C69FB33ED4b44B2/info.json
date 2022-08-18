@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8ea406242B84Ae39D1ff86a07C69FB33ED4b44B2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Our goal is to inform you about the current and future revolutionary projects of Elon Musk."
+  },
+  "id": "82fde3ae-0be7-4ab3-ad7a-630f051d20e5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8ea406242B84Ae39D1ff86a07C69FB33ED4b44B2",
+    "website": "https://elonmars.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8ea406242B84Ae39D1ff86a07C69FB33ED4b44B2/logo.png"
+  },
+  "name": "ElonMars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELONMARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

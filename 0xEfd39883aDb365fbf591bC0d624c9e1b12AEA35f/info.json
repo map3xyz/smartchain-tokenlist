@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DinkDoink is a cryptocurrency bridging the gap between entertainment and crypto!"
+  },
+  "id": "3d9fde58-8c2d-4a1c-bd8c-27b371d2f6ed",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+    "website": "https://dinkdoink.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f/logo.png"
+  },
+  "name": "DinkDoink",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

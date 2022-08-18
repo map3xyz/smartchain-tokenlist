@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7576FdBbE682EAD7dA1f764a07190C1fd16201CD",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CAT Token - created for people who love cats."
+  },
+  "id": "57def9ed-96dc-4bad-afc4-d7824e593a1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7576FdBbE682EAD7dA1f764a07190C1fd16201CD",
+    "website": "https://catinu.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7576FdBbE682EAD7dA1f764a07190C1fd16201CD/logo.png"
+  },
+  "name": "CatInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CatInu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

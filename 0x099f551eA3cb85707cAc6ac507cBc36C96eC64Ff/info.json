@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Safe Earn is the first mover of double-reflection tokens. Safe Earn acts as an earning platform by rewarding SafeMoon tokens to holders at a rate of 8.5%, which are then eligible to benefit from the SafeMoon standard reflections of 5%."
+  },
+  "id": "d7ef85d8-4ba8-45cf-8bda-5b1a6868800e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff",
+    "website": "https://safearn.app",
+    "twitter": "https://twitter.com/safearnbsc",
+    "telegram": "https://t.me/safe_earn"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff/logo.png"
+  },
+  "name": "SafeEarn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEARN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

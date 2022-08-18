@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD890661EF4f88452265D36a290Fa09aC476C2020",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "O MAIOR PROJETO DeFi 100% BRASILEIRO."
+  },
+  "id": "4b89854a-a47b-47de-9e6c-13685772a4c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD890661EF4f88452265D36a290Fa09aC476C2020",
+    "website": "https://braziltechnology.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD890661EF4f88452265D36a290Fa09aC476C2020/logo.png"
+  },
+  "name": "Brazil Technology",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTEC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

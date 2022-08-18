@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets."
+  },
+  "id": "1ea6fc8e-9800-40f1-97e8-42f92b1a499e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
+    "website": "https://mirror.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc/logo.png"
+  },
+  "name": "Wrapped Mirror NFLX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mNFLX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

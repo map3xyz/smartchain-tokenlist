@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa7e1E5019088c7B452C9E8BD6c3e0fA7a95478A8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Crocodile Coin is a next-gen community driven yield farming and AMM exchange on Binance Smart Chain"
+  },
+  "id": "1cdd80e2-293e-4e01-8d8d-a37b3a6ac2df",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa7e1e5019088c7b452c9e8bd6c3e0fa7a95478a8",
+    "website": "https://crocodilecoin.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa7e1E5019088c7B452C9E8BD6c3e0fA7a95478A8/logo.png"
+  },
+  "name": "Crocodile Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRDL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xae768A3d387c3B65d382535a790370Af94bb1691",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Recycle using Blockchain."
+  },
+  "id": "e85b83c6-b9ed-4b70-967a-983958c9e5e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xae768A3d387c3B65d382535a790370Af94bb1691",
+    "website": "https://undo.website"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xae768A3d387c3B65d382535a790370Af94bb1691/logo.png"
+  },
+  "name": "UndoToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UNDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

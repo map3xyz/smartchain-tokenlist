@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x63d55ecDEbF08f93D0F2D5533035ddcCaa997d7A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ETHVault is a complementing token in the VaultDEFI Ecosystem, the first 26.8% auto-reimbursing, SurgeETH & SafeVAULT Rewarding Token. It's Hyper-Deflationary & Self-Sustaining. The Vault team is proud to bring an unprecedented vision to the DeFi space."
+  },
+  "id": "bd766c53-e2b9-4927-b8bb-6e614e823a79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a",
+    "website": "https://vaultdefi.com",
+    "blog": "https://vaultdefi.com",
+    "twitter": "https://twitter.com/vaultdefi",
+    "facebook": "https://facebook.com/vaultdefiofficial",
+    "telegram": "https://t.me/vault_defi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x63d55ecDEbF08f93D0F2D5533035ddcCaa997d7A/logo.png"
+  },
+  "name": "ETHVault",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHVAULT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

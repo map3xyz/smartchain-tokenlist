@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "RIP Gabe, forever in our hearts."
+  },
+  "id": "b656b1fb-45da-48e7-ab21-a1c37cfb4477",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c",
+    "website": "https://gabecoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C/logo.png"
+  },
+  "name": "gabecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GABECOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

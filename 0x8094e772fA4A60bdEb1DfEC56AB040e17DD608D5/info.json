@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x8094e772fA4A60bdEb1DfEC56AB040e17DD608D5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Koda token is a futuristic currency created and developed by Summit BC development team and will be the native token on SummitSwap."
+  },
+  "id": "1f4b6a57-fdea-473a-8b07-93d8ede4b217",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8094e772fA4A60bdEb1DfEC56AB040e17DD608D5",
+    "website": "https://koda.finance/",
+    "twitter": "https://twitter.com/CoinKoda",
+    "telegram": "https://t.me/kodakingofdogaltschat",
+    "discord": "https://discord.com/invite/FBgEmJmHuc",
+    "facebook": "https://facebook.com/KodaCryptocurrency/",
+    "youtube": "https://youtube.com/channel/UCf6Cz6MU7uykVVVaByU01KA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/summit-koda-token-new/",
+    "coingecko": "https://coingecko.com/coins/koda-cryptocurrency",
+    "github": "https://github.com/Koda-Finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8094e772fA4A60bdEb1DfEC56AB040e17DD608D5/logo.png"
+  },
+  "name": "Koda Cryptocurrency",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KODA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

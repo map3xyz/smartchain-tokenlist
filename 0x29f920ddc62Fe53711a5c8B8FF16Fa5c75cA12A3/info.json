@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The revolutionary new auto-yield token with an added chance to win a jackpot of BNB. Every single day!"
+  },
+  "id": "3c54a8cd-74d5-4a40-bb87-8ad14964caa6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+    "website": "https://lotdog.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3/logo.png"
+  },
+  "name": "LOTDOG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOTDOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

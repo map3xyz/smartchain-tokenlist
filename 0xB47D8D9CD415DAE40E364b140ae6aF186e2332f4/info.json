@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB47D8D9CD415DAE40E364b140ae6aF186e2332f4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Swift Moon combines the Rebasing concept, Auto Liquidity Generation, Deflation and Reflection all in one token on Binance Smart Chain"
+  },
+  "id": "24cdc029-a3c5-4254-b81c-a465c6313330",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb47d8d9cd415dae40e364b140ae6af186e2332f4",
+    "website": "https://swiftmoon.online/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB47D8D9CD415DAE40E364b140ae6aF186e2332f4/logo.png"
+  },
+  "name": "SwiftMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

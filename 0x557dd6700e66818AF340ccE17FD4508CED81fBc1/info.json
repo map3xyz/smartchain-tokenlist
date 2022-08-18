@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Passive rewards, autoliquidity, community token, charity."
+  },
+  "id": "d39a232b-e917-49b0-912f-271dc5fe2e09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x557dd6700e66818af340cce17fd4508ced81fbc1",
+    "website": "https://www.papeltoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x557dd6700e66818AF340ccE17FD4508CED81fBc1/logo.png"
+  },
+  "name": "Papel",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAPEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

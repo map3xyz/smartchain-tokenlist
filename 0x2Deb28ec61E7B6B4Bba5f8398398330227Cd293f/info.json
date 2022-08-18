@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first Social Farming Project on BSC"
+  },
+  "id": "01645db3-8d02-4f63-bf40-be78a960d506",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+    "website": "https://tea-swap-app.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f/logo.png"
+  },
+  "name": "MINTv2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MINTv2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

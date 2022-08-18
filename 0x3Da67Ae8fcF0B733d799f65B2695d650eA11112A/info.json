@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3Da67Ae8fcF0B733d799f65B2695d650eA11112A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Saint is a decentralized deflationary auto-staking & yield farming protocol, owned by the community with a charitable focus based on social experimentation. Ownership renounced, liquidity burned! The community run this token with dev support."
+  },
+  "id": "10e62976-3394-45fe-b9e0-02ee12adb7e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3da67ae8fcf0b733d799f65b2695d650ea11112a",
+    "website": "https://www.saint-token.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3Da67Ae8fcF0B733d799f65B2695d650eA11112A/logo.png"
+  },
+  "name": "SAINT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Saint",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

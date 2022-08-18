@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA1efCe38CB265Af369e891bC3026d0285545D4E5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Safetesla is frictionless yield & liquidity generation smart contract protocol"
+  },
+  "id": "7538f200-0e2c-49d3-bf7f-53de634e0c30",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1efce38cb265af369e891bc3026d0285545d4e5",
+    "website": "https://www.safetesla.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA1efCe38CB265Af369e891bC3026d0285545D4E5/logo.png"
+  },
+  "name": "Safetesla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFETESLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

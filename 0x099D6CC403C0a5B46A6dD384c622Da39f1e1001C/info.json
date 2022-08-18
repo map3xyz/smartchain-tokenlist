@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x099D6CC403C0a5B46A6dD384c622Da39f1e1001C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Making world a better place by bringing cuteness to those who need it the most."
+  },
+  "id": "d8b5c879-086e-4d93-8d7d-12cf84f4011c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x099d6cc403c0a5b46a6dd384c622da39f1e1001c",
+    "website": "https://kawaiinu.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x099D6CC403C0a5B46A6dD384c622Da39f1e1001C/logo.png"
+  },
+  "name": "kawaiINU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAWAII",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

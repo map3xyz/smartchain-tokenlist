@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mytheria- Clash of the Pantheons is the first-of-its-kind Play-to-Earn and Create-to-Earn with a captivating board game experience and innovative NFT marketplace."
+  },
+  "id": "d2a591d8-5621-48e2-92c5-6c40f88402c1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
+    "website": "https://mytheria.io/",
+    "twitter": "https://twitter.com/mytheria_MYRA",
+    "telegram": "https://t.me/MytheriaGlobal",
+    "discord": "https://discord.com/invite/PumYWDzYbz",
+    "facebook": "https://facebook.com/MytheriaOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mytheria/",
+    "coingecko": "https://coingecko.com/coins/mytheria"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0/logo.png"
+  },
+  "name": "Mytheria",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MYRA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

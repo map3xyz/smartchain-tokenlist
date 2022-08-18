@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A community token who reward you in BNB every hour. "
+  },
+  "id": "8e5a8ee5-0232-4700-a6e2-deb761351cbd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+    "website": "https://launch.checoin.finance/",
+    "github": "https://github.com/TheCheCoin",
+    "twitter": "https://twitter.com/CheCoinOfficial",
+    "reddit": "https://reddit.com/r/CheCoin_/",
+    "telegram": "https://t.me/checointoken",
+    "telegramNews": "https://t.me/checoin_news",
+    "medium": "https://medium.com/checoin",
+    "discord": "https://discord.com/channels/869686421487771648",
+    "whitepaper": "https://launch.checoin.finance/whitepaper",
+    "youtube": "https://youtube.com/channel/UCfJVE4QoiAEXFEqR30GSsKA",
+    "coingecko": "https://coingecko.com/en/coins/checoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2/logo.png"
+  },
+  "name": "CHECOIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHECOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

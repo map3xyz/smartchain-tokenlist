@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "3a642d7e-865c-4d31-80d8-e90736b61c16",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e",
+    "website": "https://solana.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e/logo.png"
+  },
+  "name": "SOL (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x6904b1c25c91fBD9431621fbE495d7c49FCD171F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cryptonite from planet Crypton on a mission to earth to save the BSC community from all the Ruggers! Play to Earn Game / NFT trading platform"
+  },
+  "id": "63aac4aa-5090-4719-b002-5b87bf162a5c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6904b1c25c91fBD9431621fbE495d7c49FCD171F",
+    "website": "https://www.cryptoniterelief.com/",
+    "twitter": "https://twitter.com/CRYPTONITE_CRT",
+    "telegram": "https://t.me/CryptoniteToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6904b1c25c91fBD9431621fbE495d7c49FCD171F/logo.png"
+  },
+  "name": "Cryptonite",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

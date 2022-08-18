@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Flokimooni Decentralized meme coin with DeFi features"
+  },
+  "id": "0c6c30ac-a40d-44ec-96b2-b16941d8fdc0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205",
+    "website": "https://www.flokimooni.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/flokimooni/",
+    "coingecko": "https://coingecko.com/en/coins/flokimooni"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205/logo.png"
+  },
+  "name": "Flokimooni",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Flokim",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa6ccAEBa565a11725fF5D6A642cb622f3D1402Cf",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CryptoMoonSwap planning to Build world’s most advanced cryptocurrency exchange. Combining the speed and features of a centralized exchange with the security of a DEX."
+  },
+  "id": "f4d3079d-2f1a-49c8-9799-4f64119d99af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa6ccAEBa565a11725fF5D6A642cb622f3D1402Cf",
+    "website": "https://cryptomoonswap.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa6ccAEBa565a11725fF5D6A642cb622f3D1402Cf/logo.png"
+  },
+  "name": "CryptoMoonSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

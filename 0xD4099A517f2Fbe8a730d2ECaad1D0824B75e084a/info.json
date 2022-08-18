@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "In The Monopolist, the players will build their own tactics through rolling dice, investing in buying land, building properties, collecting accommodation fees, and so on, to win the others by various ways. When you become the winner of any battles, you will earn $MONO and $MOB token, especially have chances to receive new characters, materials or items, which you can bring to NFT market for more earnings."
+  },
+  "id": "6e11effd-6479-4934-8afc-b540cb30f7f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a",
+    "website": "https://themonopolist.io",
+    "telegram": "https://t.me/themonopolist",
+    "twitter": "https://twitter.com/MonoNFTsGame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/the-monopolist"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD4099A517f2Fbe8a730d2ECaad1D0824B75e084a/logo.png"
+  },
+  "name": "The Monopolist",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MONO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

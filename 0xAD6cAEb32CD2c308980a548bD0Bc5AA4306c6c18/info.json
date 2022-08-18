@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts."
+  },
+  "id": "41ca34b1-fb08-4294-b4cd-018b7cc94f0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+    "research": "https://research.binance.com/en/projects/band-protocol",
+    "website": "https://bandprotocol.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/logo.png"
+  },
+  "name": "Binance-Peg Band Protocol Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

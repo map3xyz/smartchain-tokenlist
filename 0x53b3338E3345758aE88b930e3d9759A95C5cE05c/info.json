@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x53b3338E3345758aE88b930e3d9759A95C5cE05c",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "First two-dimensional meta-universe Decentralized Meme Coin Creates the BEST Metaverse on BSC genshinfloki FUN METAVERSE = NFT + GameFi + SmartToy + GenshinFlokiInu"
+  },
+  "id": "a4f24f82-38bf-4fd6-b1c2-4cf0881b1652",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x53b3338E3345758aE88b930e3d9759A95C5cE05c",
+    "website": "https://www.genshinfloki.com/",
+    "github": "https://github.com/GenshinFloki/GenshinFloki",
+    "twitter": "https://twitter.com/GenshinFloki",
+    "telegram": "https://t.me/GenshinFlokiOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/genshinflokiinu-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x53b3338E3345758aE88b930e3d9759A95C5cE05c/logo.png"
+  },
+  "name": "GenshinFlokiInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GFloki",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

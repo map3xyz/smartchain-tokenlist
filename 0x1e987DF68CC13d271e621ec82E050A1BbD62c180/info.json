@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WAGMI is the brilliant product of combining a Play-To-Earn game concept with a cultural acronym."
+  },
+  "id": "f2504215-d535-47dd-bdbf-b723446492c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+    "website": "https://www.wagmigame.io/",
+    "twitter": "https://twitter.com/WagmiGameCo",
+    "discord": "https://discord.com/wagmigame",
+    "reddit": "https://reddit.com/r/wagmigame/",
+    "facebook": "https://facebook.com/wagmigame/",
+    "telegram": "https://t.me/WAGMIOfficialGroup",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wagmi-game/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1e987DF68CC13d271e621ec82E050A1BbD62c180/logo.png"
+  },
+  "name": "WAGMI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAGMI",
+  "tags": [
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

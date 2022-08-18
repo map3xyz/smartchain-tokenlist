@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x651BfbB26455294408Aabc61a7ADF427bf149898",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Mello Token is a cryptocurrency designed for integration into the Mello Virtual Reality Casino Concept."
+  },
+  "id": "415ccfbd-44d8-47da-8c32-08c53e16b046",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x651bfbb26455294408aabc61a7adf427bf149898",
+    "website": "https://mellotoken.com/",
+    "twitter": "https://twitter.com/@mellotoken",
+    "facebook": "https://facebook.com/Mellotoken/",
+    "youtube": "https://youtube.com/channel/UC7vRh9a85iyi9DDujGwEy4g",
+    "reddit": "https://reddit.com/r/MelloToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x651BfbB26455294408Aabc61a7ADF427bf149898/logo.png"
+  },
+  "name": "Mello",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mello",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

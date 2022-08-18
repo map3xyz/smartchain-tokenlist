@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "BLink is a partnership between WINk and Binance community."
+  },
+  "id": "97947a1d-8eeb-49df-b87c-8f10325ac660",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+    "website": "https://blink.wink.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F/logo.png"
+  },
+  "name": "BLinkToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

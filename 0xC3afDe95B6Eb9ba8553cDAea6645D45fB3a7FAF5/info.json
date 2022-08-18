@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kiba Inu is restoring integrity to meme coins by building the safest Dex and Launchpad in the space. KibaSwap already includes our swap, KibaFomo, Honeypot Checker, KibaTools, and KibaReports. We are a meme coin to capitalize on the fun and organic growth that are common in this space. We are a utility that solves the problems newcomers and OG’s face frequently. We are a community that is regarded as the best and others try to emulate. Best of all, we are just getting started."
+  },
+  "id": "eae423a3-c9ab-43f9-a381-60abb64df889",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5",
+    "website": "https://kibainu.org/",
+    "twitter": "https://twitter.com/kibainuworld",
+    "telegram": "https://t.me/KibaInuGlobal",
+    "discord": "https://discord.com/invite/TU8NGUquPc",
+    "youtube": "https://youtube.com/channel/UCHyByhie4oQjM3uMdrsLYzA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kiba-inu/",
+    "coingecko": "https://coingecko.com/en/coins/kiba-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC3afDe95B6Eb9ba8553cDAea6645D45fB3a7FAF5/logo.png"
+  },
+  "name": "Kiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KIBA",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

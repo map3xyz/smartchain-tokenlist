@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Lock Chain Finance is a DeFi platform that lets everyone gain more profit from staking, liquidity mining, yield farming and many more!"
+  },
+  "id": "63efc357-3385-4019-a96c-e5d47ee284c9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAc4c2903fb2f073e94De57c79D8Bec5155662122",
+    "website": "http://lockchainfinance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAc4c2903fb2f073e94De57c79D8Bec5155662122/logo.png"
+  },
+  "name": "Lock Chain Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOCKCHAIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

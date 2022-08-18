@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2963dCc52549573BBFBe355674724528532C0867",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Metaverse platform made for artists and content creators"
+  },
+  "id": "4288c796-06d8-4f48-a8dc-bcdc46300d8a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2963dCc52549573BBFBe355674724528532C0867",
+    "website": "https://pexcoin.io/",
+    "twitter": "https://twitter.com/PexCoinProject",
+    "telegram": "https://t.me/Pexcoinproject",
+    "medium": "https://pexcoin.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pexcoin/",
+    "coingecko": "https://coingecko.com/en/coins/pexcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2963dCc52549573BBFBe355674724528532C0867/logo.png"
+  },
+  "name": "Project-X",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

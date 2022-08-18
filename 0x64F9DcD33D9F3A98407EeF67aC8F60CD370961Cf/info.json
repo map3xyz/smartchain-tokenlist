@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x64F9DcD33D9F3A98407EeF67aC8F60CD370961Cf",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ElonCryptoGod is a safe, auto-reward, hyper-deflationary DeFi token on the Binance Smart Chain built in response to the recent surge in rugpulls and scams."
+  },
+  "id": "d9e82c7b-c699-4a61-89df-e0567e05877a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64f9dcd33d9f3a98407eef67ac8f60cd370961cf",
+    "website": "https://www.eloncryptogod.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x64F9DcD33D9F3A98407EeF67aC8F60CD370961Cf/logo.png"
+  },
+  "name": "ElonCryptoGod",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECGOD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

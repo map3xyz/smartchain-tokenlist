@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x672147dD47674757C457eB155BAA382cc10705Dd",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "85ab61d8-98de-4fda-b026-e299792f7147",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x672147dD47674757C457eB155BAA382cc10705Dd",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x672147dD47674757C457eB155BAA382cc10705Dd/logo.png"
+  },
+  "name": "USD Coin (PoS) (Portal from Polygon)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDCpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

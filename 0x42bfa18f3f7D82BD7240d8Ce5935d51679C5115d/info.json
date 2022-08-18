@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sports 2K75 is a Web-3 based Sport-Fi Metaverse, combined with NFTs, De-Fi and gaming platform, users stake sports matches like NBA, Soccer, Esports with our S2E gaming platform."
+  },
+  "id": "2bd78c87-8d54-425e-ac8b-995d375c7003",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d",
+    "website": "https://www.2k75.online/",
+    "twitter": "https://twitter.com/Sports2k75",
+    "telegram": "https://t.me/sports2k75",
+    "github": "https://github.com/Sports2K75"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d/logo.png"
+  },
+  "name": "Sports 2K75",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "S2K",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

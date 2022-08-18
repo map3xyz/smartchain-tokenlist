@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moonarch provides powerful and original tools to BSC traders"
+  },
+  "id": "0f41558d-93f0-4f9e-91b7-efecb9ae4134",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141",
+    "website": "https://moonarch.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141/logo.png"
+  },
+  "name": "Moonarch.app",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONARCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

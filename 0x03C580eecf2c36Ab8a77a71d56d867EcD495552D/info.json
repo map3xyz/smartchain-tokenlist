@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x03C580eecf2c36Ab8a77a71d56d867EcD495552D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nuke Wars is an NFT-based Metaverse game on the Binance Smart Chain, powered by radioactive deflation. In Nuke’s universe tokens and NFTs burn alike, giving the nukers the power and wealth to fight the common enemy."
+  },
+  "id": "a7752065-a423-4b57-a7f3-51af991d9af2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x03c580eecf2c36ab8a77a71d56d867ecd495552d",
+    "website": "https://nukewars.io",
+    "twitter": "https://twitter.com/The_Real_Nuke_",
+    "telegram": "https://t.me/nuketoken_lfg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x03C580eecf2c36Ab8a77a71d56d867EcD495552D/logo.png"
+  },
+  "name": "NUKE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NUKE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

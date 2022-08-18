@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x3eE08275b513f3085231Ccc85de4C386FCc1f18b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The BelecX protocol will build and combine the crypto industry's Metaverse+NFT+GameFi+Defi+ blind-box multi-ring crypto world based on previous standards.BelecX provides a solution for web3.0 true autonomous community modules."
+  },
+  "id": "f71622c3-61b0-4701-adbb-f7ffc59a43af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3eE08275b513f3085231Ccc85de4C386FCc1f18b",
+    "website": "https://belecx.com",
+    "twitter": "https://twitter.com/BelecXToken",
+    "telegram": "https://t.me/BelecXChat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3eE08275b513f3085231Ccc85de4C386FCc1f18b/logo.png"
+  },
+  "name": "BelecX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEX",
+  "tags": [
+    "gamefi",
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

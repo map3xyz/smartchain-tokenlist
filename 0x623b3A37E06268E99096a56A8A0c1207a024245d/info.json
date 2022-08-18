@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x623b3A37E06268E99096a56A8A0c1207a024245d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Hyper Burn & Liquidity Generation Protocol"
+  },
+  "id": "0ee1e8bb-ab70-4596-87d1-51e3f912376b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x623b3A37E06268E99096a56A8A0c1207a024245d",
+    "website": "https://www.toastfinance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x623b3A37E06268E99096a56A8A0c1207a024245d/logo.png"
+  },
+  "name": "SpaceToast",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPACETOAST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

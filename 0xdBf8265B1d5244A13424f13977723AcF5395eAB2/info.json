@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdBf8265B1d5244A13424f13977723AcF5395eAB2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BEP20 tokenized version of wagerr"
+  },
+  "id": "7c96f15d-313a-4c42-9d62-2d7e2639a7a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdbf8265b1d5244a13424f13977723acf5395eab2",
+    "website": "https://www.wagerr.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xdBf8265B1d5244A13424f13977723AcF5395eAB2/logo.png"
+  },
+  "name": "Wagerr",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WGR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

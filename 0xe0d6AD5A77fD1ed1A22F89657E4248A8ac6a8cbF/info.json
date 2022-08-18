@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe0d6AD5A77fD1ed1A22F89657E4248A8ac6a8cbF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Introducing the Convenience of Centralization into Decentralization"
+  },
+  "id": "c586c577-5104-49f5-8ee9-9ee3bb9af556",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe0d6ad5a77fd1ed1a22f89657e4248a8ac6a8cbf",
+    "website": "https://dailyswap.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe0d6AD5A77fD1ed1A22F89657E4248A8ac6a8cbF/logo.png"
+  },
+  "name": "DailySwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DailyS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

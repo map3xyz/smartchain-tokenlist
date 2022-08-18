@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VAI is the world’s first decentralized stablecoin, enabled by Venus, built on Binance Smart Chain."
+  },
+  "id": "00205e4f-0809-41b4-bc3d-858047814cd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+    "website": "http://venus.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7/logo.png"
+  },
+  "name": "VAI Stablecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VAI",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

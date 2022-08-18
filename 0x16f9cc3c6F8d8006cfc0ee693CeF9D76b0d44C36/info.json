@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x16f9cc3c6F8d8006cfc0ee693CeF9D76b0d44C36",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are the first token to combine these 5 super elements at once."
+  },
+  "id": "f8bb0a26-6304-49b9-9532-c256e700d93c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16f9cc3c6F8d8006cfc0ee693CeF9D76b0d44C36",
+    "website": "https://babybalibsc.com",
+    "telegram": "https://t.me/babybali",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/baby-bali/",
+    "twitter": "https://twitter.com/BabyBalibsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x16f9cc3c6F8d8006cfc0ee693CeF9D76b0d44C36/logo.png"
+  },
+  "name": "Baby Bali",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

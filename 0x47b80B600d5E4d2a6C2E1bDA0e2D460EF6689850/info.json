@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x47b80B600d5E4d2a6C2E1bDA0e2D460EF6689850",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AutCoin is a charity token designed to support people with Autism"
+  },
+  "id": "8573305b-6443-4385-8677-b86cfde4b357",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47b80B600d5E4d2a6C2E1bDA0e2D460EF6689850",
+    "website": "https://www.autcoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x47b80B600d5E4d2a6C2E1bDA0e2D460EF6689850/logo.png"
+  },
+  "name": "AutCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AUT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

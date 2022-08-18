@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf8D954168FbbF579F8FAd5F7583d4f76f10AE97D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Native token of NFT Alley Protocol(Multi-chain NFT Marketplace)"
+  },
+  "id": "fd88960d-98b3-44d5-b72f-6fbd88ea4ce4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf8D954168FbbF579F8FAd5F7583d4f76f10AE97D",
+    "website": "https://nftalley.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf8D954168FbbF579F8FAd5F7583d4f76f10AE97D/logo.png"
+  },
+  "name": "Alley Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALLEY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

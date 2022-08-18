@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonGhost was created with the sole purpose of investor's being able to collect BNB by holding MOONGHOST."
+  },
+  "id": "e2ff895e-f1f2-4e06-a5b8-99b3a96d1497",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C",
+    "website": "http://moonghost.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf818D092BeAF21BEaFe6aCDd8230BD5F7b861D9C/logo.png"
+  },
+  "name": "MoonGhost",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONGHOST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEAc9873291dDAcA754EA5642114151f3035c67A2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decubate is a community-powered investment platform that is bringing the $3 trillion global startup economy on-chain, unlocking liquidity for investors, and accelerating the mass adoption of blockchain technology."
+  },
+  "id": "91df5b2d-da97-4eb5-a036-52423637be5b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEAc9873291dDAcA754EA5642114151f3035c67A2",
+    "website": "https://decubate.com",
+    "telegram": "https://t.me/decubate",
+    "twitter": "https://twitter.com/decubate",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/decubate/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEAc9873291dDAcA754EA5642114151f3035c67A2/logo.png"
+  },
+  "name": "Decubate Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

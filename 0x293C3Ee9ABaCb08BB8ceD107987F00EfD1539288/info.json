@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "First Empire ever seen into the Blockchain and DeFi space!"
+  },
+  "id": "16f3d065-3409-4406-8586-1ca6f3082e65",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288",
+    "website": "https://empiretoken.world/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288/logo.png"
+  },
+  "name": "Empire Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EMPIRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

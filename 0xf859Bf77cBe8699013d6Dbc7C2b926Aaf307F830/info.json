@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain). "
+  },
+  "id": "896bac30-e566-4626-9f92-d3d5fe4058b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+    "website": "https://berrydata.co/",
+    "github": "https://github.com/berrydata",
+    "twitter": "https://twitter.com/berry_data",
+    "telegram": "https://t.me/berrydata"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830/logo.png"
+  },
+  "name": "Berry Data",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BRY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

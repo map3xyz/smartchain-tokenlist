@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfA949EF822125233f1e1A0691c13977B4354B257",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Clown coin is a binary smart chain network based on the BEP-20 token."
+  },
+  "id": "a8e1acfa-b07a-4795-89fd-7ebb3410c59b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfA949EF822125233f1e1A0691c13977B4354B257",
+    "website": "https://www.clown-coin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfA949EF822125233f1e1A0691c13977B4354B257/logo.png"
+  },
+  "name": "CLOWN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CLOWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

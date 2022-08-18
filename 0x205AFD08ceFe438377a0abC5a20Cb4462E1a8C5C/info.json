@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x205AFD08ceFe438377a0abC5a20Cb4462E1a8C5C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "OBROk Token is Launched in 17.06.2021 and with limited supply, produced with the BEP-20(BSC) network. The working areas of the OBRok Token (OBROK) Team are * Metaverse * Web 3.0 * Aeronautical Sciences and Space * Renewable Energy"
+  },
+  "id": "fd21eb06-a649-4e24-9899-0c37affba5a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x205afd08cefe438377a0abc5a20cb4462e1a8c5c",
+    "website": "https://obroktoken.com",
+    "twitter": "https://twitter.com/Obroktoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/obrok-token/",
+    "coingecko": "https://coingecko.com/en/coins/obrok/",
+    "whitepaper": "https://obroktoken.com/white-paper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x205AFD08ceFe438377a0abC5a20Cb4462E1a8C5C/logo.png"
+  },
+  "name": "OBRok Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OBROK",
+  "tags": [
+    "metaverse"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

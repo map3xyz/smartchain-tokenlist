@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x739e81BCd49854d7BDF526302989f14A2E7994B2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Centcex is designed to build blockchain apps "
+  },
+  "id": "27fe186d-7cb8-44b9-9ef4-aac9c13e6008",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x739e81bcd49854d7bdf526302989f14a2e7994b2",
+    "website": "https://centcex.com",
+    "telegram": "https://t.me/centcex",
+    "twitter": "https://twitter.com/centcex"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x739e81BCd49854d7BDF526302989f14A2E7994B2/logo.png"
+  },
+  "name": "Centcex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CENX",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

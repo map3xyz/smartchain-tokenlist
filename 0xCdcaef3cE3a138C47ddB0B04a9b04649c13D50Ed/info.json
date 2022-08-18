@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xCdcaef3cE3a138C47ddB0B04a9b04649c13D50Ed",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are a strong mysterious community based project focused on having fun, giveaways, donations, and building strong utilities."
+  },
+  "id": "4c876932-6b3a-4666-a59c-0adef9537d03",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcdcaef3ce3a138c47ddb0b04a9b04649c13d50ed",
+    "website": "https://mysterbox.io",
+    "twitter": "https://twitter.com/mysterbox_io",
+    "github": "https://github.com/mysterboxio/Mystery",
+    "telegram": "https://t.me/mysterbox_io",
+    "telegramNews": "https://t.me/Mysterycryptoannouncements",
+    "discord": "https://discord.com/DjwzVkyG",
+    "whitepaper": "https://mysterbox.io/pdfviewer/whitepaper",
+    "medium": "https://medium.com/@MysterBox_io",
+    "reddit": "https://reddit.com/MysteryCrypto",
+    "facebook": "https://facebook.com/mysterboxio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mystery",
+    "coingecko": "https://coingecko.com/en/coins/mystery",
+    "sourceCode": "https://github.com/mysterboxio/Mystery/blob/main/Mystery%20Source%20Code.sol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCdcaef3cE3a138C47ddB0B04a9b04649c13D50Ed/logo.png"
+  },
+  "name": "Mystery",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MYST",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

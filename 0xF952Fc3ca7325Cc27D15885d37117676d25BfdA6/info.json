@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "2nd generation yield farming on binance smart chain"
+  },
+  "id": "9023370b-c81a-4c38-b1ab-7e16f69cd84c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+    "website": "https://www.goosedefi.com/",
+    "twitter": "https://twitter.com/FinanceGoose",
+    "telegram": "https://t.me/goosedefi",
+    "discord": "https://discord.com/invite/Ezh5KH9epd",
+    "medium": "https://goosefinance.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6/logo.png"
+  },
+  "name": "Goose Golden Egg",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EGG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

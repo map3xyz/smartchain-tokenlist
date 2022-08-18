@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xc0E6AD13BD58413Ed308729b688d601243E1CF77",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BLK whale completed various ETF derivatives that Cefi could not do, but in Defi. Users are able to mint ETF tokens designed to track in real-time an index of various valuable coins on multiple exchanges around the world as well as users can check the ETF portfolios of BLK whales manages."
+  },
+  "id": "0d2267b2-4584-46b3-81fa-9e420266996f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc0E6AD13BD58413Ed308729b688d601243E1CF77",
+    "website": "https://blkwhale.com",
+    "twitter": "https://twitter.com/blkwhalegroup",
+    "telegram": "https://t.me/BLKwhale_global",
+    "medium": "https://medium.com/@BlkWhale",
+    "facebook": "https://facebook.com/BlkWhale",
+    "github": "https://github.com/BlkWhale",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/black-whale",
+    "coingecko": "https://coingecko.com/coins/black-whale"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc0E6AD13BD58413Ed308729b688d601243E1CF77/logo.png"
+  },
+  "name": "Black Whale Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

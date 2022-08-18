@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x19B60612F9A93359bca835A788A334D4157E675B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PAWGcoin is disrupting the viral meme coin market by providing a cryptocurrency that powers transactions between content creators and content enthusiasts of tasteful noods."
+  },
+  "id": "e7447df7-f412-469b-86d5-23c65b194809",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x19B60612F9A93359bca835A788A334D4157E675B",
+    "website": "https://www.pawgcoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x19B60612F9A93359bca835A788A334D4157E675B/logo.png"
+  },
+  "name": "PAWGcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAWG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

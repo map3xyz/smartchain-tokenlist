@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x5445451C07E20bA1ca887B6c74d66D358F46D083",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zombie World Z is upgraded and developed based on Zombie Idle Defense – a successful and established game in the market. Currently, the publisher has transformed the upgrade by applying blockchain technology and metaverse to game mining in a new aspect with a game economy tied to Tokens and blockchain on the Binance Smartchain platform."
+  },
+  "id": "a4bd0d4c-9dfa-4a4b-a7cd-51f46eb036e8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5445451C07E20bA1ca887B6c74d66D358F46D083",
+    "website": "https://zombieworldz.io",
+    "twitter": "https://twitter.com/ZWZ_Official",
+    "telegram": "https://t.me/zombieworldz",
+    "discord": "https://discord.com/invite/zombieworldz",
+    "whitepaper": "https://docs.zombieworldz.io/p/introduction/welcome-to-zwz",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zombie-world-z"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5445451C07E20bA1ca887B6c74d66D358F46D083/logo.png"
+  },
+  "name": "Zombie World Z",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZwZ",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

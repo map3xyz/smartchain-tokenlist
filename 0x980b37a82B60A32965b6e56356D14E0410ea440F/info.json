@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x980b37a82B60A32965b6e56356D14E0410ea440F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Token issued by Ronin Gamez studio as a transactional token for the future game launchpad"
+  },
+  "id": "574b3e16-f40a-4dce-ae0c-b0baf230d0d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x980b37a82B60A32965b6e56356D14E0410ea440F",
+    "website": "https://roningamez.io/",
+    "twitter": "https://twitter.com/ronin_gamez",
+    "telegram": "https://t.me/RONINGAMEZ",
+    "youtube": "https://youtube.com/channel/UCwpmXZhLzaFyzMVvMXVombA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x980b37a82B60A32965b6e56356D14E0410ea440F/logo.png"
+  },
+  "name": "Ronin Gamez",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RONINGMZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Open Network is a blockchain-based decentralized computer network. TON is designed to enable processing millions of transactions per second via infinite sharding paradigm. It allows building Web 3.0 empowered by decentralized storage and DNS, instant payments and decentralized services."
+  },
+  "id": "bf8f2180-5a6d-4d8a-b6ee-04b4d037737f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "website": "https://ton.org/",
+    "github": "https://github.com/newton-blockchain",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/toncoin/",
+    "telegram": "https://t.me/tonblockchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x76A797A59Ba2C17726896976B7B3747BfD1d220f/logo.png"
+  },
+  "name": "Wrapped TON Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TONCOIN",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KeyFi is an all-in-one platform for tracking, swapping, and staking your tokens, and more."
+  },
+  "id": "e094887a-f2c6-4d38-a3e3-a8a6b82f2cbe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d",
+    "website": "https://keyfi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d/logo.png"
+  },
+  "name": "KEYFI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KEYFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SIL.Finance is a single sided yield aggregator (1 click hedging) with adventurous functional #NFT farming card add-ons."
+  },
+  "id": "fbf2df6a-da12-493f-af8f-898642711870",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x133bb423d9248a336d2b3086b8f44a7dbff3a13c",
+    "website": "https://sil.finance/",
+    "telegram": "https://t.me/sil_finance",
+    "twitter": "https://twitter.com/Sil_Finance",
+    "medium": "https://sil-finance.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x133Bb423d9248a336D2b3086b8F44A7DbFF3a13C/logo.png"
+  },
+  "name": "SIL Finance Token V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Floki Inu is a deflationary token on BSC, holders are redistributed 3% of all tokens traded, Floki is a community backed meme powered project."
+  },
+  "id": "1a919c92-d2b2-420f-922c-119685f73fb4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A",
+    "website": "https://babyflokiinu.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A/logo.png"
+  },
+  "name": "Baby Floki Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

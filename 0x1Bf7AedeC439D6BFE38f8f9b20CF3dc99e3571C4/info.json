@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The only launchpad fully backed by the Tron Network! TRONPAD will empower crypto currency projects with the ability to distribute tokens and raise liquidity."
+  },
+  "id": "a3ade053-418b-428e-8919-3cbca4adf974",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4",
+    "website": "https://tronpad.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1Bf7AedeC439D6BFE38f8f9b20CF3dc99e3571C4/logo.png"
+  },
+  "name": "TRONPAD.network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRONPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

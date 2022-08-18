@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg SHIBA INU (SHIB BEP20) is a token issued by Binance on Smart Chain; its price is pegged to SHIBA INU (SHIB ERC20) at a ratio of 1:1."
+  },
+  "id": "896f6b59-237a-4a52-9cf0-ce24f4963d95",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+    "website": "https://shibatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D/logo.png"
+  },
+  "name": "Binance-Peg SHIBA INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

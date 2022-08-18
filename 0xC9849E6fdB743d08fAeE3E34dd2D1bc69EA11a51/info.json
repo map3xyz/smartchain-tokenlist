@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PancakeBunny is a new and rapidly growing DeFi yield aggregator that is used for PancakeSwap. PancakeBunny protocol empowers farmers to leverage their yield-seeking tendencies to optimize yield compounding strategy on BSC. We are providing strategies for the various needs of farmers from the highest yield seekers to the risk reward optimizing smart investors."
+  },
+  "id": "10300cbc-6fdd-4e21-a3cb-e2ec39807747",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+    "website": "https://pancakebunny.finance",
+    "github": "https://github.com/PancakeBunny-finance/Bunny",
+    "twitter": "https://twitter.com/PancakeBunnyFin",
+    "telegram": "https://t.me/pancakebunny_fin",
+    "medium": "https://pancakebunny.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51/logo.png"
+  },
+  "name": "Bunny Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUNNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

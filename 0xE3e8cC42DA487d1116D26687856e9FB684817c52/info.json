@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE3e8cC42DA487d1116D26687856e9FB684817c52",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Community Oriented Project, with Rastafarian Ideology, deployed on the Binance Smart Chain. "
+  },
+  "id": "72fda49c-99fa-4e37-b6fc-5b473e91fd6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE3e8cC42DA487d1116D26687856e9FB684817c52",
+    "website": "https://rasta.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE3e8cC42DA487d1116D26687856e9FB684817c52/logo.png"
+  },
+  "name": "RASTA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RASTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

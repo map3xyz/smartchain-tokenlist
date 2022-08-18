@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media."
+  },
+  "id": "d806e513-e960-461f-ab45-5983e01ca001",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x33d08D8C7a168333a85285a68C0042b39fC3741D",
+    "website": "https://aioz.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x33d08D8C7a168333a85285a68C0042b39fC3741D/logo.png"
+  },
+  "name": "AIOZ Network Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIOZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

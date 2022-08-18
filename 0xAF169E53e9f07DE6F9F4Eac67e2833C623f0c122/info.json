@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xAF169E53e9f07DE6F9F4Eac67e2833C623f0c122",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Torpedo is the first BSC underwater GEM."
+  },
+  "id": "35602327-138f-4c0b-93bc-b55e9d99462f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaf169e53e9f07de6f9f4eac67e2833c623f0c122",
+    "research": "https://torpedo.live",
+    "website": "https://torpedo.live"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAF169E53e9f07DE6F9F4Eac67e2833C623f0c122/logo.png"
+  },
+  "name": "Torpedo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TORPEDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

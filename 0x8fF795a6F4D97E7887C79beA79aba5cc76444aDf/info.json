@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC)."
+  },
+  "id": "829f36e9-4431-42b6-aeb3-fb9a26361b62",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "research": "https://research.binance.com/en/projects/bitcoin-cash",
+    "website": "https://bitcoincash.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png"
+  },
+  "name": "Binance-Peg Bitcoin Cash Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

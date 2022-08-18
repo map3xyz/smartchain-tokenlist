@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xA67a13c9283Da5AABB199Da54a9Cb4cD8B9b16bA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nobility is a BSC token that will revolutionize the esports landscape by organizing and providing tournaments with large prize pools, helping content creators earn more from playing the games they love, and more use cases that will fill glaring holes within the community."
+  },
+  "id": "7f117428-1f79-4d5a-ae45-defe323bd561",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA67a13c9283Da5AABB199Da54a9Cb4cD8B9b16bA",
+    "website": "https://nobilitytoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nobility-new/",
+    "coingecko": "https://coingecko.com/en/coins/nobility-new",
+    "twitter": "https://twitter.com/nobilitytoken",
+    "telegram": "https://t.me/thenobilitytoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA67a13c9283Da5AABB199Da54a9Cb4cD8B9b16bA/logo.png"
+  },
+  "name": "Nobility",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NBL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

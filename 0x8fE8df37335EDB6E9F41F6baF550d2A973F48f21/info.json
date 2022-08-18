@@ -1,0 +1,37 @@
+{
+  "active": false,
+  "address": "0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Eliminating online fraud by applying escrow system using smart contracts in Trustless methods where no 3rd party is needed in those unbreakable contracts."
+  },
+  "id": "a00603d2-be91-4066-9065-02f16e04ccd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21",
+    "website": "https://coinerr.io",
+    "twitter": "https://twitter.com/coinerr_err",
+    "github": "https://github.com/CoinerrERR",
+    "telegram": "https://t.me/CoinerrAR",
+    "telegramNews": "https://t.me/coinerr_ERR",
+    "whitepaper": "https://coinerr.io/papers/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinerr",
+    "facebook": "https://facebook.com/Coinerr.rr",
+    "youtube": "https://youtube.com/channel/UCfU0PKNbak6ltlc7U5rCT3w",
+    "medium": "https://coinerr.medium.com/",
+    "reddit": "https://reddit.com/r/Coinerr_ERR"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21/logo.png"
+  },
+  "name": "Coinerr",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ERR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8bfc1c564E4490790DFac641C9a0FecD3f91F584",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FETCH is a BEP 20 cryptocurrency of the MoonRetriever project which is the first-ever DEFI project on Binance Smart Chain providing a crypto risk assessment platform "
+  },
+  "id": "5c760e7c-f17f-4801-a09c-e5d38b40be98",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8bfc1c564E4490790DFac641C9a0FecD3f91F584",
+    "website": "https://www.moonretriever.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8bfc1c564E4490790DFac641C9a0FecD3f91F584/logo.png"
+  },
+  "name": "MoonRetriever",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FETCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

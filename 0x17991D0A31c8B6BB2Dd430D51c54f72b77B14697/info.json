@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x17991D0A31c8B6BB2Dd430D51c54f72b77B14697",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Second token in the Chihua Token Ecosystem. Chimom is the female version of Chihua and is needed for successfull breeding of Puppies"
+  },
+  "id": "5b79acaf-e9d5-479d-b482-979c50c71fc2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17991D0A31c8B6BB2Dd430D51c54f72b77B14697",
+    "website": "https://chihuatoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x17991D0A31c8B6BB2Dd430D51c54f72b77B14697/logo.png"
+  },
+  "name": "Chihua Mom Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHIMOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

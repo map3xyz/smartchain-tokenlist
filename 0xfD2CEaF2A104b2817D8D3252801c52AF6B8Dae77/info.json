@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfD2CEaF2A104b2817D8D3252801c52AF6B8Dae77",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FTV is the user owned and democtratically controlled entertainment DAO and multi-media NFT hub in V/AR."
+  },
+  "id": "2efe5092-4457-406f-824b-da4ee2ed9127",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfD2CEaF2A104b2817D8D3252801c52AF6B8Dae77",
+    "website": "https://futurov.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfD2CEaF2A104b2817D8D3252801c52AF6B8Dae77/logo.png"
+  },
+  "name": "Futurov Governance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FTV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

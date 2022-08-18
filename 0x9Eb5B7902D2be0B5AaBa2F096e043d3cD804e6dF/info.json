@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9Eb5B7902D2be0B5AaBa2F096e043d3cD804e6dF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MyPetSocial is a social network for NFTs gaming on Binance Smart Chain, where you can generate more profit from your NFTs. By making the most of NFTs usage, MyPetSocial promises to bring about the best users experience of the crypto world."
+  },
+  "id": "77e08b2d-93f0-46ba-aad2-46121cee3f53",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9Eb5B7902D2be0B5AaBa2F096e043d3cD804e6dF",
+    "website": "https://mypetsocial.org/",
+    "twitter": "https://twitter.com/mypetsocial",
+    "telegram": "https://t.me/Mypetsocial",
+    "telegramNews": "https://t.me/MypetsocialAnn",
+    "docs": "https://docs.mypetsocial.org/",
+    "whitepaper": "https://mypetsocial.org/pitchdeck",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/my-pet-social/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9Eb5B7902D2be0B5AaBa2F096e043d3cD804e6dF/logo.png"
+  },
+  "name": "My Pet Social",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MPS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

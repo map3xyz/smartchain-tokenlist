@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain."
+  },
+  "id": "ba7317f4-4f1f-4aaf-bbcc-f91dd51b6fda",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F",
+    "website": "https://web3inu.org",
+    "twitter": "https://twitter.com/web3_inu",
+    "github": "https://github.com/web3inu",
+    "telegram": "https://t.me/WEB3_inu",
+    "telegramNews": "https://t.me/web3inu_news",
+    "whitepaper": "https://web3inu.org/assets/Whitepaper.pdf",
+    "medium": "https://medium.com/@web3_inu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/web3-inu/",
+    "coingecko": "https://coingecko.com/en/coins/web3-inu",
+    "sourceCode": "https://bscscan.com/address/0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F/logo.png"
+  },
+  "name": "WEB3 Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEB3",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

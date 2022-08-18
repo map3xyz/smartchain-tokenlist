@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x76F34cd142ca4a5ea2E197ebffbF5234A1c29268",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "A Decentralized Gaming Play to Earn Token Based On Binance Smart Chain"
+  },
+  "id": "dd52bb9c-df2d-4ebe-8737-5c3e6e53d23c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x76F34cd142ca4a5ea2E197ebffbF5234A1c29268",
+    "website": "https://www.titanwar.io/",
+    "twitter": "https://twitter.com/TitanWarNFT",
+    "github": "https://github.com/TitanWarNFT",
+    "telegram": "https://t.me/TitanWarNFT",
+    "telegramNews": "https://t.me/TitanWarAnn",
+    "facebook": "https://facebook.com/TitanWarNFT",
+    "medium": "https://medium.com/@titanwarnft",
+    "discord": "https://discord.com/invite/YkrtxtF4xP",
+    "whitepaper": "https://drive.google.com/file/d/1xTNlhRHj2DrA-pS05hmEn_p1_YgXSUfj/view",
+    "youtube": "https://youtube.com/channel/UCyT8GKH09kifnkEx2_5MaBg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x76F34cd142ca4a5ea2E197ebffbF5234A1c29268/logo.png"
+  },
+  "name": "Titan War",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TITAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

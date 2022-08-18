@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xf06419C638a1d809C024Aa693147dBDc42B60145",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BankerDoge is a Defi as a Service platform designed to add features such as staking, time-locking, and Defi lending to any BSC token."
+  },
+  "id": "73c3922c-f90b-4840-be40-c19eeb433c8e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf06419C638a1d809C024Aa693147dBDc42B60145",
+    "website": "https://bankerdoge.com",
+    "twitter": "https://twitter.com/bankerdoge",
+    "github": "https://github.com/NathajiM/bankerdogecontract",
+    "telegram": "https://t.me/BankerDogeOfficial",
+    "telegramNews": "https://t.me/BankerDogeNews",
+    "medium": "https://bankerdoge.medium.com/",
+    "youtube": "https://youtube.com/channel/UCQJSGhSU6sdznnkbCuO5N5Q",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bankerdoge/",
+    "coingecko": "https://coingecko.com/en/coins/bankerdoge",
+    "reddit": "https://reddit.com/bankerdoge",
+    "facebook": "https://facebook.com/BankerDoge-160194746146041",
+    "whitepaper": "https://altruismprotocol.notion.site/BankerDoge-Live-Whitepaper-d8329e5c7f304b53bfbf8583ea2af7df",
+    "discord": "https://discord.com/bZHRk3dBqn"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf06419C638a1d809C024Aa693147dBDc42B60145/logo.png"
+  },
+  "name": "BankerDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BANKER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

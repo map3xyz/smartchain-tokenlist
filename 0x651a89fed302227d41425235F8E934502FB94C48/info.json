@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x651a89fed302227d41425235F8E934502FB94C48",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A revolutionary new token that earns you 10% ADA reflections just for holding"
+  },
+  "id": "dd59c9ec-93da-4a2d-a2d2-bbe86f01e57c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x651a89fed302227d41425235F8E934502FB94C48",
+    "website": "https://adacash.io",
+    "whitepaper": "https://adacash.io/whitepaper",
+    "twitter": "https://twitter.com/adacashbsc",
+    "telegram": "https://t.me/adacashtoken",
+    "reddit": "https://reddit.com/r/adacash/",
+    "youtube": "https://youtube.com/channel/UCNxEz6I44_y8oThFvakyYpA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/adacash/",
+    "coingecko": "https://coingecko.com/en/coins/adacash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x651a89fed302227d41425235F8E934502FB94C48/logo.png"
+  },
+  "name": "ADAcash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADAcash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

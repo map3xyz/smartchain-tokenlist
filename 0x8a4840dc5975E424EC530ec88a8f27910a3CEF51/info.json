@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8a4840dc5975E424EC530ec88a8f27910a3CEF51",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "4-Stock is a token for selling and buying a part of the company."
+  },
+  "id": "b0782c33-a672-4ba5-8e29-01cdf3235a16",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8a4840dc5975E424EC530ec88a8f27910a3CEF51",
+    "website": "https://www.4-soft.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8a4840dc5975E424EC530ec88a8f27910a3CEF51/logo.png"
+  },
+  "name": "4-Stock",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "4STC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

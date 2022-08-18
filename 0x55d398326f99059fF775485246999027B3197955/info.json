@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x55d398326f99059fF775485246999027B3197955",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent."
+  },
+  "id": "fe73018f-b1f6-4ef3-ac4e-15a98a43b373",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
+    "website": "https://tether.to",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether/",
+    "coingecko": "https://coingecko.com/en/coins/tether/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x55d398326f99059fF775485246999027B3197955/logo.png"
+  },
+  "name": "Binance-Peg BSC-USD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

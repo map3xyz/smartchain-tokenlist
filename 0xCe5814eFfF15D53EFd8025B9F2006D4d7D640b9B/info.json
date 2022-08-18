@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xCe5814eFfF15D53EFd8025B9F2006D4d7D640b9B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MOONSTAR is a stealth launched, community driven, DeFi Token programmed to reward holders through its frictionless yield and liquidity generation protocol."
+  },
+  "id": "50de6f34-7d46-40e7-82be-0239b5478e04",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xce5814efff15d53efd8025b9f2006d4d7d640b9b",
+    "website": "https://moonstartoken.com/",
+    "twitter": "https://twitter.com/MoonStarToken/",
+    "telegram": "https://t.me/moonstarchat/",
+    "discord": "https://discord.com/invite/bnVZC6JScn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCe5814eFfF15D53EFd8025B9F2006D4d7D640b9B/logo.png"
+  },
+  "name": "MoonStar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONSTAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4EaBb20064586DeA07AAaF84d4bA35037854bd44",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Charix is a charity token on the Binance Smart Chain Network"
+  },
+  "id": "17b6a6cb-bb2d-4fd4-99d3-5d41aeccf418",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4EaBb20064586DeA07AAaF84d4bA35037854bd44",
+    "website": "https://charix.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4EaBb20064586DeA07AAaF84d4bA35037854bd44/logo.png"
+  },
+  "name": "CHARIX TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHARIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

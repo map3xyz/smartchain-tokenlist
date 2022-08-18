@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xc709878167Ed069Aea15FD0bD4E9758CEb4Da193",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DOD (Day of Defeat) is a token issued on the Binance Smart Chain. It is first and exciting social experiment on this planet, with a radical deflationary mathematical model which will keep the price of DOD token rising continuously."
+  },
+  "id": "2d77d466-1ab9-4396-8304-e848da4a6f29",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc709878167Ed069Aea15FD0bD4E9758CEb4Da193",
+    "website": "https://dayofdefeat.app",
+    "twitter": "https://twitter.com/dayofdefeatBSC",
+    "telegram": "https://t.me/DayOfDefeatBSC",
+    "whitepaper": "https://github.com/DOD195450508/docs/blob/main/%24DOD-WhitePaper.pdf",
+    "discord": "https://discord.com/invite/yVGAW86x"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc709878167Ed069Aea15FD0bD4E9758CEb4Da193/logo.png"
+  },
+  "name": "DODToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOD",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

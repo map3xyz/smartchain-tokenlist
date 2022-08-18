@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0EF008FF963572d3DAbc12E222420F537ddaBf94",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Vero Farm- Let's Explorer Magical Farm. Vero Farm is a farm game built to keep players of all ages entertained and rewarded with VERO tokens."
+  },
+  "id": "b2a095d2-48b0-486d-8ddb-92486b6072ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0EF008FF963572d3DAbc12E222420F537ddaBf94",
+    "website": "https://verofarm.com/",
+    "github": "https://github.com/verofarm/",
+    "twitter": "https://twitter.com/verofarmgames/",
+    "telegram": "https://t.me/verofarm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0EF008FF963572d3DAbc12E222420F537ddaBf94/logo.png"
+  },
+  "name": "Vero Farm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa0A9961b7477D1a530f06a1ee805d5E532e73d97",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ariadne is a cross-chain DeFi marketplace that is lowering the fees to enter/exit farms on multiple blockchains and saves swaps and bridges costs for both EVM and non-EVM chains."
+  },
+  "id": "8091d855-caaa-4e34-8905-4e55aaa486aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa0A9961b7477D1a530f06a1ee805d5E532e73d97",
+    "website": "https://ariadne.finance",
+    "medium": "https://medium.com/ariadne-project",
+    "twitter": "https://twitter.com/ariadne_finance",
+    "telegram": "https://t.me/ariadne_finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ariadne/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa0A9961b7477D1a530f06a1ee805d5E532e73d97/logo.png"
+  },
+  "name": "Ariadne",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

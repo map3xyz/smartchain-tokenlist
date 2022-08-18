@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x10B7Be52636882d7ECa1611144A9Df7642F95B5D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SHIBA SUPER is SHIBA Memes Token"
+  },
+  "id": "4518ddf7-53f0-4a82-9869-3ad5681f7fdc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10B7Be52636882d7ECa1611144A9Df7642F95B5D",
+    "website": "https://shibasuper.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x10B7Be52636882d7ECa1611144A9Df7642F95B5D/logo.png"
+  },
+  "name": "SHIBA SUPER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB5791d504367dEE4BA3A379fb3d3d5A6B955cb2e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token to increase adoption of cryptocurrency."
+  },
+  "id": "38d6fa5e-8afd-40f8-87b1-d6d1cbdb8bd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb5791d504367dee4ba3a379fb3d3d5a6b955cb2e",
+    "website": "https://theluxurybank.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB5791d504367dEE4BA3A379fb3d3d5A6B955cb2e/logo.png"
+  },
+  "name": "The Luxury Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TLB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
