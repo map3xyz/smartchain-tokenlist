@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "V-ID makes any digital file verifiable. The VIDT API enables organizations to protect their digital data against fraud and manipulation. A simple but strong formula, that adds and protects value at minimum expense and effort. Organizations like Airbus, AmSpec and IBM use VIDT Datalink to certify and secure digital documents like certificates, invoices, diplomas and sensor-data. VIDT Datalink products and services connect every cloud to every blockchain."
+  },
+  "id": "406d9054-32b7-4988-964d-d0a6d1994d20",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110/logo.png"
+  },
+  "name": "VIDT Datalink BEP20",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

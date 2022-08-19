@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x290c665656a67e0ea0784f90ECBaeFF77c884217",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TAT is a utility token designed to create value and alleviate most financial problems faced by Africans"
+  },
+  "id": "fea1ea22-774f-492e-88c7-d20c9f64284c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x290c665656a67e0ea0784f90ECBaeFF77c884217",
+    "website": "https://abitnetwork.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x290c665656a67e0ea0784f90ECBaeFF77c884217/logo.png"
+  },
+  "name": "Tatcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x3780E00D4c60887AF38345cCd44f7617dBFB10A0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dogecoin 2.0 is a DEFI token on the BSC network. Born out of the original Dogecoin community."
+  },
+  "id": "438c7e79-f6d8-4f0e-a6a8-a4cf3a3823ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3780e00d4c60887af38345ccd44f7617dbfb10a0",
+    "website": "https://dogecoin2.org/",
+    "github": "https://github.com/Dogecoin2-0/",
+    "twitter": "https://twitter.com/Doge2_Official",
+    "reddit": "https://reddit.com/r/Dogecoin2_point_0/",
+    "discord": "https://discord.com/doge2",
+    "telegram": "https://t.me/joinchat/pbZ1dx14bCAyMzY0",
+    "facebook": "https://facebook.com/DOGECOIN2/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3780E00D4c60887AF38345cCd44f7617dBFB10A0/logo.png"
+  },
+  "name": "Dogecoin 2.0",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Doge2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$CURE is the first deflationary crypto token built around doing good. By design, this community powered token has exponential price growth benefits for both holders and charities."
+  },
+  "id": "622ed22e-06d8-4d5d-a022-1cb58f4b6cf7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6",
+    "website": "https://www.curetoken.net/",
+    "twitter": "https://twitter.com/cure_token",
+    "telegram": "https://t.me/CureTokenV2",
+    "youtube": "https://youtube.com/channel/UCXAxVIBP4pUMHVy_Zdo-82g",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cure-token/",
+    "coingecko": "https://coingecko.com/en/coins/cure-token-v2",
+    "whitepaper": "https://curetoken.net/whitepaper",
+    "facebook": "https://facebook.com/curetoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6/logo.png"
+  },
+  "name": "CURE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CURE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

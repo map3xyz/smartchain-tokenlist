@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x604D105f2F1f68641a000f03b5DC557bFFfdB8FE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SoupSwap Is Multi-Ecosystems Decentralized Finance Platform"
+  },
+  "id": "76bef7fa-b0d5-415c-ac02-df9d4bb68a8c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x604D105f2F1f68641a000f03b5DC557bFFfdB8FE",
+    "website": "https://soupsswap.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x604D105f2F1f68641a000f03b5DC557bFFfdB8FE/logo.png"
+  },
+  "name": "SoupSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

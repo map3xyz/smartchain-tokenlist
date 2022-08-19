@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SaveAnimal is a charity token helping animals in need by donating 2% of every transaction"
+  },
+  "id": "5a7b4ee2-4e97-4f03-9d88-e05b748b85ec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7",
+    "website": "https://saveanimal.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaa2C290bF62B7d100D2D7f87b7223e3A71b737F7/logo.png"
+  },
+  "name": "SaveAnimal",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAVEANIMAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

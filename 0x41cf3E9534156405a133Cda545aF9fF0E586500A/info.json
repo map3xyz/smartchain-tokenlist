@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x41cf3E9534156405a133Cda545aF9fF0E586500A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The modern technology and contemporary ambient that the internet created can not be imagined to function as a whole without crypto-currency."
+  },
+  "id": "c2d1f401-f85a-401b-b381-bcd1e6b1c79b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x41cf3E9534156405a133Cda545aF9fF0E586500A",
+    "website": "https://www.gamingshibaofficial.com",
+    "twitter": "https://twitter.com/gamingshibabsc",
+    "telegram": "https://t.me/gamingshibabsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamingshiba/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x41cf3E9534156405a133Cda545aF9fF0E586500A/logo.png"
+  },
+  "name": "GamingShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GamingShiba",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

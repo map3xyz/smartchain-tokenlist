@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentraland (MANA) defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications."
+  },
+  "id": "fec187a9-ac7a-4fd8-bf55-64e78c7e7092",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26433c8127d9b4e9b71eaa15111df99ea2eeb2f8",
+    "website": "https://decentraland.org",
+    "github": "https://github.com/decentraland",
+    "twitter": "https://twitter.com/decentraland",
+    "reddit": "https://reddit.com/r/decentraland",
+    "blog": "https://blog.decentraland.org/",
+    "facebook": "https://facebook.com/decentraland/",
+    "whitepaper": "https://decentraland.org/whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/decentraland/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8/logo.png"
+  },
+  "name": "Decentraland",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

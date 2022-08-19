@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "Petoverse is the first METAVERSE PROJECT that provides a decentralized financial asset which rewards users with a sustainable fixed compound interest model through use of its unique PAP PROTOCOL (PETO Auto-staking protocol)."
+  },
+  "id": "edff3d21-0edb-4de9-8f46-932a527f7fc3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175",
+    "website": "https://www.petoverse.io/",
+    "twitter": "https://twitter.com/petoverse",
+    "telegram": "https://t.me/petoverse"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe327eD2037F133cdA9F56171b68B6b7b4Dfa6175/logo.png"
+  },
+  "name": "Petoverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PETO",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

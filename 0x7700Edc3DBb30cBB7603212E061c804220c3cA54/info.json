@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7700Edc3DBb30cBB7603212E061c804220c3cA54",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Quantic is the next innovative DeFi release for the Binance Smart Chain that is designed to provide holders of $QUANTIC high passive returns just by holding the token, in which the smart contract does all the work for them."
+  },
+  "id": "e8a414ee-1288-4c92-942b-e0b3510d41f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7700Edc3DBb30cBB7603212E061c804220c3cA54",
+    "website": "https://quantic.finance/ ",
+    "telegram": "https://t.me/quantic_finance",
+    "twitter": "https://twitter.com/Quantic_finance",
+    "discord": "https://discord.com/Rmh34XHuvy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/quantic/",
+    "coingecko": "https://coingecko.com/en/coins/quantic"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7700Edc3DBb30cBB7603212E061c804220c3cA54/logo.png"
+  },
+  "name": "Quantic",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Quantic",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

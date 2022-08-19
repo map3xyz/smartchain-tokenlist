@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3d0E22387DdfE75D1AEa9D7108a4392922740B96",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first Music NFT Marketplace"
+  },
+  "id": "60042970-c2a6-4c82-bc12-c6f2a131c8c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3d0E22387DdfE75D1AEa9D7108a4392922740B96",
+    "website": "https://loudnft.co",
+    "twitter": "https://twitter.com/loudmarketnfts",
+    "telegram": "https://t.me/loudmarket",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/loud-market/",
+    "coingecko": "https://coingecko.com/coins/loud-market"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3d0E22387DdfE75D1AEa9D7108a4392922740B96/logo.png"
+  },
+  "name": "Loud Market",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

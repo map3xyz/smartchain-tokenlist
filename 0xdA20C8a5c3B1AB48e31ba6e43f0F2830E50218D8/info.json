@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bingus Token is the latest DEFI project with claws to release on the Binance Smart Chain. NFT & Shelter donations ongoing."
+  },
+  "id": "66138928-6648-4c76-af4e-d3a2516b278b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8",
+    "website": "https://bingus.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8/logo.png"
+  },
+  "name": "Bingus Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BINGUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

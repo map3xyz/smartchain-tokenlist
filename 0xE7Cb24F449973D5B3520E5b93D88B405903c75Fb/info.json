@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE7Cb24F449973D5B3520E5b93D88B405903c75Fb",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BNbitcoin is the native, pure Proof-of-Work mined token on the Binance Smart Chain"
+  },
+  "id": "fa343c60-95a7-4822-8fd5-fd32d38e5b7c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE7Cb24F449973D5B3520E5b93D88B405903c75Fb",
+    "website": "https://bnbitcoin.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE7Cb24F449973D5B3520E5b93D88B405903c75Fb/logo.png"
+  },
+  "name": "BNbitcoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

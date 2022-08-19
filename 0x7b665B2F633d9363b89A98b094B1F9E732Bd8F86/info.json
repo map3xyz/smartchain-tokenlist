@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7b665B2F633d9363b89A98b094B1F9E732Bd8F86",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AMAZY is a crypto fitness app with two main courses: to Move and to Earn by equipping NFT sneakers, uniting the ideas of a healthy lifestyle and profiting simultaneously. The project focuses on becoming the ecosystem, called the AMAZY Realverse, focusing on a healthy lifestyle."
+  },
+  "id": "86d8e8a4-70af-4d8f-9868-5673e4100622",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7b665b2f633d9363b89a98b094b1f9e732bd8f86",
+    "website": "https://amazy.io",
+    "twitter": "https://twitter.com/amazyio",
+    "github": "https://github.com/amazy-io",
+    "telegram": "https://t.me/amazyio_en",
+    "telegramNews": "https://t.me/amazyio",
+    "blog": "https://medium.com/@amazy",
+    "discord": "https://discord.com/invite/amazyio",
+    "whitepaper": "https://amazy-1.gitbook.io/whitepaper/",
+    "medium": "https://medium.com/@amazy",
+    "youtube": "https://youtube.com/channel/UCZmUQmMOzxqXO11BKiBrZfw",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/amazy/",
+    "coingecko": "https://coingecko.com/coins/amazy"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7b665B2F633d9363b89A98b094B1F9E732Bd8F86/logo.png"
+  },
+  "name": "Amazy Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AZY",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

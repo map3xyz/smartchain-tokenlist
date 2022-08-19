@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Xion is bringing cross chain decentralised payments, loyalty and financial rewards to a global commerce industry. Think 'Stripe' for web 3."
+  },
+  "id": "31447c5f-a5fd-43ef-9d7e-1842486c54cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "website": "https://xion.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png"
+  },
+  "name": "Xion Global Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XGT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

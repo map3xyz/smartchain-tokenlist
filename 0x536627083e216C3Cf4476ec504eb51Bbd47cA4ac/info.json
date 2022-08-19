@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x536627083e216C3Cf4476ec504eb51Bbd47cA4ac",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GamingDoge is the ultimate companion and only wants to make Doge community and Gamers proud. "
+  },
+  "id": "39b1cd3b-657a-45da-b525-f5891430e97d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x536627083e216c3cf4476ec504eb51bbd47ca4ac",
+    "website": "https://www.gamingdoge.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamingdoge/",
+    "coingecko": "https://coingecko.com/en/coins/gaming-doge",
+    "twitter": "https://twitter.com/gamingdogetoken",
+    "telegram": "https://t.me/joinchat/vrVYpnWtMRljNjYx"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x536627083e216C3Cf4476ec504eb51Bbd47cA4ac/logo.png"
+  },
+  "name": "GamingDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GamingDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralized financial service system. It is expected to provide the most powerful platform for decentralized trading and borrowing "
+  },
+  "id": "b2e31733-77c5-4dcc-831b-635b2323d4f6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+    "website": "https://www.dogedf.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x75cc1fa47790b1D191061cC7d631Cbe65129AABC/logo.png"
+  },
+  "name": "Doge DeFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DogeDF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

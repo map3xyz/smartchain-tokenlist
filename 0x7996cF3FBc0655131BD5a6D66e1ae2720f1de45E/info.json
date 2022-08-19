@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7996cF3FBc0655131BD5a6D66e1ae2720f1de45E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Velorex (VEX) is a decentralized finance token built on the BEP-20 platform. At Velorex we aim to facilitate global adoption of our cryptocurrency by introducing Debit Cards and Smart Wallets that dynamically interact with a variety of web3.90 and related programs within our block-chain from 2022 onward."
+  },
+  "id": "13244acc-458e-4ba4-857c-fe2e61db5d9c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7996cf3fbc0655131bd5a6d66e1ae2720f1de45e",
+    "website": "https://velorex.cc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7996cF3FBc0655131BD5a6D66e1ae2720f1de45E/logo.png"
+  },
+  "name": "VELOREX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

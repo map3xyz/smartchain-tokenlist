@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitcoin BEP2 (BTCB) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 BTCB = 1 BTC."
+  },
+  "id": "08c660dd-031d-413f-9667-c3496433aff3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "website": "https://binance.org",
+    "github": "https://github.com/binance-chain/",
+    "twitter": "https://twitter.com/binance_dex",
+    "telegram": "https://t.me/BinanceDEXchange",
+    "blog": "https://binance.org/en/blog/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
+  },
+  "name": "Binance-Peg BTCB Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTCB",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

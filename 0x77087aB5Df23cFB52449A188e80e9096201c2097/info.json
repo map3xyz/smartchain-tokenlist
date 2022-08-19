@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x77087aB5Df23cFB52449A188e80e9096201c2097",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "hi is leveraging blockchain technology to build services that are community powered. Members of hi are the key stakeholders of this ecosystem and the business is committed to maximize membership value - not profits. Our first product is a digital wallet that provides members with the most seamless payment experience via social messengers. The HI is a membership token that powers the hi ecosystem."
+  },
+  "id": "3ba0b466-5601-4767-a082-bca6821159a1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x77087aB5Df23cFB52449A188e80e9096201c2097",
+    "website": "https://hi.com/",
+    "twitter": "https://twitter.com/hi_com_official",
+    "github": "https://github.com/HiChainGlobal/",
+    "telegram": "https://t.me/hi_official",
+    "blog": "https://resources.hi.com/news/",
+    "coingecko": "https://coingecko.com/coins/hi-dollar",
+    "facebook": "https://facebook.com/hi.com.official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hi-dollar/",
+    "youtube": "https://youtube.com/hiofficialYT",
+    "reddit": "https://reddit.com/hi_official/",
+    "discord": "https://discord.com/invite/cfFQu8PQyw",
+    "whitepaper": "https://cms.hi.com/uploads/hi_Whitepaper_en_4da11a89e8.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x77087aB5Df23cFB52449A188e80e9096201c2097/logo.png"
+  },
+  "name": "HI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

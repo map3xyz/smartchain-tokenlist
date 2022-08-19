@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "a883c0f3-7f8f-4309-9853-4e857f9af4bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8",
+    "website": "https://raydium.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8/logo.png"
+  },
+  "name": "Raydium (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RAY",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

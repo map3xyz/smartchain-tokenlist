@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Green Shiba Inu is a fully decentralized, zero-emission and fairly distributed community-driven token disrupting the meme economy aiming at protecting the environment!"
+  },
+  "id": "1a35fe51-e8a8-4863-830a-fa3ebb842a45",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+    "website": "https://greenshiba.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc9Ad37E9Baf41377540Df5a77831Db98c1915128/logo.png"
+  },
+  "name": "Green Shiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GINUX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

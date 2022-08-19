@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Floki Coin is a new crypto coin brought to life by fans & members of the Shiba Inu/Doge community. BabyFlokiCoin is Elon Musk’s very own shiba inu and he’s on a mission to become the first puppy to go to the moon! He’s built to reward you by sending 5% of every transaction made to your wallet."
+  },
+  "id": "13e7c607-eaaa-40ab-a54b-d5cd4e6450be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x808fac147a9C02723d0BE300AC4753eAf93C0e1F",
+    "website": "https://babyflokicoin.org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-floki-coin/",
+    "coingecko": "https://coingecko.com/en/coins/baby-floki-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x808fac147a9C02723d0BE300AC4753eAf93C0e1F/logo.png"
+  },
+  "name": "BabyFlokiCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyFlokiCoin",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

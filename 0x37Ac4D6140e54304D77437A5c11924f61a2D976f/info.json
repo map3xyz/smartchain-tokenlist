@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x37Ac4D6140e54304D77437A5c11924f61a2D976f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. It is a full-service decentralized finance solution that combines a decentralized exchange (SparkSwap), liquidity and pool-based staking (SparkStake), P2P lending and borrowing (SparkLend), and DeFi assets protocols management (SparkDash) in a seamless, transparent, secure, inclusive, and interoperable platform."
+  },
+  "id": "ce70b37b-1b4d-499d-a8ef-e607b12b5864",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x37ac4d6140e54304d77437a5c11924f61a2d976f",
+    "research": "https://link.medium.com/ehJR6uXfncb",
+    "website": "https://srk.finance",
+    "github": "https://github.com/sparkpointio/venus-protocol",
+    "twitter": "https://twitter.com/SparkDeFi",
+    "telegram": "https://t.me/SparkDeFi",
+    "facebook": "https://facebook.com/SparkDeFi/",
+    "medium": "https://medium.com/theecosystem",
+    "whitepaper": "https://github.com/sparkpointio/sparkdefi-whitepaper/blob/main/WHITEPAPER.md"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x37Ac4D6140e54304D77437A5c11924f61a2D976f/logo.png"
+  },
+  "name": "SparkPoint Fuel",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFUEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

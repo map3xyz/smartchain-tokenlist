@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ONE is a token issued by the BigONE trading platform."
+  },
+  "id": "5c4d035b-e7de-4680-ab89-9289e96ea1d2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+    "website": "https://bigone.com/en"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0/logo.png"
+  },
+  "name": "ONE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

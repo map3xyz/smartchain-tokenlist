@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy."
+  },
+  "id": "4f8d0800-1921-4a1f-bd8e-98d0255925e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
+    "research": "https://research.binance.com/en/projects/adex-network",
+    "website": "https://adex.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819/logo.png"
+  },
+  "name": "AdEx",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

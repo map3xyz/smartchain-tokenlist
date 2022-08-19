@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7AE5709c585cCFB3e61fF312EC632C21A5F03F70",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Crypto Gaming made Easy: The aim of the game is simple... Dash as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all 10 levels will be rewarded with the collected Doge Dash coins direct to their wallets"
+  },
+  "id": "dd6e155d-84b2-412b-933f-c3bf8e273a01",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
+    "website": "https://dogedash.com/",
+    "telegram": "https://t.me/dogedashgame",
+    "twitter": "https://twitter.com/doge_dash",
+    "reddit": "https://reddit.com/r/dogedashthegame/",
+    "youtube": "https://youtube.com/channel/UCFrYj9uTa66nLgviytnXzvA",
+    "medium": "https://medium.com/@Dogedash_official",
+    "whitepaper": "https://coinmarketcap.com/currencies/doge-dash/",
+    "coingecko": "https://coingecko.com/en/coins/doge-dash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7AE5709c585cCFB3e61fF312EC632C21A5F03F70/logo.png"
+  },
+  "name": "Doge Dash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DogeDash",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

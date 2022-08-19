@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4D1E90aB966ae26c778b2f9f365aA40abB13f53C",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Solartechno has developed system by using Advanced Technology and Token. System is much Simpler, more Profitable and Secured"
+  },
+  "id": "641a9250-cbed-45d5-9fb7-89fde92d92b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c",
+    "website": "https://solartechno.io/",
+    "twitter": "https://twitter.com/STATOKEN",
+    "facebook": "https://facebook.com/STATOKEN"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4D1E90aB966ae26c778b2f9f365aA40abB13f53C/logo.png"
+  },
+  "name": "STA TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x01e9611dF08548994C883e4Ca729B0128E73470F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RIZE ABOVE EVOLUTION is a community driven hyper-deflationary decentralized digital currency for THE PEOPLE by THE PEOPLE. RZE rewards holders with binance wrapped DOGE."
+  },
+  "id": "da1cb64a-bde1-4d66-97d0-66d95f54bc14",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01e9611dF08548994C883e4Ca729B0128E73470F",
+    "website": "https://rizeabove.finance",
+    "twitter": "https://twitter.com/RizeToken",
+    "telegram": "https://t.me/rzetoken",
+    "whitepaper": "https://rizeabove.finance/wp-content/uploads/2021/08/RZE-White-Paper-Rize-Above-Evolution.pdf",
+    "reddit": "https://reddit.com/r/RIZEABOVE",
+    "facebook": "https://facebook.com/RizeAboveToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x01e9611dF08548994C883e4Ca729B0128E73470F/logo.png"
+  },
+  "name": "RIZE ABOVE EVOLUTION",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RZE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

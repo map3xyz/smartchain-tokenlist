@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAA5c91F3df88B8B3863d0899bcA33E70482beD2A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Waivlength aims to establish an accountable social media platform using KYC protocols"
+  },
+  "id": "178b075f-d3ee-4819-81ad-fadb935e5eb4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAA5c91F3df88B8B3863d0899bcA33E70482beD2A",
+    "website": "https://www.waivlength.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAA5c91F3df88B8B3863d0899bcA33E70482beD2A/logo.png"
+  },
+  "name": "WAIVLENGTH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAIV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB2f7e860E302b18819970ceA41BcFc7349834e81",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The last 7 buyers win a Jackpot, paid in BNB instantly Countdown available in the website & telegram bot. If you buy at the right time, you win."
+  },
+  "id": "ac82df79-6867-435f-9250-fdb0460feadb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB2f7e860E302b18819970ceA41BcFc7349834e81",
+    "website": "https://www.luckinutoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB2f7e860E302b18819970ceA41BcFc7349834e81/logo.png"
+  },
+  "name": "LUCK-INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LUCK-INU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

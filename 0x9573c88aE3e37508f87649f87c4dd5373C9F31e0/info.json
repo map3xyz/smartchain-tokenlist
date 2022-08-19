@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Monsta Infinite is a decentralized game universe where anyone can earn tokens through playing the game competitively or for leisure.‌"
+  },
+  "id": "dc178665-d743-46a9-99c7-bebaa4ae07c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+    "website": "https://monstainfinite.com/",
+    "github": "https://github.com/monsta-infinite/",
+    "twitter": "https://twitter.com/Monsta_Infinite/",
+    "blog": "https://monstainfinite.medium.com/",
+    "telegram": "https://t.me/monstainfinite/",
+    "docs": "https://docs.monstainfinite.com/",
+    "coingecko": "https://coingecko.com/en/coins/monsta-infinite/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/monsta-infinite/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0/logo.png"
+  },
+  "name": "Monsta Infinite Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MONI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

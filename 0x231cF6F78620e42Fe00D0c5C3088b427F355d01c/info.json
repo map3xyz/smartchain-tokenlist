@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x231cF6F78620e42Fe00D0c5C3088b427F355d01c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AI-driven platform to lower the entry barrier on BSC, fueled by the MOVE token. Visit marketmove.ai to learn more."
+  },
+  "id": "8098f4e9-6a89-4c2b-ac0e-df241f78ac1f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
+    "website": "https://marketmove.ai",
+    "twitter": "https://twitter.com/marketmoveAI",
+    "github": "https://github.com/MarketMoveAI",
+    "telegram": "https://t.me/MarketMoveAI",
+    "coingecko": "https://coingecko.com/en/coins/marketmove",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/marketmove"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x231cF6F78620e42Fe00D0c5C3088b427F355d01c/logo.png"
+  },
+  "name": "MarketMove.ai",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOVE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

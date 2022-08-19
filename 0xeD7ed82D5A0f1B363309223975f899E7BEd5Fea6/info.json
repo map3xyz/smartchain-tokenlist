@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xeD7ed82D5A0f1B363309223975f899E7BEd5Fea6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Boxer is a community-driven, deflationary token on the Binance Smart Chain with a mission to help malnourished babies around the world."
+  },
+  "id": "ecf895a5-b46d-45bd-83f8-9966201e798b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeD7ed82D5A0f1B363309223975f899E7BEd5Fea6",
+    "website": "https://babyboxer.io/",
+    "twitter": "https://twitter.com/BoxerInuFinance",
+    "github": "https://github.com/BoxerInuOfficial",
+    "whitepaper": "https://babyboxer.io/babyboxerwhitepaper.pdf",
+    "telegramNews": "https://t.me/boxerinunews",
+    "telegram": "https://t.me/BoxerInuOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeD7ed82D5A0f1B363309223975f899E7BEd5Fea6/logo.png"
+  },
+  "name": "BabyBoxer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBoxer",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Revomon is an exciting online RPG that combines an immersive virtual reality experience with groundbreaking NFT blockchain technology."
+  },
+  "id": "0b89122f-3475-469f-bad1-d3dfb17c746d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
+    "website": "https://revomon.io/",
+    "twitter": "https://twitter.com/RevomonVR",
+    "telegram": "https://t.me/revomon",
+    "telegramNews": "https://t.me/revomonnews"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409/logo.png"
+  },
+  "name": "Revomon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REVO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

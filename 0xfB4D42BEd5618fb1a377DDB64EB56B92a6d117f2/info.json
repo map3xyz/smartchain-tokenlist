@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Noku develops blockchain platforms. Noku has released Nokuchain: a blockchain designed to raise up the NFTs performance for gaming applications."
+  },
+  "id": "715e5435-4f53-4e9f-ad2e-35b9960cb6f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2",
+    "website": "https://www.noku.io/",
+    "twitter": "https://twitter.com/nokuofficial",
+    "github": "https://github.com/noku-team",
+    "telegram": "https://t.me/nokuofficial",
+    "telegramNews": "https://t.me/nokunews",
+    "facebook": "https://facebook.com/Noku-317917408638309",
+    "youtube": "https://youtube.com/channel/UC2Ru2OagHzkuETQLDvy4FuA",
+    "medium": "https://nokuteam.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/noku/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfB4D42BEd5618fb1a377DDB64EB56B92a6d117f2/logo.png"
+  },
+  "name": "NOKU v2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NOKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

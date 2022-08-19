@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x5f50411CDE3eEC27b0eaC21691b4e500c69a5a2e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Singularity is a metaverse gaming world of universe exploration and adventure."
+  },
+  "id": "b303885e-1032-4df7-9f81-5099c660a89a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5f50411CDE3eEC27b0eaC21691b4e500c69a5a2e",
+    "website": "https://www.singularity.gold/",
+    "twitter": "https://twitter.com/singularitysgly",
+    "telegram": "https://t.me/Singularityverse",
+    "github": "https://github.com/singularitySGLY",
+    "facebook": "https://facebook.com/profile.php?id=100074305448608"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5f50411CDE3eEC27b0eaC21691b4e500c69a5a2e/logo.png"
+  },
+  "name": "Singularity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SGLY",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9a99eA92Ed1e0c963078ac5c0867dF85eC6d06B7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "QTM - Yield farm QTUM on Binance Smart Chain."
+  },
+  "id": "bc488c39-c78a-44bb-bbb5-d633c6028a3b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9a99eA92Ed1e0c963078ac5c0867dF85eC6d06B7",
+    "website": "https://quantumchain.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9a99eA92Ed1e0c963078ac5c0867dF85eC6d06B7/logo.png"
+  },
+  "name": "QuantumToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QTM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

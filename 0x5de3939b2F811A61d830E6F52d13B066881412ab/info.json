@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x5de3939b2F811A61d830E6F52d13B066881412ab",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and buy crypto, and use crypto seamlessly."
+  },
+  "id": "aa3d9afe-ba72-46a6-aae3-4aae3e7321c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5de3939b2F811A61d830E6F52d13B066881412ab",
+    "website": "https://protonchain.com",
+    "github": "https://github.com/ProtonProtocol",
+    "twitter": "https://twitter.com/protonxpr",
+    "reddit": "https://reddit.com/r/ProtonChain/",
+    "telegram": "https://t.me/protonxpr/",
+    "discord": "https://discord.com/invite/B2QDmgf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/proton/",
+    "coingecko": "https://coingecko.com/en/coins/proton",
+    "blog": "https://blog.protonchain.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5de3939b2F811A61d830E6F52d13B066881412ab/logo.png"
+  },
+  "name": "Proton",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

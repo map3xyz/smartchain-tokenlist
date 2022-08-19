@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7B7D3B71A12906270b1b4c187C75f45188E9aEf6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTs for valuables like diamonds or gold"
+  },
+  "id": "b9e7203a-3e52-439c-acee-ad4b86b5abca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7b7d3b71a12906270b1b4c187c75f45188e9aef6",
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7B7D3B71A12906270b1b4c187C75f45188E9aEf6/logo.png"
+  },
+  "name": "VIDTC Precious metals and stones",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "The BIG Memes Token"
+  },
+  "id": "9d292cd6-81a9-49af-a6f8-54d8abfab067",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515",
+    "website": "https://safemoonclassic.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x00e7daf0E5FD1F5331c92d09e3C825A8e4Fc6515/logo.png"
+  },
+  "name": "SAFEMOON CLASSIC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMOONC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

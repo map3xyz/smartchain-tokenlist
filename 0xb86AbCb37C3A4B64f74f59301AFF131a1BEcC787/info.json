@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+  "color": null,
+  "decimals": 12,
+  "description": {
+    "en": "Zilliqa (ZIL) is a public blockchain built on a sharded architecture. It has solved blockchain scalability and speed by implementing sharding."
+  },
+  "id": "b747eaf2-a744-4fb5-bb4b-0c88569bf559",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+    "website": "http://www.zilliqa.com/",
+    "twitter": "https://twitter.com/zilliqa",
+    "reddit": "https://reddit.com/r/zilliqa",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/french-connection-finance/",
+    "github": "https://github.com/Zilliqa",
+    "telegram": "https://t.me/zilliqachat",
+    "coingecko": "https://coingecko.com/en/coins/zilliqa/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787/logo.png"
+  },
+  "name": "Zilliqa",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

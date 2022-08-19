@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Educative token-review platform aiming to make the crypto-world more comprehendible & less shitty. - NFTs, dApp games, Rewards"
+  },
+  "id": "a766f5ab-d305-4f17-bd60-3687af1ec9ab",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb",
+    "website": "https://noshitcoin.io",
+    "twitter": "https://twitter.com/NOSHITCoin_io",
+    "telegram": "https://t.me/NOSHITCoin_io",
+    "medium": "https://noshitcoin.medium.com",
+    "github": "https://github.com/noshitcoin",
+    "whitepaper": "https://noshitcoin.io/NOSHIT-Whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/noshit/",
+    "coingecko": "https://coingecko.com/coins/noshit",
+    "telegramNews": "https://t.me/NoShitCoin_Official_Announcement",
+    "reddit": "https://reddit.com/r/noshitters",
+    "youtube": "https://youtube.com/NOSHITCoin_io",
+    "facebook": "https://facebook.com/noshitcoin.io",
+    "discord": "https://discord.com/.gg/p3866QGv5r",
+    "sourceCode": "https://bscscan.com/token/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb#readContract"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb/logo.png"
+  },
+  "name": "NOSHIT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NSH",
+  "tags": [
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

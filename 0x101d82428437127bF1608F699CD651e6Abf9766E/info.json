@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Basic Attention Token (BAT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Basic Attention (BAT ERC20) at a ratio of 1:1."
+  },
+  "id": "f9f058ce-5f55-4b1e-b504-b29b2d3f121a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "research": "https://research.binance.com/en/projects/basic-attention-token",
+    "website": "https://basicattentiontoken.org",
+    "blog": "https://medium.com/@attentiontoken",
+    "twitter": "https://twitter.com/@attentiontoken",
+    "reddit": "https://reddit.com/r/BATProject/",
+    "coingecko": "https://coingecko.com/en/coins/basic-attention-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x101d82428437127bF1608F699CD651e6Abf9766E/logo.png"
+  },
+  "name": "Binance-Peg Basic Attention Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAT",
+  "tags": [
+    "binance-peg",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

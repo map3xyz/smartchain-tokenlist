@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbfeA674ce7d16E26E39e3c088810367a708eF94C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "April is a high speed, cross chain oracle serving the Internet of Blockchains"
+  },
+  "id": "f8d0dbb7-facd-44b0-992e-9f9f7bf3e6b3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbfea674ce7d16e26e39e3c088810367a708ef94c",
+    "website": "https://apriloracle.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbfeA674ce7d16E26E39e3c088810367a708eF94C/logo.png"
+  },
+  "name": "April Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "APRIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

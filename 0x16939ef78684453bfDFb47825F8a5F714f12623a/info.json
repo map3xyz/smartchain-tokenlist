@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Tezos Token (XTZ BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Tezos (XTZ) at a ratio of 1:1."
+  },
+  "id": "2a0bc40e-d5d6-4546-bd32-2b5463799a32",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16939ef78684453bfDFb47825F8a5F714f12623a",
+    "research": "https://research.binance.com/en/projects/tezos",
+    "website": "https://tezos.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png"
+  },
+  "name": "Binance-Peg Tezos Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XTZ",
+  "tags": [
+    "binance-peg",
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0xAb14952d2902343fde7c65D7dC095e5c8bE86920",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GOMA is a Hyper-Deflationary Community DeFi token foused on staking, reflection and NFTs."
+  },
+  "id": "ca256a51-43f7-4182-816a-6d0a16a4d26a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAb14952d2902343fde7c65D7dC095e5c8bE86920",
+    "website": "https://GomaToken.com",
+    "github": "https://github.com/GOMA-Finance",
+    "twitter": "https://twitter.com/GomaShibaToken",
+    "telegram": "https://t.me/GomaShiba",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/goma-finance/",
+    "coingecko": "https://coingecko.com/en/coins/goma-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xAb14952d2902343fde7c65D7dC095e5c8bE86920/logo.png"
+  },
+  "name": "GOMA Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1606940bB5Cd6de59A7E25367F4fB8965f38F122",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AquaGoat is a next-generation ecological social cryptocurrency. AquaGoat operates as a deflationary automated liquidity-locking and self-staking direct distribution protocol, providing safe, secure and hassle-free transactions and yield-generation for all holders. "
+  },
+  "id": "437a1dd5-350d-4f3a-b379-a9018b68b3a3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1606940bB5Cd6de59A7E25367F4fB8965f38F122",
+    "website": "https://aquagoat.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1606940bB5Cd6de59A7E25367F4fB8965f38F122/logo.png"
+  },
+  "name": "AquaGoat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AQUAGOAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

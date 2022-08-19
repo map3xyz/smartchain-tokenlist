@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3e0b5807515756635c6347CDeeBF95946E604BCF",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Facebook Metaverse is a project that's inspired by Mark Zuckerberg"
+  },
+  "id": "191a178a-dfac-44e6-bac9-bb1bddf45dee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3e0b5807515756635c6347CDeeBF95946E604BCF",
+    "website": "https://facemetatoken.co/",
+    "telegram": "https://t.me/Facebookmetaverse",
+    "whitepaper": "https://twitter.com/Facemetatoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/facebook-metaverse/",
+    "github": "https://github.com/FacebookMetaverse"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3e0b5807515756635c6347CDeeBF95946E604BCF/logo.png"
+  },
+  "name": "Facebook Metaverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FACEMETA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

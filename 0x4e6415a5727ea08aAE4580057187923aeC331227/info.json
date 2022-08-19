@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FINE is a token issued by Refinable."
+  },
+  "id": "330551e6-3022-4868-a152-a989e0b17cfd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4e6415a5727ea08aAE4580057187923aeC331227",
+    "website": "https://app.refinable.com",
+    "github": "https://github.com/refinableco/refinable-sdk",
+    "medium": "https://refinable.medium.com/",
+    "reddit": "https://reddit.com/r/refinable",
+    "twitter": "https://twitter.com/refinableapp",
+    "telegram": "https://t.me/refinablenft",
+    "discord": "https://discord.com/invite/2Ps43kUxy7",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/refinable/",
+    "coingecko": "https://coingecko.com/en/coins/refinable"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4e6415a5727ea08aAE4580057187923aeC331227/logo.png"
+  },
+  "name": "FINE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FINE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x0f0Dd5E2c0e0c4A41F8908D73D36B8D142F6745a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fireworks Games is a pioneer of open and inclusive diversified game world.In the blockchain game industry, we want to build a decentralized virtual reality game ecosystem, and promote the construction of GameFi."
+  },
+  "id": "203f5337-85ae-41db-86ff-0b233c8d1287",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0f0dd5e2c0e0c4a41f8908d73d36b8d142f6745a",
+    "website": "https://www.firework.games/",
+    "twitter": "https://twitter.com/FireworkGames",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/firework-games/",
+    "whitepaper": "https://intro.firework.games/files/Firework_Games_Whitepaper_en.pdf",
+    "telegram": "https://t.me/FireworkGames_group"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0f0Dd5E2c0e0c4A41F8908D73D36B8D142F6745a/logo.png"
+  },
+  "name": "Firework Games",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FIRE",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

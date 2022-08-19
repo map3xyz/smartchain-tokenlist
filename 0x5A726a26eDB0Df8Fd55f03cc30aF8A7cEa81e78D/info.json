@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "With single click cross-chain swaps, CrossWallet is theultimate crypto wallet and DEX aggregator."
+  },
+  "id": "5a4c4c94-3307-40cb-9a79-a1643bf35e72",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
+    "website": "https://crosswallet.app/",
+    "twitter": "https://twitter.com/Cross_Wallet",
+    "telegram": "https://t.me/crosswallet"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D/logo.png"
+  },
+  "name": "Crosswallet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

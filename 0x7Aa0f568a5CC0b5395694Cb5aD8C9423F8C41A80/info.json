@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7Aa0f568a5CC0b5395694Cb5aD8C9423F8C41A80",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeMusk autonomous yield and liquidity generation protocol on BSC"
+  },
+  "id": "ffce430b-c261-48f4-860b-d1832e5f6003",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7aa0f568a5cc0b5395694cb5ad8c9423f8c41a80",
+    "website": "https://www.safemusk.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7Aa0f568a5CC0b5395694Cb5aD8C9423F8C41A80/logo.png"
+  },
+  "name": "SafeMusk",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMUSK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

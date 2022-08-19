@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x75856ea207CE7194E4E65c334BEc143D77701E4a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MiniSports is a sports based community token developed mainly to create a safehaven for sports lovers."
+  },
+  "id": "3da81ed4-fa1d-4c3f-89ac-3bb5c629a698",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75856ea207CE7194E4E65c334BEc143D77701E4a",
+    "website": "https://minisportstoken.com/",
+    "twitter": "https://twitter.com/MiniSportsToken",
+    "telegram": "https://t.me/MiniSportsToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x75856ea207CE7194E4E65c334BEc143D77701E4a/logo.png"
+  },
+  "name": "MiniSports Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MiniSports",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

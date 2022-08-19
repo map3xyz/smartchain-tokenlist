@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PolyCrowns are the official token of the Seascape Network on Binance Smart Chain. They are designed to reward all key stakeholders within the network. The Seascape Network is an incentivized ecosystem consisting of gamers, developers, and influencers with the purpose of bringing DeFi gaming to a broader userbase."
+  },
+  "id": "c31cc881-7ad5-494f-a915-6b8d0383922e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+    "website": "https://www.seascape.network",
+    "github": "https://github.com/blocklords/seascape-smartcontracts",
+    "twitter": "https://twitter.com/SeascapeNetwork",
+    "telegram": "https://t.me/seascapenetwork",
+    "discord": "https://discord.com/invite/qG2Vynh",
+    "reddit": "https://reddit.com/r/SeascapeNetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd/logo.png"
+  },
+  "name": "PolyCrowns",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "pCWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

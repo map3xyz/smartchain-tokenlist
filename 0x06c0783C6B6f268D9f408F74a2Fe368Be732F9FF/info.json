@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x06c0783C6B6f268D9f408F74a2Fe368Be732F9FF",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Luckypig will bring NFT, lottery/jackpot concepts together and a contract with low taxes. Our team's longterm goal is to build an online casino which will be pegged with our token."
+  },
+  "id": "27ec0838-672a-4ce1-8c61-40806956d712",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x06c0783C6B6f268D9f408F74a2Fe368Be732F9FF",
+    "website": "https://luckypigtoken.com/",
+    "twitter": "https://twitter.com/Luckypigtoken?s=20&t=EB9f2aY9hr8o3_Eg0GDMrw",
+    "telegram": "https://t.me/luckypigtoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/luckypig/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x06c0783C6B6f268D9f408F74a2Fe368Be732F9FF/logo.png"
+  },
+  "name": "LuckyPig",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LuckyPig",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3c730718C97A77562866B5D29B33228c019eAC68",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Built for the community. Simply hold BNBD to join the journey and experience all of the benefit from BNB Diamond."
+  },
+  "id": "a36cca65-9174-4292-96b7-1f1be0245c8f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3c730718C97A77562866B5D29B33228c019eAC68",
+    "website": "https://bnbdiamond.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3c730718C97A77562866B5D29B33228c019eAC68/logo.png"
+  },
+  "name": "BNB Diamond",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

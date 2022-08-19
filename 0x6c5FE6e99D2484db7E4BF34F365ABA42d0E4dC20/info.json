@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Absorber is a Hybrid Active and Passive Yield Farming Protocol, Designed for Long-Term Performance and Adoption of Mom-n-Pop Investors Worldwide, To break the Barrier Towards a Worldwide Passive Income Economic Incentive with a Deflationary Core and Ever Increasing Liquidity dictated by the Smart-contract code."
+  },
+  "id": "b419ba6b-6dad-44fc-829f-881f134a9d59",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20",
+    "website": "https://absorber.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6c5FE6e99D2484db7E4BF34F365ABA42d0E4dC20/logo.png"
+  },
+  "name": "Absorber",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ABS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

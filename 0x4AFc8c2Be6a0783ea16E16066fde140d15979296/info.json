@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4AFc8c2Be6a0783ea16E16066fde140d15979296",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HARE, a new cryptocurrency set to launch in June 2021, aims to be one of the fastest-growing coins in the world. HARE is a decentralized, mission-driven cryptocurrency project introducing mainstream cryptocurrency concepts in a user-friendly, integrated package."
+  },
+  "id": "0ce60402-87bb-4a2c-942e-df42a3ec95be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4AFc8c2Be6a0783ea16E16066fde140d15979296",
+    "website": "https://haretoken.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4AFc8c2Be6a0783ea16E16066fde140d15979296/logo.png"
+  },
+  "name": "Hare Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HARE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

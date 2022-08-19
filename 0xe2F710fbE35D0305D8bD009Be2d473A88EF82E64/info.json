@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe2F710fbE35D0305D8bD009Be2d473A88EF82E64",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "IBEX is a true deflationary, community driven token."
+  },
+  "id": "736b1444-a229-4f79-8dcc-5ee8626fee8a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe2f710fbe35d0305d8bd009be2d473a88ef82e64",
+    "website": "https://ibexcoin.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe2F710fbE35D0305D8bD009Be2d473A88EF82E64/logo.png"
+  },
+  "name": "IBEX Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IBEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

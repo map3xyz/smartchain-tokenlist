@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3A50d6daacc82f17A2434184fE904fC45542A734",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A curve based price discovery protocol for NFTs"
+  },
+  "id": "d9164de3-1ca8-40ed-9022-176ed1c9d76b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3A50d6daacc82f17A2434184fE904fC45542A734",
+    "website": "https://fusible.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3A50d6daacc82f17A2434184fE904fC45542A734/logo.png"
+  },
+  "name": "Fusible",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FUSII",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

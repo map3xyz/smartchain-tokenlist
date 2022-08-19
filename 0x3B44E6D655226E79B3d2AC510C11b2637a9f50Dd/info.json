@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The lighthearted token of TikTok. Deflationary, auto-liquidity, and 4% redistribution to holders."
+  },
+  "id": "640cd1a0-1bb6-4a60-9483-8ff8a114e9e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+    "website": "https://sheeshmoon.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd/logo.png"
+  },
+  "name": "SheeshMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHEESHMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

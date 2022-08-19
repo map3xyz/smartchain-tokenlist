@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xFC3dA4A1b6faDaB364039525dD2AB7c0c16521cd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MRweb is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. MRweb is an open source."
+  },
+  "id": "4c8997ed-53e4-41ee-8c06-75c2ea767698",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFC3dA4A1b6faDaB364039525dD2AB7c0c16521cd",
+    "website": "https://mrweb.finance",
+    "github": "https://github.com/Mrwebfi",
+    "whitepaper": "https://mrweb.finance/WhitePaper.pdf",
+    "facebook": "https://facebook.com/Mrweb-finance-108394238009953",
+    "telegram": "https://t.me/mrwebfinance",
+    "telegramNews": "https://t.me/Mrwebfinance_official",
+    "medium": "https://mrwebfi.medium.com/",
+    "youtube": "https://youtube.com/channel/UCvYLTpHvy4X-FE9Gp7H0gbw",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mrweb-finance/",
+    "coingecko": "https://coingecko.com/en/coins/mrweb-finance",
+    "twitter": "https://twitter.com/MrwebFinance",
+    "reddit": "https://reddit.com/r/Mrweb_Finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFC3dA4A1b6faDaB364039525dD2AB7c0c16521cd/logo.png"
+  },
+  "name": "MRWEB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

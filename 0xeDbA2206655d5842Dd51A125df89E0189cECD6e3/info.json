@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "What is #meme10000x ? meme10000x is a defi project that automatically distributes rewards to holders platform based on the Binance Smart Chain. meme10000x is a token created for Charity Purposes and Crypto Against COVID. Along with that is a strong deflation and anti- dumping mechanism to create a safe platform for achieve 10000x growth."
+  },
+  "id": "23951026-13a5-4079-b5c8-d41fe85bb550",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeDbA2206655d5842Dd51A125df89E0189cECD6e3",
+    "website": "https://meme10000x.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeDbA2206655d5842Dd51A125df89E0189cECD6e3/logo.png"
+  },
+  "name": "Meme10000x",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Meme10000x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

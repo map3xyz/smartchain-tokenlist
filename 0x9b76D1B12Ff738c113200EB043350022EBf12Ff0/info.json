@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The biggest BNB reflection token and the only one with auto-claim feature. Simply hold $TIKI tokens in your wallet and you'll earn BNB."
+  },
+  "id": "a0713c14-1ccd-44ab-ba3c-38a85dd7f8dd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+    "website": "https://tikitoken.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9b76D1B12Ff738c113200EB043350022EBf12Ff0/logo.png"
+  },
+  "name": "TIKI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TIKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

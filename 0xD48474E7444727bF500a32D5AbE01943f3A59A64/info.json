@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BitBook is the travel platform where users can book accommodation and earn tokens in the process providing a passive income to users that create and share travel content."
+  },
+  "id": "cf9d1c04-548c-4269-8450-dc03c6767b19",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+    "website": "https://www.bitbook.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD48474E7444727bF500a32D5AbE01943f3A59A64/logo.png"
+  },
+  "name": "BitBook",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

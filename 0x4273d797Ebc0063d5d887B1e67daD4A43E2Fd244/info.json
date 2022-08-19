@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4273d797Ebc0063d5d887B1e67daD4A43E2Fd244",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Project Panda is working as a Socio-NFT platform where the users can exchange NFTs with an exchange protocol that is based on the Binance Smart Chain network.."
+  },
+  "id": "fd8c3060-ea44-45d9-9a55-d97130adc82c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4273d797Ebc0063d5d887B1e67daD4A43E2Fd244",
+    "website": "https://project-panda.com",
+    "twitter": "https://twitter.com/projectpanda9",
+    "telegram": "https://t.me/PNDATalk"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4273d797Ebc0063d5d887B1e67daD4A43E2Fd244/logo.png"
+  },
+  "name": "ProjectPanda",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PNDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

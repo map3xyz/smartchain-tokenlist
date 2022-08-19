@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x31471E0791fCdbE82fbF4C44943255e923F1b794",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Plant vs Undead is a blockchain game built on Binance Smart Chain where your plants are your NFTs. There are two game mode: farm simulation and Tower defense"
+  },
+  "id": "11bde6ca-0978-4f63-a16b-68ff8c735c6b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+    "website": "https://plantvsundead.com/",
+    "twitter": "https://twitter.com/vs_nft",
+    "telegram": "https://t.me/plantvsundead"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x31471E0791fCdbE82fbF4C44943255e923F1b794/logo.png"
+  },
+  "name": "Plant vs Undead Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PVU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

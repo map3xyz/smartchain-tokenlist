@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8F1E60D84182db487aC235acC65825e50b5477a1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Lendefi Protocol facilitates leveraged trading through secured lending, delivering confidence within the highly volatile cryptocurrency marketplace."
+  },
+  "id": "afa853a3-a3d2-4040-bff1-9da2d6e8d784",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8F1E60D84182db487aC235acC65825e50b5477a1",
+    "website": "https://lendefi.finance",
+    "twitter": "https://twitter.com/lendefi_io",
+    "github": "https://github.com/lendefi/",
+    "telegram": "https://t.me/lendefi_io",
+    "coingecko": "https://coingecko.com/en/coins/lendefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8F1E60D84182db487aC235acC65825e50b5477a1/logo.png"
+  },
+  "name": "Lendefi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LDFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

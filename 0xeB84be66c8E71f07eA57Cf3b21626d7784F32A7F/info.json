@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Omax Token is a community driven, Defi Token. Three simple functions occur during each trade: Reflection, Liquidity Acquisition, and Supply Burn."
+  },
+  "id": "e31d7fad-019e-4cd0-8f77-0056c0bd5441",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F",
+    "website": "https://www.omaxtoken.com/",
+    "twitter": "https://twitter.com/omaxtoken",
+    "telegram": "https://t.me/OmaxToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/omax-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeB84be66c8E71f07eA57Cf3b21626d7784F32A7F/logo.png"
+  },
+  "name": "OMAX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OMAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

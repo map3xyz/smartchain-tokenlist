@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Parallel takes some of the greatest ideas from the real world and puts them to work in a magical world, The Parallel Metaverse where everyone can have fun and find happiness."
+  },
+  "id": "ec0abc9e-181b-40fc-bf7e-8760dadd5f8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24",
+    "website": "https://theparallel.io",
+    "twitter": "https://twitter.com/theparallel_io",
+    "github": "https://github.com/theparalleldotio",
+    "telegram": "https://t.me/theparallelcommunity",
+    "telegramNews": "https://t.me/theparallelofficial",
+    "blog": "https://docs.theparallel.io/",
+    "docs": "https://docs.theparallel.io/",
+    "discord": "https://discord.com/invite/ex6SckmWqp",
+    "reddit": "https://reddit.com/r/theparallel_io/",
+    "forum": "https://discord.com/invite/ex6SckmWqp",
+    "whitepaper": "https://docsend.com/view/ncmmsf2qq8ixnq2f",
+    "medium": "https://medium.com/@theparallel",
+    "youtube": "https://youtube.com/channel/UCKvlkWCeNDEgxa41k1wBZYA",
+    "facebook": "https://facebook.com/theparallel.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/the-parallel/",
+    "coingecko": "https://coingecko.com/en/coins/the-parallel",
+    "sourceCode": "https://github.com/theparalleldotio"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24/logo.png"
+  },
+  "name": "Parallel Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Qubit Finance is a DeFi lending protocol that is optimized to deliver lending as a utility for the BSC."
+  },
+  "id": "cf306625-783b-469c-823e-78f7499fb82e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
+    "website": "https://qbt.fi",
+    "github": "https://github.com/PancakeBunny-finance/qubit-finance",
+    "twitter": "https://twitter.com/QubitFin",
+    "blog": "https://pancakebunny.medium.com/",
+    "telegram": "https://t.me/QubitFinOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qubit/",
+    "coingecko": "https://coingecko.com/en/coins/qubit/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x17B7163cf1Dbd286E262ddc68b553D899B93f526/logo.png"
+  },
+  "name": "Qubit Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

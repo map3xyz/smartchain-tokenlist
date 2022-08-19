@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3498c7927dA877fAa14198d24caEbd6516189646",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ROTHS "
+  },
+  "id": "6b266fe3-fb4e-4224-bbf0-94e4334fd451",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3498c7927dA877fAa14198d24caEbd6516189646",
+    "website": "https://roths.live"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3498c7927dA877fAa14198d24caEbd6516189646/logo.png"
+  },
+  "name": "ROTHS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROTHS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

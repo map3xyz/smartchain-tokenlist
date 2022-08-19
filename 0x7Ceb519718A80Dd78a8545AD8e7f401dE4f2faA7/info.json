@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DKT is governance token of Duelist King NFT Trading Card Game."
+  },
+  "id": "5cf3ffa0-1b91-4e35-8e83-b7de5d002374",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7",
+    "website": "https://duelistking.com/",
+    "twitter": "https://twitter.com/DuelistKingNFT",
+    "telegram": "https://t.me/DuelistKingNFT",
+    "whitepaper": "https://duelistking.com/Duelist_King_WPP.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/duelist-king/",
+    "coingecko": "https://coingecko.com/en/coins/duelist-king",
+    "blog": "https://blog.duelistking.com",
+    "discord": "https://discord.com/invite/nvN2WqgPfw",
+    "github": "https://github.com/DK-DAO/infrastructure/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7/logo.png"
+  },
+  "name": "Duelist King Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DKT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

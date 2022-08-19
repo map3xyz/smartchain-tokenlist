@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8f20eBD7Cdb3eFdb51D58D582a21e1A0b41F4436",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Unagi is a RFI tokenomics token - Reflection paid back to holders."
+  },
+  "id": "e0afed2f-4ebf-4695-b8c1-eb3ca20ba44a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8f20eBD7Cdb3eFdb51D58D582a21e1A0b41F4436",
+    "website": "https://unagiswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8f20eBD7Cdb3eFdb51D58D582a21e1A0b41F4436/logo.png"
+  },
+  "name": "Unagi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Unagi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

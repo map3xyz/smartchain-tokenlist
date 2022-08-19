@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "A charity-oriented token for helping children’s hospitals with cancer care."
+  },
+  "id": "4fa54159-17ff-4c43-9e5f-0d55e0b39bf9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+    "website": "https://lifelinetoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2/logo.png"
+  },
+  "name": "LifeLine",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LLT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

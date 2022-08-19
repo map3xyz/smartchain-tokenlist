@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF2DA079867785018E6d823DD0FF332f05AAfe485",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are an international team consisting of investors, programmers, engineers, founders, project managers, and crypto enthusiasts. We are not only invested but have also realized and successfully established many projects ourselves. Due to our network, we are personally very well connected with many partners and decision makers in the whole field."
+  },
+  "id": "0efdead8-e0fd-4646-8eb0-ec575bae8927",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF2DA079867785018E6d823DD0FF332f05AAfe485",
+    "website": "https://www.crypto-vektor.com/",
+    "twitter": "https://twitter.com/Vektor_vektor?t=pE8hrBoFe7yDCYMEojK9Kw&s=09",
+    "telegram": "https://t.me/VEKTOR_mentoring",
+    "github": "https://github.com/CRYPTO-VEKTOR?tab=projects"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF2DA079867785018E6d823DD0FF332f05AAfe485/logo.png"
+  },
+  "name": "VEKTOR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VEKTOR",
+  "tags": [
+    "privacy"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

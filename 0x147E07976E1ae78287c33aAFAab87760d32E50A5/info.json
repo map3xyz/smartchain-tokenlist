@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x147E07976E1ae78287c33aAFAab87760d32E50A5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "dexIRA provides fully automated BNB redistribution, multi-currency dividend rewards, advanced buyback protocols, and tokenomics that promote longterm holding"
+  },
+  "id": "ea22824b-88dc-414a-9ccf-c608dcafe0a5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x147E07976E1ae78287c33aAFAab87760d32E50A5",
+    "website": "https://www.dexira.com",
+    "twitter": "https://twitter.com/dexiratoken",
+    "github": "https://github.com/dexira",
+    "telegram": "https://t.me/dexira",
+    "reddit": "https://reddit.com/r/dexIRAtoken",
+    "whitepaper": "https://dexira.com/whitepaper",
+    "medium": "https://medium.com/@dexIRA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x147E07976E1ae78287c33aAFAab87760d32E50A5/logo.png"
+  },
+  "name": "dexIRA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

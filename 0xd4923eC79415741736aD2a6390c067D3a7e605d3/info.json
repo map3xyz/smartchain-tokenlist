@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Capsule DEFI - Unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space."
+  },
+  "id": "c9cacf3e-5096-48af-804c-a32cb5c92653",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+    "website": "https://www.capsuledefi.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd4923eC79415741736aD2a6390c067D3a7e605d3/logo.png"
+  },
+  "name": "Capsule Decentralized Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAPSULE DEFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

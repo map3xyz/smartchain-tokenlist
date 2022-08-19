@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbCeeE918077F63fB1B9e10403F59cA40C7061341",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PAPADOGE’s coming out of his retirement to give everyone who missed out on his son a second chance. We are a meme-based token that aims to be the best protocol in promoting fun and joy. Our community will be stress-free and warming, everyone is welcome to join."
+  },
+  "id": "0e638026-bf8e-4f89-b5e8-eefeb5a88df1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbCeeE918077F63fB1B9e10403F59cA40C7061341",
+    "website": "https://www.papadoge.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbCeeE918077F63fB1B9e10403F59cA40C7061341/logo.png"
+  },
+  "name": "Papa Doge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAPADOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

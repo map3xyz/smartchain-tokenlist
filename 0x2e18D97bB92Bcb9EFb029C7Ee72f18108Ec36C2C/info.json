@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2e18D97bB92Bcb9EFb029C7Ee72f18108Ec36C2C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TORO is a cryptocurrency for us, providing a decentralized power of internet finance to the community, who will truly decide with our horns when the run ends."
+  },
+  "id": "2ae7568e-94b8-44db-9152-dfe8d832c680",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2e18D97bB92Bcb9EFb029C7Ee72f18108Ec36C2C",
+    "website": "https://torobullrun.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2e18D97bB92Bcb9EFb029C7Ee72f18108Ec36C2C/logo.png"
+  },
+  "name": "TORO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TORO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xFbC37a1865DD46091A45221F575062A3b8b2e676",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know that it’s an advance hyper-deflationary token with a cutting-edge hyper buyback burn protocol built in to earn passive rewards through static reflections and burns, so more HyperBoost are automatically added to your wallet for each transaction."
+  },
+  "id": "6acc08e7-14f1-4320-9967-b170e969464a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFbC37a1865DD46091A45221F575062A3b8b2e676",
+    "website": "https://hyperboostworld.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hyperboost/",
+    "twitter": "https://twitter.com/HyperBoostBSC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFbC37a1865DD46091A45221F575062A3b8b2e676/logo.png"
+  },
+  "name": "Hyperboost",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Hyperboost",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

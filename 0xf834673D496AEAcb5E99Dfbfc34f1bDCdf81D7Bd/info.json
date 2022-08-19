@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xf834673D496AEAcb5E99Dfbfc34f1bDCdf81D7Bd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A launchpad that allows any token amount held by investors to participate in IDO's. It also includes an insurance system and P2E game."
+  },
+  "id": "807c8004-fac4-4c21-b763-38d764c4949b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd",
+    "website": "https://aegislaunchpad.com/",
+    "twitter": "https://twitter.com/AegisLaunchpad",
+    "telegram": "https://t.me/AegisLaunchpad",
+    "facebook": "https://facebook.com/aegislaunchpad/",
+    "whitepaper": "https://aegislaunchpad.com/assets/files/AEGIS%20LAUNCHPAD%20WHITEPAPER%201.0%20c2p%20102221%20b.pdf",
+    "medium": "https://aegislaunchpad.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aegis-launchpad/",
+    "coingecko": "https://coingecko.com/en/coins/aegis-launchpad",
+    "github": "https://bscscan.com/address/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf834673D496AEAcb5E99Dfbfc34f1bDCdf81D7Bd/logo.png"
+  },
+  "name": "Aegis Launchpad",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AGSPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

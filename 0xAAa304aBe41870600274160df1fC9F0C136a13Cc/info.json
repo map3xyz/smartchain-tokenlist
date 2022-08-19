@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAAa304aBe41870600274160df1fC9F0C136a13Cc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AstroPup ($ASTRO) is a lighthearted deflationary meme token, with a 10% tax applied to every transaction."
+  },
+  "id": "6bbf705e-9163-4127-b1b5-b91349d2c018",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaaa304abe41870600274160df1fc9f0c136a13cc",
+    "website": "https://astropup.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAAa304aBe41870600274160df1fC9F0C136a13Cc/logo.png"
+  },
+  "name": "AstroPup",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ASTRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

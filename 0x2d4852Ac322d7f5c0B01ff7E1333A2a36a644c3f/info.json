@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2d4852Ac322d7f5c0B01ff7E1333A2a36a644c3f",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Hitchain is a decentralized smart defi project run by the community."
+  },
+  "id": "013300bb-3917-4d6c-9335-0cac160be840",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2d4852Ac322d7f5c0B01ff7E1333A2a36a644c3f",
+    "website": "https://hitchain.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2d4852Ac322d7f5c0B01ff7E1333A2a36a644c3f/logo.png"
+  },
+  "name": "HitChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

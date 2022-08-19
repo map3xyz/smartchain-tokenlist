@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9a3077F34cC30F9BF8E93A0369119bae0113d9cC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PolyPlay is the Gaming Gold Standard Coin. Gamers can participate in Epsorts tournaments just by holding Play token and win rewards in crypto"
+  },
+  "id": "e57557f3-7f2e-4fef-8399-2a65f3f9ff4f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc",
+    "website": "https://polyplay.net/",
+    "github": "https://github.com/polyplaygames",
+    "twitter": "https://twitter.com/polyplaycoin",
+    "coingecko": "https://coingecko.com/en/coins/polyplay",
+    "medium": "https://polyplay.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/polyplay/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9a3077F34cC30F9BF8E93A0369119bae0113d9cC/logo.png"
+  },
+  "name": "PolyPlay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PLAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

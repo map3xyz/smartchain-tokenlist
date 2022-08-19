@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x57F35f7Bbacf5248C5120e517c4EAB4aB1048C6F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CRATER is a token launched on Binance Smart Chain to bring a community together on the mission to Mars. Together we will build good things to fuel the rocket."
+  },
+  "id": "12018ecd-282d-4d70-93ea-9f9c64b7050b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57F35f7Bbacf5248C5120e517c4EAB4aB1048C6F",
+    "website": "https://marscrater.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x57F35f7Bbacf5248C5120e517c4EAB4aB1048C6F/logo.png"
+  },
+  "name": "Mars Crater",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRATER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

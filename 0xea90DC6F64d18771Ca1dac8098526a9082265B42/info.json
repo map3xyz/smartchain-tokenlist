@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xea90DC6F64d18771Ca1dac8098526a9082265B42",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DINOPARK is a deflationary passive-return token. Just hold $DINOP in your wallet and you will see your coins going up in number. Each transaction will automatically distribute to all holders."
+  },
+  "id": "596d0bc8-d956-4a47-9a0b-01d3e932f76f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xea90DC6F64d18771Ca1dac8098526a9082265B42",
+    "website": "https://dinopark.fun/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xea90DC6F64d18771Ca1dac8098526a9082265B42/logo.png"
+  },
+  "name": "DINOPARK TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DINOP",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

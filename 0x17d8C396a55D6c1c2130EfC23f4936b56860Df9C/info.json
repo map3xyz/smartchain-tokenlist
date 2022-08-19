@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We Moose HODL! We Moose Unite! We Moose Stay Strong Together!"
+  },
+  "id": "a41418ac-c10a-4a2e-a013-7aebf6dd202d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C",
+    "website": "https://littlemoosefinance.wixsite.com/website"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C/logo.png"
+  },
+  "name": "Littlemoose",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LMOOSE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

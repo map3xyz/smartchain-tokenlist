@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc6Cb12df4520B7Bf83f64C79c585b8462e18B6Aa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BEVO Token is a cryptocurrency whose value is backed by real art from real artists. The NFT Art Gallery dAPP will feature paintings, sculptures, photos and digital artwork from artists all around the world. Each piece will be represented by a unique Non-Fungible Token minted on the Binance Smart Chain, for a truly frictionless way to trade not only NFTs but any work of art."
+  },
+  "id": "a262075e-903a-4749-b278-7f429882ea23",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc6Cb12df4520B7Bf83f64C79c585b8462e18B6Aa",
+    "website": "https://bevodigital.art/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc6Cb12df4520B7Bf83f64C79c585b8462e18B6Aa/logo.png"
+  },
+  "name": "BEVO NFT Art Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BEVO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

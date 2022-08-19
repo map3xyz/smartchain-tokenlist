@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x01413859d321F423054f6A26276325E8085Dd5fc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Yield farming mechanism provides sustainable and profitable yields combined with transparent security features."
+  },
+  "id": "87875271-2269-49b0-9eac-f4cf0f5c48a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01413859d321F423054f6A26276325E8085Dd5fc",
+    "website": "https://www.littlebullcoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x01413859d321F423054f6A26276325E8085Dd5fc/logo.png"
+  },
+  "name": "Littlebull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

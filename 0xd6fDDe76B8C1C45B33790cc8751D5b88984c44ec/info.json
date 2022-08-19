@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "StrikeX is the native currency of the blockchain powered eco-system developed & deployed by the UK Registered Company StrikeX Technologies Ltd. Their flag ship product, TradeStrike, will utilise the power of tokenisation to offer trading in Stocks, Cryptocurrencies, NFT’s & even Real Estate. Fully compliant, fully collateralised trading, 24/7 – 365 days a year."
+  },
+  "id": "7103e8ba-aac4-4773-b63e-ad5ec9055870",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec",
+    "website": "https://strikex.com",
+    "twitter": "https://twitter.com/StrikeXofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/strikecoin/",
+    "facebook": "https://facebook.com/tradestrike",
+    "discord": "https://discord.com/tradestrike",
+    "medium": "https://tradestrike.medium.com/",
+    "coingecko": "https://coingecko.com/coins/strike-x",
+    "telegram": "https://t.me/StrikeXcrypto",
+    "youtube": "https://youtube.com/channel/UCZ_gCf9-Tnr7JeoFiSkl7SQ",
+    "reddit": "https://reddit.com/TradeStrike"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd6fDDe76B8C1C45B33790cc8751D5b88984c44ec/logo.png"
+  },
+  "name": "StrikeX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STRX",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

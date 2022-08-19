@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "0ab24dcd-c1a2-4f00-8285-c869ae886f3a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3",
+    "website": "https://axieinfinity.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3/logo.png"
+  },
+  "name": "Axie Infinity Shard (Portal from Ethereum)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AXSet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

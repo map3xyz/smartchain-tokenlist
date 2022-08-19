@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x45B110fCdd1a20fCEb1805ec0F7Ca6ef3712BeFc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EloniumCoin is a token with a unique use-case. The project intends to improve construction projects starting from The Netherlands and expanding globally over time. The transaction tax is 7% where 5% is reflected back to all holders, and 2% is added to the Liquidity Pool."
+  },
+  "id": "1d44ef3f-f5c2-494b-8926-3fa37d41fb12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x45B110fCdd1a20fCEb1805ec0F7Ca6ef3712BeFc",
+    "website": "https://eloniumcoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x45B110fCdd1a20fCEb1805ec0F7Ca6ef3712BeFc/logo.png"
+  },
+  "name": "EloniumCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

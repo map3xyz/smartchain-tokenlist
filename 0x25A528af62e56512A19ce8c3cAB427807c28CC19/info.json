@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x25A528af62e56512A19ce8c3cAB427807c28CC19",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Formation Fi revolutionizes portfolio construction by introducing risk-adjusted portfolio of decentralized open financial crypto assets in the form of algorithmically rebasing indexes, with a high degree of composability, across the major blockchain networks."
+  },
+  "id": "a90d1df7-3e4b-4428-857b-507ddbc936f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25A528af62e56512A19ce8c3cAB427807c28CC19",
+    "website": "https://formation.fi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x25A528af62e56512A19ce8c3cAB427807c28CC19/logo.png"
+  },
+  "name": "Formation Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FORM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

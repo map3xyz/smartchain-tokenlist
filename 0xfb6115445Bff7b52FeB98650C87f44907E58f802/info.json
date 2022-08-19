@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto."
+  },
+  "id": "91d381b4-63d4-49e5-abb0-fb23462660ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfb6115445bff7b52feb98650c87f44907e58f802",
+    "research": "https://research.binance.com/en/projects/aave-protocol",
+    "website": "https://aave.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfb6115445Bff7b52FeB98650C87f44907E58f802/logo.png"
+  },
+  "name": "Binance-Peg Aave Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [
+    "governance",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

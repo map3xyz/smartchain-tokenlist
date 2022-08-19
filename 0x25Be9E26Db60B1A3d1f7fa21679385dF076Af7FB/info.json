@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x25Be9E26Db60B1A3d1f7fa21679385dF076Af7FB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GaiaDAO aims to develop an environmentally-friendly ecosystem of prominent DeFi products on the BSC"
+  },
+  "id": "2303dc2e-7ca6-42d8-bce1-19cb1b0c5c98",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25be9e26db60b1a3d1f7fa21679385df076af7fb",
+    "website": "https://gaiadao.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x25Be9E26Db60B1A3d1f7fa21679385dF076Af7FB/logo.png"
+  },
+  "name": "Gaia",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

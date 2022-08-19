@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb9784C1633ef3b839563B988c323798634714368",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Phoswap, a decentralized exchange on Binance Smart Chain provides users swap pools, liquidity pools, farming pools, and staking pools using an Automated Market Maker (AMM) model."
+  },
+  "id": "b6f20cdc-c7b1-4c90-9758-e6475f7ecbd9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb9784C1633ef3b839563B988c323798634714368",
+    "website": "https://phoswap.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb9784C1633ef3b839563B988c323798634714368/logo.png"
+  },
+  "name": "Phoswap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PHO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

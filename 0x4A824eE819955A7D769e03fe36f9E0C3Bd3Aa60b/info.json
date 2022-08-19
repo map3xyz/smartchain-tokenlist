@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The World’s 1st Dog Themed Token That Rewards You, Whilst Giving Dogs a Home"
+  },
+  "id": "f997112e-644d-414e-9174-15c9cc7099e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b",
+    "website": "https://kabosutoken.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b/logo.png"
+  },
+  "name": "Kabosu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KABOSU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB5bCF4fAa81457e98f4609a2a3291dF64E246f01",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Parabolic Token has been carefully designed to achieve a single purpose – GOING PARABOLIC! Our super addictive game and tokenomics will benefit the coin and consistently take it to new heights. Our game will be released in November!"
+  },
+  "id": "cfab90a0-e113-490d-9e83-3a4b1f3935b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB5bCF4fAa81457e98f4609a2a3291dF64E246f01",
+    "website": "https://parabolictoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/parabolic/",
+    "telegram": "https://t.me/ParabolicToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB5bCF4fAa81457e98f4609a2a3291dF64E246f01/logo.png"
+  },
+  "name": "Parabolic",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PARA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

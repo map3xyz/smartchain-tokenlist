@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAd6172123E1Bd3B4ce0B01ef92fDD63E83590b99",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OxSwap is new and fastest swap exchange and Staking Farm on Binance Smart Chain. Much lower fees other than swap exchange almost free of fee."
+  },
+  "id": "c7fad991-8013-4e6a-a17c-087860e446f8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAd6172123E1Bd3B4ce0B01ef92fDD63E83590b99",
+    "website": "https://oxswap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAd6172123E1Bd3B4ce0B01ef92fDD63E83590b99/logo.png"
+  },
+  "name": "OxSwapToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OXT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

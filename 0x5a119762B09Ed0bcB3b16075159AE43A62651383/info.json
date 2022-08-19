@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x5a119762B09Ed0bcB3b16075159AE43A62651383",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dali has three projects. DaliNFT, DaliSwap and DaliGames. First one is DaliNFT. DaliNFT is the next generation NFT Marketplace to facilitate working with NFTs. It helps change the artworks to on-chain artworks, injecting new value to classical artworks. DaliNFT also connects celebrities and their fans in a special project, where celebrities present their NFTs to millions of fans in a user-friendly environment, and fans can have mementos of their favorite celebrities."
+  },
+  "id": "ae149142-ac63-4dda-bf8b-7eb5ea612e61",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5a119762B09Ed0bcB3b16075159AE43A62651383",
+    "website": "https://dalitoken.io",
+    "telegramNews": "https://t.me/dalitoken",
+    "telegram": "https://t.me/dalienglish",
+    "twitter": "https://twitter.com/dalitoken",
+    "github": "https://github.com/DaliToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dali",
+    "coingecko": "https://coingecko.com/en/coins/dali",
+    "whitepaper": "https://dalitoken.io/docs/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5a119762B09Ed0bcB3b16075159AE43A62651383/logo.png"
+  },
+  "name": "Dali",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DALI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

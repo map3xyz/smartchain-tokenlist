@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x2fd6c9B869Dea106730269E13113361b684f843a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Chihuahua aims to spread animal adoption awareness. Part of the taxes applied to every transaction is donated to animal shelters worldwide."
+  },
+  "id": "7efeb470-a1e4-48f4-aa26-3b0b263d39c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2fd6c9B869Dea106730269E13113361b684f843a",
+    "website": "https://chihuahuabsc.io/",
+    "twitter": "https://twitter.com/Chihuahua_bsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chihuahua-token-19fcd0de-eb4d-4fd7-bc4a-a202247dfdbb/",
+    "coingecko": "https://coingecko.com/coins/chihuahua-token-19fcd0de-eb4d-4fd7-bc4a-a202247dfdbb",
+    "telegram": "https://t.me/ChiHuaHuaGlobal",
+    "facebook": "https://facebook.com/chihuahuabsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2fd6c9B869Dea106730269E13113361b684f843a/logo.png"
+  },
+  "name": "Chihuahua",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHH",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

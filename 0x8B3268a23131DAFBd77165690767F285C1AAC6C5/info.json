@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8B3268a23131DAFBd77165690767F285C1AAC6C5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GoCerberus is automatic liquidity acquisition yield farm running on Binance Smart Chain. GoCerberus tokenomics is a hybrid between yield farming and Safemoon."
+  },
+  "id": "2a663a21-ec99-4be7-8bfa-8be1881daba6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8B3268a23131DAFBd77165690767F285C1AAC6C5",
+    "website": "https://gocerberus.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8B3268a23131DAFBd77165690767F285C1AAC6C5/logo.png"
+  },
+  "name": "Cerberus Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CERBERUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

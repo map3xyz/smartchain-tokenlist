@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x4673f018cc6d401AAD0402BdBf2abcBF43dd69F3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Credit Card and Crypto payment gateway allowing crypto transaction on e-commerces and apps while rewarding the holders with a 5% automated dividend paid in BNB every 24 hours. "
+  },
+  "id": "41380370-9181-44ae-8bf1-c8cfc396e5cf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4673f018cc6d401AAD0402BdBf2abcBF43dd69F3",
+    "website": "https://www.frenchconnection.finance",
+    "twitter": "https://twitter.com/FCF_Bsc",
+    "reddit": "https://reddit.com/r/Frenchconnectiontoken/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/french-connection-finance/",
+    "github": "https://github.com/Frenchconnected/FCF",
+    "telegram": "https://t.me/frenchconnection_bsc",
+    "telegramNews": "https://t.me/FCF_announcement",
+    "facebook": "https://facebook.com/French-connection-finance-100950215648227/",
+    "coingecko": "https://coingecko.com/en/coins/french-connection-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4673f018cc6d401AAD0402BdBf2abcBF43dd69F3/logo.png"
+  },
+  "name": "French Connection Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FCF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

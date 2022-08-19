@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1b9E14122Cb416845F0f21967f38b5c3e74De774",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Nebula Chain Finance smart contract generates of the stake amount daily and guarantees a final profit."
+  },
+  "id": "8a85c739-365a-4544-9301-1dae3386a0cd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1b9E14122Cb416845F0f21967f38b5c3e74De774",
+    "website": "https://nebulachain.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1b9E14122Cb416845F0f21967f38b5c3e74De774/logo.png"
+  },
+  "name": "Nebula Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEBULA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

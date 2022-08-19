@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg BitTorrent (BTT BEP20) is a token issued by Binance on Smart Chain; its price is pegged to BitTorrent (BTT) at a ratio of 1:1."
+  },
+  "id": "62b9ba66-2a28-4a90-ae8d-6a73918117e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8595F9dA7b868b1822194fAEd312235E43007b49",
+    "website": "https://bittorrent.com/btt"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8595F9dA7b868b1822194fAEd312235E43007b49/logo.png"
+  },
+  "name": "Binance-Peg BitTorrent",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTT",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

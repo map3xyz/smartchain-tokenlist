@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x6B9F6f911384886b2e622e406327085238F8A3C5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HeroVerse is the first Match-3 Puzzle and RPG Strategy Game on Binance Smart Chain."
+  },
+  "id": "3e769b89-d106-4ce5-87d0-dec80c34ea17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6B9F6f911384886b2e622e406327085238F8A3C5",
+    "website": "https://heroverse.io",
+    "telegram": "https://t.me/heroverse_game",
+    "telegramNews": "https://t.me/heroverse_ann",
+    "twitter": "https://twitter.com/heroverse_game",
+    "facebook": "https://facebook.com/heroverse.offical",
+    "blog": "https://blog.heroverse.io",
+    "youtube": "https://youtube.com/channel/UC0X6s8hZdZQXgfA-aRF5sfg",
+    "github": "https://github.com/Heroverse",
+    "whitepaper": "https://whitepaper.heroverse.io/",
+    "coingecko": "https://coingecko.com/en/coins/heroverse",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/heroverse/ico/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6B9F6f911384886b2e622e406327085238F8A3C5/logo.png"
+  },
+  "name": "HeroVerse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. The IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible."
+  },
+  "id": "59b8c5f0-e024-4ad6-8475-9d0795a75254",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+    "website": "https://invest.impossible.finance/launchpad",
+    "github": "https://github.com/impossiblefinance",
+    "twitter": "https://twitter.com/impossiblefi",
+    "blog": "https://medium.com/impossiblefinance",
+    "telegram": "https://t.me/ImpossibleFinance",
+    "coingecko": "https://coingecko.com/en/coins/impossible-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89/logo.png"
+  },
+  "name": "Impossible Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IDIA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

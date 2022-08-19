@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5774B2fc3e91aF89f89141EacF76545e74265982",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTY is a multi-chain NFT and Web3 authentication network."
+  },
+  "id": "0ec3f194-9719-4ee0-8e89-085dd61bbae5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5774b2fc3e91af89f89141eacf76545e74265982",
+    "website": "https://nftynetwork.io",
+    "twitter": "https://twitter.com/nftynetwork",
+    "telegram": "https://t.me/NFTYChat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5774B2fc3e91aF89f89141EacF76545e74265982/logo.png"
+  },
+  "name": "NFTY Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTY",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

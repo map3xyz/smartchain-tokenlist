@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc4957a864245AA4373Be1f33ae24E93876b7Dfe1",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Turtledex is the first decentralized storage solution on Binance Smart Chain. Our goal is to provide a network of node operators and share their storage and bandwidth to create completely secured and fast decentralized storage system."
+  },
+  "id": "5e8c9444-8f14-4d11-8f58-1a4280d8f1f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc4957a864245AA4373Be1f33ae24E93876b7Dfe1",
+    "website": "https://turtledex.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc4957a864245AA4373Be1f33ae24E93876b7Dfe1/logo.png"
+  },
+  "name": "TurtleDex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TTDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

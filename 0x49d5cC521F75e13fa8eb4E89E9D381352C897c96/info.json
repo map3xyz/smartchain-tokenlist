@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "9fa43e5d-004c-4588-a95c-a3812d3ad58e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x49d5cC521F75e13fa8eb4E89E9D381352C897c96",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x49d5cC521F75e13fa8eb4E89E9D381352C897c96/logo.png"
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xdC0118B27276065C573386aa44e7a6E5e2AF07C1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DEEPMAZE is a crowding pool backed auto liquidity Defi token built on Binance Smart Chain. It solves the liquidity, value, and discretion trilemma that is a problem in the current ecosystem."
+  },
+  "id": "e3aa7ed7-f112-47d4-9857-02eb554a8bfb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdc0118b27276065c573386aa44e7a6e5e2af07c1",
+    "website": "https://www.deepmaze.finance/",
+    "twitter": "https://twitter.com/DPZFinance",
+    "github": "https://github.com/deepmazefoundation/",
+    "telegram": "https://t.me/dpzfinance",
+    "telegramNews": "https://t.me/dpzfinance",
+    "blog": "https://deepmaze.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/deepmaze-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdC0118B27276065C573386aa44e7a6E5e2AF07C1/logo.png"
+  },
+  "name": "DeepMaze",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DPZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

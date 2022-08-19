@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dtravel is a DAO: a community-owned and governed ecosystem that operates for the benefit of its community members."
+  },
+  "id": "245f6d7a-5434-49d6-8343-c1792d929638",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F",
+    "website": "https://www.dtravel.com/",
+    "twitter": "https://twitter.com/TRVL",
+    "telegram": "https://t.me/dtravelcommunity",
+    "medium": "https://medium.com/dtravel-community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F/logo.png"
+  },
+  "name": "TRVL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRVL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

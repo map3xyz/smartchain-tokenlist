@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x450dCf93160A30BE156A4600802c91BF64dFFD2E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CorgiCoin is the 100% community-owned dogecoin of Binance Smart Chain. It is 100x cheaper to exchange and send than competitors, and uses a fraction of the electricity.The Corgi ecosystem supports blockchain literacy and an NFT marketplace."
+  },
+  "id": "cb2dd854-2e80-45a2-a9ed-8d4acaad531e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x450dCf93160A30BE156A4600802c91BF64dFFD2E",
+    "website": "https://corgicoin.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x450dCf93160A30BE156A4600802c91BF64dFFD2E/logo.png"
+  },
+  "name": "CorgiCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CORGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

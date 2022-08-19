@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc77Dd3AdE7b717583E0924466E4E474A5673332c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BSTS is a hyper-deflationary token running on Binance Smart Chain, which will be used in the in-game store to buy Beasties and other items"
+  },
+  "id": "7c943b82-71a6-495d-88e6-95dad54bd7e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc77Dd3AdE7b717583E0924466E4E474A5673332c",
+    "website": "https://beasties.online/",
+    "twitter": "https://twitter.com/beasties_online",
+    "github": "https://github.com/MagicBeastiesOnline",
+    "telegram": "https://t.me/beastieschat",
+    "docs": "https://docs.beasties.online/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/magic-beasties/",
+    "coingecko": "https://coingecko.com/en/coins/magic-beasties",
+    "sourceCode": "https://bscscan.com/address/0xc77Dd3AdE7b717583E0924466E4E474A5673332c#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc77Dd3AdE7b717583E0924466E4E474A5673332c/logo.png"
+  },
+  "name": "Magic Beasties",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios."
+  },
+  "id": "eab859ca-0785-4f71-88fd-02333a8fed71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+    "website": "https://insuretoken.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9b17bAADf0f21F03e35249e0e59723F34994F806/logo.png"
+  },
+  "name": "inSure",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

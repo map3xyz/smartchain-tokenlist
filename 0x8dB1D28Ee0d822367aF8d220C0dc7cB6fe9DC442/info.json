@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ETHPad is a launchpad token"
+  },
+  "id": "53ed4bc6-f388-406c-a295-8e2a27a60d8f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442",
+    "website": "https://ethpad.network/",
+    "twitter": "https://twitter.com/ethpadofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethpad/",
+    "coingecko": "https://coingecko.com/ethpad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442/logo.png"
+  },
+  "name": "ETHPAD.network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

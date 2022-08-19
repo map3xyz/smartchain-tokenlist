@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x17FEa92CA2e7570d07b63ecD6B698e01386555A4",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token ."
+  },
+  "id": "f21bb72e-ef9e-4401-bc60-7333e4b905b1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17FEa92CA2e7570d07b63ecD6B698e01386555A4",
+    "website": "https://coxswap.com/",
+    "telegram": "https://t.me/coxswap_chat",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/coxswap/",
+    "twitter": "https://twitter.com/Cox_Swap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x17FEa92CA2e7570d07b63ecD6B698e01386555A4/logo.png"
+  },
+  "name": "COXSWAP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

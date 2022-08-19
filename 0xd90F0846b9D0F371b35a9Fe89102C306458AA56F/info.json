@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd90F0846b9D0F371b35a9Fe89102C306458AA56F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FTX Fund is a blockchain platform under FTX Finance LTD was born with a mission to create a giant foundation in the blockchain industry."
+  },
+  "id": "3da84942-fe33-4065-9641-57e3df208ac5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd90F0846b9D0F371b35a9Fe89102C306458AA56F",
+    "website": "https://ftxfund.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd90F0846b9D0F371b35a9Fe89102C306458AA56F/logo.png"
+  },
+  "name": "FTXFUND",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FTXF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

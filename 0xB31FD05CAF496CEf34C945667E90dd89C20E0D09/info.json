@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB31FD05CAF496CEf34C945667E90dd89C20E0D09",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MAST is a BEP-20 incentive token based on the Binance Smart Chain network launched by Magic cube DAO. The value and significance of MAST issuance is to promote the management and governance among the Magic cube DAO communities"
+  },
+  "id": "9a6d0b2c-ecd4-47c5-a49f-5384ed3c0241",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB31FD05CAF496CEf34C945667E90dd89C20E0D09",
+    "website": "https://mast.magic-cube.finance/#/farms",
+    "twitter": "https://twitter.com/MagicCubeDeFi",
+    "telegram": "https://t.me/magicpowercommunityglobal",
+    "github": "https://github.com/MagicCubeFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB31FD05CAF496CEf34C945667E90dd89C20E0D09/logo.png"
+  },
+  "name": "MagicStaves",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MAST",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

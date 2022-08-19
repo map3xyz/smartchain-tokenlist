@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6A79E08db6c08b8F88703794bF1a47f5a01eB9dC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WINLAMBO is a Lambo generating token! Holders benefit from 2% passive income and a lifetime of chances at winning 210,000 BUSD."
+  },
+  "id": "337aee89-e13a-4d62-b6c2-1543071a9a54",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6A79E08db6c08b8F88703794bF1a47f5a01eB9dC",
+    "website": "https://winlambo.fund/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6A79E08db6c08b8F88703794bF1a47f5a01eB9dC/logo.png"
+  },
+  "name": "WINLAMBO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WINLAMBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

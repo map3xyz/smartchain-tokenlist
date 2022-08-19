@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1012b25Da282758322dAce753C15b889d1aB7434",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zyber: Synergy is a Virtual Reality (VR) Three-dimensional Crypto-Gaming Platform that lets the user/gamer gain maximum profit by just playing the platform games."
+  },
+  "id": "1b998e2d-e274-4da8-8d6e-0a402dc0afe0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1012b25Da282758322dAce753C15b889d1aB7434",
+    "website": "https://zybersynergy.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1012b25Da282758322dAce753C15b889d1aB7434/logo.png"
+  },
+  "name": "Zyber Synergy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZYBER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

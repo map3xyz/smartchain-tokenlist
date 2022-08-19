@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb6ADB74efb5801160Ff749b1985Fd3bD5000e938",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gamezone is a launchpad for gaming projects"
+  },
+  "id": "b0f9b9f6-bd5e-4af2-b5b0-49b03ba02160",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+    "website": "https://gamezone.io/",
+    "twitter": "https://twitter.com/gamezone_app",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamezone/",
+    "coingecko": "https://coingecko.com/gamezone"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb6ADB74efb5801160Ff749b1985Fd3bD5000e938/logo.png"
+  },
+  "name": "Gamezone.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GZONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x05F2dF7B3D612A23fe12162A6c996447dCE728a5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Yummy is a BEP20 token issued on the Binance Smart Chain on a mission to end world hunger. Each time Yummy is traded, a charity is receiving donations. Yummy sets out to transform the crypto industry by giving back while creating a coin that benefits charity and its holders. We are placing an emphases on complete transparency, sustainable, strategic growth decisions, and innovative marketing campaigns that will ensure the world falls in love with Yummy as much as the rest of us."
+  },
+  "id": "03460190-1e88-461e-94d8-6a54ed813e06",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05F2dF7B3D612A23fe12162A6c996447dCE728a5",
+    "website": "https://yummycrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x05F2dF7B3D612A23fe12162A6c996447dCE728a5/logo.png"
+  },
+  "name": "YUMMY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YUMMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

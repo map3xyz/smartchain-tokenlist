@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBDAC5C8bc3FF38083437bB712D55b668F44F6DF1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Simargl Token is going to be a cross-chain DeFi with auto trading capabilities."
+  },
+  "id": "078550c4-68c1-46e1-9c98-55487fd1be6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBDAC5C8bc3FF38083437bB712D55b668F44F6DF1",
+    "website": "https://simar.gl",
+    "github": "https://github.com/SimarglToken/",
+    "twitter": "https://twitter.com/SimarglToken",
+    "telegram": "https://t.me/SimarglToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBDAC5C8bc3FF38083437bB712D55b668F44F6DF1/logo.png"
+  },
+  "name": "Simargl Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

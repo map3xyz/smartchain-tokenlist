@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Celer Token (CELR BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Celer (CELR ERC20) at a ratio of 1:1."
+  },
+  "id": "2a179e72-5536-4ff7-af72-b82c54670306",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+    "website": "https://www.celer.network/#"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1f9f6a696C6Fd109cD3956F45dC709d2b3902163/logo.png"
+  },
+  "name": "Binance-Peg Celer Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CELR",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

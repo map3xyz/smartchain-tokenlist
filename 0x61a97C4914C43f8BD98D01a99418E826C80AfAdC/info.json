@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x61a97C4914C43f8BD98D01a99418E826C80AfAdC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoBonusMiles helps to save on travelling even more, by adding CBM reward points to standard airline loyalty programs. CryptoBonusMiles expands Aeron solution to the mass market for millions of people who have ever flown, bringing convenience to the air travelers."
+  },
+  "id": "a97ea1a2-7200-4131-bb45-7fd0f25afb7e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x61a97C4914C43f8BD98D01a99418E826C80AfAdC",
+    "website": "https://cryptobonusmiles.com/",
+    "twitter": "https://twitter.com/aeron_aero",
+    "telegram": "https://t.me/aeronaero",
+    "coingecko": "https://coingecko.com/en/coins/cryptobonusmiles",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptobonusmiles"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x61a97C4914C43f8BD98D01a99418E826C80AfAdC/logo.png"
+  },
+  "name": "CryptoBonusMiles",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CBM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

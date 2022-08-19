@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x42069C0CF4DA25420fC4C9d9001ba5af7846CCfd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GUH (Goes Up Higher) is an elastic supply token that is mathematically guaranteed to increase in price until it exceeds the price of bitcoin"
+  },
+  "id": "7c0d96d0-cce7-4b34-8647-02ac0c048550",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42069C0CF4DA25420fC4C9d9001ba5af7846CCfd",
+    "website": "https://guhtoken.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x42069C0CF4DA25420fC4C9d9001ba5af7846CCfd/logo.png"
+  },
+  "name": "Goes Up Higher",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GUH",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

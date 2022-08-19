@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5D07eDAbA2151a3C6802B28636eCC23082398EdB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zuna is a community driven DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition and Burning."
+  },
+  "id": "561ae1bf-3cb7-494e-8b17-33f1c2ba259e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5D07eDAbA2151a3C6802B28636eCC23082398EdB",
+    "website": "https://zunacoin.com/",
+    "facebook": "https://facebook.com/zunacoin",
+    "twitter": "https://twitter.com/zunacoin",
+    "youtube": "https://youtube.com/zunacoin",
+    "telegramNews": "https://t.me/zunacoin",
+    "reddit": "https://reddit.com/r/ZunaCoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5D07eDAbA2151a3C6802B28636eCC23082398EdB/logo.png"
+  },
+  "name": "Zuna",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Zuna",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

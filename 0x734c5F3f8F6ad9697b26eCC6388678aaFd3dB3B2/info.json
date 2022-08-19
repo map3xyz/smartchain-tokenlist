@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x734c5F3f8F6ad9697b26eCC6388678aaFd3dB3B2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaMusk Token's fundamental objective is to transform the monetary system."
+  },
+  "id": "615d9be5-1731-49f8-8a75-97410b028a71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x734c5F3f8F6ad9697b26eCC6388678aaFd3dB3B2",
+    "website": "https://muskmetaverse.io/",
+    "twitter": "https://twitter.com/MUSK_METAVERSE",
+    "reddit": "https://reddit.com/user/Muskmetaverse",
+    "youtube": "https://youtube.com/channel/UCGTAQ4sM-nMibpVqKelfbKw",
+    "telegram": "https://t.me/MuskMetaverse_Official_Channel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/musk-metaverse/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x734c5F3f8F6ad9697b26eCC6388678aaFd3dB3B2/logo.png"
+  },
+  "name": "METAMUSK Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "METAMUSK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

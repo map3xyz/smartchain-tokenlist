@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Taboo is an adult NFT & Streaming media project. Specializing in highly, exclusive content. With models, who are not strictly porn stars. Their marketplace is cutting-edge, built by the Enjin Coin Marketplace Developers. Features include Cross-Chain, DeFi protocols, upcoming VR, and a fiat on-ramp, to allow users unfamiliar with crypto, easy access to the platform's features."
+  },
+  "id": "a14cffe7-cf21-41d0-9d5e-59c4d4f5ed07",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0",
+    "website": "https://taboo.community/",
+    "twitter": "https://twitter.com/TABOOOFFICIAL2",
+    "telegram": "https://t.me/joinchat/TwoPHvu0f6sxZTA9",
+    "telegramNews": "https://t.me/joinchat/Avg3E29yhdBjNDU1",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/taboo-token/",
+    "blog": "https://tabootoken.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/taboo-token",
+    "medium": "https://tabootoken.medium.com/",
+    "youtube": "https://youtube.com/channel/UCdNC5ODDYkRTbDfS8DlTq8Q",
+    "github": "https://github.com/TabooOFFICIAL/TABOO"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0/logo.png"
+  },
+  "name": "Taboo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TABOO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

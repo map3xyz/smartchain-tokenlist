@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x580655E2C6D4fC125C0B2D37B2a3e56219bF9f78",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Gallant is a utility token developed for Blockchain Gaming."
+  },
+  "id": "244b64f9-d45f-4793-a352-c5c758eee52b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78",
+    "website": "https://gallanttoken.com",
+    "twitter": "https://twitter.com/GallantToken",
+    "telegram": "https://t.me/GallantTokenOfficial",
+    "discord": "https://discord.com/gallanttoken",
+    "youtube": "https://youtube.com/channel/UCojYADZqVqM-rUwWNcqrBxg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x580655E2C6D4fC125C0B2D37B2a3e56219bF9f78/logo.png"
+  },
+  "name": "Gallant",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

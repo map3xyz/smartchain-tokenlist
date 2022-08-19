@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x26A4F25A411eF867972633E5FA410031D6346285",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Koduro is an autonomous liquidity generation protocol with static farming that reinvests back into clean energy projects."
+  },
+  "id": "c147bbae-5f22-4d84-82e2-296b99923c21",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26A4F25A411eF867972633E5FA410031D6346285",
+    "website": "https://koduro.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26A4F25A411eF867972633E5FA410031D6346285/logo.png"
+  },
+  "name": "Koduro",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KODURO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

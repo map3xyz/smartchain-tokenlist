@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x942Ed7dfA2a564984747420D47C4f49c2b3140F9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DLF is a dex protocol that bridges multiple blockchains allowing users to perform automated trading of decentralized tokens."
+  },
+  "id": "3154f923-6156-441f-8304-3f2e97d231f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x942Ed7dfA2a564984747420D47C4f49c2b3140F9",
+    "website": "https://www.dollarfuture.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x942Ed7dfA2a564984747420D47C4f49c2b3140F9/logo.png"
+  },
+  "name": "Dollar Future",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DLF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

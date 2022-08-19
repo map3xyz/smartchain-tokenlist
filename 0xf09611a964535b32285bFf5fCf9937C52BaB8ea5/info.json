@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf09611a964535b32285bFf5fCf9937C52BaB8ea5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EVDC is a deflationary and decentralized token that will be used as a digital currency to pay for EV charging."
+  },
+  "id": "8faa4807-45b0-42b4-ab31-5e7f8bb43d81",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf09611a964535b32285bff5fcf9937c52bab8ea5",
+    "website": "https://evdc.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf09611a964535b32285bFf5fCf9937C52BaB8ea5/logo.png"
+  },
+  "name": "EVDC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EVDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

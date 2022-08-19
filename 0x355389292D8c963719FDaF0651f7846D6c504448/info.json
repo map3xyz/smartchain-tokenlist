@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x355389292D8c963719FDaF0651f7846D6c504448",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BEP-20 Token combining financial freedom with charity"
+  },
+  "id": "e8d4b0fe-2bb6-4796-b738-19773e65ceb4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x355389292d8c963719fdaf0651f7846d6c504448",
+    "website": "https://hakunamatata.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x355389292D8c963719FDaF0651f7846D6c504448/logo.png"
+  },
+  "name": "HAKUNAMATATA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

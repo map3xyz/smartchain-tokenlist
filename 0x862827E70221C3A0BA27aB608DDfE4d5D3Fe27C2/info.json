@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x862827E70221C3A0BA27aB608DDfE4d5D3Fe27C2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token with 15% reflection back to holders. Valhalla awaits."
+  },
+  "id": "2775ec35-bbc1-4b97-9952-94a9f86f2046",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x862827E70221C3A0BA27aB608DDfE4d5D3Fe27C2",
+    "website": "https://saferune.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x862827E70221C3A0BA27aB608DDfE4d5D3Fe27C2/logo.png"
+  },
+  "name": "SafeRune",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFERUNE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

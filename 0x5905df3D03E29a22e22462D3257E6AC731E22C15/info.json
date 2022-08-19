@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x5905df3D03E29a22e22462D3257E6AC731E22C15",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Greed Ecosystem combines the First Crypto Music Label, NFTs, the Metaverse, Swaps, Farms & Staking on multiple blockchains."
+  },
+  "id": "1af9496e-2dfa-4a4e-8054-977387b24505",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5905df3D03E29a22e22462D3257E6AC731E22C15",
+    "website": "https://greedtoken.com/",
+    "twitter": "https://twitter.com/GreedEcosystem",
+    "telegram": "https://t.me/GREEDOFFICIAL",
+    "coingecko": "https://coingecko.com/en/coins/greed",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/greed-ecosystem/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5905df3D03E29a22e22462D3257E6AC731E22C15/logo.png"
+  },
+  "name": "GREED",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$GREED",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

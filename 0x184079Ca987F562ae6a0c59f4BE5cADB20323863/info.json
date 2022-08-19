@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x184079Ca987F562ae6a0c59f4BE5cADB20323863",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MarsRise ($MARSRISE) is a token launched on Binance Smart Chain with automatic liquidity pool growth and holder rewards through transaction taxation."
+  },
+  "id": "65fac642-2a6c-4e69-b34e-e13536a2ecef",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x184079Ca987F562ae6a0c59f4BE5cADB20323863",
+    "website": "https://marsrise.net/",
+    "twitter": "https://twitter.com/MarsRise_Bsc",
+    "github": "https://github.com/MarsRiseBsc/",
+    "telegram": "https://t.me/MarsRiseBsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/marsrise/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x184079Ca987F562ae6a0c59f4BE5cADB20323863/logo.png"
+  },
+  "name": "MarsRise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARSRISE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

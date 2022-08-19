@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x940230b6b7ef1979a28F32196A8e3439C645BA49",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SHIBARMY is a trendy project that pays you a huge chunk of SHIBA INU as dividend for holding. SHIBARMY is here to follow SHIBA INU’s footsteps."
+  },
+  "id": "492ab2a2-8ba1-4a8c-94e5-dcdadf90d469",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x940230b6b7ef1979a28F32196A8e3439C645BA49",
+    "website": "https://shibarmybsc.com",
+    "twitter": "https://twitter.com/shibarmybsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shib-army/",
+    "coingecko": "https://coingecko.com/en/coins/shib-army",
+    "telegram": "https://t.me/ShibarmyToken",
+    "reddit": "https://reddit.com/r/ShibArmyBscToken/",
+    "medium": "https://shibarmybsc.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x940230b6b7ef1979a28F32196A8e3439C645BA49/logo.png"
+  },
+  "name": "Shib Army",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBARMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Prom is a gaming NFT marketplace & rental. Completely decentralized, confidential, and safe, it meets the needs of players, metaverse-enthusiasts, NFT owners, guilds, and games."
+  },
+  "id": "7b26a094-e968-48c4-8870-3e9df1e4d259",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+    "website": "https://prom.io",
+    "twitter": "https://twitter.com/prom_io",
+    "telegram": "https://t.me/prom_io",
+    "telegramNews": "https://t.me/prom_ann",
+    "discord": "https://discord.com/invite/prom",
+    "whitepaper": "https://prom.io/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/prom/",
+    "coingecko": "https://coingecko.com/coins/prom",
+    "medium": "https://prom-io.medium.com/",
+    "github": "https://github.com/prom-io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5/logo.png"
+  },
+  "name": "Prom",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PROM",
+  "tags": [
+    "gamefi",
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

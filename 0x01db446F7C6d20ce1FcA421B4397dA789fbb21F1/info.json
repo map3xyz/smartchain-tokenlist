@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Doge King is a MEME & Self Solvent Token on #BSC inspired by #DOGE Coin. Its completely based on decentralized smart contract which incentivized holders of DOGEK. NFT marketplace is one of its core product, which is preparing to boost NFT usability on Binance Smart Chain."
+  },
+  "id": "aa3c20df-1832-4f3b-b834-9b8f7206ea9a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1",
+    "website": "https://dogekingtoken.com",
+    "twitter": "https://twitter.com/dogekingbsc",
+    "github": "https://github.com/dogekingbsc",
+    "telegram": "https://t.me/dogekingen",
+    "telegramNews": "https://t.me/dogekingnews",
+    "blog": "https://medium.com/@dogekingbsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1/logo.png"
+  },
+  "name": "Doge King",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

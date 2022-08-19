@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x6F64cC61d0d5542E40e6f2828cBddA84507D214D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We produce various collections, games, NFTs that you can use in games, and maps for you to navigate in your own world."
+  },
+  "id": "791888ad-c8e1-4a8f-af64-470b29e36f3f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6f64cc61d0d5542e40e6f2828cbdda84507d214d",
+    "website": "https://metania.games/",
+    "twitter": "https://twitter.com/MetaniaGames",
+    "github": "https://github.com/metaniagames/contract",
+    "telegram": "https://t.me/MetaniagamesG",
+    "telegramNews": "https://t.me/metaniachannel",
+    "medium": "https://metania.medium.com/",
+    "docs": "https://docs.metania.games/",
+    "discord": "https://discord.com/invite/fsAdWdmMKG",
+    "reddit": "https://reddit.com/r/MetaniaGames/",
+    "sourceCode": "https://bscscan.com/address/0x6f64cc61d0d5542e40e6f2828cbdda84507d214d#code",
+    "whitepaper": "https://docs.metania.games/metania-paper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaniagames/",
+    "coingecko": "https://coingecko.com/coins/metaniagames"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6F64cC61d0d5542E40e6f2828cBddA84507D214D/logo.png"
+  },
+  "name": "METANIAGAMES",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "METANIA",
+  "tags": [
+    "nft",
+    "defi",
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

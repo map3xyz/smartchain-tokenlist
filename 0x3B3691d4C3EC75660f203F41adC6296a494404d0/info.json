@@ -1,0 +1,31 @@
+{
+  "active": false,
+  "address": "0x3B3691d4C3EC75660f203F41adC6296a494404d0",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Catcoin is the community driven project to connect cat lovers worldwide"
+  },
+  "id": "46e0ff7b-36fa-415a-84ea-eaf20c4b1cfb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3B3691d4C3EC75660f203F41adC6296a494404d0",
+    "website": "https://www.catcoincrypto.me/",
+    "twitter": "https://twitter.com/catcoinbsc",
+    "telegram": "https://t.me/catcoin_bsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/catcoin-token/",
+    "github": "https://github.com/catcointoken-cats/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x3B3691d4C3EC75660f203F41adC6296a494404d0/logo.png"
+  },
+  "name": "Catcoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATS",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

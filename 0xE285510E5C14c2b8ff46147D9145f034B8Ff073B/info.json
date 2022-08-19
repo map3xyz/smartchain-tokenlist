@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE285510E5C14c2b8ff46147D9145f034B8Ff073B",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "VANCAT Sperm Token (VCSPERM) is a subtoken of VANCAT Token and VANCAT universe. Users must have VCSPERM to mint Special NFTs"
+  },
+  "id": "e4295a45-0a31-41b6-a3b3-0273fbd580af",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe285510e5c14c2b8ff46147d9145f034b8ff073b",
+    "website": "https://www.vancatsperm.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE285510E5C14c2b8ff46147D9145f034B8Ff073B/logo.png"
+  },
+  "name": "VanCat Sperm Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VCSPERM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

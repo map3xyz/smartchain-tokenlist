@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter."
+  },
+  "id": "078e6ba4-1c39-496d-939d-5b1450148a8d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+    "website": "https://jup.io",
+    "twitter": "https://twitter.com/jup_project",
+    "facebook": "https://facebook.com/JupiterProj",
+    "blog": "https://blog.jup.io",
+    "telegram": "https://t.me/jupiterproject"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png"
+  },
+  "name": "Jupiter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bwJUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x18C5fAC26C5d8b859b3A83f0f167D8924098d28a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NAFTY, as a socialized re-distribution DeFi protocol, helps content creators to earn much more, and content consumers to pay much less via disintermediation, as well as receive rewards from all transactions across the Nafty Network"
+  },
+  "id": "40e0bb01-37eb-419b-abfa-b4aa76edb50f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x18C5fAC26C5d8b859b3A83f0f167D8924098d28a",
+    "website": "https://naftytoken.com",
+    "twitter": "https://twitter.com/naftyofficial",
+    "telegram": "https://t.me/naftydiscussions",
+    "whitepaper": "https://naftytoken.com/docs/whitepaper/",
+    "discord": "https://discord.com/invite/CvtBYZGCKm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x18C5fAC26C5d8b859b3A83f0f167D8924098d28a/logo.png"
+  },
+  "name": "NAFTY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NAFTY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

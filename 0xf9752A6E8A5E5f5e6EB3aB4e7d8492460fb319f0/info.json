@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xf9752A6E8A5E5f5e6EB3aB4e7d8492460fb319f0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A chain-verified decentralized cross-chain oracle service protocol to provide secure and reliable data services for the interconnection of the chain and the digital economy."
+  },
+  "id": "b948de6f-852d-41e5-a4e9-4363aa1893bc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf9752A6E8A5E5f5e6EB3aB4e7d8492460fb319f0",
+    "website": "https://www.aresprotocol.io/",
+    "twitter": "https://twitter.com/AresProtocolLab",
+    "telegram": "https://t.me/aresprotocolLab",
+    "medium": "https://aresprotocollab.medium.com",
+    "discord": "https://discord.com/invite/MKE4yX4h"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf9752A6E8A5E5f5e6EB3aB4e7d8492460fb319f0/logo.png"
+  },
+  "name": "Ares Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

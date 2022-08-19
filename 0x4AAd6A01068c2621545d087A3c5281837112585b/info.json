@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x4AAd6A01068c2621545d087A3c5281837112585b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Buy some $TIME for our future generations. The planet is dying, and we're going to help. Planting 1,000,000 trees, whilst cleaning up our air and oceans and protecting wildlife, all whilst contributing to charities with the same drive and focus."
+  },
+  "id": "b5723aa7-d59a-40b5-a9da-ce20fe69d4eb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4AAd6A01068c2621545d087A3c5281837112585b",
+    "website": "https://madagascar-crypto.com/",
+    "twitter": "https://twitter.com/MadagascarToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/madagascar/",
+    "coingecko": "https://coingecko.com/en/coins/madagascar-token",
+    "telegram": "https://t.me/madagascar_time",
+    "facebook": "https://facebook.com/Madagascar-Token-TIME-106118521749101/",
+    "telegramNews": "https://t.me/madagascar_news",
+    "whitepaper": "https://madagascar-crypto.com/wp-content/uploads/2021/08/First_Whitepaper.pdf",
+    "reddit": "https://reddit.com/r/MadagascarTIMETOKEN/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4AAd6A01068c2621545d087A3c5281837112585b/logo.png"
+  },
+  "name": "MADAGASCAR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$TIME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

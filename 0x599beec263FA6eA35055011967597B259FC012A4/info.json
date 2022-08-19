@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x599beec263FA6eA35055011967597B259FC012A4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The FoxGirl contract is simple but powerful in helping FoxGirl grow with great portion of the 10% buy/sell tax received going straight to marketing and further advanced of the foxgirl.com platform."
+  },
+  "id": "674ff861-e27a-45de-947d-5203974e3398",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x599beec263FA6eA35055011967597B259FC012A4",
+    "website": "https://foxgirl.com/",
+    "twitter": "https://twitter.com/foxgirltoken",
+    "coinmarketcap": "https://coinmarketcap.com/foxgirl/",
+    "coingecko": "https://coingecko.com/foxgirl",
+    "telegram": "https://t.me/foxgirltoken",
+    "github": "https://github.com/foxgirltoken/foxgirl",
+    "discord": "https://discord.com/aGT3hKr2uW",
+    "reddit": "https://reddit.com/r/FoxGirl/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x599beec263FA6eA35055011967597B259FC012A4/logo.png"
+  },
+  "name": "FoxGirl",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOXGIRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

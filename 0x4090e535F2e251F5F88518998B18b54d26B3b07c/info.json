@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4090e535F2e251F5F88518998B18b54d26B3b07c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Typhoon is a zero-knowledge protocol that enables users to send private transactions between 2 BSC wallets by utilizing zkSNARK-based cryptography. By using Typhoon to transfer funds, it is no longer possible to determine who sent the transaction in the first place, thus providing anonymity and privacy ontop of an otherwise public blockchain."
+  },
+  "id": "9e2a31f1-479a-4b7a-b8a4-d2ea60c95d12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4090e535F2e251F5F88518998B18b54d26B3b07c",
+    "website": "https://typhoon.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4090e535F2e251F5F88518998B18b54d26B3b07c/logo.png"
+  },
+  "name": "Typhoon Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TYPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

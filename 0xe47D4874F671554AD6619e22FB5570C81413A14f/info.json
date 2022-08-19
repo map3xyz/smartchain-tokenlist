@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe47D4874F671554AD6619e22FB5570C81413A14f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ELON MARS is Community Meme Token"
+  },
+  "id": "95719edf-1bd5-462c-8e8e-8372293bdb1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe47D4874F671554AD6619e22FB5570C81413A14f",
+    "website": "https://elonmars.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe47D4874F671554AD6619e22FB5570C81413A14f/logo.png"
+  },
+  "name": "ELON MARS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELONMARS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

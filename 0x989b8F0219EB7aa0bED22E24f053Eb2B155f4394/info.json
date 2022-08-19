@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mommy Doge is fully decentralized, environmental friendly and on a mission to support the Women's rights movement and gender equality initiatives"
+  },
+  "id": "ac070a19-9352-4aa1-b7ea-f317cac820de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x989b8f0219eb7aa0bed22e24f053eb2b155f4394",
+    "website": "https://mommydoge.com",
+    "whitepaper": "https://mommydoge.com/MommyDoge_Whitepaper.pdf",
+    "twitter": "https://twitter.com/NewMommyDoge",
+    "reddit": "https://reddit.com/r/MommyDogeCoin/",
+    "telegram": "https://t.me/MommyDogeCoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mommy-doge-coin/",
+    "coingecko": "https://coingecko.com/en/coins/mommy-doge",
+    "discord": "https://discord.com/BGkFPN3WzT"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x989b8F0219EB7aa0bED22E24f053Eb2B155f4394/logo.png"
+  },
+  "name": "MommyDoge Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MommyDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

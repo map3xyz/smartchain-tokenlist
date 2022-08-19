@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Best Solutions for the best web 3.0 social relations."
+  },
+  "id": "04710d7f-a027-4cb2-8461-22f1c523786f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
+    "website": "https://weway.io/",
+    "twitter": "https://twitter.com/WeWay_io",
+    "telegramNews": "https://t.me/WeWay_io",
+    "github": "https://github.com/wewayio/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/weway/",
+    "coingecko": "https://coingecko.com/en/coins/weway/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322/logo.png"
+  },
+  "name": "WeWay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WWY",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

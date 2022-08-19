@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x5C7e71f46e49Cf816f9863461EEB36e3bc8E3B51",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A multi-chain web3 wallet that aims to reduce the complexities involved with interacting with the blockchain."
+  },
+  "id": "5587714e-4c20-43ae-a1b9-ee8ec6577405",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5c7e71f46e49cf816f9863461eeb36e3bc8e3b51",
+    "website": "https://equal.tech",
+    "twitter": "https://twitter.com/Equal_Network",
+    "telegram": "https://t.me/EQUAL_OFFICIAL"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5C7e71f46e49Cf816f9863461EEB36e3bc8E3B51/logo.png"
+  },
+  "name": "EQUAL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EQL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

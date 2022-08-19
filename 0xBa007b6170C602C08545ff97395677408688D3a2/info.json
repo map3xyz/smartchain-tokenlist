@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xBa007b6170C602C08545ff97395677408688D3a2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MetaPlanet is an Ultimate Defi + Gamefi Ecosystem. Its mission is to develop a full suite of professional defi applications and gamefi sector play to reward crypto investors and help them profit from the industry's growth. Metaplanet's platform gives customers access to the same types of institutional crypto tools used by the world's leading financial services provider and dozens of other well-known worldwide businesses. The benefits of these tools include timeline accuracy and a significant depth of crypto market data."
+  },
+  "id": "57b83d6a-ce6f-4766-97ae-3152cb70c8b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBa007b6170C602C08545ff97395677408688D3a2",
+    "website": "https://www.metaplanetofficial.com",
+    "twitter": "https://twitter.com/METAPLANETBSC",
+    "telegram": "https://t.me/MetaPlanetOfficial",
+    "youtube": "https://youtube.com/channel/UCR3oaKMppnBEFmmI0Ov40fg",
+    "whitepaper": "https://metaplanetofficial.com/Whitepaper-Metaplanet.pdf",
+    "coingecko": "https://coingecko.com/en/coins/metaplanet",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaplanet"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBa007b6170C602C08545ff97395677408688D3a2/logo.png"
+  },
+  "name": "MetaPlanet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MPL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

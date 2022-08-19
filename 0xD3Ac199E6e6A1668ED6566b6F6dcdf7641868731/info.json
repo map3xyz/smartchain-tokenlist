@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD3Ac199E6e6A1668ED6566b6F6dcdf7641868731",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "MTW is a stablecoin issued by Metawhaleworld in partnership with Binance.MetaWhale is a virtual platform powered by the Binance Blockchain"
+  },
+  "id": "baf81ccd-9332-4840-aa06-dc64b03d9abd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd3ac199e6e6a1668ed6566b6f6dcdf7641868731",
+    "website": "https://metawhaleworld.com",
+    "twitter": "https://twitter.com/MetawhaleWorld",
+    "facebook": "https://facebook.com/MetaWhaleMTW",
+    "whitepaper": "https://metawhaleworld.com/wp-content/uploads/2022/01/Metawhale-1.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD3Ac199E6e6A1668ED6566b6F6dcdf7641868731/logo.png"
+  },
+  "name": "Metawhale Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTW",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

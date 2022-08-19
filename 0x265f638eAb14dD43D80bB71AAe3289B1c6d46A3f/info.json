@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Binance dog is a deflationary token which is centered by the community and driven by the internal force."
+  },
+  "id": "43a9537e-9a04-4f1d-978b-4a1f7f992d78",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f",
+    "website": "https://www.binancedog.net/",
+    "twitter": "https://twitter.com/BidogCoin",
+    "telegram": "https://t.me/BidogCoin",
+    "discord": "https://discord.com/BidogCoin",
+    "coinmarketcap": "https://coinmarketcap.com/binancedog/",
+    "coingecko": "https://coingecko.com/binancedog",
+    "github": "https://bscscan.com/address/0x265f638eab14dd43d80bb71aae3289b1c6d46a3f#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f/logo.png"
+  },
+  "name": "Binancedog",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Bidog",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x6d9fB3332f62Fc044d5075feEeA597A92F1ce0AD",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Richest Baby Dog In The Universe Has His Own Themed Token Now That Rewards All Investors, Whilst Giving Dogs And Other Animals A New Home!"
+  },
+  "id": "870c94a2-4154-4758-87ed-7ce7b1578d91",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6d9fB3332f62Fc044d5075feEeA597A92F1ce0AD",
+    "website": "https://babydogebillionaire.net/",
+    "telegram": "https://t.me/BabyDogeBillionaire",
+    "twitter": "https://twitter.com/BabyDogeBLN",
+    "reddit": "https://reddit.com/r/BabyDogeBillionaire/",
+    "facebook": "https://facebook.com/BabyDogeBLN/",
+    "youtube": "https://youtube.com/channel/UC3Vl85CHvL9GvaXpHKkzfWw",
+    "coingecko": "https://coingecko.com/en/coins/baby-doge-billionaire",
+    "whitepaper": "https://babydogebillionaire.net/assets/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6d9fB3332f62Fc044d5075feEeA597A92F1ce0AD/logo.png"
+  },
+  "name": "Baby Doge Billionaire",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYDB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

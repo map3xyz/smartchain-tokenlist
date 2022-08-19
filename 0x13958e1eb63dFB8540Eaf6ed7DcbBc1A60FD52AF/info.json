@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frenchie Token is a BEP20 Community Token based around French Bulldogs and dedicated to all fenchies across the world. With important development team and flexible in development"
+  },
+  "id": "2d3ba31e-93b8-48e8-8dc1-485e12f24e34",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",
+    "website": "https://frenchie.tech/",
+    "twitter": "https://twitter.com/FrenchieToken",
+    "telegram": "https://t.me/FrenchieToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF/logo.png"
+  },
+  "name": "Frenchie",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FREN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

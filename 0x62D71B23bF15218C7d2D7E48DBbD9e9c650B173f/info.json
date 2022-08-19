@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets."
+  },
+  "id": "32920601-5bc0-4167-87db-8aba5a72bd62",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+    "website": "https://mirror.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f/logo.png"
+  },
+  "name": "Wrapped Mirror GOOGL Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mGOOGL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

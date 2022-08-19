@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Official token of Moonscape ecosystem issued by Seascape"
+  },
+  "id": "b5ac47a2-24a6-4947-b8f2-6cd6ba2ea1aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
+    "website": "https://https://www.seascape.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x27d72484f1910F5d0226aFA4E03742c9cd2B297a/logo.png"
+  },
+  "name": "Moonscape",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSCP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

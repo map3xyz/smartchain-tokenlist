@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9b93c29595dd603f75854EbA3C5f4EE078EE4454",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Strite Finance was built soon after the emergence of non-fungible tokens. With the incredible hype behind these NFTs, Strite aims to connect yield staking with the new age of digital media. To put it plain and simple, Strite envisions a strong connection with non-fungible tokens. This will include a public marketplace where individuals can buy & sell specific NFTs in a user-friendly manner."
+  },
+  "id": "56f13a10-0000-43b3-88e3-64d8a8174e51",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9b93c29595dd603f75854EbA3C5f4EE078EE4454",
+    "website": "https://stritefinance.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9b93c29595dd603f75854EbA3C5f4EE078EE4454/logo.png"
+  },
+  "name": "Strite",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STRI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

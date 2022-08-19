@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x6a0b66710567b6beb81A71F7e9466450a91a384b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pear is a non-custodial marketplace governed by the community-driven DAO that facilitates the trading of all things tradable against on-chain assets."
+  },
+  "id": "65a46733-74d4-405c-a3fb-3b3b1eee99e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6a0b66710567b6beb81A71F7e9466450a91a384b",
+    "website": "https://peardao.io/",
+    "whitepaper": "https://peardao.io/whitepaper",
+    "twitter": "https://twitter.com/officialpeardao",
+    "telegram": "https://t.me/peardaoEN",
+    "medium": "https://officialpeardao.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6a0b66710567b6beb81A71F7e9466450a91a384b/logo.png"
+  },
+  "name": "PEAR DAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEX",
+  "tags": [
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

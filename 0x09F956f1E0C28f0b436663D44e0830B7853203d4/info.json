@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "SHIBA KILLER is Memes Token"
+  },
+  "id": "90756cda-c72d-4ea7-80de-abfee6978391",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+    "website": "https://shibakiller.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x09F956f1E0C28f0b436663D44e0830B7853203d4/logo.png"
+  },
+  "name": "SHIBA KILLER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

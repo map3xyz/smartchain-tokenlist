@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "5d8a6694-f6ad-48ad-a342-509aaa121138",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB04906e95AB5D797aDA81508115611fee694c2b3",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB04906e95AB5D797aDA81508115611fee694c2b3/logo.png"
+  },
+  "name": "USD Coin (Portal from Ethereum)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDCet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

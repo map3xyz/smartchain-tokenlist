@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x39cab1DdaFDa34B9202F5a41f71B15d2F3EbA2aC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OctaX is a group of smart contracts that works with leading DeFi projects for ensuring its users the most reliable and highly profitable level of liquidity mining at minimal fees. built on top of the Binance Smart Chain"
+  },
+  "id": "485c4dfa-1ebd-484d-b0e3-d66b67dfd09c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x39cab1DdaFDa34B9202F5a41f71B15d2F3EbA2aC",
+    "website": "https://octax.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x39cab1DdaFDa34B9202F5a41f71B15d2F3EbA2aC/logo.png"
+  },
+  "name": "OctaX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCTAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

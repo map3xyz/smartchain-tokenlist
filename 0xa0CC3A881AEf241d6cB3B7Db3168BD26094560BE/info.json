@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xa0CC3A881AEf241d6cB3B7Db3168BD26094560BE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Crypto Inu is an immersive multiplayer board game with 3D and VR modes that incorporates metaverse real estate investment."
+  },
+  "id": "222e26e3-0a71-468b-8220-06376642951f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa0cc3a881aef241d6cb3b7db3168bd26094560be",
+    "website": "https://cabcd.org",
+    "twitter": "https://twitter.com/CryptoInu_ABCD",
+    "github": "https://github.com/cryptoinu-abcd",
+    "telegram": "https://t.me/cryptoinu_main",
+    "telegramNews": "https://t.me/cryptoinuann",
+    "whitepaper": "https://cabcd.org/assets/whitepaper_abcd_v1.pdf",
+    "medium": "https://medium.com/@crypto_inu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crypto-inu/",
+    "sourceCode": "https://bscscan.com/address/0xa0cc3a881aef241d6cb3b7db3168bd26094560be#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa0CC3A881AEf241d6cB3B7Db3168BD26094560BE/logo.png"
+  },
+  "name": "Crypto Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ABCD",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x12B6fFBa41844a51A25E13065d393e54Af0633df",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Dart Chain Finance The Advanced DeFi Platform Of The Future!"
+  },
+  "id": "1cb9dcf6-0676-41d1-9353-7a49e0035640",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12B6fFBa41844a51A25E13065d393e54Af0633df",
+    "website": "https://dartchain.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x12B6fFBa41844a51A25E13065d393e54Af0633df/logo.png"
+  },
+  "name": "DartChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

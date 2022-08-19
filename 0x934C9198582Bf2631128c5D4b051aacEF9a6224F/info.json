@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x934C9198582Bf2631128c5D4b051aacEF9a6224F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wanaka Farm aims to offer anNFT game where people can own their virtual lands, NFT items to plant, grow, harvest to relax and earn their crypto."
+  },
+  "id": "99a1dbc1-ba8a-4feb-8221-ba287863b350",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x934C9198582Bf2631128c5D4b051aacEF9a6224F",
+    "website": "https://wanakafarm.com",
+    "whitepaper": "https://wanakafarm.com/papers/",
+    "telegram": "https://t.me/WanakaOfficial",
+    "facebook": "https://facebook.com/wanakafarmofficial",
+    "twitter": "https://twitter.com/Wanaka_Farm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x934C9198582Bf2631128c5D4b051aacEF9a6224F/logo.png"
+  },
+  "name": "Wanaka Wai Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Fuck$ Finance is a community driven token that will allow its owners to interact with FFS tools that will be developed based on community's needs. FFS2 token will also be used to fund charity donations."
+  },
+  "id": "bb0909d7-7926-4fc1-9d24-f7af11bdafa8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8ebca1ac949067ed8784ff9d07e4d084a3d82636",
+    "website": "https://justbuyitffs.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636/logo.png"
+  },
+  "name": "Fuck$ Finance v2.0",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FFS2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

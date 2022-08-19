@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sponge.finance a sustainable DeFi ecosystem on BSC ! Earn Sponge and Soak tokens through yield framing, token stacking, or even passive yield with the 5% $SPG redistribution."
+  },
+  "id": "b80dfa4d-890b-4f2a-804e-5bebf7f30417",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
+    "website": "https://app.sponge.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3aabCf53A1930A42E18D938C019E83Ebee50a849/logo.png"
+  },
+  "name": "SPONGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

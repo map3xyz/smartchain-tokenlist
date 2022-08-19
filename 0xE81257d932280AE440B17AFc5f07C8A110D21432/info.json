@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xE81257d932280AE440B17AFc5f07C8A110D21432",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zuki Moba is a MOBA Esport Game (Multiplayer Online Battle Arena) which is built with a Decentralized Economy application community-oriented. In-game NFT is used to build characters, game items, and Metaverse structures. In addition, Play to Earn mechanism is applied to create economic benefits for Gamers, creating a unique point compared to traditional MOBA games. $ZUKI is Zuki Moba's in-game token"
+  },
+  "id": "c4a8f4e1-630e-4009-8c00-62e451cf4b4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE81257d932280AE440B17AFc5f07C8A110D21432",
+    "website": "https://zukimoba.com/",
+    "twitter": "https://twitter.com/ZukiMoba",
+    "facebook": "https://facebook.com/ZukiMoba/",
+    "docs": "https://docs.zukimoba.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zuki-moba/",
+    "coingecko": "https://coingecko.com/en/coins/zuki-moba",
+    "telegram": "https://t.me/ZukiMoba",
+    "reddit": "https://reddit.com/r/ZukiMoba/",
+    "discord": "https://discord.com/channels/893120976399769601/893120976865341522"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE81257d932280AE440B17AFc5f07C8A110D21432/logo.png"
+  },
+  "name": "Zuki Moba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZUKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

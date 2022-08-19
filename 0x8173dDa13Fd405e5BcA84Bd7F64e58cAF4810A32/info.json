@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Golden Ben (GBEN) is the farming and governance token of BenSwap AMM. It is part of the Ben Token ecosystem"
+  },
+  "id": "a34cdbc2-debf-46d4-9ae4-ea665fe49f0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32",
+    "website": "https://benswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32/logo.png"
+  },
+  "name": "Golden Ben",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GBEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

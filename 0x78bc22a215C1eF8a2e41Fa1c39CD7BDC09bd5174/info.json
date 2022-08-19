@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "An Autonomous Yield and deflationary token."
+  },
+  "id": "d4623fcc-5242-4299-a292-2c2f20c13cb2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174",
+    "website": "https://www.rocketmoon.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174/logo.png"
+  },
+  "name": "Rocket Moon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

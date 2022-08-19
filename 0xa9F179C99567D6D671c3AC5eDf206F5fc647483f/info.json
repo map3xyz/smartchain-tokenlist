@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Mammon (MMON) based on bsc blockchain to pay to trade on coffee industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panamá."
+  },
+  "id": "37b7f80f-2891-4aaf-965e-62eb55d1c2ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
+    "website": "https://mammon.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa9F179C99567D6D671c3AC5eDf206F5fc647483f/logo.png"
+  },
+  "name": "Mammon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

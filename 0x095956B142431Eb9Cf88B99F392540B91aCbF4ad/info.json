@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The One basis platform, established by the Yfione team, is the first stablecoin algorithm and I.W.O (first fundraising) in the Binance Smart Chain ecosystem, which can realize Satoshi Nakamoto's vision of cryptocurrency. One basis Cash combines liquid mining and flexible stablecoins, using a relatively complete cryptocurrency market adjustment mechanism."
+  },
+  "id": "6cc76f9a-a60b-4154-9b82-5119c412b73a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x095956B142431Eb9Cf88B99F392540B91aCbF4ad",
+    "website": "https://onebasis.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x095956B142431Eb9Cf88B99F392540B91aCbF4ad/logo.png"
+  },
+  "name": "One Basis Share",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

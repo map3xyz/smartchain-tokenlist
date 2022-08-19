@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The token SQUARE is a token developed exclusively for payment of fees within the Goarbit ecosystem - being automatically burned at the time of fee payment, making it a deflationary and utility token."
+  },
+  "id": "a1125fbd-268a-489a-bed2-e86e7cc4662b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14",
+    "website": "https://squaretoken.org",
+    "twitter": "https://twitter.com/tokensquare",
+    "telegram": "https://t.me/officialsquaretoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/square-token/",
+    "coingecko": "https://coingecko.com/coins/square-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14/logo.png"
+  },
+  "name": "Square Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SQUA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

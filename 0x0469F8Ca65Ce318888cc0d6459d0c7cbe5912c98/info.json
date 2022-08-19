@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0469F8Ca65Ce318888cc0d6459d0c7cbe5912c98",
+  "color": null,
+  "decimals": 7,
+  "description": {
+    "en": "Hyperchain X is the world’s first community driven token in gaming. The goal is to create a crypto gaming platform with an all-in-one application consisting of elements like: buy-in tournaments, 1 vs 1 high stake battles, league creation options for esport teams, live streams and an NFT marketplace that is unseen in this space."
+  },
+  "id": "6407d30f-1788-4558-b29e-513a0b77a95a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0469F8Ca65Ce318888cc0d6459d0c7cbe5912c98",
+    "website": "https://hyperchainx.com/",
+    "twitter": "https://twitter.com/HyperchainX",
+    "telegram": "https://t.me/hyperchainx"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0469F8Ca65Ce318888cc0d6459d0c7cbe5912c98/logo.png"
+  },
+  "name": "HyperChain X",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HYPER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

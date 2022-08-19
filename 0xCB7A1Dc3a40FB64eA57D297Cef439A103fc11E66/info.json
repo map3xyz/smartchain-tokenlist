@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MILF (Mothers I'd Like to Fund) is a decentralized community coin aimed at funding mothers. Visit our community at https://t.me/milffinance_official"
+  },
+  "id": "b6e9f904-8617-4e2f-9ae6-0303bec7c9a4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66",
+    "website": "https://milf.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCB7A1Dc3a40FB64eA57D297Cef439A103fc11E66/logo.png"
+  },
+  "name": "MILF",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MILF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

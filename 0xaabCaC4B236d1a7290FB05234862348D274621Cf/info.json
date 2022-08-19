@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaabCaC4B236d1a7290FB05234862348D274621Cf",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ICEBRK token is the governance and utility token for the IceBreak-R Network, a social media driven NFT-marketplace and DeFi ecosystem"
+  },
+  "id": "29ef8a61-a1a1-4aa2-8833-e8d3b564e046",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaabCaC4B236d1a7290FB05234862348D274621Cf",
+    "website": "https://icebreak-r.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaabCaC4B236d1a7290FB05234862348D274621Cf/logo.png"
+  },
+  "name": "IceBreak-R Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ICEBRK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

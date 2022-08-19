@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BlockBank is powered by our platform's utility token called BBANK. Users are able to gain access to our credit card rewards program, use our robo advisor, cefi and defi wallet, increase their APY % and earn interest on their tokens by staking BBANK in their BlockBank cryptocurrency wallet."
+  },
+  "id": "f7bc8c9d-7f5d-4acc-aa4a-f65ac5569cf1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
+    "website": "https://blockbank.ai",
+    "github": "https://github.com/BlockBank-team/",
+    "twitter": "https://twitter.com/BLOCKBANKapp?s=09",
+    "reddit": "https://reddit.com/u/BlockBankAi?utm_medium=android_app&utm_source=share"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267/logo.png"
+  },
+  "name": "BlockBank",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

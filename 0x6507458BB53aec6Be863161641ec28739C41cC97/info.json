@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6507458BB53aec6Be863161641ec28739C41cC97",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We connect fans, players and clubs around the globe to provide a seamless virtual integration of all their top leagues, cups and championships."
+  },
+  "id": "ac1861ad-7f33-45e7-98bd-91257e0ae077",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6507458BB53aec6Be863161641ec28739C41cC97",
+    "website": "https://footballstars.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6507458BB53aec6Be863161641ec28739C41cC97/logo.png"
+  },
+  "name": "FootballStars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FootballStars",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

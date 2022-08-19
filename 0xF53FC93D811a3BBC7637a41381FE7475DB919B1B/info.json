@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF53FC93D811a3BBC7637a41381FE7475DB919B1B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Sustainable Community Driven Crypto Project Token to fund shelters and save our Chihuahua friends across the world."
+  },
+  "id": "7c5c2557-367d-4150-b181-2368a013c0e1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF53FC93D811a3BBC7637a41381FE7475DB919B1B",
+    "website": "https://huahuacoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF53FC93D811a3BBC7637a41381FE7475DB919B1B/logo.png"
+  },
+  "name": "Chihuahua Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HuaHua",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

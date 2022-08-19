@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x11F6ECC9E2658627e0876212f1078b9F84d3196e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "2LC BEP20 based token created by 2local for Sustainability and Prosperity for all."
+  },
+  "id": "2478f352-e7de-474f-b6dd-555dee368224",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11F6ECC9E2658627e0876212f1078b9F84d3196e",
+    "website": "https://2local.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x11F6ECC9E2658627e0876212f1078b9F84d3196e/logo.png"
+  },
+  "name": "2local",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "2LC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

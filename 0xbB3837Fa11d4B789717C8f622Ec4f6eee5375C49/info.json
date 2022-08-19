@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xbB3837Fa11d4B789717C8f622Ec4f6eee5375C49",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Most Comprehensive Trading Tools Available For Binance Smart Chain."
+  },
+  "id": "71b41406-9506-4458-b664-b02f23ee88d4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbB3837Fa11d4B789717C8f622Ec4f6eee5375C49",
+    "website": "https://bscview.com/home",
+    "twitter": "https://twitter.com/bscview",
+    "telegram": "https://t.me/bscview"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbB3837Fa11d4B789717C8f622Ec4f6eee5375C49/logo.png"
+  },
+  "name": "BSCView",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

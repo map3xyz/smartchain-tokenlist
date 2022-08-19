@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5A37F6a7fFa184E2287aD226989441D685e4Bf7A",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Digital money for a digital age. Whatever you can do with digital currencies, every PADtether token is also 1-to-1 pegged to the dollar"
+  },
+  "id": "b5d6c4d5-953e-49e7-8e71-ea66e9a41834",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5A37F6a7fFa184E2287aD226989441D685e4Bf7A",
+    "website": "https://padtether.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5A37F6a7fFa184E2287aD226989441D685e4Bf7A/logo.png"
+  },
+  "name": "PADtether",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

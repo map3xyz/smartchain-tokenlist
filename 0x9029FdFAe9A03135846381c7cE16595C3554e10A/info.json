@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9029FdFAe9A03135846381c7cE16595C3554e10A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OpenOcean Token on Binance Smartchain"
+  },
+  "id": "be915965-93b6-45ec-99f7-ed2280ae8984",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9029FdFAe9A03135846381c7cE16595C3554e10A",
+    "website": "https://openocean.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9029FdFAe9A03135846381c7cE16595C3554e10A/logo.png"
+  },
+  "name": "OpenOcean",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

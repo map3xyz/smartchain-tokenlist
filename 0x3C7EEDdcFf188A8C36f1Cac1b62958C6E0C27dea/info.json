@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "G² is a new multidimensional ecosystem built around gaming, a diamond hold lottery ticket, and a staking pool. G² launched on 2nd November, 2021."
+  },
+  "id": "38a9a146-eb3f-4b8f-a86a-d8f2b3852ae8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea",
+    "website": "https://g2gaming.tech/",
+    "twitter": "https://twitter.com/G2cryptogaming",
+    "telegram": "https://t.me/g2_gaming"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3C7EEDdcFf188A8C36f1Cac1b62958C6E0C27dea/logo.png"
+  },
+  "name": "G2 Crypto Gaming & Lottery",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "G2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

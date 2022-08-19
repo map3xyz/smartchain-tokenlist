@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ACryptoS Vaults grow your assets via automated yield Strategies. This saves users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations. ACryptoS StableSwap is an automated market maker (AMM) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain."
+  },
+  "id": "1d78e1ba-6b8c-4ae6-92c9-a2e93ffd88d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+    "research": "https://docs.acryptos.com/",
+    "website": "https://acryptos.com/",
+    "twitter": "https://twitter.com/acryptosx",
+    "telegram": "https://t.me/acryptos9",
+    "medium": "https://acryptos.medium.com/",
+    "github": "https://app.acryptos.com/contracts/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4197C6EF3879a08cD51e5560da5064B773aa1d29/logo.png"
+  },
+  "name": "ACryptoS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ACS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

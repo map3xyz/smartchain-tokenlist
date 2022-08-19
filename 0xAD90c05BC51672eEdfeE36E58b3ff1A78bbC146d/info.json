@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xAD90c05BC51672eEdfeE36E58b3ff1A78bbC146d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "xSpace Finance offers a 100% community-driven Defi token XSPACE with deflationary mechanism"
+  },
+  "id": "547d0811-46d8-4b92-9db8-1470629f7ec2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xad90c05bc51672eedfee36e58b3ff1a78bbc146d",
+    "research": "https://xspace.finance/whitepaper_xspace.pdf",
+    "website": "https://xspace.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAD90c05BC51672eEdfeE36E58b3ff1A78bbC146d/logo.png"
+  },
+  "name": "XSPACE FINANCE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XSPACE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

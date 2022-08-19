@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7ce1e651374ec5324e6f37c4ff312D53428F0D50",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CaramelSwap.finance - 3° generation Yield Farm on Binance Smart Chain"
+  },
+  "id": "cbafb2c8-f3f1-4436-a3bd-cf9c2e16bb77",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7ce1e651374ec5324e6f37c4ff312D53428F0D50",
+    "website": "https://caramelswap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7ce1e651374ec5324e6f37c4ff312D53428F0D50/logo.png"
+  },
+  "name": "Caramel Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform."
+  },
+  "id": "e368f79c-24db-4d96-8499-95984f8f99e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+    "research": "https://research.binance.com/en/projects/safepal",
+    "website": "https://www.safepal.io",
+    "twitter": "https://twitter.com/iSafePal",
+    "github": "https://github.com/SafePalWallet",
+    "telegram": "https://t.me/SafePalwallet",
+    "coingecko": "https://coingecko.com/en/coins/safepal/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/safepal/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb/logo.png"
+  },
+  "name": "SafePal Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x10adF50e15611d5A4DE3bd21F0DB7f3491A8ae0f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MNTG is a stablecoin issued by Monetas in partnership with Binance.The establishment of MONETAS is also based on the purpose of betterment of the future game environment, using better virtual tokens."
+  },
+  "id": "603e322f-9aaa-42df-85a5-9bfecf25c219",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10adF50e15611d5A4DE3bd21F0DB7f3491A8ae0f",
+    "website": "https://monetasglobal.com/",
+    "twitter": "https://twitter.com/monetasglobal",
+    "facebook": "https://facebook.com/motetasglobal",
+    "youtube": "https://youtube.com/channel/UCXRwEYyd4pg_PUNLblIpdbQ",
+    "github": "https://github.com/monetas-tech/asset-listing",
+    "whitepaper": "https://monetasglobal.com/wp-content/uploads/2021/09/Monetas-Whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/monetas",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/monetas/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x10adF50e15611d5A4DE3bd21F0DB7f3491A8ae0f/logo.png"
+  },
+  "name": "Monetas Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNTG",
+  "tags": [
+    "stablecoin",
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

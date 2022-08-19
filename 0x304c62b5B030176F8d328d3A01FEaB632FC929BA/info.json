@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x304c62b5B030176F8d328d3A01FEaB632FC929BA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first DIGITAL ASSETS INDEXES on Binance Smart Chain"
+  },
+  "id": "3456ca35-a4a1-4ba9-b5d2-e321b8227ab8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x304c62b5B030176F8d328d3A01FEaB632FC929BA",
+    "website": "https://www.levyathan.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x304c62b5B030176F8d328d3A01FEaB632FC929BA/logo.png"
+  },
+  "name": "LEV Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x15Ea6B8481bF1C991aC3dC8e67279d31651a56FE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cylum is a protocol built as a Launchpad for Metaverse projects on the Binance Smart Chain, as well as partnerships and funding. The CYM token is used to power and drive this ecosystem. In addition to our reward system, we have a unique lock-stake algorithm. "
+  },
+  "id": "d32e7b4e-eb95-4150-b92e-4a17afc3b83b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x15ea6b8481bf1c991ac3dc8e67279d31651a56fe",
+    "website": "https://cylum.io",
+    "twitter": "https://twitter.com/cylumfinance",
+    "github": "https://github.com/cylumfinance",
+    "telegram": "https://t.me/cylumfinance",
+    "telegramNews": "https://t.me/cylumfinancenews",
+    "blog": "https://cyfi.medium.com",
+    "docs": "https://docs.cylum.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x15Ea6B8481bF1C991aC3dC8e67279d31651a56FE/logo.png"
+  },
+  "name": "Cylum Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CYM",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

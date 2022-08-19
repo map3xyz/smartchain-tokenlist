@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x3Ef99822759A2192e7A82f64484e79e89cd90d52",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TKB is a platform that integrates NFT games and decentralized yield farm applications."
+  },
+  "id": "c2b54a88-7234-49d5-9276-6bc7940ac0bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3Ef99822759A2192e7A82f64484e79e89cd90d52",
+    "website": "https://tkbgame.app/",
+    "twitter": "https://twitter.com/Tkbgame2021",
+    "github": "https://github.com/tkbgame",
+    "telegram": "https://t.me/TKBAPP",
+    "coingecko": "https://coingecko.com/en/coins/tkbtoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tkbtoken",
+    "docs": "https://docs.tkbgame.app/",
+    "whitepaper": "https://tkbgame.app/download/ThreeKingdomsBattle.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3Ef99822759A2192e7A82f64484e79e89cd90d52/logo.png"
+  },
+  "name": "TKB Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TKB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

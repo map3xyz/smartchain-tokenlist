@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "COVID TOKEN is a token which provides help to African people about Coronavirus."
+  },
+  "id": "c5984ee0-b968-4b77-9271-da1efd6cec17",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2",
+    "website": "https://covidcoin.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x23C28E9346C82228FB2b62b20b6fe5d75989F5b2/logo.png"
+  },
+  "name": "Covid Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COVIDTOKEN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

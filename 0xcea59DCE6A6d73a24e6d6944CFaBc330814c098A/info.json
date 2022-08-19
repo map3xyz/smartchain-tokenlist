@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcea59DCE6A6d73a24e6d6944CFaBc330814c098A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A sustainable, completely decentralized, and utility-focused cryptocurrency, aimed at global human development."
+  },
+  "id": "2b569a3c-7b91-4845-9f65-6b49ce178904",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcea59DCE6A6d73a24e6d6944CFaBc330814c098A",
+    "website": "https://torg.to/intl/about",
+    "telegram": "https://t.me/TORGTogether",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/torg/",
+    "twitter": "https://twitter.com/TorgTogether"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcea59DCE6A6d73a24e6d6944CFaBc330814c098A/logo.png"
+  },
+  "name": "TORG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TORG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

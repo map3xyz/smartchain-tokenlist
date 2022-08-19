@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8d03e069840D6Fb103abC4F640C8cc07F7F4bc10",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BlossomCoin ($BLOSM) is a charity-based token that rewards holders, but more importantly, plants trees and supports reforestation efforts worldwide."
+  },
+  "id": "7eea43fc-d542-4931-9367-363c6d5864e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8d03e069840D6Fb103abC4F640C8cc07F7F4bc10",
+    "website": "https://www.blossomco.in/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8d03e069840D6Fb103abC4F640C8cc07F7F4bc10/logo.png"
+  },
+  "name": "BlossomCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLOSM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

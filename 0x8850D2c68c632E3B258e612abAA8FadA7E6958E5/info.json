@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "high-yield frictionless farming token."
+  },
+  "id": "33364b8d-173c-47ac-9bb1-976e12f2b198",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
+    "website": "https://pigtoken.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8850D2c68c632E3B258e612abAA8FadA7E6958E5/logo.png"
+  },
+  "name": "PIG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

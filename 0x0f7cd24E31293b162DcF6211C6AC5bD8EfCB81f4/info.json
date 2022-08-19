@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0f7cd24E31293b162DcF6211C6AC5bD8EfCB81f4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Future of Business enabled by Blockchain. A decentralized hub for all your financial needs."
+  },
+  "id": "93ec543b-db98-4bf5-9658-2c548f72314f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0f7cd24E31293b162DcF6211C6AC5bD8EfCB81f4",
+    "website": "https://ltd.livetrade.io",
+    "whitepaper": "https://ltd.livetrade.io/wp-content/uploads/2021/07/LTD-Whitepaper_Eng.pdf",
+    "twitter": "https://twitter.com/Livetrade_io",
+    "telegram": "https://t.me/livetrade_official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0f7cd24E31293b162DcF6211C6AC5bD8EfCB81f4/logo.png"
+  },
+  "name": "LiveTrade",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lemur is an automated yield farming token and 100% decentralized led by the community."
+  },
+  "id": "c1fb7030-8bff-4b19-8250-4c61709b60da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb",
+    "website": "https://lemur.finance/",
+    "twitter": "https://twitter.com/FinanceLemur",
+    "telegram": "https://t.me/lemurfinance",
+    "facebook": "https://facebook.com/Lemur.Finance/",
+    "reddit": "https://reddit.com/r/LemurFinance/",
+    "medium": "https://lemurfinance.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb/logo.png"
+  },
+  "name": "Lemur Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

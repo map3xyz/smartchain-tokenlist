@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF93f6b686f4A6557151455189a9173735D668154",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GAMΞRSΞ is the new home for NFT gaming and the metaverse social economy. Our cross-chain, cross-platform, and cross-verse solutions are unifying the fragmented NFT gaming ecosystem."
+  },
+  "id": "1aa15144-5587-4cc3-af70-06c020f824e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF93f6b686f4A6557151455189a9173735D668154",
+    "website": "https://www.gamerse.com",
+    "twitter": "https://twitter.com/Gamersenft",
+    "telegram": "https://t.me/gamersecommunity",
+    "discord": "https://discord.com/invite/SVAXQ7rNrp",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamerse/",
+    "coingecko": "https://coingecko.com/en/coins/gamerse",
+    "whitepaper": "https://gamerse.gitbook.io/gamerse/",
+    "medium": "https://gamerse.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF93f6b686f4A6557151455189a9173735D668154/logo.png"
+  },
+  "name": "LFG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LFG",
+  "tags": [
+    "nft",
+    "gamefi",
+    "metaverse"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x87ECEa8512516Ced5db9375c63c23A0846c73a57",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The World's First Decentralized Protocol for AI Data Construction, Storage and Sharing."
+  },
+  "id": "9e943489-b610-4378-8a7d-2a52e6d289e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x87ECEa8512516Ced5db9375c63c23A0846c73a57",
+    "website": "https://www.epik-protocol.io/",
+    "twitter": "https://twitter.com/EpikProtocol",
+    "telegram": "https://t.me/EpikProtocol",
+    "medium": "https://epikprotocol.medium.com/",
+    "discord": "https://discord.com/invite/Tz6kZbd"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x87ECEa8512516Ced5db9375c63c23A0846c73a57/logo.png"
+  },
+  "name": "EpiK Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSC-EPK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Popsicle finance is a next-gen cross-chain liquidity provider (LP) yield optimization platform"
+  },
+  "id": "60377972-b75a-4a1d-bb40-48807fa79065",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf16e81dce15B08F326220742020379B855B87DF9",
+    "website": "https://popsicle.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+  },
+  "name": "IceToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ICE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

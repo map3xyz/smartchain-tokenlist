@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xc25D94fc3f8D7bD1d88f89802fe075338F71dEC7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PNIX token is a next-generation reflective deflationary protocol built on Binance Smart Chain."
+  },
+  "id": "cf02ca80-979d-44f6-9647-d661868ff2cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc25d94fc3f8d7bd1d88f89802fe075338f71dec7",
+    "research": "https://phoenixdefi.Finance",
+    "website": "https://phoenixdefi.Finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc25D94fc3f8D7bD1d88f89802fe075338F71dEC7/logo.png"
+  },
+  "name": "PhoenixDefi.Finance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PNIX",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

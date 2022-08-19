@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0607396970188B2e524c1cDe4Af1F9A191DeE150",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SierraToken is the token of a community created to prevent addictions."
+  },
+  "id": "3cd9637c-54d1-42d3-ac01-c661eb6332a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0607396970188B2e524c1cDe4Af1F9A191DeE150",
+    "website": "https://SierraToken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0607396970188B2e524c1cDe4Af1F9A191DeE150/logo.png"
+  },
+  "name": "Sierra",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

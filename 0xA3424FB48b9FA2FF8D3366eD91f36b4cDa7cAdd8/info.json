@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA3424FB48b9FA2FF8D3366eD91f36b4cDa7cAdd8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Vacay is a new Defi token on the Binance Smart Chain with the objective of making cryptocurrency payments a mainstream option for international travelers and the broader hostitality industry."
+  },
+  "id": "acf3a9b8-03ce-4029-95ca-819e55ba7794",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa3424fb48b9fa2ff8d3366ed91f36b4cda7cadd8",
+    "website": "https://vacay.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA3424FB48b9FA2FF8D3366eD91f36b4cDa7cAdd8/logo.png"
+  },
+  "name": "Vacay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Vacay",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

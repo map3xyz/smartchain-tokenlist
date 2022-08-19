@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7f4a15F5cf12E1650f090FB7Bc7B0f240f1bDe98",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Great Ape is a unique community token on Binance Smart Chain"
+  },
+  "id": "66e2eaca-cdbb-4136-98a0-7cdb55dc27a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7f4a15f5cf12e1650f090fb7bc7b0f240f1bde98",
+    "website": "https://greatape.cc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7f4a15F5cf12E1650f090FB7Bc7B0f240f1bDe98/logo.png"
+  },
+  "name": "Great Ape",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GREATAPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

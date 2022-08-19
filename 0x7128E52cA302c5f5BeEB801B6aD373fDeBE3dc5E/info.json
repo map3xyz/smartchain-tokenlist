@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Orange Cat Token is a Binance Smart Chain based community DeFi token."
+  },
+  "id": "260b2dd2-8103-4a84-bc31-35bef45c6bf8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E",
+    "website": "https://orangecat.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E/logo.png"
+  },
+  "name": "Orange Cat Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

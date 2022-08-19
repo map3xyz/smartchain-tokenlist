@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Corgi Doge is a payment protocol designed to be accessible and lightweight, with a focus on reducing transaction fees. Fast and free transactions on a secure and decentralized network make Corgi ideal for everyday payment."
+  },
+  "id": "768d9368-d327-4ff1-8527-0df6b0915e20",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
+    "website": "https://www.corgidoge.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x802C68730212295149f2bEa78C25e2Cf5A05B8A0/logo.png"
+  },
+  "name": "Corgi doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CORGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6719F89Bb81b357D443eE93Eb254e9dBb590bFbE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Deflationary, frictionless yield and liquidity generation protocol that powers the play dead live gaming portal."
+  },
+  "id": "4332be85-a66d-4be5-83da-78cd0be544ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6719F89Bb81b357D443eE93Eb254e9dBb590bFbE",
+    "website": "https://theburncoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6719F89Bb81b357D443eE93Eb254e9dBb590bFbE/logo.png"
+  },
+  "name": "BurnCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

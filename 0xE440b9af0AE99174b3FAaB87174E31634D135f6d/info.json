@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "monetas"
+  },
+  "id": "e460b4fd-1f08-4671-9c53-3cc46b68f56f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+    "website": "https://monetasglobal.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xE440b9af0AE99174b3FAaB87174E31634D135f6d/logo.png"
+  },
+  "name": "MONETAS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

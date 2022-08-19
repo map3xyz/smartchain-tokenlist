@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x167e5455E4C978883B414E7f02c0147eec9a18e9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Life Token v2 is a charity orientated token on the Binance Smart Chain aiming to aid suicide prevention charities all over the world, to help save lives."
+  },
+  "id": "f643f143-a651-473e-8d0f-fae9ab9cb499",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x167e5455E4C978883B414E7f02c0147eec9a18e9",
+    "website": "https://www.thelifetoken.com",
+    "telegram": "https://t.me/LifeTokenTG",
+    "telegramNews": "https://t.me/LifeTokenAnnouncements"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x167e5455E4C978883B414E7f02c0147eec9a18e9/logo.png"
+  },
+  "name": "Life Token v2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTNv2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

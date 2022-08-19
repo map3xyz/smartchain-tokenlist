@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x35E446a313369F2CCa5592E62dB9edBB23233Dd2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Jigsaw - Hold $JIGSAW and earn $BNB while you sleep!"
+  },
+  "id": "e0181192-2979-4385-bb44-9888c36e1d12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x35E446a313369F2CCa5592E62dB9edBB23233Dd2",
+    "website": "https://www.ghostface.finance/jigsaw"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x35E446a313369F2CCa5592E62dB9edBB23233Dd2/logo.png"
+  },
+  "name": "Jigsaw",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JIGSAW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

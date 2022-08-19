@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized Finance, Reward-based and Decentralized Autonomous Organization, BTC price predition, NFT market and so on."
+  },
+  "id": "a83b34af-9a09-4522-b41e-b463d11177d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFC646D0B564bf191B3d3adF2B620a792E485e6Da",
+    "website": "https://halfpizza.com",
+    "twitter": "https://twitter.com/HalfPizza3",
+    "github": "https://github.com/halfpizza",
+    "telegram": "https://t.me/s2LPWnB1200zMmY0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFC646D0B564bf191B3d3adF2B620a792E485e6Da/logo.png"
+  },
+  "name": "HalfPizza Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

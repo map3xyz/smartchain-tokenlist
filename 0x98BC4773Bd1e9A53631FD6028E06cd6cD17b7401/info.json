@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MBY is made to make De-Fi great again"
+  },
+  "id": "6284581a-856a-434a-9d24-b17beebbf126",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+    "website": "https://mbytoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401/logo.png"
+  },
+  "name": "Monkey TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

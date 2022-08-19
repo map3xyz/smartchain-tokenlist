@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x3C0b6FCB2F62990f477d9AF611e4Da3fF1F08222",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PathFund's initiative is to build and make available to investors a secure and friendly ecosystem with an intuitive interface."
+  },
+  "id": "c01f4a9b-84db-47a9-90f0-a948d20cc3a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3c0b6fcb2f62990f477d9af611e4da3ff1f08222",
+    "website": "https://pathfund.net",
+    "twitter": "https://twitter.com/PathFund",
+    "telegram": "https://t.me/PathFund",
+    "reddit": "https://reddit.com/r/PathFund",
+    "docs": "https://docs.pathfund.net",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pathfundv2/",
+    "coingecko": "https://coingecko.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3C0b6FCB2F62990f477d9AF611e4Da3fF1F08222/logo.png"
+  },
+  "name": "PathFundV2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PATH",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

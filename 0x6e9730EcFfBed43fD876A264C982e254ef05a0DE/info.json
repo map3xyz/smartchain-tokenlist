@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6e9730EcFfBed43fD876A264C982e254ef05a0DE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nord Finance, a blockchain agnostic platform, is an advanced decentralized financial ecosystem focusing on simplifying decentralized finance products."
+  },
+  "id": "34a17c0a-e01f-4b6e-93d8-a23a68a30c83",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+    "website": "https://nordfinance.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6e9730EcFfBed43fD876A264C982e254ef05a0DE/logo.png"
+  },
+  "name": "Nord Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NORD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

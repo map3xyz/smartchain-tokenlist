@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WhenLambo is a fully decentralized reflection & automated liquidity token with CAKE rewards for token holders and a unique chance to win big in our special draw system!"
+  },
+  "id": "5517d8b2-f006-47ca-bf56-6c1f08ed9536",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
+    "website": "https://whenlambo.vip/",
+    "twitter": "https://twitter.com/@WhenLamboTokens",
+    "github": "https://github.com/whenlambotoken/whenlambo-protocol",
+    "telegram": "https://t.me/WhenLamboTokens",
+    "telegramNews": "https://t.me/WhenLamboTokensNews",
+    "medium": "https://medium.com/@WhenLamboTokens",
+    "whitepaper": "https://whenlambo.vip/roadmap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/whenlambo/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE03495fCa9e644d55B65c30ed9fdC3321C260126/logo.png"
+  },
+  "name": "WhenLambo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WHENLAMBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

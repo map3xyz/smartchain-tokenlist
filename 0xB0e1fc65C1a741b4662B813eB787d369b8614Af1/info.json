@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. IF is the governance and fee accrual token for the swap."
+  },
+  "id": "233bb529-9a29-4a31-9321-05341a92d68e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+    "website": "https://impossible.finance",
+    "github": "https://github.com/impossiblefinance",
+    "twitter": "https://twitter.com/impossiblefi",
+    "blog": "https://medium.com/impossiblefinance",
+    "telegram": "https://t.me/ImpossibleFinance",
+    "coingecko": "https://coingecko.com/en/coins/impossible-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB0e1fc65C1a741b4662B813eB787d369b8614Af1/logo.png"
+  },
+  "name": "Impossible Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

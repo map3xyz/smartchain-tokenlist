@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3e8FC047F1BaEf443C43c400c996ebCC7cde9B94",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TERX is a smart project for land exchange. Token used to buy land and real estate using cryptocurrency."
+  },
+  "id": "fa874400-5d88-41a4-9b4b-24cb220e3645",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3e8FC047F1BaEf443C43c400c996ebCC7cde9B94",
+    "website": "https://terra-exchange.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3e8FC047F1BaEf443C43c400c996ebCC7cde9B94/logo.png"
+  },
+  "name": "Terra Exchange",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TERX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

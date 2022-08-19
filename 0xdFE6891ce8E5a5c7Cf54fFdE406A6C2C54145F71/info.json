@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Combining Memes & Crypto to bring both LOLs and money to the masses of the internet."
+  },
+  "id": "9b0dd61d-0b28-4dab-9fb2-20520c31f14f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
+    "website": "https://cheemsinu.net/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cheems-inu/",
+    "coingecko": "https://coingecko.com/en/coins/cheems-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71/logo.png"
+  },
+  "name": "CHEEMSINU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$CINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

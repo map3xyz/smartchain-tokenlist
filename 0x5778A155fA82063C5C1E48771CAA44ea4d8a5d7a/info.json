@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x5778A155fA82063C5C1E48771CAA44ea4d8a5d7a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Tezilla, this is the action game you have been waiting for!"
+  },
+  "id": "cd117020-aa5c-4caf-8707-7a52d76cb2a5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a",
+    "website": "https://tezilla.finance/",
+    "twitter": "https://twitter.com/TezillaFinance",
+    "telegram": "https://t.me/tezillafinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5778A155fA82063C5C1E48771CAA44ea4d8a5d7a/logo.png"
+  },
+  "name": "TEZILLA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TEZILLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

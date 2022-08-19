@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model."
+  },
+  "id": "08ec36f9-68a7-4592-ac97-a61751a3d532",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+    "website": "https://www.binaryx.pro/",
+    "telegram": "https://t.me/binaryxGlobal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/binaryx/",
+    "twitter": "https://twitter.com/binary_x"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97/logo.png"
+  },
+  "name": "BinaryX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

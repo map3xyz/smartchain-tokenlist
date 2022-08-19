@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x8891de345808E77228677f0eFb56125DB1E93a49",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "RX is a charity coin that donates 2% of every transaction directly to the Binance charity wallet."
+  },
+  "id": "0c685107-64a4-42f5-ae70-da1e7752f9d1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8891de345808E77228677f0eFb56125DB1E93a49",
+    "research": "https://ravenx.finance/",
+    "website": "https://ravenx.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8891de345808E77228677f0eFb56125DB1E93a49/logo.png"
+  },
+  "name": "Raven X",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

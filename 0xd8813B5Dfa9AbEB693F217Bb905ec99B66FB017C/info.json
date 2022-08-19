@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd8813B5Dfa9AbEB693F217Bb905ec99B66FB017C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BNRG the users can buy boosters of ENERGY NFT. Energy allows to increase the power of the monsters in Binamon Metaverse. "
+  },
+  "id": "f7311df7-5a0e-4a3f-80e2-190a25b72e38",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd8813B5Dfa9AbEB693F217Bb905ec99B66FB017C",
+    "website": "https://binamon.org",
+    "twitter": "https://twitter.com/binamonok",
+    "telegram": "https://t.me/binamon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd8813B5Dfa9AbEB693F217Bb905ec99B66FB017C/logo.png"
+  },
+  "name": "Binamon Energy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNRG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

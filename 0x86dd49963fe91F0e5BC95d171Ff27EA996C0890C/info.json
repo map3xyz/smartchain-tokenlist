@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "0xCharts brings Multi-charts and portfolio tracking to the binance smart chain."
+  },
+  "id": "f19a612b-9f3f-4016-8805-00b1ef27687e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C",
+    "website": "https://0xcharts.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C/logo.png"
+  },
+  "name": "0xCharts Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "0XC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

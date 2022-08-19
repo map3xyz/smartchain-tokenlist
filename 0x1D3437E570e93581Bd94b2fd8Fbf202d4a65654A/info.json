@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NanoByte token is bridging cryptocurrency to real world financial application, by integrating crypto to FIAT products such as e-money, credit cards, insurance, and other investments. NanoByte token is making decentralized finance mainstream and legitimate."
+  },
+  "id": "a321d5ff-6ff3-4c4e-bb27-27a53944b5f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A",
+    "website": "https://www.nanobyte.finance/",
+    "telegram": "https://t.me/NanoByteCommunity",
+    "twitter": "https://twitter.com/nanobyte_io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A/logo.png"
+  },
+  "name": "NanoByte Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NBT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

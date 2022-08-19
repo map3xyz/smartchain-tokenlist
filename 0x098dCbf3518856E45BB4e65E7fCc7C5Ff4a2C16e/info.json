@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x098dCbf3518856E45BB4e65E7fCc7C5Ff4a2C16e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The First Decentralized Exchange (DEX) For The Malaysians Market on Binance Smart Chain."
+  },
+  "id": "36f9e277-4287-4b8a-a0e4-9119a8a1315d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x098dCbf3518856E45BB4e65E7fCc7C5Ff4a2C16e",
+    "website": "https://rimauswap.finance",
+    "telegram": "https://t.me/RimauSwap",
+    "facebook": "https://facebook.com/rimauswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x098dCbf3518856E45BB4e65E7fCc7C5Ff4a2C16e/logo.png"
+  },
+  "name": "RIMAU Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RIMAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

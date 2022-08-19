@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0567D7fad179dCd2a89508B77cCe93E26f8998F7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTs for watches, fashion & jewelry"
+  },
+  "id": "3f7dba7b-cafc-48df-9148-adf22c71aa4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0567d7fad179dcd2a89508b77cce93e26f8998f7",
+    "website": "https://about.v-id.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0567D7fad179dCd2a89508B77cCe93E26f8998F7/logo.png"
+  },
+  "name": "VIDTC Luxury goods",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIDTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

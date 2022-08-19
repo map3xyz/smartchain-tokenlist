@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDCD289ECF644bEC54393ba6Ce8dB35e9B5Ff75e7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FairLunar is a community-drievn token with it’s own usecase"
+  },
+  "id": "280e4404-ee01-415f-ab37-b0e889c73d7c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdcd289ecf644bec54393ba6ce8db35e9b5ff75e7",
+    "website": "https://fairlunar.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDCD289ECF644bEC54393ba6Ce8dB35e9B5Ff75e7/logo.png"
+  },
+  "name": "FairLunar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLUNAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

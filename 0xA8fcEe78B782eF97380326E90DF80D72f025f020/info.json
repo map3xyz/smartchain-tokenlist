@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA8fcEe78B782eF97380326E90DF80D72f025f020",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Tacocat is a community coin that builds up public involvement to establish a first of its' kind crypto lifestyle brand. Tacocat brings the energy and ideas of the crypto community to the global audience with a unique style of cross-platform engagement."
+  },
+  "id": "1bffb685-860c-419f-8625-1f15fa605fec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa8fcee78b782ef97380326e90df80d72f025f020",
+    "website": "https://tacocat.life",
+    "twitter": "https://twitter.com/TacoCatCrew",
+    "telegram": "https://t.me/TacoCatCrew",
+    "reddit": "https://reddit.com/r/tacocatcrew"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA8fcEe78B782eF97380326E90DF80D72f025f020/logo.png"
+  },
+  "name": "Tacocat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TACOCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

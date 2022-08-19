@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa9eA4b786ee5b7A733c035564Bfd9341A4c9FC1e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "APEcoin embraces the humor and viral nature of memes by developing an ecosystem of platforms that celebrate and explore crypto trends. GO APE!"
+  },
+  "id": "e2ae4e29-725e-4db8-8e2a-7d88b4f70e5c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa9eA4b786ee5b7A733c035564Bfd9341A4c9FC1e",
+    "website": "https://APEcoin.dev",
+    "twitter": "https://twitter.com/Go_APEcoin?s=20",
+    "telegram": "https://t.me/APEcoin_Chat",
+    "medium": "https://go-apecoin.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa9eA4b786ee5b7A733c035564Bfd9341A4c9FC1e/logo.png"
+  },
+  "name": "Apecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

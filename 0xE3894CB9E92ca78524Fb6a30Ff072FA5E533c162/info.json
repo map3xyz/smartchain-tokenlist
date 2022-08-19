@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE3894CB9E92ca78524Fb6a30Ff072FA5E533c162",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Everlasting Parachain(ELP) is the canary network of the Cycan network. The ELP is based on Polkadot's canary network Kusama. The goal of the Cycan network is to build a decentralized asset management protocol based on the Substrate framework."
+  },
+  "id": "2835fb1a-b15e-4bb0-8c73-e9683f529c3d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE3894CB9E92ca78524Fb6a30Ff072FA5E533c162",
+    "website": "https://www.cycan.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE3894CB9E92ca78524Fb6a30Ff072FA5E533c162/logo.png"
+  },
+  "name": "Everlasting Parachain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

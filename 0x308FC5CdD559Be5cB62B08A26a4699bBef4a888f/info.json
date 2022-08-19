@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DCIP is world's first Decentralized Community Investment Protocol."
+  },
+  "id": "1572af87-0daa-4f32-8821-5f3953842906",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
+    "website": "https://dcip.finance",
+    "github": "https://github.com/DCIP-Finance/",
+    "twitter": "https://twitter.com/dcip_finance",
+    "telegram": "https://t.me/DCIPfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f/logo.png"
+  },
+  "name": "DCIP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DCIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Golden Doge (GDOGE) is a community token that has a special Golden Vault which gets filled by 5% of every GDOGE transaction on Pancakeswap and rewards the GDOGE community in BNB."
+  },
+  "id": "d2b4b352-96ca-4db6-aa14-f16b6b7e5b76",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9",
+    "website": "https://goldendoge.finance",
+    "twitter": "https://twitter.com/GoldenDoge11",
+    "github": "https://github.com/Golden-Doge-Token",
+    "telegram": "https://t.me/en_goldendoge",
+    "reddit": "https://reddit.com/r/GoldenDogeFinancial/",
+    "whitepaper": "https://goldendoge.finance/wp-content/uploads/2021/07/whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UCU05l0GIRWfWO2FudFh11Vw",
+    "coingecko": "https://coingecko.com/en/coins/golden-doge",
+    "medium": "https://medium.com/@goldendogefinance",
+    "sourceCode": "https://github.com/Golden-Doge-Token/contract/blob/main/smart%20contract.sol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9/logo.png"
+  },
+  "name": "Golden Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GDOGE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

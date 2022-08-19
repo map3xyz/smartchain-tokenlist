@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x44754455564474A89358B2C2265883DF993b12F0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ZeroSwap.io is a Multi-Chain, Zero-fee, On-chain Trading protocol with Liquidity Mining, DeFi Token Offering, and DEX Aggregation. The protocol will reward users every time they make an on-chain trade and provide liquidity to existing DEXes. All transactions would be Gasless with Zero Trade Fee."
+  },
+  "id": "c633ee96-61fc-46c3-83a1-da405bf4a044",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x44754455564474A89358B2C2265883DF993b12F0",
+    "website": "https://zeroswap.io/",
+    "github": "https://github.com/ZeroswapLabs",
+    "twitter": "https://twitter.com/ZeroSwapLabs",
+    "telegram": "https://t.me/zeroswap",
+    "medium": "https://medium.com/zeroswaplabs"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
+  },
+  "name": "ZeroSwapToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

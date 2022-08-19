@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3DAB450ee6451762E72647A05a205dd5697c5C2c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Floki Shiba has learned a few tricks and lessons from his meme father, Doge Coin."
+  },
+  "id": "3bb21273-cc0c-4215-9126-70a7386fadfe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3DAB450ee6451762E72647A05a205dd5697c5C2c",
+    "website": "https://flokishiba.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3DAB450ee6451762E72647A05a205dd5697c5C2c/logo.png"
+  },
+  "name": "FlokiShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

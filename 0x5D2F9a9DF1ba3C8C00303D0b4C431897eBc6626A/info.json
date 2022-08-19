@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5D2F9a9DF1ba3C8C00303D0b4C431897eBc6626A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ormeus Cash is a True Transactional Coin for a New Era of Commerce."
+  },
+  "id": "f660ee44-d22b-4055-96a7-863c76997605",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5D2F9a9DF1ba3C8C00303D0b4C431897eBc6626A",
+    "website": "https://ormeuscash.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5D2F9a9DF1ba3C8C00303D0b4C431897eBc6626A/logo.png"
+  },
+  "name": "Ormeus Cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OMC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

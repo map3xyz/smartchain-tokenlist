@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x8690Cb98496EF0f8c6417D78b5e0E29907668808",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Revolutionizing Privacy Throughout The Blockchain"
+  },
+  "id": "a74f7433-332d-4828-8573-97066fcdd641",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8690Cb98496EF0f8c6417D78b5e0E29907668808",
+    "website": "https://wraithprotocol.io/",
+    "github": "https://github.com/WraithProtocol/",
+    "twitter": "https://twitter.com/WraithProtocol/",
+    "reddit": "https://reddit.com/r/WRAITH_Official/",
+    "coingecko": "https://coingecko.com/en/coins/wraith-protocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wraith-protocol/",
+    "telegram": "https://t.me/WraithOfficial",
+    "whitepaper": "https://wraithprotocol.io/wp-content/uploads/2021/08/wraithpaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8690Cb98496EF0f8c6417D78b5e0E29907668808/logo.png"
+  },
+  "name": "Wraith Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WRAITH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

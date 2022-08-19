@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5B7f0c82D342BE42c94d789cfc3aAE29863D123e",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Beeuda is a unique cryptocurrency project, focussing on Building Eco-friendly and Road safe Trucks. This is inspired by the EU's target to cut truck CO2 and boost zero-emission truck sales."
+  },
+  "id": "dd09a19e-2e14-47c0-b4a5-8c00b2e06929",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5B7f0c82D342BE42c94d789cfc3aAE29863D123e",
+    "website": "https://beeuda.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5B7f0c82D342BE42c94d789cfc3aAE29863D123e/logo.png"
+  },
+  "name": "Beeuda",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

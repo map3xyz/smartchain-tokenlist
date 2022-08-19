@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x410319197d3394652B7ddDc669E58fbe30B56090",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFT Fantasy League"
+  },
+  "id": "b9895f1b-62a9-4b31-8dd4-c7e692b99527",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x410319197d3394652B7ddDc669E58fbe30B56090",
+    "website": "https://cybertime.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x410319197d3394652B7ddDc669E58fbe30B56090/logo.png"
+  },
+  "name": "Cyber Time Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

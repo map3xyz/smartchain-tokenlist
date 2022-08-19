@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Next Generation of Hybrid Payment Chain"
+  },
+  "id": "bf71f91c-70f7-4f13-aea4-1acc0b63cfbc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+    "website": "https://electrachain.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E/logo.png"
+  },
+  "name": "Electra",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELECTRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

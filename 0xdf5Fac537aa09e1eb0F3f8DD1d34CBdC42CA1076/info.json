@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DKYC."
+  },
+  "id": "e806010c-02d8-4efa-a971-17f7350ca473",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076",
+    "website": "https://dontkyc.com",
+    "twitter": "https://twitter.com/DontKYC",
+    "telegram": "https://t.me/DontKYC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dont-kyc/",
+    "medium": "https://medium.com/@donotkyc",
+    "coingecko": "https://coingecko.com/en/coins/dont-kyc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076/logo.png"
+  },
+  "name": "Don't KYC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DKYC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

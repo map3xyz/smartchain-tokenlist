@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc978BA9309f3c3bE3a79302251A2bB041bAa7118",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KittyShiba, a decentralized & unique way to earn. Running on BSC, Token REFLECTION earning with very intelligent coding, makes KittyShiba much powerful."
+  },
+  "id": "2a893c68-2d87-4609-b789-582df3c5604e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc978BA9309f3c3bE3a79302251A2bB041bAa7118",
+    "website": "https://kittyshiba.com",
+    "twitter": "https://twitter.com/kittyshiba",
+    "github": "https://github.com/kittyshiba",
+    "telegram": "https://t.me/kittyshiba",
+    "telegramNews": "https://t.me/kittyshibanews"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc978BA9309f3c3bE3a79302251A2bB041bAa7118/logo.png"
+  },
+  "name": "Kitty Shiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

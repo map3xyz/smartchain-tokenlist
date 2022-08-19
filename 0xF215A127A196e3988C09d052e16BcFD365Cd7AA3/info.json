@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets."
+  },
+  "id": "3f7ad3d6-609e-4053-9125-1d74c4594d26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
+    "website": "https://mirror.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3/logo.png"
+  },
+  "name": "Wrapped Mirror TSLA Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "mTSLA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

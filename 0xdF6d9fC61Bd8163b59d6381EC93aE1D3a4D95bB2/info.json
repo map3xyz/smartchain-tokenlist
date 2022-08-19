@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$BlimpsRock is a yield and liquidity generating protocol token that works by applying a 10% fee to every transaction and distributing half of that to token holders and then automatically locks the other half in Pancake LP. No need to stake your tokens to earn rewards, simply HODL in your wallet and watch the rewards roll in."
+  },
+  "id": "d15dd19c-815e-466b-9c62-f607ad68e8f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2",
+    "website": "https://blimpsrock.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdF6d9fC61Bd8163b59d6381EC93aE1D3a4D95bB2/logo.png"
+  },
+  "name": "BlimpsRock",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLIMPSROCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x3107C0A1126268CA303f8d99c712392fA596e6D7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit."
+  },
+  "id": "c3aacd69-e811-48b4-b446-1d3f27bed551",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3107C0A1126268CA303f8d99c712392fA596e6D7",
+    "website": "https://www.gxtglobal.com/en/index.html",
+    "twitter": "https://twitter.com/GXT25075644",
+    "github": "https://github.com/gxtmg/gxt_erc20",
+    "telegram": "https://t.me/gxtglobal_official",
+    "coingecko": "https://coingecko.com/en/coins/gem-exchange-and-trading"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3107C0A1126268CA303f8d99c712392fA596e6D7/logo.png"
+  },
+  "name": "Gem Exchange and Trading",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GXT",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

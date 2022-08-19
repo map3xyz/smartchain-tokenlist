@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SMOON is a community driven token."
+  },
+  "id": "484b113c-2467-4012-90e7-3c7428a816d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5d6cdf1b7f7c35eae688e4c563b6f16eeac2cb6b",
+    "website": "https://saylormoon.army"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b/logo.png"
+  },
+  "name": "SaylorMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

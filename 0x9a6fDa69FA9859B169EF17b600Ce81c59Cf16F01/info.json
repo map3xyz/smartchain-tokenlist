@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9a6fDa69FA9859B169EF17b600Ce81c59Cf16F01",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cold Finance - COLD is an autonomous yield and liquidity generation protocol which is based on Binance Smart chain which will reward the community through the tokens in the ecosystem."
+  },
+  "id": "bd815c4a-a467-44dc-975a-f2de5401c408",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9a6fda69fa9859b169ef17b600ce81c59cf16f01",
+    "website": "https://www.coldfinance.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9a6fDa69FA9859B169EF17b600Ce81c59Cf16F01/logo.png"
+  },
+  "name": "COLD FINANCE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

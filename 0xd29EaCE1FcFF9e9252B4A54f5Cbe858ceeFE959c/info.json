@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Memes Token"
+  },
+  "id": "c2a46600-681e-4197-8932-450e5592c1c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+    "website": "https://dogelonmoon.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c/logo.png"
+  },
+  "name": "Dogelon Moon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

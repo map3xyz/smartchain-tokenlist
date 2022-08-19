@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xf67006f8d22edEbd1191f3E728ab9a90289e6C38",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Little Baby Doge is a hyper-deflationary decentralized buyback token, community-driven project that aims to reduce global warming by being the no 1 cryptocurrency platform for fighting climate change!"
+  },
+  "id": "7adbeb23-7d3c-49e4-ab76-a5f05e1a399e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf67006f8d22edEbd1191f3E728ab9a90289e6C38",
+    "website": "https://littlebabydoge.com/",
+    "twitter": "https://twitter.com/LBD_se",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/little-baby-doge/",
+    "coingecko": "https://coingecko.com/coins/littlebabydoge",
+    "telegram": "https://t.me/LittleBabyDogeOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf67006f8d22edEbd1191f3E728ab9a90289e6C38/logo.png"
+  },
+  "name": "LittleBabyDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LBD",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TeaCrypto.Finance is a blockchain innovation hub with a DAO-driven seed stage fund, decentralized incubator, and launchpad, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms."
+  },
+  "id": "f4028e0f-7b26-488f-8edf-19299c320d88",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1",
+    "website": "https://teacrypto.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1/logo.png"
+  },
+  "name": "TeaCrypto Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x2cc26dd730F548dc4ac291ae7D84a0C96980d2cB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PIZZA is the Best Modern Yield Farm on Binance Smart Chain."
+  },
+  "id": "e97533c4-39c3-41a3-8d4e-b74cb3c69e6a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb",
+    "website": "https://pizzafinance.app/",
+    "github": "https://github.com/pizzafinancebsc",
+    "twitter": "https://twitter.com/Pizza_Finance",
+    "telegram": "https://t.me/PizzaFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2cc26dd730F548dc4ac291ae7D84a0C96980d2cB/logo.png"
+  },
+  "name": "PizzaSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIZZA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

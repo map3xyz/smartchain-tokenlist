@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xce666D0e507C5F2Afe0671Ee29A99cfa97954c48",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Addax is a crypto currency with a purpose to tackle real world problems such as climate change, famine, public healthcare, poverty, children in need, education, gender inequality, marine conservation and wildlife conservation through every transaction."
+  },
+  "id": "c6af6d23-91f2-4213-925d-328db9964222",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xce666d0e507c5f2afe0671ee29a99cfa97954c48",
+    "website": "https://addaxtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xce666D0e507C5F2Afe0671Ee29A99cfa97954c48/logo.png"
+  },
+  "name": "Addax",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

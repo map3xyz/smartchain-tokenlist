@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KAKA is a token issued by KAKA NFT World."
+  },
+  "id": "b3cbb900-b5dc-4e94-9eb5-c14759939d12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a",
+    "website": "https://kakanft.com/",
+    "twitter": "https://twitter.com/kakanftworld",
+    "telegram": "https://t.me/KAKANFTWORLD",
+    "medium": "https://kakanft.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a/logo.png"
+  },
+  "name": "KAKA Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x48A64f116Ce221fD7c1119775ba7892701F9911d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Gemspree is a rug proof utility token which aims to provide an NFT marketplace combined with advertising platform and charity donations focusing on kids with cancer around the world. "
+  },
+  "id": "7c364bcf-41c4-47e1-b710-daee754d82d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x48A64f116Ce221fD7c1119775ba7892701F9911d",
+    "website": "https://gemspree.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x48A64f116Ce221fD7c1119775ba7892701F9911d/logo.png"
+  },
+  "name": "GemSpree",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GEMS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

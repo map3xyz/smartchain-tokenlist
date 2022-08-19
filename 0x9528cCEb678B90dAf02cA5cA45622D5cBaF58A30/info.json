@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Join the Future of Uncensored Crowdfunding. The #1 DAO operated, blockchain powered, crowdfunding platform"
+  },
+  "id": "8e59de85-80a5-4844-8ad2-22fe630f9dab",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30",
+    "website": "https://gocryptome.io/",
+    "github": "https://github.com/GoBlockchain2022/",
+    "twitter": "https://twitter.com/gocryptomecoin",
+    "telegram": "https://t.me/GoCryptoMe"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30/logo.png"
+  },
+  "name": "Go Crypto Me",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GCME",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

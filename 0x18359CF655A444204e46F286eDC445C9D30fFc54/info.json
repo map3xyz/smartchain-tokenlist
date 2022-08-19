@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x18359CF655A444204e46F286eDC445C9D30fFc54",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dogemoon is a charity project built on Binance Smart Chain featuring auto burns to a locked liquidity, auto staking mechanism, and 6% tax is imposed on transactions for charity and marketing."
+  },
+  "id": "6d7aab81-5b9e-450d-99a5-527ad5fdfe26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x18359CF655A444204e46F286eDC445C9D30fFc54",
+    "website": "https://dogemoon.me/",
+    "twitter": "https://twitter.com/DogeMoonMain",
+    "telegram": "https://t.me/dogemoonme",
+    "reddit": "https://reddit.com/r/DogemoonToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x18359CF655A444204e46F286eDC445C9D30fFc54/logo.png"
+  },
+  "name": "DOGEMOON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DGMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

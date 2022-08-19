@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The World's first Auto-Boost, Hyper Deflationary Coin is here! Every sell gives members more with the auto-boost and hyper deflation system in place. "
+  },
+  "id": "df96bdc7-eea0-4add-8358-949cb40ca800",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
+    "website": "https://minidoge.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad/logo.png"
+  },
+  "name": "MiniDOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MiniDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

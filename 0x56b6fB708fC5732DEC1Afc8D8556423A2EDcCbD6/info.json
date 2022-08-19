@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EOS is a cryptocurrency token and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations."
+  },
+  "id": "4e518060-1e03-4f58-a597-ae5d5107f0c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "research": "https://research.binance.com/en/projects/eos",
+    "website": "https://eos.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png"
+  },
+  "name": "Binance-Peg EOS Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

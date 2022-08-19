@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7207Ab575daDD6025e2B334424C5eD10A0282778",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "wShiba - A Pure Yield Farm Meme Token. The role of wShiba is as a yield farming token that generating returns from long-term holdings, while building a Zoopad (launchpad) for meme projects. A simple & transparent & effective project."
+  },
+  "id": "a9ffb275-8560-4c20-a79e-2eccf3a01ab8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7207Ab575daDD6025e2B334424C5eD10A0282778",
+    "website": "https://wshiba.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7207Ab575daDD6025e2B334424C5eD10A0282778/logo.png"
+  },
+  "name": "wShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wSHIB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

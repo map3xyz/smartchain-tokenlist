@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9001fD53504F7Bf253296cfFAdF5b6030CD61abb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy."
+  },
+  "id": "14bb6f6b-c458-46db-8312-6a7ae0934920",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9001fd53504f7bf253296cffadf5b6030cd61abb",
+    "website": "https://cyber-fm.com",
+    "github": "https://github.com/CyberFM/",
+    "twitter": "https://twitter.com/CyberFM",
+    "telegram": "https://t.me/mftudotnet",
+    "facebook": "https://facebook.com/cyberfm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9001fD53504F7Bf253296cfFAdF5b6030CD61abb/logo.png"
+  },
+  "name": "CyberFM Radio",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CYFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

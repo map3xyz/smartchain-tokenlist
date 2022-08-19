@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe472f729aC326C1B49921CFD492008c8586e50B9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Whoever said pigs can't fly? Let this pig take you to the moon."
+  },
+  "id": "d7795cbe-17a8-438b-9fdd-a1699e31968a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe472f729aC326C1B49921CFD492008c8586e50B9",
+    "website": "https://piggybankdefi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe472f729aC326C1B49921CFD492008c8586e50B9/logo.png"
+  },
+  "name": "PiggyBank Coins",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIGGYBANK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

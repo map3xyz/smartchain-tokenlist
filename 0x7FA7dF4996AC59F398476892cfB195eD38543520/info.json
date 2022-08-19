@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7FA7dF4996AC59F398476892cfB195eD38543520",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wag is the native currency of Wagyuswap DEX"
+  },
+  "id": "9c116d4f-4e23-40e2-9c35-a37fc20dcf11",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7FA7dF4996AC59F398476892cfB195eD38543520",
+    "website": "https://www.wagyuswap.app/",
+    "twitter": "https://twitter.com/WagyuSwap_app",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wagyuswap/",
+    "coingecko": "https://coingecko.com/wagyuswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7FA7dF4996AC59F398476892cfB195eD38543520/logo.png"
+  },
+  "name": "Wagyuswap.org",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

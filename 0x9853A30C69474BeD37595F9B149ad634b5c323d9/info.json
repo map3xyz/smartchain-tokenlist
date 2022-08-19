@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9853A30C69474BeD37595F9B149ad634b5c323d9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TendieSwap is a non-custodial prediction protocol that enables users to earn unlimited rewards on high-yield prediction markets. TENDIE ($TENDIE) is the utility token of the TendieSwap ecosystem and is based on the BEP-20 token standard with a dual deployment to MATIC coming soon."
+  },
+  "id": "9bda363d-d0ec-462c-a0a6-3e8526af3148",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9853a30c69474bed37595f9b149ad634b5c323d9",
+    "website": "https://www.tendieswap.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9853A30C69474BeD37595F9B149ad634b5c323d9/logo.png"
+  },
+  "name": "TENDIE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TENDIE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

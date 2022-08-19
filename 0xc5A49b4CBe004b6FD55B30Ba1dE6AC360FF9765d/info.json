@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Swamp.finance is a yield farming optimizer for Binance Smart Chain."
+  },
+  "id": "1f2761d6-07b4-469c-82e0-134653e62137",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d",
+    "website": "https://swamp.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d/logo.png"
+  },
+  "name": "Swamp.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWAMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

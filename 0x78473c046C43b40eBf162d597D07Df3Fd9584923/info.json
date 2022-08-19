@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x78473c046C43b40eBf162d597D07Df3Fd9584923",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aku is an ancient benevolent witch doctor. He is no longer a \"living\"."
+  },
+  "id": "8c0c3f6e-39c7-4847-a8c8-e1f3a2ad3c89",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x78473c046C43b40eBf162d597D07Df3Fd9584923",
+    "website": "https://akuthebodyguard.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x78473c046C43b40eBf162d597D07Df3Fd9584923/logo.png"
+  },
+  "name": "Aku The Bodyguard",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

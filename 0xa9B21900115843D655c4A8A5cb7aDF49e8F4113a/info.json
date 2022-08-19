@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Rotomoon is a token from Binance Smart Chain"
+  },
+  "id": "8e00dfd7-cd31-4786-bb5e-3214dcf45ccc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+    "website": "https://rotomoon.app/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a/logo.png"
+  },
+  "name": "Rotomoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROTO",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

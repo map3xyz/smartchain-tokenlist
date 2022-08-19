@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4695e4dD1E3011045573f6E16Dc162687cdBAc44",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "METAGON NETWORK ACHIEVE PRIVACY, HIGH ASSURANCE AND FRICTIONLESS COMPUTATION WITH BLOCKCHAIN INFRASTRUCTURE"
+  },
+  "id": "737a9a9b-ab62-42bb-b738-c131879a1348",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4695e4dd1e3011045573f6e16dc162687cdbac44",
+    "website": "https://metagon.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4695e4dD1E3011045573f6E16Dc162687cdBAc44/logo.png"
+  },
+  "name": "Metagon Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "METAGON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Inflation Hedging Coin (IHC) was founded to provide an alternative way to secure your wealth without the interference of the monetary hierarchy system in fighting against inflation, starting with a blockchain based form of finance, Decentralized Finance."
+  },
+  "id": "851500d6-a09d-4e61-a257-eb4f09ce77b5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
+    "website": "https://www.ihcoin.io/",
+    "twitter": "https://twitter.com/IHCoinofficial?s=20",
+    "facebook": "https://facebook.com/ihcoinofficial",
+    "telegram": "https://t.me/IHCglobalcommunity"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x86a53fcd199212FEa44FA7e16EB1f28812be911D/logo.png"
+  },
+  "name": "Inflation Hedging Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IHC",
+  "tags": [
+    "staking",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

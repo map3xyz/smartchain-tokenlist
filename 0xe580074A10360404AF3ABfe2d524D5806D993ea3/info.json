@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pay expenses, earn $PAY rewards with your crypto tokens in near-instant time. Start spending your tokens at cafe, restaurant and everywhere."
+  },
+  "id": "6186b34e-6fd9-4173-91d0-4bcb30a26268",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+    "website": "https://www.paybolt.io/",
+    "telegram": "https://t.me/PayBolt",
+    "twitter": "https://twitter.com/PayBoltofficial",
+    "youtube": "https://youtube.com/c/PayBolt",
+    "facebook": "https://facebook.com/PayBolt",
+    "whitepaper": "https://file.paybolt.io/paybolt_whitepaper.pdf",
+    "github": "https://github.com/paybolt",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/paybolt/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png"
+  },
+  "name": "PayBolt",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAY",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

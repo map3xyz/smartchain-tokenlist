@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xACce5119881693B1502ECAF732eb1d592adFc54b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeWojak is a retail friendly due diligence platform, aiming to alleviate traders from falling victim to unaudited and malicious token contracts."
+  },
+  "id": "6a514389-9a21-4cef-8ab9-3c0bbf2eda3e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xACce5119881693B1502ECAF732eb1d592adFc54b",
+    "website": "https://safewojak.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xACce5119881693B1502ECAF732eb1d592adFc54b/logo.png"
+  },
+  "name": "SafeWojak",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOJAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

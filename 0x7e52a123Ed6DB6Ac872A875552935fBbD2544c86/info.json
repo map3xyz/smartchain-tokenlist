@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "SYL Token by XSL Labs: Decentralized Identity & Data Privacy"
+  },
+  "id": "4a421fde-fa56-4d58-a1e7-030b9ecd6ab9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+    "website": "https://www.xsl-labs.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86/logo.png"
+  },
+  "name": "SYL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SYL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

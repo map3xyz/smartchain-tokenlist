@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd948A2c11626a0EFC25f4e0ceA4986056AC41feD",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Auto liquidity for an ever-increasing price floor, Deflationary tokenomics, 100% safe and unruggable (liquidity will be locked forever)."
+  },
+  "id": "0dd0ef6b-5530-4a43-a652-7b4e8d2e9983",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd948a2c11626a0efc25f4e0cea4986056ac41fed",
+    "website": "https://safemarscash.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd948A2c11626a0EFC25f4e0ceA4986056AC41feD/logo.png"
+  },
+  "name": "SAFEMARSCASH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMARSCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

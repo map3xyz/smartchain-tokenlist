@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8a505D5Cb3Db9fcf404c0A72aF3dF8Be4eFB707c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Energy Web Decentralized Operating System Open-Source Technology. ENG Multi-Blockchain can make it possible to track low-carbon energy and certificates from their origin through every stage and transaction."
+  },
+  "id": "60e1d161-f3d5-4c8c-a42a-06a286e78bff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8a505D5Cb3Db9fcf404c0A72aF3dF8Be4eFB707c",
+    "website": "https://engcrypto.io/",
+    "whitepaper": "https://engcrypto.io/white_paper.pdf",
+    "facebook": "https://facebook.com/profile.php?id=100080916680027"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8a505D5Cb3Db9fcf404c0A72aF3dF8Be4eFB707c/logo.png"
+  },
+  "name": "ENERGY COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ENG",
+  "tags": [
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

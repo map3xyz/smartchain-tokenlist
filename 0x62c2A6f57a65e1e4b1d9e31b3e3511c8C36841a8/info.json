@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x62c2A6f57a65e1e4b1d9e31b3e3511c8C36841a8",
+  "color": null,
+  "decimals": 10,
+  "description": {
+    "en": "We are a community-driven project that has implemented some of the best tokenomics around. Our goal is simple: end testicular cancer"
+  },
+  "id": "e391594d-2c8e-4a5c-bd33-cb7b1b8c6d79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x62c2A6f57a65e1e4b1d9e31b3e3511c8C36841a8",
+    "website": "https://www.smegmars.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x62c2A6f57a65e1e4b1d9e31b3e3511c8C36841a8/logo.png"
+  },
+  "name": "SMEGMARS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMEGM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

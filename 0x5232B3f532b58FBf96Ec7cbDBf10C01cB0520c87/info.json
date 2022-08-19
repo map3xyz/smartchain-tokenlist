@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x5232B3f532b58FBf96Ec7cbDBf10C01cB0520c87",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Rielcoin is a future token for financial freedom that provide a functional token for using cryptocurrency exchanges and payments worldwide"
+  },
+  "id": "07d6537c-c9b2-4e7e-8f42-ac5c7c5a92b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5232b3f532b58fbf96ec7cbdbf10c01cb0520c87",
+    "website": "https://rielcoin.org",
+    "telegram": "https://t.me/rielcoin",
+    "twitter": "https://twitter.com/rielcoin",
+    "facebook": "https://facebook.com/rielcoin",
+    "sourceCode": "https://github.com/RIC-protocol/Rielcoin-Contract/tree/main/Contract",
+    "github": "https://github.com/RIC-protocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rielcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5232B3f532b58FBf96Ec7cbDBf10C01cB0520c87/logo.png"
+  },
+  "name": "Rielcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

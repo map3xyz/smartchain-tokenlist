@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "JBPToken is 100% community driven audited deflationary token "
+  },
+  "id": "ba83f0d1-c7a1-4079-8c10-8bec4ed648e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+    "website": "https://jbprotocol.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1ba292a599F9C4F5618616c14bA38daec29e7E08/logo.png"
+  },
+  "name": "JBPTOKEN ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JBP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

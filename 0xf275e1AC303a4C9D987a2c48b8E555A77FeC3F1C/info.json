@@ -1,0 +1,47 @@
+{
+  "active": true,
+  "address": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Welcome to the DEEPSPACE Metaverse! DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game! Earn passive income from holding $DPS, trading NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships! Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!"
+  },
+  "id": "e7432ee6-7780-40f9-be8d-1710ba9d6e15",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
+    "website": "https://deepspace.game",
+    "twitter": "https://twitter.com/DeepSpaceBSC",
+    "github": "https://github.com/deepspace-game",
+    "telegram": "https://t.me/DeepSpaceGame",
+    "telegramNews": "https://t.me/deepspaceannouncements",
+    "blog": "https://dps.fyi/blog",
+    "docs": "https://dps.fyi/docs",
+    "forum": "https://dps.fyi/forum",
+    "discord": "https://discord.com/invite/deepspace",
+    "reddit": "https://reddit.com/r/DeepSpaceGame/",
+    "whitepaper": "https://dps.fyi/whitepaper",
+    "medium": "https://deepspacebsc.medium.com/",
+    "youtube": "https://youtube.com/c/DeepSpaceBSC",
+    "facebook": "https://facebook.com/deepspacebsc/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/deepspace/",
+    "coingecko": "https://coingecko.com/coins/deepspace",
+    "sourceCode": "https://bscscan.com/address/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C/logo.png"
+  },
+  "name": "DEEPSPACE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DPS",
+  "tags": [
+    "nft",
+    "defi",
+    "staking",
+    "deflationary",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDeb9acA4F54ABd9b82Ca91B52fCCCF869882B9Fe",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Every transaction is taxed 5%: 2% is distributed to holders and 3% is locked in liquidity forever"
+  },
+  "id": "ec000d8f-11ed-481d-8aff-07ce2350c686",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe",
+    "website": "https://gdoge.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDeb9acA4F54ABd9b82Ca91B52fCCCF869882B9Fe/logo.png"
+  },
+  "name": "GDOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

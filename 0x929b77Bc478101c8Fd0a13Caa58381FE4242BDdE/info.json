@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Spacelon is Memes Token"
+  },
+  "id": "a2a02d60-8a16-45ce-abdd-0af29852d250",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE",
+    "website": "https://spacelon.xyz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x929b77Bc478101c8Fd0a13Caa58381FE4242BDdE/logo.png"
+  },
+  "name": "Spacelon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "sELON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

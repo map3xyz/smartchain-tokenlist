@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc242b6A3983e90D279ed68aC70f47CFC7e5e1e1C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Native token of defi site Potluck Protocol"
+  },
+  "id": "ddcee7d7-a158-4157-a473-3ff48dc8236b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc242b6a3983e90d279ed68ac70f47cfc7e5e1e1c",
+    "website": "https://potluckprotocol.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc242b6A3983e90D279ed68aC70f47CFC7e5e1e1C/logo.png"
+  },
+  "name": "Potluck Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PTLK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

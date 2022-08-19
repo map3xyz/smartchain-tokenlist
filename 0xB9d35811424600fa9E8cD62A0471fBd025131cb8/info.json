@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xB9d35811424600fa9E8cD62A0471fBd025131cb8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "An Asset-based token with aim to reduce carbon emissions using several utilities for the token."
+  },
+  "id": "16da8930-c3b6-462c-8d42-bc0e37d5bbeb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb9d35811424600fa9e8cd62a0471fbd025131cb8",
+    "website": "https://yesworld.io",
+    "twitter": "https://twitter.com/yesworld24",
+    "github": "https://github.com/yesworld24",
+    "telegram": "https://t.me/yesworld24",
+    "youtube": "https://youtube.com/yesworld24",
+    "whitepaper": "https://yesworld.io/YesWorld-Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB9d35811424600fa9E8cD62A0471fBd025131cb8/logo.png"
+  },
+  "name": "YES WORLD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YES",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

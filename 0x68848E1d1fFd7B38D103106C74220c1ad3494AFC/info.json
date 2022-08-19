@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x68848E1d1fFd7B38D103106C74220c1ad3494AFC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Rewards Bunny ($RBunny) is a cashback platform where we reward users for their online shopping in Crypto or USD. Start saving now with deals and discounts from top participating brands like AliExpress, Agoda, ASOS, Booking.com, Bose, Klook, Viator, and etc."
+  },
+  "id": "de0a0242-5ddc-4a4e-a863-dbbf06821eae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x68848e1d1ffd7b38d103106c74220c1ad3494afc",
+    "website": "https://www.rewardsbunny.com/",
+    "twitter": "https://twitter.com/RewardsBunny",
+    "whitepaper": "https://rewardsbunny.com/whitepaper",
+    "medium": "https://medium.com/@rewardsbunny",
+    "github": "https://github.com/RewardsBunny",
+    "discord": "https://discord.com/invite/teEuUaNdag",
+    "telegram": "https://t.me/RewardsBunny",
+    "telegramNews": "https://t.me/RewardsBunnyChannel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rewards-bunny/",
+    "coingecko": "https://coingecko.com/en/coins/rewards-bunny",
+    "facebook": "https://facebook.com/RewardsBunny/",
+    "reddit": "https://reddit.com/r/RewardsBunny/",
+    "youtube": "https://youtube.com/RewardsBunny",
+    "sourceCode": "https://github.com/rewardsbunny/RewardsBunny/tree/main"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x68848E1d1fFd7B38D103106C74220c1ad3494AFC/logo.png"
+  },
+  "name": "Rewards Bunny",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RBunny",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

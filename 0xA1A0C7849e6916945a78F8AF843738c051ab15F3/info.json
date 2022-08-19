@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA1A0C7849e6916945a78F8AF843738c051ab15F3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The MetaMoon is a NFT market and DeFi Token. Reflection, Auto LP, and Burn."
+  },
+  "id": "09381393-8c17-40ef-88b2-b03d6b5fcba3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA1A0C7849e6916945a78F8AF843738c051ab15F3",
+    "website": "https://metamoon.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA1A0C7849e6916945a78F8AF843738c051ab15F3/logo.png"
+  },
+  "name": "MetaMoon.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MetaMoon",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xD1587Ee50e0333f0C4aDcF261379A61B1486c5d2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "WindSwap is a Deflationary Bridging Token & DEX Platform."
+  },
+  "id": "4c6a8bdc-a418-4810-9631-19b2eb075bfa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD1587Ee50e0333f0C4aDcF261379A61B1486c5d2",
+    "website": "https://windswap.finance/",
+    "twitter": "https://twitter.com/windswap",
+    "telegram": "https://t.me/windswapmembers"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD1587Ee50e0333f0C4aDcF261379A61B1486c5d2/logo.png"
+  },
+  "name": "WindSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WINDY",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

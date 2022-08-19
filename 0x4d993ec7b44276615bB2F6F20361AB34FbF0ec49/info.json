@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4d993ec7b44276615bB2F6F20361AB34FbF0ec49",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BrandPad is a multi-chain liquidity manager for token pools and auctions powered by decentralized, infrastructure. We facilitate buying and transferring tokens between blockchains."
+  },
+  "id": "1fdea6b3-a3a7-41d2-9d88-00c36b2617b5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d993ec7b44276615bB2F6F20361AB34FbF0ec49",
+    "website": "https://brandpad.finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/brandpad-finance/",
+    "coingecko": "https://coingecko.com/en/coins/brandpad-finance",
+    "twitter": "https://twitter.com/BrandPadFinance",
+    "telegram": "https://t.me/BrandPad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4d993ec7b44276615bB2F6F20361AB34FbF0ec49/logo.png"
+  },
+  "name": "BrandPad Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BRAND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

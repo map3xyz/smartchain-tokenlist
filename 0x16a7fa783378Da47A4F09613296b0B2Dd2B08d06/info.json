@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x16a7fa783378Da47A4F09613296b0B2Dd2B08d06",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Monster Slayer allows users to become owners and monetize Blockchain based video games."
+  },
+  "id": "f96af6b3-4df0-4396-b9d5-aa53613df571",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16a7fa783378Da47A4F09613296b0B2Dd2B08d06",
+    "website": "https://monsterslayer.io/",
+    "twitter": "https://twitter.com/MonsterSlayerMS",
+    "telegram": "https://t.me/MSCrypto_Official",
+    "telegramNews": "https://t.me/MSCrypto_Channel",
+    "blog": "https://monsterslayer.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x16a7fa783378Da47A4F09613296b0B2Dd2B08d06/logo.png"
+  },
+  "name": "MonsterSlayer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

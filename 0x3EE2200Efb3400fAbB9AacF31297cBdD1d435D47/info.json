@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Cardano Token (ADA BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cardano (ADA) at a ratio of 1:1."
+  },
+  "id": "96f0e9b3-a1c5-4998-8ab5-e8ff848e08f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "research": "https://research.binance.com/en/projects/cardano",
+    "website": "https://cardano.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+  },
+  "name": "Binance-Peg Cardano Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADA",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

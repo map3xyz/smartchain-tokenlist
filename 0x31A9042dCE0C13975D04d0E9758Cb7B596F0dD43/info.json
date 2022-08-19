@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Burn1 Coin is the foundation of an ecosystem of cannabis centric crypto products while simultaneously supporting Cannabis reform & advocacy. "
+  },
+  "id": "b07956ef-13bd-4e6f-aed1-799d597eab87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
+    "website": "https://burn1.today",
+    "telegram": "https://t.me/Burn1Coin",
+    "twitter": "https://twitter.com/Burn1Coin",
+    "reddit": "https://reddit.com/r/Burn1Coin/",
+    "facebook": "https://facebook.com/Burn1coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43/logo.png"
+  },
+  "name": "Burn1 Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURN1COIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

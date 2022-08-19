@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mini Kishu was created in September 2021 by crypto influencers with the goal of being a decentralized meme project with true purpose."
+  },
+  "id": "b1a96570-cad5-4775-a115-22d31d46523f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
+    "website": "https://mini-kishu.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mini-kishu",
+    "coingecko": "https://coingecko.com/en/coins/minikishu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x47fD00664661058546fdDaDA3eecc9f2CD41020e/logo.png"
+  },
+  "name": "MINIKISHU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$MINIKISHU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x797Bb0BeeA437D2762A755ea911C0046C1284568",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Vulkania offers customizable Blockchain Dashboards, one stop solutions for gathering data of crypto projects while saving time."
+  },
+  "id": "cadf94a8-f74c-40ac-9911-c645139034c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x797bb0beea437d2762a755ea911c0046c1284568",
+    "website": "https://vulkania.io",
+    "twitter": "https://twitter.com/VulkaniaApp",
+    "github": "https://github.com/Vulkania",
+    "telegram": "https://t.me/vulkaniaapp",
+    "telegramNews": "https://t.me/vulkaniannouncements",
+    "blog": "https://vulkania.io/blog/",
+    "whitepaper": "https://vulkania.io/blog/vulkania-whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vulkania/",
+    "coingecko": "https://coingecko.com/en/coins/vulkania",
+    "sourceCode": "https://solidity.finance/audits/Vulkania/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x797Bb0BeeA437D2762A755ea911C0046C1284568/logo.png"
+  },
+  "name": "Vulkania",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VLK",
+  "tags": [
+    "defi",
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfAEFe2e0D056243060A6f640d5735CAE307001C4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The token for those who dare to dream BIG!"
+  },
+  "id": "cefc6a18-e8b8-42b8-b597-b07f32b53ceb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfAEFe2e0D056243060A6f640d5735CAE307001C4",
+    "website": "https://supermoon.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfAEFe2e0D056243060A6f640d5735CAE307001C4/logo.png"
+  },
+  "name": "Supermoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OSM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mini Hollywood Doge is BEP20 Token based on a fun meme, but at its heart is a serious mission to contribute to charitable organisations as voted by its community of holders, and to enable a launchpad for future meme token projects."
+  },
+  "id": "2146f681-78a4-4fa4-a5f9-cbfbaeb6363d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
+    "website": "https://www.minihollywooddoge.com",
+    "github": "https://github.com/minihollywooddoge",
+    "twitter": "https://twitter.com/DogeHollywood",
+    "telegram": "https://t.me/MiniHollywoodDoge",
+    "coingecko": "https://coingecko.com/en/coins/mini-hollywood-doge",
+    "whitepaper": "https://503ed78d-728e-4e57-a382-25b391e649e1.filesusr.com/ugd/c294fa_c3ed87277a5c43b09f109904668bd741.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x96aC1E773677FA02726B5A670CA96a7aDf7F8523/logo.png"
+  },
+  "name": "Mini Hollywood Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOLLYDOGE ⭐",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

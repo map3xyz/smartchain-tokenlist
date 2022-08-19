@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD919C54AdeF039727038De350215627383c4ccC4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AbductionProtocol is an experimental DeFi project that uses a bot to provide \"inorganic permanent marketing\". Our primary goal is to make a reliable long-term investment that is completely automated, ever-growing, and community-run."
+  },
+  "id": "892b4316-4a47-4751-963e-247d4ef62064",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD919C54AdeF039727038De350215627383c4ccC4",
+    "website": "https://abductionprotocol.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD919C54AdeF039727038De350215627383c4ccC4/logo.png"
+  },
+  "name": "Abduction Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ABDUCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aeron – blockchain solutions for aviation safety."
+  },
+  "id": "c3c374aa-bebc-40ae-a9f2-93fe370bbb26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0C37Bcf456bC661C14D596683325623076D7e283",
+    "research": "https://research.binance.com/en/projects/aeron",
+    "website": "https://aeron.aero",
+    "twitter": "https://twitter.com/aeron_aero",
+    "telegram": "https://t.me/aeronaero",
+    "coingecko": "https://coingecko.com/en/coins/aeron",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aeron"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png"
+  },
+  "name": "Aeron",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

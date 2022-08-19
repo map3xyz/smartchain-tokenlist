@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Autonomous yield and liquidity generation protocol on BSC"
+  },
+  "id": "1be16c19-2c70-48bc-975f-4fcc4c111da1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
+    "website": "https://www.moonpirate.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66/logo.png"
+  },
+  "name": "MoonPirate",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONPIRATE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

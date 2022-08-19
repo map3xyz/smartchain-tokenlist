@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Shiba Watch is a multifunctional coin listing platform that checks for how safe tokens are, includes NFT marketplace, staking and lending and Play to Earn games. By becoming a Shiba Watch holder, investors will also be passively rewarded with BUSD."
+  },
+  "id": "b57ba179-d201-49ca-a116-c7b7a9607a92",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff",
+    "website": "https://www.shibawatch.net",
+    "twitter": "https://twitter.com/shibawatchtoken",
+    "telegram": "https://t.me/shibawatchofficial",
+    "reddit": "https://reddit.com/r/ShibaWatch/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiba-watch/",
+    "coingecko": "https://coingecko.com/en/coins/shiba-watch"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff/logo.png"
+  },
+  "name": "Shiba Watch",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBAW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

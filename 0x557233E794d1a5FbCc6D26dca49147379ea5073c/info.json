@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x557233E794d1a5FbCc6D26dca49147379ea5073c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alita is the ultimate reward token for global trading platforms."
+  },
+  "id": "bc152bd6-399a-4be9-a33b-f4b16ad9a065",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x557233E794d1a5FbCc6D26dca49147379ea5073c",
+    "website": "https://alita.finance",
+    "github": "https://github.com/alita-finance",
+    "twitter": "https://twitter.com/AlitaFinance",
+    "telegram": "https://t.me/ALita_Finance",
+    "coingecko": "https://coingecko.com/en/coins/alita"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x557233E794d1a5FbCc6D26dca49147379ea5073c/logo.png"
+  },
+  "name": "Alita Finance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

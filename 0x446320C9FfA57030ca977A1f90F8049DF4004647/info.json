@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x446320C9FfA57030ca977A1f90F8049DF4004647",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bulldogswap is a foundational layer in decentralized finance, enabling safe, and customizable transactions for the global crypto."
+  },
+  "id": "e014e689-cc9e-4cca-816b-5c090da54f4f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x446320C9FfA57030ca977A1f90F8049DF4004647",
+    "website": "https://bulldogswap.com",
+    "twitter": "https://twitter.com/bulldogswap",
+    "telegram": "https://t.me/BUDGswap",
+    "whitepaper": "https://bulldogswap.com/Bulldogswap-paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x446320C9FfA57030ca977A1f90F8049DF4004647/logo.png"
+  },
+  "name": "BullDogToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUDG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

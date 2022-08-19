@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first blockchain to create verified personal profiles based on academic and professional achievements."
+  },
+  "id": "bea55ddd-e1cb-43ae-85be-719d8d10103a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c",
+    "website": "https://disciplina.io",
+    "twitter": "https://twitter.com/tchmpls_events",
+    "blog": "https://dscpl.medium.com",
+    "telegram": "https://t.me/disciplinachain",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/disciplina/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c/logo.png"
+  },
+  "name": "DISCIPLINA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DSCPL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

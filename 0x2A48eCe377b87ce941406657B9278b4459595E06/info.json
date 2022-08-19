@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2A48eCe377b87ce941406657B9278b4459595E06",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lunatics Token is a hyper deflationary project, dedicated to rewarding lunatic token holders in luna classic, and burning the massive supply of Luna classic. "
+  },
+  "id": "12142295-945c-489e-8d26-8c46e3a40908",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2A48eCe377b87ce941406657B9278b4459595E06",
+    "website": "https://lunaticstoken.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lunatics",
+    "twitter": "https://twitter.com/LunaticsToken",
+    "telegram": "https://t.me/LunaticsTokenOfficial",
+    "facebook": "https://facebook.com/LunaticsTokenOfficial/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2A48eCe377b87ce941406657B9278b4459595E06/logo.png"
+  },
+  "name": "Lunatics",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LunaT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

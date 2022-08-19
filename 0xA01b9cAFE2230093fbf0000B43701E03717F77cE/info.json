@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA01b9cAFE2230093fbf0000B43701E03717F77cE",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm Bitcoin on Binance Smart Chain"
+  },
+  "id": "1cfca2d4-3140-42b4-acfe-35ccd36b939a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa01b9cafe2230093fbf0000b43701e03717f77ce",
+    "website": "https://wbitcoin.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA01b9cAFE2230093fbf0000B43701E03717F77cE/logo.png"
+  },
+  "name": "wBitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

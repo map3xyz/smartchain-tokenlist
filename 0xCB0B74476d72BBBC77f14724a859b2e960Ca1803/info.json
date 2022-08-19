@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xCB0B74476d72BBBC77f14724a859b2e960Ca1803",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mind Music is the world’s first record label to be powered by crypto. 20% of all the profits made from the record label are used to buy & burn the token and increase its value for the holders."
+  },
+  "id": "cb2732d6-bed5-402a-af99-cb9c85dcbbac",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCB0B74476d72BBBC77f14724a859b2e960Ca1803",
+    "website": "https://mindmusic.finance",
+    "twitter": "https://twitter.com/mindmusic_bsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mind-music/",
+    "telegram": "https://t.me/mindmusicbsc",
+    "facebook": "https://facebook.com/mindmusicbsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCB0B74476d72BBBC77f14724a859b2e960Ca1803/logo.png"
+  },
+  "name": "Mind Music",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MND",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

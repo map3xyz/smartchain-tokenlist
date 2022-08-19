@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8D3437e683004bD36BF21D4d075cC10165A863E8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Every distributed ledger and blockchain has its own strengths. The hybrix token gives access to all these benefits as it exists on top of all distributed ledger systems. The open hybrix protocol enables free transport of value between all distributed ledgers. A welcoming addition next to the possibilities of atomic swaps and decentralized exchanges."
+  },
+  "id": "c2643998-04b2-4d1f-b595-00160ea7c078",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8D3437e683004bD36BF21D4d075cC10165A863E8",
+    "website": "https://hybrix.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8D3437e683004bD36BF21D4d075cC10165A863E8/logo.png"
+  },
+  "name": "hybrix",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

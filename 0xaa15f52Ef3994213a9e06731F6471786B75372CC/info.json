@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xaa15f52Ef3994213a9e06731F6471786B75372CC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lil Doge Floki ($LDF), a community-driven meme token inspired by Elon Musk! Lil Doge Floki's mission is to build a DAO to drive the most popular and original P2E game on BSC that combines Metaverse, NFTs, and the ability to earn why you play!"
+  },
+  "id": "bb303d51-479e-458b-a32f-3f74b9d9f094",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaa15f52Ef3994213a9e06731F6471786B75372CC",
+    "website": "https://lildogefloki.fun",
+    "telegram": "https://t.me/Lil_Doge_Floki",
+    "twitter": "https://twitter.com/lildogefiokiceo",
+    "coingecko": "https://coingecko.com/en/coins/lil-doge-floki-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaa15f52Ef3994213a9e06731F6471786B75372CC/logo.png"
+  },
+  "name": "LilDogeFloki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LDF&#128021",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

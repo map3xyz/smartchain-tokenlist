@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd09092B1C9C495Eb7e0A043927492Cf2DEE68a86",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cxcoin is building a platform to allow streamers and content creators a safe and easy method of receiving support through Cryptocurrencies along with its auto Buyback system."
+  },
+  "id": "425ba523-be51-4212-a33e-b62ea5d7b016",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd09092B1C9C495Eb7e0A043927492Cf2DEE68a86",
+    "website": "https://cxcoin.net/",
+    "twitter": "https://twitter.com/CoinCx",
+    "telegram": "https://t.me/CxCoinChat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd09092B1C9C495Eb7e0A043927492Cf2DEE68a86/logo.png"
+  },
+  "name": "CxCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

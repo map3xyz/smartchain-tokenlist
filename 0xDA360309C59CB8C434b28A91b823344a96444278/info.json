@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDA360309C59CB8C434b28A91b823344a96444278",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$MERL is a deflationary coin by Merlin Lab used for its DeFi Ecosystem."
+  },
+  "id": "7a8ab002-22c2-4aa4-ace6-9ee8c3277680",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDA360309C59CB8C434b28A91b823344a96444278",
+    "website": "https://merlinlab.com/farm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDA360309C59CB8C434b28A91b823344a96444278/logo.png"
+  },
+  "name": "Merlin Lab",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MERL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

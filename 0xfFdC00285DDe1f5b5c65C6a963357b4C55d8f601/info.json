@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
+  "color": null,
+  "decimals": 2,
+  "description": {
+    "en": "BleuFi Marketplace is a next generation marketplace where artists and collectors can create, sell and collect digital items secured with blockchain."
+  },
+  "id": "a0a02291-9f6c-4140-8afe-862b32f81f69",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
+    "website": "https://app.bleufi.com/",
+    "twitter": "https://twitter.com/Bleufiofficial",
+    "telegram": "https://t.me/BleuFi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601/logo.png"
+  },
+  "name": "BleuFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Bleu",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

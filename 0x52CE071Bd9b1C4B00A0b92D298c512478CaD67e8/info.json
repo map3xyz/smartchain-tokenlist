@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Compound (COMP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Compound (COMP ERC20) at a ratio of 1:1."
+  },
+  "id": "31141e1c-e8a9-4225-a7dd-b17ab1272a90",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+    "research": "https://research.binance.com/en/projects/compound",
+    "website": "https://compound.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8/logo.png"
+  },
+  "name": "Binance-Peg Compound",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COMP",
+  "tags": [
+    "binance-peg",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

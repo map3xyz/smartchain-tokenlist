@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HYPER DEFLATIONARY TOKEN WITH REFLECTIONS IN BUSD. Santa Came early bearing gifts…the gift that keeps on giving!"
+  },
+  "id": "6358bc91-71e3-491a-9fc5-e54d11fd58a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2",
+    "website": "https://santacoin.io/",
+    "twitter": "https://twitter.com/Santa_Coins",
+    "telegram": "https://t.me/santa_coin",
+    "telegramNews": "https://t.me/santacoin_news",
+    "medium": "https://medium.com/@santa.coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/santa-coin-2/",
+    "coingecko": "https://coingecko.com/en/coins/santa-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4F1A6FC6A7B65Dc7ebC4EB692Dc3641bE997c2F2/logo.png"
+  },
+  "name": "Santa Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Santa",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

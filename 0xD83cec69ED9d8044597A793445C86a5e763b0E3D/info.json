@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD83cec69ED9d8044597A793445C86a5e763b0E3D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Our mission is to Stop Elon Musk's crypto market manipulation. Our plan is to acquire a 2/3 supermajority vote with Tesla, then require Elon Musk renounce his Twitter account as a condition of continued employment as CEO. Then we're going to fly to Pluto!"
+  },
+  "id": "bd25787b-6e2d-41aa-92b8-ef840d4de3d6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd83cec69ed9d8044597a793445c86a5e763b0e3d",
+    "website": "https://stopelon.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD83cec69ED9d8044597A793445C86a5e763b0E3D/logo.png"
+  },
+  "name": "Stop Elon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STOPELON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

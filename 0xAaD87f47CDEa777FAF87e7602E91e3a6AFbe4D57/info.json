@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAaD87f47CDEa777FAF87e7602E91e3a6AFbe4D57",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CreamPYE was built with one purpose in mind. Build the best decentralized technology available to the world and make an equal impact on humanity at the same time."
+  },
+  "id": "7f2df3c7-dc3b-4b3f-83d5-759a254737db",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaad87f47cdea777faf87e7602e91e3a6afbe4d57",
+    "website": "https://www.creampye.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAaD87f47CDEa777FAF87e7602E91e3a6AFbe4D57/logo.png"
+  },
+  "name": "CreamPYE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PYE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

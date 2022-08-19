@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xc47f53c425d08f8457471538Ae641655814bEAe8",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SurfMoon is the first travel-based BNB redistribution token focusing on rewarding it's holders."
+  },
+  "id": "1b67bdb1-e895-4bc0-a7aa-3520ab82b0ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc47f53c425d08f8457471538Ae641655814bEAe8",
+    "website": "https://surfmoon.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/surfmoon/",
+    "coingecko": "https://coingecko.com/en/coins/surfmoon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc47f53c425d08f8457471538Ae641655814bEAe8/logo.png"
+  },
+  "name": "SurfMoon Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SURFMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg NEAR Protocol (NEAR BEP20) is a token issued by Binance on Smart Chain; its price is pegged to NEAR Protocol (NEAR) at a ratio of 1:1."
+  },
+  "id": "6eeb6097-c883-46c4-880b-b2af30a30976",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+    "research": "https://research.binance.com/en/projects/near-protocol",
+    "website": "https://near.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63/logo.png"
+  },
+  "name": "Binance-Peg NEAR Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEAR",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

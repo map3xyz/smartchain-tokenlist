@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x199F788DDb566B7eBB59bf35B36914F2aCdb33DE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Floki, Meet DeFido! This brand new token was born merely moments after a top 3 exchange tweeted their dog named “DeFido” at Elon Musk. & this French Bulldog is ready for lift off!"
+  },
+  "id": "33fc6866-a1c3-42b6-8178-254332acf79e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x199F788DDb566B7eBB59bf35B36914F2aCdb33DE",
+    "website": "https://defidotoken.com",
+    "telegram": "https://t.me/DeFidoTokenOfficial",
+    "twitter": "https://twitter.com/defidotoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defido/",
+    "coingecko": "https://coingecko.com/en/coins/defido"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x199F788DDb566B7eBB59bf35B36914F2aCdb33DE/logo.png"
+  },
+  "name": "DeFido",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEFIDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

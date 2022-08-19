@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kangal is a DAO that is creating the ultimate dApps ecosystem. Kangal holders are able to create and vote on governance proposals, and will be able to stake Kangal and Kangal LP tokens for earning the Utility Token $TEAK of the dApps ecosystem. Kangal is available both on Ethereum and Binance Smart Chain Mainnet."
+  },
+  "id": "6c5157a0-9d3c-4fd9-85cb-02eeda433c51",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB",
+    "website": "https://www.kangaltoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB/logo.png"
+  },
+  "name": "Kangal",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bKANGAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

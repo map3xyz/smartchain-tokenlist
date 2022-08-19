@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5b8c1315D2a151355EA3BE9d2Cbdc4425648dCAb",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm SWW on Binance Smart Chain."
+  },
+  "id": "73356051-6e33-4ede-b638-740da0b0336f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5b8c1315D2a151355EA3BE9d2Cbdc4425648dCAb",
+    "website": "http://starwars.limited"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5b8c1315D2a151355EA3BE9d2Cbdc4425648dCAb/logo.png"
+  },
+  "name": "StarWars",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

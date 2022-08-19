@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbfbc6C29385aC9a0B43e0156C7f53DdA6028A090",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Doge-1 Rocket is a community-driven cryptocurrency protocol to provide giveaways and rewards to long-term holders."
+  },
+  "id": "92817e91-e9b3-42f2-8792-8561e4081af8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbfbc6C29385aC9a0B43e0156C7f53DdA6028A090",
+    "website": "https://www.doge-1rocket.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbfbc6C29385aC9a0B43e0156C7f53DdA6028A090/logo.png"
+  },
+  "name": "Doge-1 Rocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "D1R2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

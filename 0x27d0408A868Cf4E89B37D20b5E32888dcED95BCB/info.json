@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x27d0408A868Cf4E89B37D20b5E32888dcED95BCB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BERNARD is a meme coin and the first pillar of the growing bernard.finance ecosystem."
+  },
+  "id": "318999f7-ccf6-428a-b9ec-678593784905",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27d0408A868Cf4E89B37D20b5E32888dcED95BCB",
+    "website": "https://bernard.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x27d0408A868Cf4E89B37D20b5E32888dcED95BCB/logo.png"
+  },
+  "name": "bernard",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BERN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

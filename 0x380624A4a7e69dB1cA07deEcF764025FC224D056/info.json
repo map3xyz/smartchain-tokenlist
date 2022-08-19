@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeBTC is a token with frictionless fee redistribution and liquidity-adds on transfers."
+  },
+  "id": "537294f5-f8dd-4cab-bc6e-d037b23f81be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+    "website": "https://safebitcoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x380624A4a7e69dB1cA07deEcF764025FC224D056/logo.png"
+  },
+  "name": "SafeBTC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

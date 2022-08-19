@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Honeypad Is The Hive To Bee! We Reward Holders Through Tax Rewards, Automatic Token Burning, and a Pioneering Buy-back System. All While Providing A Secure And Vibrant Eco-system."
+  },
+  "id": "90a7e116-93b9-42dc-936c-9c0ea336e86f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15",
+    "website": "https://www.honeypad.io/",
+    "twitter": "https://twitter.com/thehoneypad",
+    "medium": "https://medium.com/@thehoneypad",
+    "telegramNews": "https://t.me/HoneyPadNews",
+    "reddit": "https://reddit.com/r/Honeypad/",
+    "telegram": "https://t.me/honeypadofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15/logo.png"
+  },
+  "name": "HONEYPAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$HONEY",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

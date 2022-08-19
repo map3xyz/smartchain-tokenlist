@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BYCOIN NFT DATATOKENS TURN DATA INTO DATA ASSETS. THIS ENABLES DATA WALLETS, DATA EXCHANGES, AND DATA CO-OPS BY LEVERAGING CRYPTO WALLETS, EXCHANGES AND GENERATE WITH OUR ALGORITHM NFT TOKENS."
+  },
+  "id": "de382074-37a6-4be3-a616-5272466cbc59",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a",
+    "website": "https://bycoin.digital/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a/logo.png"
+  },
+  "name": "BYCOIN NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BYCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

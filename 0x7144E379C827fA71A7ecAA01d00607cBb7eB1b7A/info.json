@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Love Doge is released on the Binance Smart Chainthe next evolution of the contract that generates revenueand deflation: you get rewards in tokens instead of BNB"
+  },
+  "id": "525431d2-6be9-44f6-b1dc-bca46d5026ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A",
+    "website": "https://lovedoge.io",
+    "twitter": "https://twitter.com/LoveDoge10",
+    "telegram": "https://t.me/LoveDogeEN1",
+    "coingecko": "https://coingecko.com/en/coins/love-doge",
+    "discord": "https://discord.com/invite/ttmGKFrdb4",
+    "reddit": "https://reddit.com/r/CryptoMoonShots/comments/ofb5ta/lovedoge_a_bsc_gem_2nd_airdrop_in_6_days_locked/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7144E379C827fA71A7ecAA01d00607cBb7eB1b7A/logo.png"
+  },
+  "name": "LoveDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LoveDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

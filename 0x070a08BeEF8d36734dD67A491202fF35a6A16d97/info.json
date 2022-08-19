@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x070a08BeEF8d36734dD67A491202fF35a6A16d97",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Smooth Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies)."
+  },
+  "id": "e885e812-f86d-4998-a023-1eae3f65c393",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x070a08BeEF8d36734dD67A491202fF35a6A16d97",
+    "research": "https://research.binance.com/en/projects/small-love-potion",
+    "website": "https://axieinfinity.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x070a08BeEF8d36734dD67A491202fF35a6A16d97/logo.png"
+  },
+  "name": "Binance-Peg Smooth Love Potion",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

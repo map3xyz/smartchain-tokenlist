@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDc0f0a5719c39764b011eDd02811BD228296887C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DOS Network describes itself as a decentralized oracle service supporting multiple heterogeneous blockchains."
+  },
+  "id": "761a8d61-a30d-4147-8a51-aa196901227f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdc0f0a5719c39764b011edd02811bd228296887c",
+    "website": "https://dos.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDc0f0a5719c39764b011eDd02811BD228296887C/logo.png"
+  },
+  "name": "DOS Network Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

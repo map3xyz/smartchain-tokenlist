@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1f14e0F13471fea5990cf697945eD676885f42C3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Trends come and go. $HERPES is forever. Herpes' goal is to spread awareness about STIs and unite the crypto community in a fun and viral way. Herpes is a BEP20 token hosted on the BSC. Its tokenomics feature a 10% transaction tax, of which 8% is redistributed to holders and 2% is automatically added to locked liquidity. The Herpes team strives for transparency and is determined to promote organizations that engage in STI education and treatment."
+  },
+  "id": "53d8a564-abc6-4a97-a64f-537a3473d061",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f14e0F13471fea5990cf697945eD676885f42C3",
+    "website": "https://herpes.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1f14e0F13471fea5990cf697945eD676885f42C3/logo.png"
+  },
+  "name": "Herpes",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HERPES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

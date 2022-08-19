@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xca85585A160058e21770e4118A5187a09793b333",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Toskaverse"
+  },
+  "id": "7cb9572c-6841-44f5-ab29-7ae797cf6e09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xca85585A160058e21770e4118A5187a09793b333",
+    "website": "https://toskacoin.com/",
+    "youtube": "https://youtube.com/channel/UCqUv6_LEfVCnEHuFV8CYoKQ",
+    "facebook": "https://facebook.com/ToskaCoinTSK/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xca85585A160058e21770e4118A5187a09793b333/logo.png"
+  },
+  "name": "TOSKA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TSK",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fry.world is a yield optimization project with unique baskets(vaults) where $FRIES holders will share in all profits accrued on the platform. $FRIES token holders will also the ability to earn Ketchup ($KHP) as the governance token of the platform. The $FRIES token is currently being distributed via farming pools on fry.world"
+  },
+  "id": "00751673-fa30-4ccd-b370-686e13ded856",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x393B312C01048b3ed2720bF1B090084C09e408A1",
+    "website": "https://fry.world/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x393B312C01048b3ed2720bF1B090084C09e408A1/logo.png"
+  },
+  "name": "fry.world",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FRIES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

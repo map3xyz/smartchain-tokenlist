@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BankSocial is your gateway to a full range of banking services using blockchain technology available globally."
+  },
+  "id": "89a04a3a-24fe-46da-b35c-5665195a9fe7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac",
+    "website": "https://www.banksocial.io",
+    "twitter": "https://twitter.com/banksocialio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/banksocial/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac/logo.png"
+  },
+  "name": "BankSocial",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

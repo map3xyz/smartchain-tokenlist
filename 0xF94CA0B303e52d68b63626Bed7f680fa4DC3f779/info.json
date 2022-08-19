@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF94CA0B303e52d68b63626Bed7f680fa4DC3f779",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "UnderDog.Finance is a community based project, we are a deflationary token with 1 % burn and 4 % rewards to holders for every transaction"
+  },
+  "id": "869d56de-d0f1-4d79-8f0f-ff454ce22ad5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf94ca0b303e52d68b63626bed7f680fa4dc3f779",
+    "website": "https://underdog.finance",
+    "twitter": "https://twitter.com/@underdogdefi",
+    "telegram": "https://t.me/underdogfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF94CA0B303e52d68b63626Bed7f680fa4DC3f779/logo.png"
+  },
+  "name": "UnderDog",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

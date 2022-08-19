@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bearn Fi is a cross-chain product in DeFi that at its core provides yield generation, casino/gaming aggregation, bridge, treasury and governance on multi-chain: Binance Smart Chain blockchain (BSC) and Ethereum blockchain."
+  },
+  "id": "f36eaa88-4c60-4194-943d-54d0ac503eac",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+    "website": "https://bearn.fi",
+    "github": "https://github.com/bearn-defi",
+    "twitter": "https://twitter.com/BearnFi",
+    "telegram": "https://t.me/Bearn_Fi",
+    "medium": "https://bearn-defi.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b/logo.png"
+  },
+  "name": "bearn.fi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

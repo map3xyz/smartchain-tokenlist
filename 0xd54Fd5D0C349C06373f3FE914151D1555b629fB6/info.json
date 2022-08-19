@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd54Fd5D0C349C06373f3FE914151D1555b629fB6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BTCA allows complete privacy transactions on the BSC chain."
+  },
+  "id": "0ce8aff5-ff19-4822-b068-3505147eb1f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd54Fd5D0C349C06373f3FE914151D1555b629fB6",
+    "website": "https://bitcoinanonymous.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd54Fd5D0C349C06373f3FE914151D1555b629fB6/logo.png"
+  },
+  "name": "Bitcoin Anonymous",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTCA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4444A19C8bb86E9BDbC023709A363bbCE91aF33E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoTanks is an NFT-based play-to-earn game. Allows the player to delve into a world of nostalgia and experience the power of the new technology of the crypto world, DEFI and NFT."
+  },
+  "id": "81cbb7dd-fe10-497f-8d20-fe71339398d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4444a19c8bb86e9bdbc023709a363bbce91af33e",
+    "website": "https://cryptotanks.com/",
+    "twitter": "https://twitter.com/cryptotanksio",
+    "telegram": "https://t.me/cryptotanksio",
+    "discord": "https://discord.com/invite/yGaq8Umxvy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptotanks/",
+    "reddit": "https://reddit.com/r/cryptotankscom/",
+    "medium": "https://medium.com/cryptotanks",
+    "github": "https://github.com/cryptotanks/",
+    "facebook": "https://facebook.com/cryptotanksio",
+    "whitepaper": "https://docs.cryptotanks.com/",
+    "telegramNews": "https://t.me/cryptotankscom",
+    "youtube": "https://youtube.com/c/CryptoTanks"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4444A19C8bb86E9BDbC023709A363bbCE91aF33E/logo.png"
+  },
+  "name": "CryptoTanks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TANK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

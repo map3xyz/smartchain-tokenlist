@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC62eF0d8e137499833AbB05Dee47007D2b334bA6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GAMEX is a project with goal of creating a gaming ecosystem revolving around the benefits of the players."
+  },
+  "id": "867864d2-8f5f-4124-8499-fa167b9f8ea1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc62ef0d8e137499833abb05dee47007d2b334ba6",
+    "website": "https://www.game-x.co",
+    "twitter": "https://twitter.com/gamexofficial1?s=21",
+    "telegram": "https://t.me/monetaryunitchat",
+    "discord": "https://discord.com/invite/7ddzPkkk"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC62eF0d8e137499833AbB05Dee47007D2b334bA6/logo.png"
+  },
+  "name": "GAMEX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

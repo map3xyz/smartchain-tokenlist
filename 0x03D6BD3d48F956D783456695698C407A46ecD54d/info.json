@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x03D6BD3d48F956D783456695698C407A46ecD54d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HyperBurn is a deflationary DeFi token with a passive yield mechanism. The HyperJump team is the continuation of THUGS one of the earliest successes on Binance Smart Chain."
+  },
+  "id": "6241f91a-aee0-41ee-9b26-26da665e4e0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x03D6BD3d48F956D783456695698C407A46ecD54d",
+    "website": "https://hyperjump.fi/",
+    "twitter": "https://twitter.com/HyperJumpBSC",
+    "telegram": "https://t.me/hyperjumpbsc",
+    "discord": "https://discord.com/invite/AJDqFTP",
+    "medium": "https://hyperjumpbsc.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x03D6BD3d48F956D783456695698C407A46ecD54d/logo.png"
+  },
+  "name": "HyperBurn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HYPR",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

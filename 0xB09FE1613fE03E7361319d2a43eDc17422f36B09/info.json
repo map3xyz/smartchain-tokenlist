@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The BOG Token powers Bogged Finance and the BogTools suite of DeFi Tools."
+  },
+  "id": "b4c5e8d0-4b51-4b8a-8f0d-904558a7a7db",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+    "website": "https://bogtools.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png"
+  },
+  "name": "Bogged Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

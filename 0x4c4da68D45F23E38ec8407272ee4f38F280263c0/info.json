@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4c4da68D45F23E38ec8407272ee4f38F280263c0",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Panda Girl is the utility token of the Panda Girl universe, called the Pandaverse. The Pandaverse consists of: - Collectible, beautiful hand-drawn NFTs called Panda Girls. Each Panda Girl will have its own rarity index and will be tradeable amongst holders. - Staking of PGIRL tokens to earn passive income - NFT farming with rare NFTs providing higher yields - Play-to-earn gaming - Panda Swap - Panda Girl merchandise store specific to NFTs minted."
+  },
+  "id": "47baa397-c297-4315-8eea-ce9789a86746",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4c4da68D45F23E38ec8407272ee4f38F280263c0",
+    "website": "https://PandaGirl.io",
+    "telegram": "https://t.me/pandagirltoken",
+    "twitter": "https://twitter.com/PandaGirlToken",
+    "coingecko": "https://coingecko.com/en/coins/panda-girl",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/panda-girl/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4c4da68D45F23E38ec8407272ee4f38F280263c0/logo.png"
+  },
+  "name": "Panda Girl",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PGIRL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

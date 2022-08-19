@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bishoku Inu ($BISHOKU) is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users!"
+  },
+  "id": "13a4019c-5f1a-4c27-b84d-b91c87a42d4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356",
+    "website": "https://www.bishokuinu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE8813E1C7EAF1DE10D331Ed6C0B210eb36561356/logo.png"
+  },
+  "name": "Bishoku Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BISHOKU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x27327672D1dc51F4Dc58c9F413E1FA7e7ad8245e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Self generating liquidity token with a charitable twist - Reflection paid back to holders. Decentralised Micro-cap Exchange in roadmap"
+  },
+  "id": "fd184ae3-7bea-4b61-92c1-19014159462f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27327672d1dc51f4dc58c9f413e1fa7e7ad8245e",
+    "website": "https://www.williecoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x27327672D1dc51F4Dc58c9F413E1FA7e7ad8245e/logo.png"
+  },
+  "name": "Willie Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WILLIE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

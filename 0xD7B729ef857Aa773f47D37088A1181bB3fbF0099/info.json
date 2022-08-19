@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The old BOG token has been deprecated, you may sell or burn this token."
+  },
+  "id": "a1a84232-3984-4253-9732-e7d0a94a19d6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "website": "https://bogtools.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099/logo.png"
+  },
+  "name": "OLD BOG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

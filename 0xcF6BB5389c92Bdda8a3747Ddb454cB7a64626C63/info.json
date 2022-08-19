@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
+  },
+  "id": "d10fd666-e53c-48aa-8565-bcf94eef01b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "research": "https://research.binance.com/en/projects/venus",
+    "website": "https://venus.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png"
+  },
+  "name": "Venus",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XVS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PancakeSwap is a yield farming project whereby users can get FLIP (LP token) for staking and get CAKE token as reward."
+  },
+  "id": "f5e60dcd-a5aa-429d-a73e-9344b619bc6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "research": "https://research.binance.com/en/projects/pancakeswap",
+    "website": "https://pancakeswap.finance",
+    "github": "https://github.com/pancakeswap",
+    "twitter": "https://twitter.com/pancakeswap",
+    "blog": "https://medium.com/@pancakeswap",
+    "telegram": "https://t.me/PancakeSwap",
+    "coingecko": "https://coingecko.com/en/coins/pancakeswap-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+  },
+  "name": "PancakeSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAKE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

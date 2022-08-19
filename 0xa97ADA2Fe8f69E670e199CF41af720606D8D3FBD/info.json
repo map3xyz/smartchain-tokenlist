@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xa97ADA2Fe8f69E670e199CF41af720606D8D3FBD",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "EYFI, Eyfi finance, eyfi yield farming, eyfi amm dex, dex platform, eyfi staking, yield farming."
+  },
+  "id": "01b64af0-58fc-4626-96f1-dc2af087e192",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa97ADA2Fe8f69E670e199CF41af720606D8D3FBD",
+    "website": "https://eyfi.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa97ADA2Fe8f69E670e199CF41af720606D8D3FBD/logo.png"
+  },
+  "name": "EYFI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EYFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

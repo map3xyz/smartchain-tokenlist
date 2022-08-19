@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Free-To-Play & Play-To-Earn NFT MOBA GameFi in Binance Smart Chain"
+  },
+  "id": "1f3cc22d-0859-4968-a572-dffe2dfe3f9c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+    "website": "https://leagueofancients.com/",
+    "twitter": "https://twitter.com/LOAOfficialMOBA",
+    "telegram": "https://t.me/leagueofancients"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50/logo.png"
+  },
+  "name": "League Of Ancients",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

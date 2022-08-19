@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wault Finance is a decentralized finance hub that connects all of the primary DeFi use-cases within one simple ecosystem, on the Binance Smart Chain. In short, an all-in-one DeFi Platform! We’ve built a protocol including 2 tokens – WAULTx and WEX – and some unique features such as: WaultSwap (AMM), Wault Launchpad (new project presales), Wault Locker (liquidity locks for new or established projects), Wault Farms (staking and farming) and many other great services."
+  },
+  "id": "8f2669c1-2721-434c-950c-4dd28a8ba5f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
+    "website": "https://wault.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21/logo.png"
+  },
+  "name": "WAULTx",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAULTx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

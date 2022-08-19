@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "In-house developed NFT in-app token"
+  },
+  "id": "80620d86-c376-4f3c-bda2-ff93b791ca47",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+    "website": "https://nadeshikocoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x568B0D8ac3967d363257C520c9Be0f17984E470f/logo.png"
+  },
+  "name": "Nadeshiko",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NDSK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC4b790e1D5f0c3d8AA526F0A8098eD2A1ff0886a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "420x coin is the first crypto project that has the potential of becoming a mainstream brand, payment solution and cultural movement."
+  },
+  "id": "c0d93c14-5b26-42f3-917c-97c7caade0bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC4b790e1D5f0c3d8AA526F0A8098eD2A1ff0886a",
+    "website": "https://420xcoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC4b790e1D5f0c3d8AA526F0A8098eD2A1ff0886a/logo.png"
+  },
+  "name": "420x",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "420x",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

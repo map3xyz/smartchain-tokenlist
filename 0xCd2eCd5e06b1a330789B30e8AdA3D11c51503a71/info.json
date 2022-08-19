@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCd2eCd5e06b1a330789B30e8AdA3D11c51503a71",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PiggyBankToken is a fair launched, hyper-deflationary DeFi token on the Binance Smart Chain Network."
+  },
+  "id": "de9a049d-bb6a-4a8d-afd7-b74f656b1a14",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71",
+    "website": "https://piggybanktoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCd2eCd5e06b1a330789B30e8AdA3D11c51503a71/logo.png"
+  },
+  "name": "Piggy Bank Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIGGY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": false,
+  "address": "0xbbe0A94f363a52dA9229A7546434b6e657A6A78F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DYOR (Do Your Own Research) Token was developed by victims of scams to bring together a community to fight against the growing number of rug pulls"
+  },
+  "id": "387501e1-94d1-4477-ac51-6162e3e2d9c7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbbe0A94f363a52dA9229A7546434b6e657A6A78F",
+    "website": "https://www.dyortoken.info",
+    "telegram": "https://t.me/joinchat/_zhiZUUM5m45YjUx",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/dyor-token/",
+    "twitter": "https://twitter.com/DYORToken_BSC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbbe0A94f363a52dA9229A7546434b6e657A6A78F/logo.png"
+  },
+  "name": "DYOR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DYOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

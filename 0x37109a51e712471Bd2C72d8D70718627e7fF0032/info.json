@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x37109a51e712471Bd2C72d8D70718627e7fF0032",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Swapcoinz The Innovative Playground Solution For African Kids With our sole Mission to be a bridge between Families and Businesses"
+  },
+  "id": "fc8aad64-0068-4e3f-b3d2-69a85a0730b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x37109a51e712471bd2c72d8d70718627e7ff0032",
+    "website": "https://swapcoinz.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x37109a51e712471Bd2C72d8D70718627e7fF0032/logo.png"
+  },
+  "name": "Swapcoinz",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPAZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

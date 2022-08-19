@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x93f63d9455685621aBd73E63cC04f7e454270A66",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Weentar is a decentralised social media project. We are creating a platform that allows for celebrities, influencers and creators launch their social tokens as easily as creating a profile and also have their media content posted as NFT's on a decentralised social media platform on the Weentar blockchain."
+  },
+  "id": "71fa18f4-cce2-4cd4-b129-09a0cf9b63d9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x93f63d9455685621aBd73E63cC04f7e454270A66",
+    "website": "https://weentar.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x93f63d9455685621aBd73E63cC04f7e454270A66/logo.png"
+  },
+  "name": "Weentar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$WNTR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

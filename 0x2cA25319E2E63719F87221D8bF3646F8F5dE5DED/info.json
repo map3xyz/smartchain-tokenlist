@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2cA25319E2E63719F87221D8bF3646F8F5dE5DED",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Elon GOAT Token is building a biblical sized monument on the back of a semi-trailer dedicated to the Godfather of Crypto, Elon Musk."
+  },
+  "id": "f42f95c5-dbec-45d9-ab44-e4425cdc8865",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2cA25319E2E63719F87221D8bF3646F8F5dE5DED",
+    "website": "https://www.elongoat.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/elon-goat/",
+    "twitter": "https://twitter.com/elongoattoken?s=21",
+    "telegram": "https://t.me/elon_goat_token",
+    "facebook": "https://facebook.com/ElonGoat.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2cA25319E2E63719F87221D8bF3646F8F5dE5DED/logo.png"
+  },
+  "name": "ElonGoat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EGT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

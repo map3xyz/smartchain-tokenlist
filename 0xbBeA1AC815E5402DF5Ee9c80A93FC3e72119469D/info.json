@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A community owned protocol that rewards holders."
+  },
+  "id": "6986fd45-6c3d-4151-8e5d-9a5a3b1e8cc9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D",
+    "website": "https://moonstorm.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbBeA1AC815E5402DF5Ee9c80A93FC3e72119469D/logo.png"
+  },
+  "name": "MOONSTORM",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONSTORM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

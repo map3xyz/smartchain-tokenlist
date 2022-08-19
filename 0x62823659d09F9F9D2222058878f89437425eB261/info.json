@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x62823659d09F9F9D2222058878f89437425eB261",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The ERTHA token is the primary utility token used to facilitate sustainable DAO design for the game's metaverse ecosystem as a whole."
+  },
+  "id": "3932889d-494f-44a0-8193-b965ccb6571b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x62823659d09F9F9D2222058878f89437425eB261",
+    "website": "https://ertha.io/",
+    "twitter": "https://twitter.com/ErthaGame",
+    "telegram": "https://t.me/Erthium",
+    "discord": "https://discord.com/invite/ertha",
+    "medium": "https://erthium.medium.com/",
+    "whitepaper": "https://whitepaper.ertha.io/ertha-whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x62823659d09F9F9D2222058878f89437425eB261/logo.png"
+  },
+  "name": "ERTHA Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ERTHA",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

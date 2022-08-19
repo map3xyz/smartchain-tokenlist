@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0b771E34526886d9ffF8E764cF557d1Cb5943C89",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wcomp is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications."
+  },
+  "id": "1d87bfb2-4ee3-4aa4-95e6-f9178582bb27",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0b771E34526886d9ffF8E764cF557d1Cb5943C89",
+    "website": "https://wcomp.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0b771E34526886d9ffF8E764cF557d1Cb5943C89/logo.png"
+  },
+  "name": "Wrapped Compound",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Wcomp",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

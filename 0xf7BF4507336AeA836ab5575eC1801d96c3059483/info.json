@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xf7BF4507336AeA836ab5575eC1801d96c3059483",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Supported By ELON MUSK. Named by its beloved father, Elon Musk and the potential for this adorable little baby puppy is limitless."
+  },
+  "id": "4487f53b-0b18-4362-83cd-ad1193d90302",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf7BF4507336AeA836ab5575eC1801d96c3059483",
+    "website": "https://superfloki.net/",
+    "twitter": "https://twitter.com/FlokiSuper",
+    "telegram": "https://t.me/SuperFlokiEn"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf7BF4507336AeA836ab5575eC1801d96c3059483/logo.png"
+  },
+  "name": "Super Floki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

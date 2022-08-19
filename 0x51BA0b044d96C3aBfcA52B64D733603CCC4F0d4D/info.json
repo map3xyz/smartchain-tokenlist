@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SuperFarm is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!"
+  },
+  "id": "2d791074-8444-4f09-b045-df86303b304e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D",
+    "website": "https://www.superfarm.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x51BA0b044d96C3aBfcA52B64D733603CCC4F0d4D/logo.png"
+  },
+  "name": "SuperFarm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUPER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

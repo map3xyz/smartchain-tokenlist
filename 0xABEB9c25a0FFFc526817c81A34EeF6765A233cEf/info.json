@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xABEB9c25a0FFFc526817c81A34EeF6765A233cEf",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Flame Chain project has some great Features secure, useful, & easy-to-use Product based on Binance Smart Chain, it will include easy cryptocurrency payments integration, and even a digital arbitration system."
+  },
+  "id": "03516778-e264-4779-ab60-f675d3de0915",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xABEB9c25a0FFFc526817c81A34EeF6765A233cEf",
+    "website": "https://flamechain.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xABEB9c25a0FFFc526817c81A34EeF6765A233cEf/logo.png"
+  },
+  "name": "Flame Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLAME",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

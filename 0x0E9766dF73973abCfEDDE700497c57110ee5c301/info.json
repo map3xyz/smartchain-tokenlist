@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x0E9766dF73973abCfEDDE700497c57110ee5c301",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Passive Income Made Easy."
+  },
+  "id": "14c7866c-9750-4152-8920-221b0e413fd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E9766dF73973abCfEDDE700497c57110ee5c301",
+    "website": "https://www.HODLtoken.net",
+    "twitter": "https://twitter.com/HODL_OFFICIAL",
+    "telegram": "https://t.me/hodlinvestorgroup",
+    "facebook": "https://facebook.com/HODLtokenBSC",
+    "reddit": "https://reddit.com/r/HodlToken",
+    "discord": "https://discord.com/invite/D666jh5C5D",
+    "youtube": "https://youtube.com/c/HODL-Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hodl/",
+    "telegramNews": "https://t.me/HodlAnnouncements",
+    "whitepaper": "https://hodltoken.net/whitepaper/",
+    "github": "https://github.com/hodl-token/HODL"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E9766dF73973abCfEDDE700497c57110ee5c301/logo.png"
+  },
+  "name": "HODL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HODL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BALA is the platform token of Shambala metaverse"
+  },
+  "id": "b3953a83-50eb-4e87-a1bb-0ae1c04aeac1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED",
+    "website": "https://shambala.finance/",
+    "twitter": "https://twitter.com/ShambalaUni",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shambala/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED/logo.png"
+  },
+  "name": "Shambala",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

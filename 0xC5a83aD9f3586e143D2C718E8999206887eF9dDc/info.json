@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC5a83aD9f3586e143D2C718E8999206887eF9dDc",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Money Markets. A Decentralized Marketplace for Lenders and Borrowers"
+  },
+  "id": "25e178ea-2e93-43ad-9bd0-e0ece662e709",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC5a83aD9f3586e143D2C718E8999206887eF9dDc",
+    "website": "https://www.annex.finance/",
+    "twitter": "https://twitter.com/AnnexFinance",
+    "medium": "https://annexfinance.medium.com/",
+    "telegram": "https://t.me/Annex_finance_group",
+    "github": "https://github.com/annexfinance/annex-protocol",
+    "reddit": "https://reddit.com/r/AnnexFinance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC5a83aD9f3586e143D2C718E8999206887eF9dDc/logo.png"
+  },
+  "name": "Annex BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "aBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

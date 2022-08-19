@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xEC43D3153C1f08946fA71cDD3A14Af64fd58f27e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFT borrowing and lending made easy at your fingertips"
+  },
+  "id": "3e21f789-afa4-42f1-a1c3-2162b563e9c1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEC43D3153C1f08946fA71cDD3A14Af64fd58f27e",
+    "website": "http://pawnmynft.online/",
+    "twitter": "https://twitter.com/PawnMyNFT",
+    "telegram": "https://t.me/PawnMyNFT",
+    "coingecko": "https://coingecko.com/en/coins/pawn-my-nft",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pawn-my-nft/",
+    "facebook": "https://facebook.com/pawnmynft/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEC43D3153C1f08946fA71cDD3A14Af64fd58f27e/logo.png"
+  },
+  "name": "PAWN MY NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x38895e0b3E7cD13C45BD4E93aF5a402604B762E3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyPooCoin is a rewards token ran on the Binance Smart Chain, holders receive rewards in the form of the native utility token of the charting platform PooCoin"
+  },
+  "id": "e8484168-868a-415d-a2c4-b8a88dd323ee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x38895e0b3E7cD13C45BD4E93aF5a402604B762E3",
+    "website": "https://babypoo.io/",
+    "twitter": "https://twitter.com/babypootoken",
+    "telegram": "https://t.me/OfficialBabyPooCoin",
+    "whitepaper": "https://docs.google.com/document/d/e/2PACX-1vR_0Rsw-7v1gJb-o8HOC19CACTeAvS5WcH3QwTbuT92KqFJC4QQ6j9MzXtyuHGnyfWnhTajz-Gt6nIr/pub",
+    "github": "https://github.com/BabyPooCoin",
+    "youtube": "https://youtube.com/channel/UCV9YjEODqaU2jDEFj3tehFg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-poocoin/",
+    "coingecko": "https://coingecko.com/en/coins/baby-poocoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x38895e0b3E7cD13C45BD4E93aF5a402604B762E3/logo.png"
+  },
+  "name": "BabyPooCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyPoo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

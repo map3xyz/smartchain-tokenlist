@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfa5DbE839C674C5a8A74dB57eE661fadE60bbf58",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dog Owner is the ultimate #MEME token that is community focussed but has the main use case being NFT's and NFT Farming."
+  },
+  "id": "a496418f-018a-4a66-8231-b8c485e56b41",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfa5DbE839C674C5a8A74dB57eE661fadE60bbf58",
+    "website": "https://www.dogownertoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfa5DbE839C674C5a8A74dB57eE661fadE60bbf58/logo.png"
+  },
+  "name": "Dog Owner",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGOWN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

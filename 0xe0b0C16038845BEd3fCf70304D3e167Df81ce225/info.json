@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0b0C16038845BEd3fCf70304D3e167Df81ce225",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cswap is the native token for Crossswap Dex"
+  },
+  "id": "ac85bf1e-c56c-4144-927d-f512a21858fa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe0b0C16038845BEd3fCf70304D3e167Df81ce225",
+    "website": "https://crossswap.com/",
+    "twitter": "https://twitter.com/CrossSwapDex",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crossswap/",
+    "coingecko": "https://coingecko.com/crossswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe0b0C16038845BEd3fCf70304D3e167Df81ce225/logo.png"
+  },
+  "name": "Crossswap.com",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CSWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

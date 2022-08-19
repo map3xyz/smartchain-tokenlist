@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x645660bD50F7229F1a975F1231c82EBAa31A74Fe",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "DragonCoin is a promising project for all the people of the world. Our goal in creating this project to show the power of the dragon to the whole world. Which means that we will maximize holder investment by DragonCoin project and we will spend part of the profits to use of Solar energy."
+  },
+  "id": "2bab7382-847a-46ad-9027-e9454649b292",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x645660bD50F7229F1a975F1231c82EBAa31A74Fe",
+    "website": "https://dragon-dron.com/",
+    "github": "https://github.com/DragonCoin71/",
+    "twitter": "https://twitter.com/drondragoncoin?s=09",
+    "telegram": "https://t.me/DRAGON_DRON/",
+    "whitepaper": "https://dragon-dron.com/index.php/whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x645660bD50F7229F1a975F1231c82EBAa31A74Fe/logo.png"
+  },
+  "name": "DragonCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

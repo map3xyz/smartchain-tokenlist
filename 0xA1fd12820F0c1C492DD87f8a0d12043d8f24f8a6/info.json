@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA1fd12820F0c1C492DD87f8a0d12043d8f24f8a6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralizing the U.S dollar to create a stable token"
+  },
+  "id": "c3b27b21-4ca1-4e3d-a849-109c543895d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1fd12820f0c1c492dd87f8a0d12043d8f24f8a6",
+    "website": "https://e-usd.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA1fd12820F0c1C492DD87f8a0d12043d8f24f8a6/logo.png"
+  },
+  "name": "EUSD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

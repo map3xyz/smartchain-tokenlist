@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4d4CC29b9C4E413CFe5f898E16280f11db57E186",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Hamtaro is a deflactionary Token for the BSC. Token also used to create its NFT Marketplace"
+  },
+  "id": "024f7e2e-a16c-4f36-9b45-5f58be23778f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d4cc29b9c4e413cfe5f898e16280f11db57e186",
+    "website": "https://hamtarocrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4d4CC29b9C4E413CFe5f898E16280f11db57E186/logo.png"
+  },
+  "name": "Hamtaro",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Hamtaro",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

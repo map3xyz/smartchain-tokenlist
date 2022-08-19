@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB1035523a844371C2877f8a3b2F2f8d337403b6F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SHIBBY is the worlds first DAO combined with Safemoon Tokenomics on BSC"
+  },
+  "id": "e4842905-30f9-477b-a42d-c488aed89d18",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB1035523a844371C2877f8a3b2F2f8d337403b6F",
+    "website": "https://shibby.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB1035523a844371C2877f8a3b2F2f8d337403b6F/logo.png"
+  },
+  "name": "Shibby",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

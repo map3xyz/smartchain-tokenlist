@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Hector Finance is developing a financial center on the Fantom Opera Chain and beyond."
+  },
+  "id": "eb7406cd-d65c-4ab2-9315-20cbc7a05a03",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x638EEBe886B0e9e7C6929E69490064a6C94d204d",
+    "website": "https://hector.finance",
+    "twitter": "https://twitter.com/HectorDAO_HEC",
+    "medium": "https://medium.com/@hectordao",
+    "whitepaper": "https://hector.finance/whitepaper",
+    "telegram": "https://t.me/hectorDAO",
+    "telegramNews": "https://t.me/hectordaoann",
+    "github": "https://github.com/Hector-DAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hector-dao/",
+    "coingecko": "https://coingecko.com/en/coins/hector-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x638EEBe886B0e9e7C6929E69490064a6C94d204d/logo.png"
+  },
+  "name": "Hector Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HEC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

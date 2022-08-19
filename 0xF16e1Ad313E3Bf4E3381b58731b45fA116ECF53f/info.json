@@ -1,0 +1,27 @@
+{
+  "active": false,
+  "address": "0xF16e1Ad313E3Bf4E3381b58731b45fA116ECF53f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Luckypig, the Bsc token we all need right now! Let's bring the old Bsc era back with a pinch of hot features to avoid dumps. Luckypig will bring NFT, lottery/jackpot concepts together and a contract with low taxes. Our team's longterm goal is to build an online casino which will be pegged with our token."
+  },
+  "id": "5028ab87-be4f-41d0-b79d-9e9ec71a374c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF16e1Ad313E3Bf4E3381b58731b45fA116ECF53f",
+    "website": "https://www.luckypigtoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/luckypig/",
+    "twitter": "https://twitter.com/Luckypigtoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xF16e1Ad313E3Bf4E3381b58731b45fA116ECF53f/logo.png"
+  },
+  "name": "LuckyPig",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LuckyPig",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

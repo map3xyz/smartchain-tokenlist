@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xF078580015Cdfaa849BDAd8B38e72F5803C316c4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SON aims to build a sustainable, long term token that will drive an NFT market place."
+  },
+  "id": "64f389b5-4ec8-4702-8699-c05c7fe33813",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF078580015Cdfaa849BDAd8B38e72F5803C316c4",
+    "website": "https://www.sonofdogev2.com/",
+    "twitter": "https://twitter.com/Sonofdoge_",
+    "telegram": "https://t.me/SonOfDoge",
+    "facebook": "https://facebook.com/SonOfDoge/",
+    "youtube": "https://youtube.com/channel/UCLxITJiksMrsUYvRGMTES9g?app=desktop"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF078580015Cdfaa849BDAd8B38e72F5803C316c4/logo.png"
+  },
+  "name": "Son of Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOD",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

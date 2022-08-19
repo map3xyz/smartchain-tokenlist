@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9d3E14B607b2f569CfAFe29AF71e811d7E575CFe",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FlokiBonk is a meme token on BSC, created to support and unite meme creators. FlokiBonk token has built-in automatic yield generation properties. 10% tax on each transaction split evenly to provide reflections to holders and increase the price floor through LP Acquisition"
+  },
+  "id": "803b0189-4f6a-4438-bbdb-866ca13b0510",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9d3E14B607b2f569CfAFe29AF71e811d7E575CFe",
+    "website": "https://flokibonk.com/",
+    "github": "https://github.com/FlokiBonk/FlokiBonk-Token",
+    "twitter": "https://twitter.com/FLOKO_BONKO",
+    "reddit": "https://reddit.com/r/flokibonk",
+    "telegram": "https://t.me/FlokiBonk",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/flokibonk/",
+    "coingecko": "https://coingecko.com/en/coins/flokibonk"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9d3E14B607b2f569CfAFe29AF71e811d7E575CFe/logo.png"
+  },
+  "name": "FlokiBonk",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLOBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

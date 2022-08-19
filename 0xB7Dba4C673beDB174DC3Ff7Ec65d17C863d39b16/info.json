@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fat Cake Token is your investment position into F.A.T.E. (Financial Assets & Tokenized Ecosystem). Holders of the token become investors into the business and earn dividends from the profits of the ecosystem. Gaming, Social Media, Payment Processing, OmniDex, Launchpad, and much more."
+  },
+  "id": "23727b61-2eb4-4c48-80ca-06d95d10910d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16",
+    "website": "https://www.fatecosystem.com",
+    "twitter": "https://twitter.com/FatCakeToken",
+    "github": "https://github.com/FreezyEx/FATCAKE",
+    "telegram": "https://t.me/fatecosystem",
+    "whitepaper": "https://ba1eeeb9-8780-4702-a175-a98ed2b9ba07.filesusr.com/ugd/8b9157_cab43e21359e45a7b90d1b6507ffea6d.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fatcake/",
+    "coingecko": "https://coingecko.com/en/coins/fatcake",
+    "discord": "https://discord.com/vVHgkbY5"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16/logo.png"
+  },
+  "name": "FatCake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FATCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

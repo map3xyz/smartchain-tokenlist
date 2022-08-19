@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MATICVERSE is your gateway to the Baby Vengers multiverse!"
+  },
+  "id": "e9b23939-f24d-44c9-a64f-b36f398b28da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c",
+    "website": "https://maticverse.io/",
+    "twitter": "https://twitter.com/maticverse",
+    "telegram": "https://t.me/MaticVerse",
+    "telegramNews": "https://t.me/MaticVerse_Ann",
+    "whitepaper": "https://maticverse.io/assets/whitepaper_v2.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babymatic/",
+    "coingecko": "https://coingecko.com/en/coins/maticverse"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c/logo.png"
+  },
+  "name": "MaticVerse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Mverse",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

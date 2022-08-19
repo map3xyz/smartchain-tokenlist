@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbfBEe3dAc982148aC793161f7362344925506903",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Introducing what will be the fastest growing cryptocurrency, made just for cat supporters. A truly connected global community for cat fans powered by a limited supply coin, CatzCoin"
+  },
+  "id": "71e6fa65-6290-47b8-8f23-d467d4858979",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbfbee3dac982148ac793161f7362344925506903",
+    "website": "https://www.catzcoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbfBEe3dAc982148aC793161f7362344925506903/logo.png"
+  },
+  "name": "CatzCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

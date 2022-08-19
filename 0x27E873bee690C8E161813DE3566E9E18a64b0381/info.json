@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x27E873bee690C8E161813DE3566E9E18a64b0381",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Next generation AMM and yield farm with deflationary token model on Binance Smart Chain."
+  },
+  "id": "4ea4ca20-4e47-4644-a863-9d62f3679cc6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27E873bee690C8E161813DE3566E9E18a64b0381",
+    "website": "https://dex.leonicornswap.com",
+    "github": "https://github.com/Leonicornswap",
+    "twitter": "https://twitter.com/swapleonicorn",
+    "telegram": "https://t.me/leonicornswap",
+    "whitepaper": "https://leonicornswap.com/images/whitepaper.pdf",
+    "facebook": "https://facebook.com/Leonicorn-Swap-104821111837719",
+    "reddit": "https://reddit.com/r/LeonicornSwap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/leonicorn-swap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x27E873bee690C8E161813DE3566E9E18a64b0381/logo.png"
+  },
+  "name": "Leon Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

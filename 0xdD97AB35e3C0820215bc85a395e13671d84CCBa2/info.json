@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xdD97AB35e3C0820215bc85a395e13671d84CCBa2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AutoShark is a yield optimizer for Automatic Liquidity Acquisition Farms & AMMs on the Binance Smart Chain."
+  },
+  "id": "50e72d7c-4457-4c18-9c83-f697cf5ad1a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdD97AB35e3C0820215bc85a395e13671d84CCBa2",
+    "website": "https://autoshark.finance/",
+    "telegram": "https://t.me/AutoSharkFinance",
+    "twitter": "https://twitter.com/autosharkfin",
+    "reddit": "https://reddit.com/r/AutoSharkOfficial/",
+    "coingecko": "https://coingecko.com/en/coins/autoshark"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdD97AB35e3C0820215bc85a395e13671d84CCBa2/logo.png"
+  },
+  "name": "Autoshark",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JAWS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

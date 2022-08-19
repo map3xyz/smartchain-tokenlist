@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0cF011A946f23a03CeFF92A4632d5f9288c6C70D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NCAT Token is a meme community driven project built on Binance Smart Chain, which was fair launched. We continue to build based on community feedback and soon to be released full Governance."
+  },
+  "id": "afbc23cd-e2e7-4c8d-95de-bf99262c72e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0cF011A946f23a03CeFF92A4632d5f9288c6C70D",
+    "website": "https://ncat.fun"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0cF011A946f23a03CeFF92A4632d5f9288c6C70D/logo.png"
+  },
+  "name": "NCAT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

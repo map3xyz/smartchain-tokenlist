@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcbcCf14B051947BDcd1E20b77015208a1AD5EA25",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Promise is the world's first BEP20 token based on trust. Our token guarantees a continuously increasing price because everyone who holds the Promise token makes a promise to hold it for at least 15 days."
+  },
+  "id": "ba6546ac-47bd-4772-9041-5199d562573f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcbcCf14B051947BDcd1E20b77015208a1AD5EA25",
+    "website": "https://promisetoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcbcCf14B051947BDcd1E20b77015208a1AD5EA25/logo.png"
+  },
+  "name": "Promise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PROMISE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

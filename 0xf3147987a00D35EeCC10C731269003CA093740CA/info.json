@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xf3147987a00D35EeCC10C731269003CA093740CA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The token for MyMasterWar, the NFT game with free play to earn model "
+  },
+  "id": "c49d6c3f-d535-4a02-a0c5-20aa2b1339bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf3147987a00d35eecc10c731269003ca093740ca",
+    "website": "https://mymasterwar.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/my-master-war/",
+    "coingecko": "https://coingecko.com/en/coins/my-master-war/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf3147987a00D35EeCC10C731269003CA093740CA/logo.png"
+  },
+  "name": "MAT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

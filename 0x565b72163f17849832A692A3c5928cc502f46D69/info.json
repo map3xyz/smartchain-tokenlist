@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x565b72163f17849832A692A3c5928cc502f46D69",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PancakeHunny.Finance — Enhance and Optimise Your DeFi Yield Farming on Binance Smart Chan (BSC)."
+  },
+  "id": "abe0b630-2dac-49e8-b7bc-f826f86e28be",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x565b72163f17849832A692A3c5928cc502f46D69",
+    "website": "https://pancakehunny.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x565b72163f17849832A692A3c5928cc502f46D69/logo.png"
+  },
+  "name": "Hunny Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUNNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

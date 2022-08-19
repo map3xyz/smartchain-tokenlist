@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MEMES token is the utility currency of the first decentralized MEME nft marketplace and social network ."
+  },
+  "id": "a56ecd4d-0de8-431f-9cac-a23dfd361061",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975",
+    "website": "https://memestoken.com",
+    "twitter": "https://twitter.com/https://twitter.com/",
+    "github": "https://github.com/Flokigangster"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975/logo.png"
+  },
+  "name": "Memes Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEMES",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

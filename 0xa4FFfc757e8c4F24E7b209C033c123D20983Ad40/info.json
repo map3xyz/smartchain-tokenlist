@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We Meme Business."
+  },
+  "id": "5e3bea42-056e-43b6-a039-a1923d5064aa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40",
+    "website": "https://hogefinance.com",
+    "reddit": "https://reddit.com/r/hoge",
+    "discord": "https://discord.com/invite/hoge",
+    "twitter": "https://twitter.com/hogefinance",
+    "telegram": "https://t.me/hogefinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hoge-finance",
+    "coingecko": "https://coingecko.com/en/coins/hoge-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40/logo.png"
+  },
+  "name": "Hoge Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

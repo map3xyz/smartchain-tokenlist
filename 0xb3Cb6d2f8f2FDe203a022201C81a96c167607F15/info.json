@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GAMMA is the utility token that powers Planet Finance. It incentivizes lenders, borrowers & liquidity providers and it can be used to unlock discount levels on Green Planet."
+  },
+  "id": "d4506bba-24ab-4bff-ab1f-c49509b32ea7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15",
+    "website": "https://planetfinance.io/",
+    "telegram": "https://t.me/planet_finance",
+    "twitter": "https://twitter.com/planet_finance",
+    "discord": "https://discord.com/invite/FD5vHyh9Rv"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15/logo.png"
+  },
+  "name": "GAMMA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAMMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

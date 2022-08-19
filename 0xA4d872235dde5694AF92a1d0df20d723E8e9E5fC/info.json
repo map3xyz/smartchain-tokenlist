@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xA4d872235dde5694AF92a1d0df20d723E8e9E5fC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nimbus - Creating Value Based on Real Use cases for Digital Assets."
+  },
+  "id": "7c32464c-31b8-4631-8497-03800b7e81eb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA4d872235dde5694AF92a1d0df20d723E8e9E5fC",
+    "website": "https://nimbusplatform.io",
+    "twitter": "https://twitter.com/nmbplatform",
+    "telegram": "https://t.me/nmbplatform",
+    "youtube": "https://youtube.com/channel/UCOl3hXqESQ54chKSn5nsfPg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA4d872235dde5694AF92a1d0df20d723E8e9E5fC/logo.png"
+  },
+  "name": "GNBU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GNBU",
+  "tags": [
+    "governance",
+    "staking",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

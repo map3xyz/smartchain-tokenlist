@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x18b426813731C144108c6D7FAf5EdE71a258fD9A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A buyback token worthy of the gods from the creators of BogTools, Gabe, and Bingus."
+  },
+  "id": "3db602fe-7263-475e-8a8d-4d14b1ee8be9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x18b426813731c144108c6d7faf5ede71a258fd9a",
+    "website": "https://olympustoken.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x18b426813731C144108c6D7FAf5EdE71a258fD9A/logo.png"
+  },
+  "name": "OLYMPUS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OLYMPUS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

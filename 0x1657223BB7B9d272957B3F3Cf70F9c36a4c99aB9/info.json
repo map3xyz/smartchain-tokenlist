@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "X-Token is the first token that will empower crypto traders, investors, and minorities who have no access to computers. Building decentralized applications and donating the usage fees will help cryptomaniacs and minorities alike."
+  },
+  "id": "19803783-a096-4e85-a1a3-eef17694e22f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9",
+    "website": "https://project-x.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9/logo.png"
+  },
+  "name": "X-Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "X-Token",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

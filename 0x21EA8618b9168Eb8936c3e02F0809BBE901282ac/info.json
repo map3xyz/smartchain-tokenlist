@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x21EA8618b9168Eb8936c3e02F0809BBE901282ac",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpacePort is a revolutionary retro style arcade game where players can PLAY TO EARN in SPC. Game is completely free to play for all users!"
+  },
+  "id": "c9248b80-3792-40c3-b41b-b0a11e2d00e7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x21EA8618b9168Eb8936c3e02F0809BBE901282ac",
+    "website": "https://spaceport.to/",
+    "twitter": "https://twitter.com/SpacePortCoin",
+    "telegram": "https://t.me/OfficialSpacePort",
+    "discord": "https://discord.com/invite/spaceportarcade",
+    "youtube": "https://youtube.com/channel/UCjWSh3AoFJUSY7ntLk7ZZ9Q",
+    "facebook": "https://facebook.com/Playspaceport-102833875406207",
+    "reddit": "https://reddit.com/r/SpacePortCoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x21EA8618b9168Eb8936c3e02F0809BBE901282ac/logo.png"
+  },
+  "name": "SpacePort Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

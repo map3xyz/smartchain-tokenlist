@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF37cAc4783a343D6258DdD52AA4e2566C0CbE25a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Elgos is a urban mobility application, and ELGOS is our token."
+  },
+  "id": "1fdd064d-7981-445c-8957-065478bde358",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF37cAc4783a343D6258DdD52AA4e2566C0CbE25a",
+    "website": "https://elgos.app",
+    "whitepaper": "https://elgos.app/white-paper-elgos/",
+    "github": "https://github.com/SymmaBlockchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF37cAc4783a343D6258DdD52AA4e2566C0CbE25a/logo.png"
+  },
+  "name": "Elgos Company Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELGOS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Autonomus Yield & Liquidity Generation Protocol"
+  },
+  "id": "43c5e47d-ca8d-4aa3-b82e-8c2f57bd63d5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
+    "website": "https://safeorbit.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa/logo.png"
+  },
+  "name": "SafeOrbit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEORBIT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

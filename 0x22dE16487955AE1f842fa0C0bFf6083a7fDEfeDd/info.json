@@ -1,0 +1,35 @@
+{
+  "active": false,
+  "address": "0x22dE16487955AE1f842fa0C0bFf6083a7fDEfeDd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!"
+  },
+  "id": "0663ed11-85ff-4fbb-8a6f-e285214cd452",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x22dE16487955AE1f842fa0C0bFf6083a7fDEfeDd",
+    "website": "https://galaxyheroescoin.com",
+    "twitter": "https://twitter.com/galaxyheroesghc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/galaxy-heroes-coin-new/",
+    "github": "https://github.com/sumner770/GalaxyHeroesCoin",
+    "telegram": "https://t.me/galaxyheroescoin",
+    "discord": "https://discord.com/invite/NWjxH4CB9R",
+    "reddit": "https://reddit.com/user/galaxyheroescoin",
+    "facebook": "https://facebook.com/GalaxyHeroesCoin",
+    "youtube": "https://youtube.com/channel/UC0XEhzirmXN0AZQIhoR_Vzg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x22dE16487955AE1f842fa0C0bFf6083a7fDEfeDd/logo.png"
+  },
+  "name": "Galaxy Heroes",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GHC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

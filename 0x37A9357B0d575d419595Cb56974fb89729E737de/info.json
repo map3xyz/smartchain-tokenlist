@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x37A9357B0d575d419595Cb56974fb89729E737de",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We bring simplicity to frictionless rewards. Our revolutionary concept aims to be more deflationary while enabling PUMPANOMICS for you."
+  },
+  "id": "38e26e5d-2a26-421d-badd-787eeed93b84",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x37A9357B0d575d419595Cb56974fb89729E737de",
+    "website": "https://glxcoin.space/",
+    "twitter": "https://twitter.com/GLXcoin_",
+    "telegram": "https://t.me/glxcion",
+    "medium": "https://glxcoin.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x37A9357B0d575d419595Cb56974fb89729E737de/logo.png"
+  },
+  "name": "Galaxy Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GLXC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x617724974218A18769020A70162165A539c07E8a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OliveCash has the goal of fostering AMM, Yeild Farming and DeFi market by facilitating the participation of traditional investors to the Crypto Ecosystem. Expanding the potential market reach requires simple and smooth interfaces as well as easier connections between Fiat and Crypto markets. To increase protocol economical sustainability, we aim at increasing burning fees and defining additional deflationary strategies benefitting holders"
+  },
+  "id": "b370efe4-4a18-447f-a276-1c00cca6291f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x617724974218A18769020A70162165A539c07E8a",
+    "website": "https://olive.cash",
+    "github": "https://github.com/olive-cash",
+    "twitter": "https://twitter.com/OliveCashBsc",
+    "telegram": "https://t.me/olive_cash_chat",
+    "medium": "https://olive-cash.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x617724974218A18769020A70162165A539c07E8a/logo.png"
+  },
+  "name": "OliveCash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OLIVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

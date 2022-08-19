@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "6d88202d-f10d-4196-86d4-8f053a35c5a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39",
+    "website": "https://polygon.technology/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39/logo.png"
+  },
+  "name": "MATIC (Portal from Polygon)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MATICpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

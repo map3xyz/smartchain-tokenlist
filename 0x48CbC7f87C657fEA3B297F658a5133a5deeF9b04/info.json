@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MiniFlokiADA, the All-In-One Function Token in Binance Smart Chain"
+  },
+  "id": "0c3ba3bf-7804-4d65-ac28-fc4f686a981a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
+    "website": "https://www.miniflokiada.com",
+    "telegram": "https://t.me/miniflokiada",
+    "twitter": "https://twitter.com/miniflookiada",
+    "github": "https://github.com/MiniFlokiADA/MiniFlokiADA",
+    "telegramNews": "https://t.me/miniflokiadaannouncement",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/miniflokiada"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04/logo.png"
+  },
+  "name": "MiniFlokiADA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MFLOKIADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

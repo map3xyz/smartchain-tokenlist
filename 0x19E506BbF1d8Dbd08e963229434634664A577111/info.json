@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x19E506BbF1d8Dbd08e963229434634664A577111",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Tofu Finance platform is a blockchain agnostic decentralized system that allows trade settlements across multiple ecosystems, allowing you trade, stake, farm, and earn across blockchains with ease."
+  },
+  "id": "397c583c-ecf7-49c6-9119-aba80de2c62b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x19E506BbF1d8Dbd08e963229434634664A577111",
+    "website": "https://tofufinance.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x19E506BbF1d8Dbd08e963229434634664A577111/logo.png"
+  },
+  "name": "Tofu Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOFU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

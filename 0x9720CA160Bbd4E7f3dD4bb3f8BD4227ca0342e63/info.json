@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GMPD is the native token of GamesPad: the ultimate gaming, NFT, and metaverse ecosystem."
+  },
+  "id": "ccc6be8d-7f7e-4fb4-91b9-d962eaa821f4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63",
+    "website": "https://gamespad.io",
+    "twitter": "https://twitter.com/gamespad_vc",
+    "telegram": "https://t.me/GamesPadChat",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gamespad/",
+    "whitepaper": "https://gamespad.io/wp-content/uploads/2022/02/GamesPad-Whitepaper-compressed.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63/logo.png"
+  },
+  "name": "GamesPad",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMPD",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x897304D4606B2d5FcAf886aa7AA143e478EC36C5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mind Music harnesses the power of music to capture the imagination of the world. Millions of people suffer everyday with poor mental health. Mind Music intends to collaborate with major worldwide artists to raise awareness on a global scale. Through our album releases, we will #breakthestigma, and bring people together for an incredibly important, long overdue conversation. Join us and be part of a musical revolution!"
+  },
+  "id": "c6a33dd1-4009-4281-b862-e9f756ba4880",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x897304D4606B2d5FcAf886aa7AA143e478EC36C5",
+    "website": "https://mindmusic.finance",
+    "twitter": "https://twitter.com/mindmusic_bsc",
+    "telegram": "https://t.me/mindmusicbsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mind-music/",
+    "coingecko": "https://coingecko.com/en/coins/mind-music",
+    "github": "https://github.com/D-B-S-G/MindMusic/tree/main"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x897304D4606B2d5FcAf886aa7AA143e478EC36C5/logo.png"
+  },
+  "name": "Mind Music",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x00abaA93fAF8fDc4f382135a7A56F9Cf7C3EdD21",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MUE is a multi-chain (SHA-256 and BEP-20) cryptocurrency that aims to break away from the mould that cryptocurrency is only for tech-savvy people. Users can earn rewards with staking or masternodes, benefiting the entire network."
+  },
+  "id": "27a52c5c-12c1-4a3d-b651-813f26857947",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x00abaA93fAF8fDc4f382135a7A56F9Cf7C3EdD21",
+    "website": "https://wmue.net/",
+    "twitter": "https://twitter.com/MonetaryUnit",
+    "telegram": "https://t.me/monetaryunitchat",
+    "discord": "https://discord.com/invite/dpB3XF7hSw"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x00abaA93fAF8fDc4f382135a7A56F9Cf7C3EdD21/logo.png"
+  },
+  "name": "Wrapped MonetaryUnit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WMUE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

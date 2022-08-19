@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AQUA is a utility based cryptocurrency designed to accrue value & govern the planets."
+  },
+  "id": "39233f4a-f279-4018-85fb-216cac3e22bc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991",
+    "website": "https://planetfinance.io/",
+    "telegram": "https://t.me/planet_finance",
+    "twitter": "https://twitter.com/planet_finance",
+    "discord": "https://discord.com/invite/FD5vHyh9Rv"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991/logo.png"
+  },
+  "name": "AQUA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AQUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

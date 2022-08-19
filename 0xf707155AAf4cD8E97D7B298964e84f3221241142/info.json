@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf707155AAf4cD8E97D7B298964e84f3221241142",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MARKGOAT is a deflationary cryptocurrency on the Binance Smart Chain (BSC) with charitable purposes that also combines NFT market production and automated liquidity protocol."
+  },
+  "id": "3bcb64c2-7430-4e8e-a101-f5e9ef36d075",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf707155AAf4cD8E97D7B298964e84f3221241142",
+    "website": "https://markgoat.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf707155AAf4cD8E97D7B298964e84f3221241142/logo.png"
+  },
+  "name": "MARKGOAT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARKGOAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

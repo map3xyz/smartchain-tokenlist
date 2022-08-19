@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Billion Happiness has a token called BHC. Users can earn BHC cashback through shopping on the online store, NFT Marketplace and via staking/farming."
+  },
+  "id": "43a5990b-010a-44a8-a7dc-f40e9d7c761b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4",
+    "research": "https://billionhappiness.medium.com/what-is-billion-happiness-be147e4b0fc0",
+    "website": "https://billionhappiness.com/",
+    "github": "https://github.com/BHCHappiness/",
+    "twitter": "https://twitter.com/BHC_Happiness",
+    "reddit": "https://reddit.com/user/BillionHappiness"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4/logo.png"
+  },
+  "name": "BillionHappiness",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BHC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

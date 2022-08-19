@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "The Memes Token"
+  },
+  "id": "8878d3ad-d3ac-4949-b232-ea7f87350ffa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112",
+    "website": "https://tiktokcoinbsc.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc1e667Cf9315FB80674E5cf62ad150Ac90fE7112/logo.png"
+  },
+  "name": "TIKTOK COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TIKTOK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

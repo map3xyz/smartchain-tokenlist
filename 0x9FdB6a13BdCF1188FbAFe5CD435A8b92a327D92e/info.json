@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9FdB6a13BdCF1188FbAFe5CD435A8b92a327D92e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GoldMoney is a a protocol that unifies leading BSC protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty."
+  },
+  "id": "ad41eabc-547f-4616-a3d2-e49521eed41e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9fdb6a13bdcf1188fbafe5cd435a8b92a327d92e",
+    "website": "https://goldmoney.network/",
+    "twitter": "https://twitter.com/goldmoney_gdm",
+    "telegram": "https://t.me/GOLDMONEY_ANNOUNCEMENT"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9FdB6a13BdCF1188FbAFe5CD435A8b92a327D92e/logo.png"
+  },
+  "name": "GOLDMONEY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GDM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

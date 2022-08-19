@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xf3eDD4f14a018df4b6f02Bf1b2cF17A8120519A2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "PandaInu is a meme-based token & Defi Wallets"
+  },
+  "id": "6717fddc-cdae-4e25-b848-d156e731ec6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf3eDD4f14a018df4b6f02Bf1b2cF17A8120519A2",
+    "website": "https://pandainu.io",
+    "reddit": "https://reddit.com/user/Pandainu_official",
+    "medium": "https://pandainu.medium.com/",
+    "twitter": "https://twitter.com/Pandainu21",
+    "facebook": "https://facebook.com/pandainutoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf3eDD4f14a018df4b6f02Bf1b2cF17A8120519A2/logo.png"
+  },
+  "name": "PandaInuWalletToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PWT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

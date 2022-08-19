@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "High-yield frictionless farming token."
+  },
+  "id": "59c88fa2-69e2-409a-94f3-ca9320f8cb97",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb",
+    "website": "https://golduck.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb/logo.png"
+  },
+  "name": "Golden Duck",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOLDUCK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

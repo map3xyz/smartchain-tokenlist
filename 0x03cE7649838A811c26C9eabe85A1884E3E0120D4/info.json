@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x03cE7649838A811c26C9eabe85A1884E3E0120D4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Some of the goals of this token will be to contribute our investors make money, to provide the stadium environment they missed, to ensure that they can rush into the stadiums with the same strength again once the pandemic ends, to sustain that the culture of football and hooliganism by opening various discussions in our forums."
+  },
+  "id": "93da9afb-6cce-44d5-b2b0-ec0dcfae7b34",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x03cE7649838A811c26C9eabe85A1884E3E0120D4",
+    "website": "https://footballhooligans.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x03cE7649838A811c26C9eabe85A1884E3E0120D4/logo.png"
+  },
+  "name": "FootballHooligans",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FBH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

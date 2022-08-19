@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "VANITY aims to provide the first ever self Token-Based Marketplace for Custom Vanity Addresses."
+  },
+  "id": "64932fd9-6ed1-461a-adbf-8c65c234e265",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+    "website": "https://vanitytoken.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7/logo.png"
+  },
+  "name": "Vanity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VANITY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

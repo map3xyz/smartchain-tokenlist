@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bird Finance is a DeFi platform focusing on smart pool and lending by its governance token BIRD. Bird Finance seeks the best the reward mining pool by strategy and automatically compounds it for maximal profit."
+  },
+  "id": "a127bba0-1dad-4791-9ba7-80e6b87146c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d",
+    "website": "https://birdswap.com/#/",
+    "github": "https://github.com/BirdFinance/bird-core",
+    "twitter": "https://twitter.com/bird_aggregator",
+    "telegram": "https://t.me/BirdFinanceGlobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d/logo.png"
+  },
+  "name": "BIRD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

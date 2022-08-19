@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CEEK VR"
+  },
+  "id": "33d8329e-5747-47e3-8147-e4c0f1fbbbe6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+    "website": "https://ceek.com",
+    "twitter": "https://twitter.com/CEEK",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ceek-vr/",
+    "coingecko": "https://coingecko.com/en/coins/ceek-smart-vr-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66/logo.png"
+  },
+  "name": "CEEK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CEEK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

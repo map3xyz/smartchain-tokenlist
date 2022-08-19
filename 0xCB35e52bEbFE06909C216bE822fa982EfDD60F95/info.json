@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ride the baby wave. You’ve seen baby doge, baby sanshu, and baby kishu, but not baby ape! This is a coin made by apes for apes, and we have big plans in store."
+  },
+  "id": "bca6d4a9-8262-4eb4-ba97-a1439fcaa087",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+    "website": "https://babyape.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCB35e52bEbFE06909C216bE822fa982EfDD60F95/logo.png"
+  },
+  "name": "BabyApe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

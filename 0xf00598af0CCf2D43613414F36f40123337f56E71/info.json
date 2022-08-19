@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf00598af0CCf2D43613414F36f40123337f56E71",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Derived inspiration from the powerful ants, Ants.finance was given birth with the desire to create a united, strong, constantly growing community of the ant.Ants.finance aims to build a decentralized financial system including AMM DEX, Deflation system, Ant's Pool, Ant's Nest, NFT Marketplace, NFT Creative."
+  },
+  "id": "1905107f-cf22-435f-8902-87d31cff3c9b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf00598af0CCf2D43613414F36f40123337f56E71",
+    "website": "https://www.ants.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf00598af0CCf2D43613414F36f40123337f56E71/logo.png"
+  },
+  "name": "Ants.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

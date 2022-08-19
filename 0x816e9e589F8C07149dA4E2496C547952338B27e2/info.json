@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x816e9e589F8C07149dA4E2496C547952338B27e2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BITTO is a licensed cryptocurrency exchange founded since 2017, with a recent expansion into DeFi in 2020. BITTO is found in more than 20 different cryptocurrency apps and websites and officially accepted in more than 4 international cryptocurrency wallets such as Trust, Enjin, and Coinpayment."
+  },
+  "id": "9e6da81d-e8ff-4d0e-a7ac-f128c1dfc286",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x816e9e589F8C07149dA4E2496C547952338B27e2",
+    "website": "http://bitto.tech/",
+    "twitter": "https://twitter.com/bittoexchange",
+    "telegram": "https://t.me/bittoexchange"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x816e9e589F8C07149dA4E2496C547952338B27e2/logo.png"
+  },
+  "name": "BITTO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BITTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

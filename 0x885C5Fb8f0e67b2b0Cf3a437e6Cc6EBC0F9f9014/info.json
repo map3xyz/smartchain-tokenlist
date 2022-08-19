@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x885C5Fb8f0e67b2b0Cf3a437e6Cc6EBC0F9f9014",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GEMG is a GemGuardian NFT Game Token"
+  },
+  "id": "cdfaca32-a573-4826-8c26-32605c1efa83",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
+    "website": "https://gemguardian.io",
+    "twitter": "https://twitter.com/GemGuardianNFT",
+    "telegram": "https://t.me/GemGuardianOfficialChat",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gemguardian/",
+    "coingecko": "https://coingecko.com/en/coins/gemguardian/",
+    "medium": "https://gemguardian.medium.com/",
+    "whitepaper": "https://gemguardian.io/docs/gemguardian.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x885C5Fb8f0e67b2b0Cf3a437e6Cc6EBC0F9f9014/logo.png"
+  },
+  "name": "GemGuardian",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GEMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

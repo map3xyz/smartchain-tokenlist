@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x70a44672B9BBcF4D49dCEaA610eB580BD3c94c52",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GAMESAFE is a protocol specially built to reward its holders while increasing both the liquidity and value. A Digital Games will be out soon using Binance Smart Chain. "
+  },
+  "id": "306385a0-344f-42bb-970f-48d096db9ccc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x70a44672B9BBcF4D49dCEaA610eB580BD3c94c52",
+    "website": "https://gamesafe.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x70a44672B9BBcF4D49dCEaA610eB580BD3c94c52/logo.png"
+  },
+  "name": "Gamesafe.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAMESAFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

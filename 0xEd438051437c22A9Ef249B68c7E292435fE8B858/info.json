@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xEd438051437c22A9Ef249B68c7E292435fE8B858",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mooni(MOONI) token has had ownership renounced by the development team. MOONI DeFi is the incubator based on Binance Smart chain with innovative product launches, where community gets rewarded in ecosystem tokens."
+  },
+  "id": "58d1025a-6f6c-4a96-b715-b2c25a1e6822",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEd438051437c22A9Ef249B68c7E292435fE8B858",
+    "website": "https://moonidefi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEd438051437c22A9Ef249B68c7E292435fE8B858/logo.png"
+  },
+  "name": "Mooni",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONI",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

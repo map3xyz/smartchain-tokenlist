@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "For A Decentralized Drone Flight Time, Security Protocol And Hardware Use Data Tabulation"
+  },
+  "id": "3c729e15-6d68-43c6-9683-c72fece6a8e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE",
+    "website": "https://uavcoin.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE/logo.png"
+  },
+  "name": "UAVcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UAV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

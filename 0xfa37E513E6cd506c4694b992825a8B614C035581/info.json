@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xfa37E513E6cd506c4694b992825a8B614C035581",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Nexum is the utility token that aims to power the multi-billion Shipping & Oil industry. NEXM is designed to unbank the shipping industry"
+  },
+  "id": "d4f8b1dc-3b42-4264-8e44-9aa17ae43fed",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfa37E513E6cd506c4694b992825a8B614C035581",
+    "website": "https://nexum.io",
+    "whitepaper": "https://nexum.ai/document/nxm_white_paper.pdf",
+    "telegram": "https://t.me/nexum_official",
+    "twitter": "https://twitter.com/CoinNexum",
+    "coingecko": "https://coingecko.com/coins/nexum/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfa37E513E6cd506c4694b992825a8B614C035581/logo.png"
+  },
+  "name": "Nexum Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEXM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

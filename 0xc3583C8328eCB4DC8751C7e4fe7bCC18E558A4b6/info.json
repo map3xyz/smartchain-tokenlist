@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Vikings Doge Coin for Global Communities. 4% redistribution, curated aggregation platform & Vikings Treasure Hunt Game."
+  },
+  "id": "b8a7483c-04cb-423a-a0ca-8d38b73e84de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6",
+    "website": "https://vikingsinu.org",
+    "twitter": "https://twitter.com/vikingsinu",
+    "github": "https://github.com/vikingsinu",
+    "telegram": "https://t.me/vikings_inu",
+    "whitepaper": "https://vikingsinu.org/assets/Vikings_Inu_Whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vikings-inu/",
+    "medium": "https://medium.com/@VikingsInu",
+    "sourceCode": "https://bscscan.com/address/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6/logo.png"
+  },
+  "name": "Vikings Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VIKINGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

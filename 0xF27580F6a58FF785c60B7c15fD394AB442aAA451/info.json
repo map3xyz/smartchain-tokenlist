@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Nicheman is a defi project developed for the investors/enthusiasts who always wanted to own a coin that is community-driven and fairly launched. "
+  },
+  "id": "2aa45b46-ebd0-4c78-8615-7fceef9f6925",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+    "website": "https://nicheman.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF27580F6a58FF785c60B7c15fD394AB442aAA451/logo.png"
+  },
+  "name": "Nicheman",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Nicheman",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

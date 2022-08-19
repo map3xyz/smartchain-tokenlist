@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ComfyToken has created a distinctive DeFi ecosystem, designed to facilitate a comfy global transition to cryptocurrency."
+  },
+  "id": "7df81e6c-b44d-4ab7-a229-253bb6a0a877",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7",
+    "website": "https://www.comfytoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7/logo.png"
+  },
+  "name": "Comfy Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COMFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

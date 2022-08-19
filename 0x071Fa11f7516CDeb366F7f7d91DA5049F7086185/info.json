@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x071Fa11f7516CDeb366F7f7d91DA5049F7086185",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Rocketboys launchpad is positioned to disrupt all that has become toxic in the current presale ecosystem. The launchpad will operate a much higher barrier to entry for prospective projects – KYB (Know Your Business) and pre-doxxing to an internal Rocketboys committee before launch will provide a uniquely safer investing environment for all participants."
+  },
+  "id": "8516f31c-b118-4dd8-9cdd-fa4da441be94",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185",
+    "website": "https://rocketboys.io/",
+    "telegram": "https://t.me/rocketboys0fficial",
+    "twitter": "https://twitter.com/rocketboysbsc",
+    "reddit": "https://reddit.com/r/rocketboysofficial",
+    "whitepaper": "https://rocketboys.io/#whitepaper",
+    "coingecko": "https://coingecko.com/coins/rocket-boys",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rocket-boys"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185/logo.png"
+  },
+  "name": "Rocket Boys",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RBOYS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

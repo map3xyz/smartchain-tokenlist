@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFF749E976358791a3799262B8FccedF8D0888563",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Shopaneum is the e-commerce platform, Allowing consumers to enjoy online shopping seamlessy, securely, and cost effectively. It serves as the bridge between the cryptocurrency world and the e-commerce world to satisfy consumers who previously couldn't shop while using digital assets."
+  },
+  "id": "cd2b8ec4-0064-4069-b470-fa569418e987",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFF749E976358791a3799262B8FccedF8D0888563",
+    "website": "https://shopaneum.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFF749E976358791a3799262B8FccedF8D0888563/logo.png"
+  },
+  "name": "Shopaneum",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

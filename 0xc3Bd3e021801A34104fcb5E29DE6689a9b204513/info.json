@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc3Bd3e021801A34104fcb5E29DE6689a9b204513",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LevelUP your one stop P2E Blockchain Gaming Platform built for both players and game developers."
+  },
+  "id": "800fccce-6702-49ff-b4a6-fca9eaecbef2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc3Bd3e021801A34104fcb5E29DE6689a9b204513",
+    "website": "https://www.level-up.game",
+    "telegram": "https://t.me/levelup_games",
+    "twitter": "https://twitter.com/LevelUpBSC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/levelup-gaming/",
+    "coingecko": "https://coingecko.com/en/coins/levelup-gaming"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc3Bd3e021801A34104fcb5E29DE6689a9b204513/logo.png"
+  },
+  "name": "LevelUp Gaming",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LVLUP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

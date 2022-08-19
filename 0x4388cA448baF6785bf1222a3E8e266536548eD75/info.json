@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x4388cA448baF6785bf1222a3E8e266536548eD75",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TravelCake is an accommodation booking platform that brings you steep discounts via cashback rewards in the form of blockchain tokens, turning your bookings into lucrative investments."
+  },
+  "id": "45977cf6-f887-4963-869b-d0a22a3faa73",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4388cA448baF6785bf1222a3E8e266536548eD75",
+    "website": "https://www.travelcake.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4388cA448baF6785bf1222a3E8e266536548eD75/logo.png"
+  },
+  "name": "TravelCake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TVL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE7784072FC769D8b7f8C0a3Fa008722eEF5dDDD5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A custom tailored reflection token offering dynamic rewards based on market conditions and community input"
+  },
+  "id": "e900f6b4-5010-4790-a4ca-9eb4369b7700",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE7784072FC769D8b7f8C0a3Fa008722eEF5dDDD5",
+    "website": "https://www.hedge-finance.com",
+    "twitter": "https://twitter.com/Hedge_Finance",
+    "github": "https://github.com/dogekingbsc",
+    "telegram": "https://t.me/HedgeFinancial",
+    "blog": "https://hedge-finance.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE7784072FC769D8b7f8C0a3Fa008722eEF5dDDD5/logo.png"
+  },
+  "name": "HEDGE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HEDGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

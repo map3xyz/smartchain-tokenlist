@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The KALM tokens is the one fueling the ecosystem of products built on Kalmar and being used as incentive for participation in our financial products to scale adoption."
+  },
+  "id": "84556b14-79b9-4aed-b1d6-0ff28c38e21d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4BA0057f784858a48fe351445C672FF2a3d43515",
+    "website": "https://kalmar.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4BA0057f784858a48fe351445C672FF2a3d43515/logo.png"
+  },
+  "name": "Kalmar Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KALM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

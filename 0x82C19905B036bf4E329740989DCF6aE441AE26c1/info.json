@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82C19905B036bf4E329740989DCF6aE441AE26c1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CoPuppy is the most attractive Metaverse project on BSC. The project includes collectibles, Games, finance, etc., constructing an open Puppy World. CoPuppy has a unique ecosystem and economic model, which combines the current popular mining, NFT, GameFi , Metaverse and other popular concepts, and innovates on this basis."
+  },
+  "id": "f341c1b7-8c34-4b30-bbee-2ab15a44d20b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x82C19905B036bf4E329740989DCF6aE441AE26c1",
+    "website": "https://bsc.copuppy.io/",
+    "twitter": "https://twitter.com/CoPuppy_BSC",
+    "telegram": "https://t.me/copuppy_bsc",
+    "medium": "https://medium.com/copuppy-bsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x82C19905B036bf4E329740989DCF6aE441AE26c1/logo.png"
+  },
+  "name": "CP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7d6b35ffBCbB8C59c34e4A58D10Bf81654e6Ff6d",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Decentralized Defi Finance in MATRIX."
+  },
+  "id": "aad6d2a8-0db4-4c38-95d0-28835eb94c1b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7d6b35ffBCbB8C59c34e4A58D10Bf81654e6Ff6d",
+    "website": "https://matrixtoken.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7d6b35ffBCbB8C59c34e4A58D10Bf81654e6Ff6d/logo.png"
+  },
+  "name": "Matrix",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MATR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

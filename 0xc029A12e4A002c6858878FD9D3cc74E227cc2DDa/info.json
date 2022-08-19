@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Velorex is a Europe based decentralized finance and technology company that provides hardware and software solutions to manage crypto and fiat currency. Velorex is about greater literacy and adoption of cryptocurrency through the provision of fair, safe, and well-designed tools such as ATMs, debit cards, and smart wallets."
+  },
+  "id": "6944ba3f-82d9-4ba9-9e1b-3f50b807a166",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa",
+    "website": "https://velorex.net/",
+    "twitter": "https://twitter.com/VelorexOfficial",
+    "telegram": "https://t.me/velorex_net",
+    "telegramNews": "https://t.me/velorexannouncements",
+    "whitepaper": "https://drive.google.com/file/d/1oaJpHwTXmVRASGIblPhgTS0kIaXCGAQy/view",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/velorex/",
+    "coingecko": "https://coingecko.com/en/coins/velorex",
+    "reddit": "https://reddit.com/r/Velorex_official/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc029A12e4A002c6858878FD9D3cc74E227cc2DDa/logo.png"
+  },
+  "name": "VELOREX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

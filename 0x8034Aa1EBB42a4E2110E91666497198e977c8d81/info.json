@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "At one million dollar coin you are more than just an investor. You’re an owner."
+  },
+  "id": "6834699a-32e4-417e-9909-2c803b529572",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+    "website": "http://onemillion.capital"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8034Aa1EBB42a4E2110E91666497198e977c8d81/logo.png"
+  },
+  "name": "1Million",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MLN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

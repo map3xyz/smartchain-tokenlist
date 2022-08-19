@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Use token in MoonMoon ecosystem, and generate passive yield with transfer fee going to holders and pancakeswap liquidity."
+  },
+  "id": "2dd8b06e-c37d-4d05-915e-43ca553a2464",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79",
+    "website": "https://moonmoon.cash",
+    "twitter": "https://twitter.com/MoonMoonCash",
+    "telegram": "https://t.me/moonmooncash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79/logo.png"
+  },
+  "name": "MoonMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xBc7d6B50616989655AfD682fb42743507003056D",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Alchemy is the pioneer of Hybrid Crypto-Fiat Gateway that is bridging the gap between the fiat and crypto economies - driving crypto adoption by making payments, blockchain solutions and DeFI services readily available to everyone."
+  },
+  "id": "1a8944de-c89d-431a-97c6-a0ac131b7ad1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBc7d6B50616989655AfD682fb42743507003056D",
+    "website": "https://www.alchemytech.io/index.html",
+    "twitter": "https://twitter.com/AlchemyPay",
+    "github": "https://github.com/Alchemy-GPS/ERC20Token/blob/master/ACH.sol",
+    "telegram": "https://t.me/Alchemy_Notice",
+    "telegramNews": "https://t.me/alchemy_official",
+    "coinmarketcap": "https://coinmarketcap.com/zh/currencies/alchemy-pay/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBc7d6B50616989655AfD682fb42743507003056D/logo.png"
+  },
+  "name": "Alchemy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ACH",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

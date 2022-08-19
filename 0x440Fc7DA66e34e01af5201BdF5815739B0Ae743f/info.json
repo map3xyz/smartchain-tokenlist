@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x440Fc7DA66e34e01af5201BdF5815739B0Ae743f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Squid Game Token game free ETH by playing this game! Squid Game Token is a token on the Binance Smart Chain that offers auto static rewards on every transaction."
+  },
+  "id": "612e3f93-00f1-421f-87f6-4375c6a4683d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x440Fc7DA66e34e01af5201BdF5815739B0Ae743f",
+    "website": "https://www.tokensquidgame.com/",
+    "twitter": "https://twitter.com/SquidGameToken",
+    "github": "https://github.com/TokenSquidGame",
+    "telegram": "https://t.me/TokenSquidGame",
+    "whitepaper": "https://tokensquidgame.com/whitepaperSGT.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/squidgametoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x440Fc7DA66e34e01af5201BdF5815739B0Ae743f/logo.png"
+  },
+  "name": "SquidGameToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SGT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

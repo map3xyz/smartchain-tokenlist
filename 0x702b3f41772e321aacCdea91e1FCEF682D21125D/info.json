@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x702b3f41772e321aacCdea91e1FCEF682D21125D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sale, swap, earn, lock all on one decentralized, community driven platform. Earn PinkS by staking LP & tokens. Welcome to PinkArmy Family!"
+  },
+  "id": "c81a6f93-98bf-4f73-b2f0-64c4c2a780c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x702b3f41772e321aacCdea91e1FCEF682D21125D",
+    "website": "https://www.pinkswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x702b3f41772e321aacCdea91e1FCEF682D21125D/logo.png"
+  },
+  "name": "PinkSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

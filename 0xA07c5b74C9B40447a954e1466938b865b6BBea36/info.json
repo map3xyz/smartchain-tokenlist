@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA07c5b74C9B40447a954e1466938b865b6BBea36",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "8f822eb5-bda3-45ff-a3c5-fb1b72a9443c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA07c5b74C9B40447a954e1466938b865b6BBea36",
+    "research": "https://research.binance.com/en/projects/venus",
+    "website": "https://venus.io/",
+    "github": "https://github.com/SwipeWallet/venus-protocol",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA07c5b74C9B40447a954e1466938b865b6BBea36/logo.png"
+  },
+  "name": "Venus BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

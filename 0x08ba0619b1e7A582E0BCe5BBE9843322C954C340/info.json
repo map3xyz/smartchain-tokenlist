@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Complete Metaverse of Digital Monsters on Binance Smart Chain. With BMON the users can buy boosters of NFT. The boosters have 3 monsters.Through a smart contract called Booster, the NFTs will be minted (BEP721) ,using the $BMON token (BEP-20)."
+  },
+  "id": "0fe3639f-96a5-4f30-8b16-b7b351fa823f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
+    "website": "https://binamon.org",
+    "twitter": "https://twitter.com/binamonok",
+    "telegram": "https://t.me/binamon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x08ba0619b1e7A582E0BCe5BBE9843322C954C340/logo.png"
+  },
+  "name": "Binamon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

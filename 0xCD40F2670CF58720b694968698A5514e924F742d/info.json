@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Oddz is the World’s first multi-chain options and derivatives trading protocol to be deployed on the Binance Smart Chain, Polkadot, and Ethereum."
+  },
+  "id": "083cf7a7-97e0-48a1-ab08-a6bd0db07e5e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCD40F2670CF58720b694968698A5514e924F742d",
+    "website": "https://oddz.fi/",
+    "github": "https://github.com/oddz-finance",
+    "twitter": "https://twitter.com/oddz_finance",
+    "telegram": "https://t.me/oddz_finance",
+    "medium": "https://medium.com/oddz-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCD40F2670CF58720b694968698A5514e924F742d/logo.png"
+  },
+  "name": "OddzToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xec6cA5A04B08e382d218De9Cb30C9d8176406D34",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The only decentralized random gamification on chain BSC"
+  },
+  "id": "70e29a9f-76ff-4300-a875-e3d68e21df1e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xec6ca5a04b08e382d218de9cb30c9d8176406d34",
+    "website": "https://cryptodrop.gg/#/play",
+    "telegram": "https://t.me/CryptoDropGG",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptodrop/",
+    "twitter": "https://twitter.com/cryptodropgg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xec6cA5A04B08e382d218De9Cb30C9d8176406D34/logo.png"
+  },
+  "name": "CryptoDrop",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CDROP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x708739980021A0b0B2E555383fE1283697e140e9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BLS is a sport token issued by blocsport.one for a purpose of DeFi sport operations."
+  },
+  "id": "633d46a5-83e0-4cfd-b64d-b45a2f5b466f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x708739980021A0b0B2E555383fE1283697e140e9",
+    "website": "https://blocsport.one"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x708739980021A0b0B2E555383fE1283697e140e9/logo.png"
+  },
+  "name": "blocsport.one",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

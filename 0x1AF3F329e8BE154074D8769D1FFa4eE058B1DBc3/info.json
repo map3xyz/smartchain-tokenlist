@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Dai Token (DAI BEP20) is a token issued by Binance on Smart Chain; its price is pegged to DAI (DAI ERC20) at a ratio of 1:1."
+  },
+  "id": "e4d73c4c-8fbb-48a2-a147-3421d6b43d34",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "research": "https://research.binance.com/en/projects/dai",
+    "website": "http://makerdao.com",
+    "blog": "https://medium.com/@MakerDAO",
+    "twitter": "https://twitter.com/MakerDAO",
+    "reddit": "https://reddit.com/r/MakerDAO/",
+    "whitepaper": "https://makerdao.com/whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
+    "coingecko": "https://coingecko.com/en/coins/dai/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
+  },
+  "name": "Binance-Peg Dai Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "binance-peg",
+    "stablecoin",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

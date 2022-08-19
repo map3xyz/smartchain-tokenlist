@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "stkBNB is one of the stkASSETs from pSTAKE. pSTAKE is a liquid staking protocol that unlocks liquidity for your staked assets. With pSTAKE, you can securely stake your Proof-of-Stake (PoS) assets, participate in protocol improvements and security to earn staking rewards, and receive staked underlying representative tokens (stkASSETs) which can be used to explore additional yield opportunities across DeFi."
+  },
+  "id": "783e9731-7999-4c0e-bee7-5a769ed3d3a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+    "website": "https://pstake.finance/",
+    "twitter": "https://twitter.com/pStakeFinance",
+    "github": "https://github.com/persistenceOne",
+    "telegram": "https://t.me/pstakefinance",
+    "docs": "https://docs.pstake.finance/",
+    "blog": "https://blog.pstake.finance/",
+    "forum": "https://forum.pstake.finance/",
+    "discord": "https://discord.com/PKHJ3Kn2M2",
+    "reddit": "https://reddit.com/r/PersistenceOne/",
+    "medium": "https://pstake.medium.com/",
+    "youtube": "https://youtube.com/channel/UC5wqI1ZRdkCjWWVOCQdhxLQ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stkbnb/",
+    "coingecko": "https://coingecko.com/coins/pstake-staked-bnb",
+    "sourceCode": "https://bscscan.com/address/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16/logo.png"
+  },
+  "name": "Staked BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "stkBNB",
+  "tags": [
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

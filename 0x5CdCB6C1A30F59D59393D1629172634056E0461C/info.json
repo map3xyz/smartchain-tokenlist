@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5CdCB6C1A30F59D59393D1629172634056E0461C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Foliowatch is the first smart Defi Dashboard with LP management on the Binance Smartchain. It is Portfolio and liquidity pool performance watch plus yield farming, Fully decentralized."
+  },
+  "id": "b90a4472-0699-425e-aecc-579e44d7eea7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5CdCB6C1A30F59D59393D1629172634056E0461C",
+    "website": "https://foliowatch.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5CdCB6C1A30F59D59393D1629172634056E0461C/logo.png"
+  },
+  "name": "Foliowatch",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Fwatch",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

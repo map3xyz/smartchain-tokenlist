@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MDG aims to become bsc’s ultimate rewards token. Community members Earn MDG just by holding them in their wallets. MDG holds weekly lottos with huge jackpots."
+  },
+  "id": "f86b4fe7-fa7f-4b42-ab91-2e3f8bdfe55c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4",
+    "website": "https://moondawgcoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf3175F46B35bf82f5E1FB44c2a64Db99C52B7Eb4/logo.png"
+  },
+  "name": "MoonDawg",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MDG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

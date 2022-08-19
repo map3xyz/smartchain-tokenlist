@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bonfire is a frictionless, yield-generating contract that allows you to seek shelter amidst the chaos of the market."
+  },
+  "id": "707b4ceb-0f31-42ca-8f14-2043564b52b5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5e90253fbae4dab78aa351f4e6fed08a64ab5590",
+    "website": "https://www.bonfiretoken.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590/logo.png"
+  },
+  "name": "Bonfire",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BONFIRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

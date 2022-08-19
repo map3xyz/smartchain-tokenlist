@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDF91842028B9ae0B9993025182fEA1eAfEC66771",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Tyrannosaurus Rex ($TREX) is a 100% community-focused and decentralized utility token that has no buy fee and only selling fee to encourage buying and discourage selling"
+  },
+  "id": "2069d0c5-9761-4c08-a807-47b6a650d165",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdf91842028b9ae0b9993025182fea1eafec66771",
+    "website": "https://trextoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDF91842028B9ae0B9993025182fEA1eAfEC66771/logo.png"
+  },
+  "name": "Tyrannosaurus Rex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TREX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

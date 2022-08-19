@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem."
+  },
+  "id": "1c5c7656-aab3-4d20-b016-cc371658a7ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
+    "website": "https://tifi.net/",
+    "twitter": "https://twitter.com/TiFiToken",
+    "telegram": "https://t.me/tifi_token",
+    "whitepaper": "https://tifi.net/about/TiFiTokenWhitePaper.pdf",
+    "medium": "https://tifitoken.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tifi-token/",
+    "coingecko": "https://coingecko.com/en/coins/tifi-token",
+    "reddit": "https://reddit.com/r/TiFiToken",
+    "github": "https://bscscan.com/address/0x17E65E6b9B166Fb8e7c59432F0db126711246BC0#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x17E65E6b9B166Fb8e7c59432F0db126711246BC0/logo.png"
+  },
+  "name": "TiFi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TIFI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Cosmos Token (ATOM BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Cosmos (ATOM) at a ratio of 1:1."
+  },
+  "id": "e59f8230-e1eb-4c91-93a2-326b97e19ab4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "research": "https://research.binance.com/en/projects/cosmos-network",
+    "website": "https://cosmos.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0Eb3a705fc54725037CC9e008bDede697f62F335/logo.png"
+  },
+  "name": "Binance-Peg Cosmos Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATOM",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

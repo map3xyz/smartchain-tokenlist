@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Meta Ruffy is an open world in the Metaverse, besides the already playable Metaverse it also offers tons of other Utilities like Mystery Staking, NFTs and many more.!"
+  },
+  "id": "0a58f32a-64fd-4026-8771-4ae48f9fc69d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D",
+    "website": "https://metaruffy.io/",
+    "twitter": "https://twitter.com/meta_ruffy",
+    "coingecko": "https://coingecko.com/coins/meta-ruffy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/meta-ruffy/",
+    "telegram": "https://t.me/meta_ruffy",
+    "facebook": "https://facebook.com/MetaRuffy-107043791886658",
+    "discord": "https://discord.com/JDcXJNfMum",
+    "whitepaper": "https://metaruffy.io/wp-content/uploads/2022/02/Whitepaper_02.pdf",
+    "reddit": "https://reddit.com/user/meta_ruffy",
+    "github": "https://bscscan.com/address/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2456BBAD80BfAD346AecEa45fA38C81a6963132D/logo.png"
+  },
+  "name": "Meta Ruffy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

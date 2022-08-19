@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC0A51ac9d548BdcDe53Fa59448029e41A39FEB20",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Robonomics Token bridged by Anyswap"
+  },
+  "id": "267df1ba-781e-43ab-b25e-90c0add103a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC0A51ac9d548BdcDe53Fa59448029e41A39FEB20",
+    "website": "https://robonomics.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC0A51ac9d548BdcDe53Fa59448029e41A39FEB20/logo.png"
+  },
+  "name": "Robonomics Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XRT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

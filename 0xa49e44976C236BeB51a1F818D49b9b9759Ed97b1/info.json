@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa49e44976C236BeB51a1F818D49b9b9759Ed97b1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AraPlanet lands as one of the first eco-sustainable crypto currency."
+  },
+  "id": "648f9c05-2438-44ec-b602-ef03d35dd924",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa49e44976C236BeB51a1F818D49b9b9759Ed97b1",
+    "website": "https://www.araplanet.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa49e44976C236BeB51a1F818D49b9b9759Ed97b1/logo.png"
+  },
+  "name": "AraPlanet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

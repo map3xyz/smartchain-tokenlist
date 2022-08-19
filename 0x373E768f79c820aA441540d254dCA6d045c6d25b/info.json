@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x373E768f79c820aA441540d254dCA6d045c6d25b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DeRace is a complete NFT horse racing ecosystem where you can participate in horse races, breed NFT horses with unique characteristics, build your own NFT hippodrome"
+  },
+  "id": "006e755d-1f79-472a-bebc-4fe613548f09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x373E768f79c820aA441540d254dCA6d045c6d25b",
+    "website": "https://derace.com",
+    "blog": "https://derace.com",
+    "twitter": "https://twitter.com/deracenft",
+    "telegram": "https://t.me/DeRaceNFT",
+    "medium": "https://deracenft.medium.com/",
+    "discord": "https://discord.com/invite/67M9ckF3q3"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x373E768f79c820aA441540d254dCA6d045c6d25b/logo.png"
+  },
+  "name": "DeRace Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DERC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

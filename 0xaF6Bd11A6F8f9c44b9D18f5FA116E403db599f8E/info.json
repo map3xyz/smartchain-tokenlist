@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xaF6Bd11A6F8f9c44b9D18f5FA116E403db599f8E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AlinX is a play and earn platform built by incorporating NFT into games on the BSC ecosystem. Here players can find a lot of games with various genres to get entertainment in their spare time and be able to earn an extra part of their income by owning themselves with high-value NFTs."
+  },
+  "id": "43d0c215-838d-4bc8-bbf2-e0742758313d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e",
+    "website": "https://alinx.io/",
+    "twitter": "https://twitter.com/alinx_io",
+    "telegram": "https://t.me/alinx_group"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaF6Bd11A6F8f9c44b9D18f5FA116E403db599f8E/logo.png"
+  },
+  "name": "AlinX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

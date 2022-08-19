@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xBE878cffB39A347A70809b5D98B65Dd85De2e37B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NBTC is a new version of Bitcoin that solves all issues of traditional Bitcoin and adds unique features to it. It is based on Binance Smart Chain technology which is faster, cheaper, and environment-friendly for daily use."
+  },
+  "id": "4c0b322f-ebe8-47b9-8313-0bfa61c1867d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbe878cffb39a347a70809b5d98b65dd85de2e37b",
+    "website": "https://www.newbtc.one/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBE878cffB39A347A70809b5D98B65Dd85De2e37B/logo.png"
+  },
+  "name": "NewBTC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

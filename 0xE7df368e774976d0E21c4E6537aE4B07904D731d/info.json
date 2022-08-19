@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE7df368e774976d0E21c4E6537aE4B07904D731d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Simurgh is an automatic liquidity acquisition yield farm running on Binance Smart Chain with lots of unique and creative features."
+  },
+  "id": "4e228a66-11be-406c-a9a0-d9bb4a80ac70",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE7df368e774976d0E21c4E6537aE4B07904D731d",
+    "website": "https://simurgh.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE7df368e774976d0E21c4E6537aE4B07904D731d/logo.png"
+  },
+  "name": "SimurghToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIMURGH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

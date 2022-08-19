@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xDeb9e5D630CEa02cf83258aAf5bAD933F7a43AE7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyBitcoin aims to provide continuous benefits for all project investors and token holders."
+  },
+  "id": "c9dd82f4-f82a-49d7-a538-fd4697f7f3f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdeb9e5d630cea02cf83258aaf5bad933f7a43ae7",
+    "website": "https://babybitcoin.app",
+    "twitter": "https://twitter.com/BabyBITC_bsc",
+    "github": "https://github.com/BabyBitcoinOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babybitcoin/",
+    "coingecko": "https://coingecko.com/en/coins/babybitcoin",
+    "telegram": "https://t.me/Baby_Bitcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDeb9e5D630CEa02cf83258aAf5bAD933F7a43AE7/logo.png"
+  },
+  "name": "BabyBitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYBITC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

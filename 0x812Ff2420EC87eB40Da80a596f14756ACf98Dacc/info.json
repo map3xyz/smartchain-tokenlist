@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x812Ff2420EC87eB40Da80a596f14756ACf98Dacc",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Hungry Bear is token driven and supported by it's community. Two functions occur during each trade: Reflection & Burn."
+  },
+  "id": "0dcdad4f-bbec-45d1-8943-feaf293fa992",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x812Ff2420EC87eB40Da80a596f14756ACf98Dacc",
+    "website": "https://hungrybear.finance",
+    "twitter": "https://twitter.com/BSCBear",
+    "telegram": "https://t.me/HungryBearFinance",
+    "reddit": "https://reddit.com/r/HungryBear/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x812Ff2420EC87eB40Da80a596f14756ACf98Dacc/logo.png"
+  },
+  "name": "Hungry Bear",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUNGRY",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

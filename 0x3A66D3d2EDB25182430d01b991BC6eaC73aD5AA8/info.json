@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3A66D3d2EDB25182430d01b991BC6eaC73aD5AA8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SFMONEY stands firmly in support of financial freedom and the liberty that SFMONEY provides globally for anyone to voluntarily participate in a permissionless and decentralized network."
+  },
+  "id": "02504ca8-30ef-4ae6-8c66-d2878b15ef5d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3A66D3d2EDB25182430d01b991BC6eaC73aD5AA8",
+    "website": "https://sfmoney.info/",
+    "twitter": "https://twitter.com/SFMONEY_SFM",
+    "telegram": "https://t.me/sfmoney_Announcement"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3A66D3d2EDB25182430d01b991BC6eaC73aD5AA8/logo.png"
+  },
+  "name": "SFMONEY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "375e5ed0-35f8-4a0b-96eb-178630ffba0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C",
+    "website": "https://anchorprotocol.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C/logo.png"
+  },
+  "name": "AnchorUST (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "aUST",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

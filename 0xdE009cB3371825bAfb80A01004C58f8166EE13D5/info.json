@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdE009cB3371825bAfb80A01004C58f8166EE13D5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LittleUglyDuck is a coin issued on Binance Smart Chain."
+  },
+  "id": "6f273ea1-34a6-4d4f-af56-ef484b4db50d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdE009cB3371825bAfb80A01004C58f8166EE13D5",
+    "website": "https://littleuglyduck.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdE009cB3371825bAfb80A01004C58f8166EE13D5/logo.png"
+  },
+  "name": "LittleUglyDuck Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LUD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

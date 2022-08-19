@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x11582Ef4642B1e7F0a023804B497656E2663bC9B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KCCPad is the first major launch pad on KCC. KCCPad brings stabilty, safety and amazing opportunities on the new and highly anticipated KuCoin Community Chain!"
+  },
+  "id": "9c0d890c-d225-4dd1-ac33-bcb832facc4a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11582Ef4642B1e7F0a023804B497656E2663bC9B",
+    "website": "https://KCCPAD.io",
+    "twitter": "https://twitter.com/KCCPad_Official",
+    "coingecko": "https://coingecko.com/en/coins/kccpad",
+    "telegram": "https://t.me/KCCPad_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kccpad/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x11582Ef4642B1e7F0a023804B497656E2663bC9B/logo.png"
+  },
+  "name": "KCCPAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KCCPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

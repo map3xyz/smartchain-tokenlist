@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x270877FBDAdd2E28C7EAf08e528691B95684207e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LaikaCoin is a community owned DeFi token with a focus on charity and animal welfare."
+  },
+  "id": "60e46cc6-3be8-49d9-90ea-ef7bd006adc5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x270877FBDAdd2E28C7EAf08e528691B95684207e",
+    "website": "https://laikacommunity.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x270877FBDAdd2E28C7EAf08e528691B95684207e/logo.png"
+  },
+  "name": "LaikaCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAIKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

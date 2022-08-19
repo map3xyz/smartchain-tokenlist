@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoZoon is a complete platform of Digital Creatures Universe live on the Binance Smart Chain (BSC)."
+  },
+  "id": "c49bcacc-5531-4435-912c-b0fef2ab349e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC",
+    "website": "https://cryptozoon.io",
+    "telegram": "https://t.me/CryptoZoonBSC",
+    "twitter": "https://twitter.com/CryptoZoonBSC",
+    "reddit": "https://reddit.com/user/CryptoZoon",
+    "docs": "https://docs.cryptozoon.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC/logo.png"
+  },
+  "name": "CryptoZoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

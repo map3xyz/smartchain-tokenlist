@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC544D8aB2b5ED395B96E3Ec87462801ECa579aE1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Starfish OS is a starfish-style institution consensus collaboration system."
+  },
+  "id": "b7827deb-a1ba-4334-83f2-5277841bb367",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc544d8ab2b5ed395b96e3ec87462801eca579ae1",
+    "website": "https://www.sfos.io",
+    "twitter": "https://twitter.com/StarfishOS",
+    "github": "https://github.com/starfishos",
+    "telegram": "https://t.me/starfishos"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC544D8aB2b5ED395B96E3Ec87462801ECa579aE1/logo.png"
+  },
+  "name": "Starfish OS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFO",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

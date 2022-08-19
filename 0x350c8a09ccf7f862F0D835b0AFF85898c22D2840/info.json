@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x350c8a09ccf7f862F0D835b0AFF85898c22D2840",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Mind has been set up to raise awareness for mental health t hrough the power of memes and rewards."
+  },
+  "id": "750a7534-72c2-46ce-8a7d-bdb3b1bbe755",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x350c8a09ccf7f862F0D835b0AFF85898c22D2840",
+    "website": "https://baby.mindmusic.finance/",
+    "twitter": "https://twitter.com/mindmusic_bsc",
+    "github": "https://github.com/D-B-S-G/BabyMind",
+    "telegram": "https://t.me/babymindbsc",
+    "whitepaper": "https://baby.mindmusic.finance/white-paper.html"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x350c8a09ccf7f862F0D835b0AFF85898c22D2840/logo.png"
+  },
+  "name": "Baby Mind",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BMND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

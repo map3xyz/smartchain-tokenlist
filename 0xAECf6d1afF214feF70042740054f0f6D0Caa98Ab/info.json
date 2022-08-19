@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Shiba Inu offers an innovative mix of a multi-stage rewards system for staking and NFT presence. Anyone holding the token contributes to a charitable cause as the team is committed to making donations to Shiba Rescue America Organization"
+  },
+  "id": "b4949ec6-ace4-4b2c-8b0c-1eccd64ea319",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
+    "website": "https://www.babyshibatoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab/logo.png"
+  },
+  "name": "Baby Shiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyShibaInu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

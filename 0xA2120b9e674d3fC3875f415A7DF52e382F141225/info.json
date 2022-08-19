@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Automata Network is a decentralized service protocol that provides a privacy middleware layer for dApps across multiple blockchains."
+  },
+  "id": "061b7c54-c700-43b0-af3a-c399b98b852e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa2120b9e674d3fc3875f415a7df52e382f141225",
+    "website": "https://www.ata.network",
+    "github": "https://github.com/automata-network",
+    "twitter": "https://twitter.com/automatanetwork",
+    "telegram": "https://t.me/ata_network",
+    "coingecko": "https://coingecko.com/en/coins/automata/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/automata-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png"
+  },
+  "name": "Automata",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

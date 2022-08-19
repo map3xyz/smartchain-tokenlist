@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6CAD12b3618a3C7ef1FEb6C91FdC3251f58c2a90",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NINO token is a utility token that was issued by Ninneko development team."
+  },
+  "id": "d70e388a-5843-4bed-88b2-5d7db97944e2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6CAD12b3618a3C7ef1FEb6C91FdC3251f58c2a90",
+    "website": "https://ninneko.com/",
+    "twitter": "https://twitter.com/ninnekogame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ninneko/",
+    "coingecko": "https://coingecko.com/coins/ninneko/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6CAD12b3618a3C7ef1FEb6C91FdC3251f58c2a90/logo.png"
+  },
+  "name": "Ninneko",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NINO",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFA344C08C93066A4d6266063C6Ebc63925a18467",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeBull plans to develop a non-fungible token (NFT) exchange, as well as charity projects and crypto educational apps."
+  },
+  "id": "0bbef194-2afc-4dab-a003-4dc84205ce52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFA344C08C93066A4d6266063C6Ebc63925a18467",
+    "website": "https://safe-bull.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFA344C08C93066A4d6266063C6Ebc63925a18467/logo.png"
+  },
+  "name": "SafeBull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

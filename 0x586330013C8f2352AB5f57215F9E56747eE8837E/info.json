@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x586330013C8f2352AB5f57215F9E56747eE8837E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Somax autonomous yield and liquidity generation protocol on BSC"
+  },
+  "id": "f3fa8ec2-ca9e-4f84-9e7a-588ed72c698b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x586330013c8f2352ab5f57215f9e56747ee8837e",
+    "website": "https://somax.finance/",
+    "twitter": "https://twitter.com/somaxfinance",
+    "reddit": "https://reddit.com/r/SomaxFinance",
+    "medium": "https://medium.com/@SomaxFinance",
+    "telegram": "https://t.me/somaxfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/somax/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x586330013C8f2352AB5f57215F9E56747eE8837E/logo.png"
+  },
+  "name": "Somax",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$SLAM is the governance token of the gambling ecosystem of SLAM. It is a deflationary token that distributes rewards to its holders for holding $SLAM in their wallets."
+  },
+  "id": "64fa9b4c-53fa-434e-b253-54884d0815b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
+    "website": "https://slamtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37/logo.png"
+  },
+  "name": "SLAM",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLAM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

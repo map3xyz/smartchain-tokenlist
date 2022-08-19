@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A deflationary, auto-staking, community owned token."
+  },
+  "id": "28bac0c9-5f50-4a44-9c56-7aa67fbc4ed6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+    "website": "https://fairsafe.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca/logo.png"
+  },
+  "name": "Fair Safe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FSAFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

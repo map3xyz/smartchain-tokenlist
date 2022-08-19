@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3AbfC084a54E5f4e23196e1B9a9c48c3B3021519",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A protocol built on Binance Smart Chain to boost rewards on liquidity mining on lower gas costs and utilizing incentivisation strategies, Supercharged NFT collectibles and community governance models."
+  },
+  "id": "a61e731a-80d2-4bf5-8169-e1e29eab28eb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3abfc084a54e5f4e23196e1b9a9c48c3b3021519",
+    "website": "https://xpace.finance/",
+    "twitter": "https://twitter.com/xpacefinance",
+    "telegram": "https://t.me/xpacefinance",
+    "medium": "https://xpacefinance.medium.com/",
+    "whitepaper": "https://docdro.id/LWOMgmY"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3AbfC084a54E5f4e23196e1B9a9c48c3B3021519/logo.png"
+  },
+  "name": "Planet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PLNT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

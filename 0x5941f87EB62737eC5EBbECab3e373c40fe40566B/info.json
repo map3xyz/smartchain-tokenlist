@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x5941f87EB62737eC5EBbECab3e373c40fe40566B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Utility token to play and inGame economy of Moon Nation Game."
+  },
+  "id": "0eb2e2c6-149c-4ea1-b33b-d05cd57ca446",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5941f87EB62737eC5EBbECab3e373c40fe40566B",
+    "website": "https://moonnation.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x5941f87EB62737eC5EBbECab3e373c40fe40566B/logo.png"
+  },
+  "name": "Moon Nation Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

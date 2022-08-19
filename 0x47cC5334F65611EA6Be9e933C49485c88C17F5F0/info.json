@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x47cC5334F65611EA6Be9e933C49485c88C17F5F0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EpicHero is the Biggest 3D NFT War Game on BSC, the first ever P2E game with NFT holders reflection rewards in BNB"
+  },
+  "id": "ebfb5a3b-7b6b-4d11-8b9f-5a920af640a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47cc5334f65611ea6be9e933c49485c88c17f5f0",
+    "website": "https://epichero.io/",
+    "twitter": "https://twitter.com/EpicHeroio",
+    "telegram": "https://t.me/epicheroio",
+    "docs": "https://docs.epichero.io/",
+    "reddit": "https://reddit.com/r/epicheroio/",
+    "youtube": "https://youtube.com/channel/UCwvzcKP6hp-9Ud21iyeA_aA",
+    "coingecko": "https://coingecko.com/en/coins/epichero",
+    "github": "https://github.com/epicheronft/epichero-token-contract?fbclid=IwAR0irxgUcWDejbebFNa08qYalvg5SpNlbwWWuTcRSIKAKjbLvlANcy8BQsU"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x47cC5334F65611EA6Be9e933C49485c88C17F5F0/logo.png"
+  },
+  "name": "EpicHero Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EPICHERO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

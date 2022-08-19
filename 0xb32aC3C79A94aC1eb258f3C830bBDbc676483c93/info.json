@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OpenSwap is an integrated one-stop DeFi hub designed to revolutionize on-chain liquidity."
+  },
+  "id": "0787cc59-b0ab-42b3-9fce-bb585b77ea52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+    "website": "https://openswap.xyz",
+    "twitter": "https://twitter.com/openswapdex",
+    "blog": "https://openswapdex.medium.com/",
+    "telegram": "https://t.me/openswapdex",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/openswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93/logo.png"
+  },
+  "name": "OpenSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OSWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

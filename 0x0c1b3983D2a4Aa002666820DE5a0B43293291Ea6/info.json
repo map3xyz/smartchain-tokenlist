@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0c1b3983D2a4Aa002666820DE5a0B43293291Ea6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "No Whale can own > 0.5% supply. Auto-farming: earn $BNB, $BUSD, $BTC, $XBN. Auto-staking: earn $PEPE with zero fee. No auto-staking for holders who own >= 0.25% supply. Fair launch: No pre-sales, no Dev Fund. Super SAFE: Liquidity is Burned."
+  },
+  "id": "425e51c6-eef2-4945-9766-596c6386e746",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0c1b3983D2a4Aa002666820DE5a0B43293291Ea6",
+    "website": "https://www.pepe.community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0c1b3983D2a4Aa002666820DE5a0B43293291Ea6/logo.png"
+  },
+  "name": "PEPE Community",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

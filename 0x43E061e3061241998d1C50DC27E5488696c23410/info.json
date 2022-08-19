@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x43E061e3061241998d1C50DC27E5488696c23410",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Kaiken Coin is a yield-generating, decentralised community token, built to directly benefit our furry friends and our loyal holders."
+  },
+  "id": "3106a69f-0a07-4d09-a332-f3240c1a2e9f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x43E061e3061241998d1C50DC27E5488696c23410",
+    "website": "https://kaikencoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x43E061e3061241998d1C50DC27E5488696c23410/logo.png"
+  },
+  "name": "KaikenCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAIK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

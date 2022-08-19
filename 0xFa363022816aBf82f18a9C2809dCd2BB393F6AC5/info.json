@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Native Token of HoneyFarm Finance Layer 1"
+  },
+  "id": "de0c6a07-ebe2-4e97-ad3a-4e7397719c19",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5",
+    "website": "https://honey.honeyfarm.finance",
+    "twitter": "https://twitter.com/HoneyFarmFi",
+    "github": "https://github.com/HoneyFarmFi/HoneyFarmContracts",
+    "telegram": "https://t.me/HoneyFarmChat",
+    "telegramNews": "https://t.me/HoneyFarmAnn",
+    "blog": "https://medium.com/@honeyfarmchef",
+    "docs": "https://docs.honeyfarm.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5/logo.png"
+  },
+  "name": "HONEY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HONEY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

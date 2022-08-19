@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xF2A92BC1Cf798fF4De14502a9C6FdA58865e8D5d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "THOREUM v2 is a Multi-chain Venture Capital Platform that rewards its HOLDers by leveraging multi-chain investment opportunities. Thoreum phase 1 - Mining completed, phase 2 - Hyper deflationary & maximizing profits."
+  },
+  "id": "2015fd55-b0f8-4a69-9e51-0d498f3d3f95",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF2A92BC1Cf798fF4De14502a9C6FdA58865e8D5d",
+    "website": "https://thoreum.capital/",
+    "twitter": "https://twitter.com/ThoreumFinance",
+    "telegram": "https://t.me/Thoreum",
+    "docs": "https://docs.thoreum.capital/",
+    "reddit": "https://reddit.com/r/Thoreum_official/",
+    "youtube": "https://youtube.com/channel/UChv01NIAIwQm4gmJuSGd49Q",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/thoreum-v2/",
+    "github": "https://github.com/ThoreumFinance/ThoreumCapital"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF2A92BC1Cf798fF4De14502a9C6FdA58865e8D5d/logo.png"
+  },
+  "name": "Thoreum V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THOREUM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

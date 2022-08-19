@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0025B42bfc22CbbA6c02d23d4Ec2aBFcf6E014d4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sheep Token is a deflationary token that allows for passive income generation for investors. Here’s how it works. 6% on each transaction is split instantly among token holders and the burn wallet, reducing supply and rewarding holders. The Sheep Token protocol will burn 3% of every transaction forever and redistribute the remaining 3% to token holders as reward. This arrangement eradicates 3rd party risk from having to keep assets in a separate contract while yield farming while reducing supply."
+  },
+  "id": "e17de817-0f25-423c-b0be-8467acb35f4f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0025B42bfc22CbbA6c02d23d4Ec2aBFcf6E014d4",
+    "website": "https://SheepToken.Cash/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0025B42bfc22CbbA6c02d23d4Ec2aBFcf6E014d4/logo.png"
+  },
+  "name": "Sheep Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHEEP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

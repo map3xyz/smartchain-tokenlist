@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0523215DCafbF4E4aA92117d13C6985a3BeF27D7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We aim to bring the gaming community, content creators and game developers together with GMR."
+  },
+  "id": "9e8c18e9-e7bb-4332-843f-b1d010f74c0d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0523215dcafbf4e4aa92117d13c6985a3bef27d7",
+    "website": "https://gmr.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0523215DCafbF4E4aA92117d13C6985a3BeF27D7/logo.png"
+  },
+  "name": "GAMER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

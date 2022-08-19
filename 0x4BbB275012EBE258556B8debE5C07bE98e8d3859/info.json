@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4BbB275012EBE258556B8debE5C07bE98e8d3859",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value of the DeFi, create diversified investment, and become the future of financial services."
+  },
+  "id": "ae6b2379-e320-46e3-a0e8-e88a2bd47bc0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4bbb275012ebe258556b8debe5c07be98e8d3859",
+    "website": "https://narwhalswap.org",
+    "twitter": "https://twitter.com/narwhalswap",
+    "telegram": "https://t.me/narwhalswap",
+    "medium": "https://medium.com/narwhalswap",
+    "docs": "https://docs.narwhalswap.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4BbB275012EBE258556B8debE5C07bE98e8d3859/logo.png"
+  },
+  "name": "NAR Dividend Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GEM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

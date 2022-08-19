@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The First Meme DEX and Launchpad on BSC"
+  },
+  "id": "3b90ac8a-dbc4-4a11-be58-2442e4f774f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268",
+    "website": "https://shibance.com",
+    "github": "https://github.com/shibance",
+    "twitter": "https://twitter.com/shibance",
+    "reddit": "https://reddit.com/r/shibance",
+    "telegram": "https://t.me/shibance",
+    "telegramNews": "https://t.me/shibance_announcements",
+    "youtube": "https://youtube.com/channel/UCmIEiNh39XFtqJXRM02BT4Q",
+    "docs": "https://docs.shibance.com",
+    "medium": "https://shibance.medium.com",
+    "coingecko": "https://coingecko.com/en/coins/shibance-token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268/logo.png"
+  },
+  "name": "Shibance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOOF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

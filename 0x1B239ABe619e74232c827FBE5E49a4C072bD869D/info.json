@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x1B239ABe619e74232c827FBE5E49a4C072bD869D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A decentralized reserve currency protocol with the aim of mitigating volatility of traditional cryptocurrencies while not being pegged to any fiat currencies."
+  },
+  "id": "0a3f499c-7f97-4eab-a607-ffa7688edf26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1B239ABe619e74232c827FBE5E49a4C072bD869D",
+    "website": "https://gyro.money/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gyro/",
+    "coingecko": "https://coingecko.com/en/coins/gyro"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1B239ABe619e74232c827FBE5E49a4C072bD869D/logo.png"
+  },
+  "name": "Gyro",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GYRO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

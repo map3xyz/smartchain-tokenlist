@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x42fDd09fcA12359f32E3D36f1700E480Ff6eBb49",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped XRP"
+  },
+  "id": "c3c2348b-1d15-4567-b76a-f3022d6456de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42fdd09fca12359f32e3d36f1700e480ff6ebb49",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x42fDd09fcA12359f32E3D36f1700E480Ff6eBb49/logo.png"
+  },
+  "name": "FEG Wrapped XRP",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fXRP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

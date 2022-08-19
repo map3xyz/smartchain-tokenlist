@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "First yield farm on Binance Smart Chain."
+  },
+  "id": "3d88f3c8-a660-4a32-a569-b06b8caa6ba1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
+    "website": "https://stakecow.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF/logo.png"
+  },
+  "name": "Milk Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MILK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

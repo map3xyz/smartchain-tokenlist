@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Think of Chihuahua as a community driven, universal cryptocurrency with unique features. This is a real project that will be constantly evolving."
+  },
+  "id": "cf4372ca-0f8e-4a81-b19d-6e5fb4755e14",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd",
+    "website": "https://chihuahua.army/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd/logo.png"
+  },
+  "name": "Chihuahua Army",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

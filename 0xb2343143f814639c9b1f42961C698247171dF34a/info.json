@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb2343143f814639c9b1f42961C698247171dF34a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CORE is a multi chain PoS network focused on interoperability, scalability and usability. It utilizes AI-enabled Proof of Stake algorithm, multi layered consensus model and voting based governance."
+  },
+  "id": "2f7a486c-f511-44fa-af36-ae1a5363e700",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb2343143f814639c9b1f42961C698247171dF34a",
+    "website": "https://www.coremultichain.com",
+    "twitter": "https://twitter.com/COREMultichain",
+    "telegram": "https://t.me/coreblockchain",
+    "medium": "https://medium.com/@coreblockchain",
+    "whitepaper": "https://www.coremultichain.com/docs/core-paper.pdf",
+    "github": "https://github.com/CORE-Blockchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb2343143f814639c9b1f42961C698247171dF34a/logo.png"
+  },
+  "name": "CORE MultiChain Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CMCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

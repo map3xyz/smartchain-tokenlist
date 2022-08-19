@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x21C1C22C09990c1521D1A27852BEb005f7d6601E",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "ZBITCOIN IS THE FIRST DECENTRALIZED IDO PLATFORM FOR THE BINANCE SMART CHAIN NETWORK."
+  },
+  "id": "bd9e2c2d-8424-42bb-bcba-1c7f60d07a56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x21C1C22C09990c1521D1A27852BEb005f7d6601E",
+    "website": "https://zbitcoin.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x21C1C22C09990c1521D1A27852BEb005f7d6601E/logo.png"
+  },
+  "name": "Zbitcoin.space",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

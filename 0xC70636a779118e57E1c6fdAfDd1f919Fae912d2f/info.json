@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Munch a charity crypto coin"
+  },
+  "id": "94ccd5b8-2989-42cb-8996-53f20213bd9b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+    "website": "https://munchproject.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f/logo.png"
+  },
+  "name": "MUNCH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Munch",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

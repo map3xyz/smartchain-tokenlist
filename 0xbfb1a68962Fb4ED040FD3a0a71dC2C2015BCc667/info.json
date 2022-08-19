@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "4JNET, the pinnacle of fairness"
+  },
+  "id": "90590d17-19ae-4323-ac0b-6677f7407edc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667",
+    "website": "https://www.4j.net/",
+    "twitter": "https://twitter.com/4Jnet",
+    "telegram": "https://t.me/fourjnetchannel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbfb1a68962Fb4ED040FD3a0a71dC2C2015BCc667/logo.png"
+  },
+  "name": "4JNET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "4JNET",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

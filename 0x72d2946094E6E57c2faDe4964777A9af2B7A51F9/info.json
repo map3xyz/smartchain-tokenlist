@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x72d2946094E6E57c2faDe4964777A9af2B7A51F9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Pixl Coin fuses the world of advertising with the metaverse. Today, the crypto space is manipulated and flooded with a vast variety of different projects of which a large number are dishonest. Through Pixl's community and dedication to the values of transparency, honesty and integrity, this is a space for investors to interact with vetted and trusted projects, and for those projects to demonstrate and advertise their true value."
+  },
+  "id": "42128197-1ea1-4791-86be-5f7f394114b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x72d2946094E6E57c2faDe4964777A9af2B7A51F9",
+    "website": "https://pixlcoin.io",
+    "twitter": "https://twitter.com/PIXLCoin",
+    "github": "https://github.com/pixlcoin",
+    "telegram": "https://t.me/PixlCoinOfficial",
+    "telegramNews": "https://t.me/PIXLUpdates",
+    "blog": "https://pixlcoin.io/blog",
+    "docs": "https://pixlcoin.io/",
+    "whitepaper": "https://pixlcoin.io/documents/PIXL_Coin_whitepaper_v1.01.pdf",
+    "discord": "https://discord.com/invite/vCJKe4V87Q",
+    "reddit": "https://reddit.com/r/PixlCoin/",
+    "youtube": "https://youtube.com/channel/UCapfVtQNmR444PAw8ufLK_w",
+    "facebook": "https://facebook.com/pixlofficial/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pixl-coin/",
+    "coingecko": "https://coingecko.com/en/coins/pixl-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x72d2946094E6E57c2faDe4964777A9af2B7A51F9/logo.png"
+  },
+  "name": "Pixl Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PXLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

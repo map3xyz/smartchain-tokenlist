@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA72Ff2B799324B042AE379809eE54dACE99db3A5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Here's the magnificent Miss of Baby Doge 🐶 seeing her family members being famous, she couldn't bear with that and she knew this is the time for her show."
+  },
+  "id": "f8b0edab-630a-4f19-a6c0-f665623d6351",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA72Ff2B799324B042AE379809eE54dACE99db3A5",
+    "website": "https://missdoge.net",
+    "github": "https://github.com/MissDoge",
+    "twitter": "https://twitter.com/DogeMiss",
+    "telegram": "https://t.me/missdoge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA72Ff2B799324B042AE379809eE54dACE99db3A5/logo.png"
+  },
+  "name": "Miss Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MDOGE",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

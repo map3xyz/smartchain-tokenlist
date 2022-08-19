@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x183B2c147fE11788b73BC0D6A7E0186aA5464BfA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Futura aims to build a decentralized escrow system built on the Binance Smart Chain that focuses on Web 3.0 functionalities for the next generation of payments processing."
+  },
+  "id": "ed8059cd-0d81-4b06-974d-cf37c3486bc5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x183B2c147fE11788b73BC0D6A7E0186aA5464BfA",
+    "website": "https://futurafinance.io",
+    "telegram": "https://t.me/FuturaBSC",
+    "twitter": "https://twitter.com/FuturaBSC",
+    "github": "https://github.com/futurafinance",
+    "whitepaper": "https://docs.futurafinance.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/futura-finance",
+    "coingecko": "https://coingecko.com/en/coins/futura-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x183B2c147fE11788b73BC0D6A7E0186aA5464BfA/logo.png"
+  },
+  "name": "Futura Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

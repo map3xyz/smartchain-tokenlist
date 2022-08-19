@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2c094F5A7D1146BB93850f629501eB749f6Ed491",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CroxSwap is a fully decentralized cross-chain dex with AMM and yield farming protocol."
+  },
+  "id": "84aa96e3-e031-4d6a-8e0d-d8bdf2ae93c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2c094f5a7d1146bb93850f629501eb749f6ed491",
+    "website": "https://croxswap.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2c094F5A7D1146BB93850f629501eB749f6Ed491/logo.png"
+  },
+  "name": "CROX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CROX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

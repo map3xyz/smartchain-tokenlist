@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xCA0a9Df6a8cAD800046C1DDc5755810718b65C44",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TokenClub provides investors with one-stop services, and aims at building an autonomous, trusting, and efficient investor community."
+  },
+  "id": "dde56ca2-ffc4-41a3-a79a-10522e06e24d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCA0a9Df6a8cAD800046C1DDc5755810718b65C44",
+    "research": "https://research.binance.com/en/projects/tokenclub",
+    "website": "http://www.tokenclub.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCA0a9Df6a8cAD800046C1DDc5755810718b65C44/logo.png"
+  },
+  "name": "TokenClub",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

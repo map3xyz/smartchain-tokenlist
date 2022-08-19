@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Glorious Genius IN INcredible holDER"
+  },
+  "id": "f2d8e1d6-ff09-4b45-91ad-6bb01fda926e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0D6A59cEF44BaC622e91313B366C7F802b2670D6",
+    "website": "https://ggininder.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0D6A59cEF44BaC622e91313B366C7F802b2670D6/logo.png"
+  },
+  "name": "GGININDER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GGININDER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

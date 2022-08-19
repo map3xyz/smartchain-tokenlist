@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "1st Brazilian DeFi token of compound interest and expansionary liquidity"
+  },
+  "id": "bf9d58dc-d8a5-44ab-9afa-6840a66f2c0f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
+    "website": "https://viralata.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344/logo.png"
+  },
+  "name": "Vira-lata Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REAU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

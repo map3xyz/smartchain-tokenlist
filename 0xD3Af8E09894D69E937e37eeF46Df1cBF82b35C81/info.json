@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD3Af8E09894D69E937e37eeF46Df1cBF82b35C81",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NanoDogeCoin (INDC) is the revolutionary token that allows investors to earn USD Tether while helping to save dogs worldwide."
+  },
+  "id": "d635985e-b354-43e2-be8c-5424dc9182b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd3af8e09894d69e937e37eef46df1cbf82b35c81",
+    "website": "https://www.nanodogecoin.com/",
+    "telegram": "https://t.me/NanoDogecoin",
+    "twitter": "https://twitter.com/nanodogecoinbsc",
+    "coingecko": "https://coingecko.com/en/coins/nano-dogecoin",
+    "medium": "https://nanodoge.medium.com/",
+    "reddit": "https://reddit.com/r/NanoDogeCoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD3Af8E09894D69E937e37eeF46Df1cBF82b35C81/logo.png"
+  },
+  "name": "NanoDogeCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCaE755389BEe1b066F4713f3909983B48161aE2E",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NanoDOGE is a community based token with automatic buy-backs and reflections to all holders"
+  },
+  "id": "b32c3c35-245d-48da-9c65-616c63942b75",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCaE755389BEe1b066F4713f3909983B48161aE2E",
+    "website": "https://nanodoge.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCaE755389BEe1b066F4713f3909983B48161aE2E/logo.png"
+  },
+  "name": "NanoDOGEToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NanoDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

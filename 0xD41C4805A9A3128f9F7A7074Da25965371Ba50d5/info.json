@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Coinscope is the leading early coin listing and voting website. It is aiming to make crypto discoverable and efficient globally. It provides all the essential tools to assist users draw their own conclusions."
+  },
+  "id": "a0951fae-5aad-45b5-b062-b63550dd4b02",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd41c4805a9a3128f9f7a7074da25965371ba50d5",
+    "website": "https://coinscope.co",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinscope",
+    "coingecko": "https://coingecko.com/en/coins/coinscope",
+    "telegram": "https://t.me/coinscope_co",
+    "twitter": "https://twitter.com/@coinscopecrypto",
+    "reddit": "https://reddit.com/r/Coinscope",
+    "medium": "https://medium.com/@coinscopecrypto",
+    "facebook": "https://facebook.com/Coinscopecrypto",
+    "docs": "https://docs.coinscope.co",
+    "telegramNews": "https://t.me/coinscope_news",
+    "blog": "https://coinscope.co/blog",
+    "whitepaper": "https://firebasestorage.googleapis.com/v0/b/coinscopeassets.appspot.com/o/coinscope-whitepaper.pdf?alt=media",
+    "youtube": "https://youtube.com/channel/UCrQZWj09aoP_IpeRT0Gng-g"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD41C4805A9A3128f9F7A7074Da25965371Ba50d5/logo.png"
+  },
+  "name": "Coinscope",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COINSCOPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

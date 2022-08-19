@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wootrade aims to provide deep liquidity and superior order execution at the lowest cost for traders, exchanges, institutions, and DeFi platforms. Its flagship, WOO X, is a professional trading platform featuring customizable modules, and zero-fees with deep liquidity across spot and margin. Wootrade was founded by Kronos Research, a quantitative trading firm generating $10-15B in daily volume, with the goal of democratizing access to deep liquidity and yield strategies through various products."
+  },
+  "id": "7a8bbcf5-fc32-4b09-bfbd-331bdf4999cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "website": "https://woo.network",
+    "telegram": "https://t.me/wootrade",
+    "blog": "https://medium.com/@wootrade",
+    "facebook": "https://facebook.com/Wootrade",
+    "whitepaper": "https://woo.network/Litepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/wootrade-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png"
+  },
+  "name": "Wootrade Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
