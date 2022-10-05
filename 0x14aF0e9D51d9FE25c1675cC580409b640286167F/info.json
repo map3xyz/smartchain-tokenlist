@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x14aF0e9D51d9FE25c1675cC580409b640286167F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Boom Shiba - BUSD Rewards with the Power of Shiba."
+  },
+  "id": "daf33961-61d5-45c5-9652-22a6031cda94",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x14aF0e9D51d9FE25c1675cC580409b640286167F",
+    "website": "https://boomshiba.com/",
+    "twitter": "https://twitter.com/boomshiba",
+    "github": "https://github.com/BOOMSHIBA/BoomShiba",
+    "telegram": "https://t.me/boomshiba",
+    "whitepaper": "https://boomshiba.com/whitepaper.pdf",
+    "forum": "https://bitcointalk.org/index.php?topic=5368412",
+    "discord": "https://discord.com/invite/TkNCNEUqFc",
+    "medium": "https://medium.com/@BoomShiba",
+    "facebook": "https://facebook.com/boomshibacoin",
+    "reddit": "https://reddit.com/r/boomshiba",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/boom-shiba/",
+    "coingecko": "https://coingecko.com/en/coins/boom-shiba",
+    "sourceCode": "https://bscscan.com/address/0x14af0e9d51d9fe25c1675cc580409b640286167f#code#L1"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x14aF0e9D51d9FE25c1675cC580409b640286167F/logo.png"
+  },
+  "name": "Boom Shiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOOMSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

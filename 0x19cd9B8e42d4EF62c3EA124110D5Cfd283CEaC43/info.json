@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x19cd9B8e42d4EF62c3EA124110D5Cfd283CEaC43",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Battle Infinity is a gaming platform with multiple P2E battle games which is integrated with the metaverse world."
+  },
+  "id": "3dc0e0d3-4874-4336-8b71-4707bc025102",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43",
+    "website": "https://battleinfinity.io/",
+    "twitter": "https://twitter.com/ibatofficial",
+    "telegram": "https://t.me/battleinfinity",
+    "facebook": "https://facebook.com/battleinfinityofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x19cd9B8e42d4EF62c3EA124110D5Cfd283CEaC43/logo.png"
+  },
+  "name": "Battle Infinity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IBAT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

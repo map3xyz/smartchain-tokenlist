@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9eeB6c5ff183E6001c65a12D70026b900AE76781",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The future is now in renewable green energy and eco-friendly electric cars and solar panels"
+  },
+  "id": "7cace446-afe7-426e-8866-1d3276c60810",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9eeB6c5ff183E6001c65a12D70026b900AE76781",
+    "website": "https://irenamining.com/",
+    "telegram": "https://t.me/irena_coin_global",
+    "twitter": "https://twitter.com/Irenagreencoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/irena-green-energy/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9eeB6c5ff183E6001c65a12D70026b900AE76781/logo.png"
+  },
+  "name": "Irena Green Energy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IRENA",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

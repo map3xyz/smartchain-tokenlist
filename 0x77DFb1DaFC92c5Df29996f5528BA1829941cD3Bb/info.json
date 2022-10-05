@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x77DFb1DaFC92c5Df29996f5528BA1829941cD3Bb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FYETH.FINANCE is a regulated financial institution licensed by the Estonian Financial Authority, wholly owned by the global fintech group Investment Evolution."
+  },
+  "id": "847a5e63-68bf-4d15-81ac-5dbf43375a58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x77dfb1dafc92c5df29996f5528ba1829941cd3bb",
+    "website": "https://fyeth.finance/",
+    "github": "https://github.com/RodionIyer/yETH",
+    "whitepaper": "https://fyeth.finance/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x77DFb1DaFC92c5Df29996f5528BA1829941cD3Bb/logo.png"
+  },
+  "name": "fyeth.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "yETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

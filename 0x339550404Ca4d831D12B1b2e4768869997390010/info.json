@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x339550404Ca4d831D12B1b2e4768869997390010",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DRUGS is the primary token of the Traphouse yield farm playa. The most gangster yield farm ever created. Created by the THUGS interactive team."
+  },
+  "id": "4febcd4d-de59-4b68-98aa-23d119fe710a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x339550404ca4d831d12b1b2e4768869997390010",
+    "website": "https://traphouse.vip/",
+    "github": "https://github.com/thugs-defi",
+    "twitter": "https://twitter.com/ThugsFinance",
+    "telegram": "https://t.me/thugsfinance",
+    "discord": "https://discord.com/invite/AJDqFTP",
+    "medium": "https://thugsfinance.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x339550404Ca4d831D12B1b2e4768869997390010/logo.png"
+  },
+  "name": "DRUGSv2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRUGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

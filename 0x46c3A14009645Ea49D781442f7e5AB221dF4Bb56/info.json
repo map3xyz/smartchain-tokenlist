@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x46c3A14009645Ea49D781442f7e5AB221dF4Bb56",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "First Tokenomics Platform and Staking Reward Portfolio"
+  },
+  "id": "a3ee4665-bfc9-49f3-8c40-8a43a03fb272",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x46c3a14009645ea49d781442f7e5ab221df4bb56",
+    "website": "https://cryptolio.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x46c3A14009645Ea49D781442f7e5AB221dF4Bb56/logo.png"
+  },
+  "name": "CTL Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

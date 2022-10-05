@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb7F2bca9b034f8cc143339Dd12bb31D3D50Cf27a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Building the largest peer-to-peer service cypto service platform"
+  },
+  "id": "691bc9db-2f8f-442f-86aa-06a294b2d19f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb7F2bca9b034f8cc143339Dd12bb31D3D50Cf27a",
+    "website": "https://www.gorilladiamond.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb7F2bca9b034f8cc143339Dd12bb31D3D50Cf27a/logo.png"
+  },
+  "name": "Gorilla Diamond",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

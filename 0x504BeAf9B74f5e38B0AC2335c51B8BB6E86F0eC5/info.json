@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x504BeAf9B74f5e38B0AC2335c51B8BB6E86F0eC5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Chibi inu is one of the first movers in coming up with an NFT marketplace for Dog NFTs & memes"
+  },
+  "id": "d83edb04-db88-47a4-9245-2d51cac0d6a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x504beaf9b74f5e38b0ac2335c51b8bb6e86f0ec5",
+    "website": "https://chibinu.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x504BeAf9B74f5e38B0AC2335c51B8BB6E86F0eC5/logo.png"
+  },
+  "name": "Chibi Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Chibi",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xF28709f1daa6CEE2847C5B9526ceba457331742b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MELONx - We can beat breast cancer. Together!"
+  },
+  "id": "119991aa-b1e0-4599-a55c-94b8b6c08201",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF28709f1daa6CEE2847C5B9526ceba457331742b",
+    "website": "https://melontokenbsc.com/",
+    "twitter": "https://twitter.com/melontokenbsc",
+    "github": "https://github.com/DRIVENx",
+    "telegram": "https://t.me/melonbsc",
+    "blog": "https://medium.com/@drivenprotocol",
+    "whitepaper": "https://melontokenbsc.com/wp-content/uploads/2021/08/MELONx-Whitepaper.pdf",
+    "youtube": "https://youtube.com/c/DRIVENx",
+    "reddit": "https://reddit.com/r/DRIVENecosystem/",
+    "discord": "https://discord.com/invite/qZ36FNT23w",
+    "facebook": "https://facebook.com/melontoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF28709f1daa6CEE2847C5B9526ceba457331742b/logo.png"
+  },
+  "name": "$MLNX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$MLNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

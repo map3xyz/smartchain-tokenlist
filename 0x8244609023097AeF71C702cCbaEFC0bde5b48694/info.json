@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8244609023097AeF71C702cCbaEFC0bde5b48694",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The WSBT token is a non-deflationary token build on the Binance Smart Chain."
+  },
+  "id": "a18d3dce-7785-4a2d-bb01-37dfe5644a7b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8244609023097AeF71C702cCbaEFC0bde5b48694",
+    "website": "https://wsbtbros.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8244609023097AeF71C702cCbaEFC0bde5b48694/logo.png"
+  },
+  "name": "WSBT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

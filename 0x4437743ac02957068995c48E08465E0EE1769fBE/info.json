@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4437743ac02957068995c48E08465E0EE1769fBE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fortress is an algorithmic money market, and synthetic stable coin protocol designed to bring secure and trustless credit and lending to users on Binance Smart Chain."
+  },
+  "id": "825fd311-0b53-43e0-9679-c273f1e2d307",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4437743ac02957068995c48E08465E0EE1769fBE",
+    "research": "https://docs.fortress.loans/",
+    "website": "https://fortress.loans/",
+    "twitter": "https://twitter.com/Jetfuelfinance",
+    "telegram": "https://t.me/jetfuelfinance",
+    "medium": "https://medium.com/@jetfuelfinance",
+    "github": "https://docs.fortress.loans/smart-contracts"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4437743ac02957068995c48E08465E0EE1769fBE/logo.png"
+  },
+  "name": "Fortress",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

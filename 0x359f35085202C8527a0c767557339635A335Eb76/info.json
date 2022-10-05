@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x359f35085202C8527a0c767557339635A335Eb76",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PitJupiter is a community-driven and run token with charity goals & governance with a strong tokeneconomics base, with ownership renounced"
+  },
+  "id": "569ca331-50a6-4e7e-99e1-58bac9a6e442",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x359f35085202C8527a0c767557339635A335Eb76",
+    "website": "https://pitjupitertoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x359f35085202C8527a0c767557339635A335Eb76/logo.png"
+  },
+  "name": "PitJupiter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PITJUPITER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Juggernaut is a complete custom DeFi synthetics suite, governance, and NFT ecosystem + marketplace."
+  },
+  "id": "5f48106f-f029-48e5-b31b-536d81665f1b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
+    "website": "https://jgndefi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75/logo.png"
+  },
+  "name": "Juggernaut DeFi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JGN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

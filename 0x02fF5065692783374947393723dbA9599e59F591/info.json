@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x02fF5065692783374947393723dbA9599e59F591",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "YooShi is a community-driven, fair launched MEME Token, which brings both fun and profits!"
+  },
+  "id": "a27d2cd0-a3e8-40ec-8100-5163be108fd2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02ff5065692783374947393723dba9599e59f591",
+    "website": "https://yooshi.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x02fF5065692783374947393723dbA9599e59F591/logo.png"
+  },
+  "name": "YOOSHI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YOOSHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

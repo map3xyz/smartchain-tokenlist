@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE3Ba88c38D2789FE58465020CC0FB60b70c10d32",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The true Decentralized Finance, with no third party control. Everyone can vote their own project! The more votes the more KIND burned, the less supply!"
+  },
+  "id": "6ceff6a0-aab6-4759-9a09-24e13f83b890",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE3Ba88c38D2789FE58465020CC0FB60b70c10d32",
+    "website": "https://kindcow.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE3Ba88c38D2789FE58465020CC0FB60b70c10d32/logo.png"
+  },
+  "name": "Kindcow Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KIND",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

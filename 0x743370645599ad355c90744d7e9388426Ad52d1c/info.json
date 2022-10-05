@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x743370645599ad355c90744d7e9388426Ad52d1c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The SiaCashCoin ecosystem will bring about a revolution in the way your precious data will be stored, secured, and protected."
+  },
+  "id": "9de68eea-ecef-49f9-bf4a-73185d08c4f1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x743370645599ad355c90744d7e9388426ad52d1c",
+    "website": "https://www.siacashcoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x743370645599ad355c90744d7e9388426Ad52d1c/logo.png"
+  },
+  "name": "SiaCashCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Magic Craft – war and conquer MMO Play-To-Earn RPG, launched on Binance Smart Chain, with advanced guild, taxes and economy systems."
+  },
+  "id": "c1b82210-5997-41e2-91ef-6182f9ed012c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
+    "website": "https://magiccraft.io",
+    "twitter": "https://twitter.com/MagicCraftGame",
+    "telegram": "https://t.me/magiccraftgamechat",
+    "whitepaper": "https://docs.magiccraft.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/magiccraft"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f/logo.png"
+  },
+  "name": "MagicCraft",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MCRT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

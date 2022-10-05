@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF7A086BFf67DeD4Aa785e8a0a81D4345d9bb4740",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The first BEP20 Token that will make it possible for you to buy land on the moon."
+  },
+  "id": "e31c1921-7c52-4325-92d1-5645ca79cf77",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF7A086BFf67DeD4Aa785e8a0a81D4345d9bb4740",
+    "website": "https://metasafemoon.net",
+    "telegram": "https://t.me/MetaSafeMoonOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metasafemoon/",
+    "twitter": "https://twitter.com/MetaSafeMoon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF7A086BFf67DeD4Aa785e8a0a81D4345d9bb4740/logo.png"
+  },
+  "name": "MetaSafeMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "METASFMA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

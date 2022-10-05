@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb28a7f8f5328FafFDd862985177583c2Bb71E016",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PolkaPlay is a Social NFT & Gaming platform. From content to NFTs, PolkaPlay is the easiest way to create, sell, and collect NFTs. PolkaPlay enables platform users to create images, short videos, and NFTs seamlessly while earning rewards through Play to Earn games."
+  },
+  "id": "45637022-e6d8-4f8e-b4dd-939179c48fa9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb28a7f8f5328FafFDd862985177583c2Bb71E016",
+    "website": "https://polkaplay.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb28a7f8f5328FafFDd862985177583c2Bb71E016/logo.png"
+  },
+  "name": "PolkaPlay Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

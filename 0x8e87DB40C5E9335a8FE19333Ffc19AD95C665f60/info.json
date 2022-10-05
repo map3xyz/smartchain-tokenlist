@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x8e87DB40C5E9335a8FE19333Ffc19AD95C665f60",
+  "color": null,
+  "decimals": 16,
+  "description": {
+    "en": "DOOiT is here to bring a cryptocurrency exchange with high levels of security providing easy-to-use platform for everyone, even for newcomers to the crypto world. DOOiT also comes with its own token powered by BEP20 protocol. DOO is the Ticker we use for the DOOiT token. The Ticker is the abbreviation used to uniquely identify cryptocurrencies, this is the shortened name of the cryptocurrency. People can buy DOOiT tokens and any other tokens or coins using our Exchange Platform."
+  },
+  "id": "dbcf88fa-b44f-4c75-8de9-de14d43c84c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8e87DB40C5E9335a8FE19333Ffc19AD95C665f60",
+    "website": "https://tokendooit.com/",
+    "twitter": "https://twitter.com/tokendooit",
+    "github": "https://github.com/TokenDOOit",
+    "telegram": "https://t.me/tokendooit",
+    "blog": "https://blog.tokendooit.com/",
+    "discord": "https://discord.com/invite/jwmJ75eJff",
+    "reddit": "https://reddit.com/u/TokenDOOit/",
+    "medium": "https://medium.com/@tokendooit",
+    "whitepaper": "https://www.tokendooit.com/download/DOOit-Wallet-Whitepaper.pdf",
+    "youtube": "https://youtube.com/TokenDOOit",
+    "facebook": "https://facebook.com/tokendooit/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dooit-token/",
+    "sourceCode": "https://bscscan.com/address/0x8e87db40c5e9335a8fe19333ffc19ad95c665f60#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8e87DB40C5E9335a8FE19333Ffc19AD95C665f60/logo.png"
+  },
+  "name": "DOOiT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

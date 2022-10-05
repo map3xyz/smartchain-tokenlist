@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x11ed1d93bdD3Ee180CA724AC82F911663f0daFB2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "What is Paralel Universe? (PUL) It is a Defi project token which investors determine its price and is completely decentralized and connects different universes and realities designed on the fact that a different life you live in games generates income for you in the real world."
+  },
+  "id": "01023547-0be1-4385-b5bd-fd4fdfec9974",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11ed1d93bdD3Ee180CA724AC82F911663f0daFB2",
+    "website": "https://www.pulproject.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x11ed1d93bdD3Ee180CA724AC82F911663f0daFB2/logo.png"
+  },
+  "name": "Parallel Universe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PUL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

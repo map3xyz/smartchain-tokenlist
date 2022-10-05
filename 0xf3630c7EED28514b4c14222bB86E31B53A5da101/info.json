@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf3630c7EED28514b4c14222bB86E31B53A5da101",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MetaNet is a proprietary, hyper deflationary token on the Binance Smart Chain network. MetaNet is a platform in where content creators buy and sell NFTs."
+  },
+  "id": "b4d3bcd5-a7ca-4829-aec2-82f745837ba3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf3630c7EED28514b4c14222bB86E31B53A5da101",
+    "website": "https://metanet.is/",
+    "twitter": "https://twitter.com/MetaNetflix",
+    "telegram": "https://t.me/metanetbsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metanet/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf3630c7EED28514b4c14222bB86E31B53A5da101/logo.png"
+  },
+  "name": "MetaNet",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNet",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

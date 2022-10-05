@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Worldwide Carbon Sequestration Cryptocurrency Project dedicated to developing sustainable programs aiming to combat Global Warming and Climate Change."
+  },
+  "id": "70ab6c32-4372-49ce-90da-eed44ca78041",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38",
+    "website": "https://www.saveplanetearth.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38/logo.png"
+  },
+  "name": "SavePlanetEarth",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

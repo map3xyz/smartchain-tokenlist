@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xeb986DA994E4a118d5956b02d8b7c3C7CE373674",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gather is a platform that allows publishers to monetize without ads and provides businesses & developers access to cheap and reliable processing power."
+  },
+  "id": "634f7944-8d9b-45ef-86f7-c07fffbe8ebb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeb986DA994E4a118d5956b02d8b7c3C7CE373674",
+    "website": "https://gather.network",
+    "twitter": "https://twitter.com/Gather_Network",
+    "reddit": "https://reddit.com/r/GatherNetwork",
+    "medium": "https://medium.com/@GatherNetwork",
+    "whitepaper": "https://gather.network/whitepaper.html"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeb986DA994E4a118d5956b02d8b7c3C7CE373674/logo.png"
+  },
+  "name": "Gather",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GTH",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

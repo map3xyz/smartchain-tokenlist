@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "NNBC is a crypto-asset issued by Innovative Bioresearch Ltd, a biotech company performing novel biomedical research in the field of HIV, cancer, and regeneration research"
+  },
+  "id": "f0b3fd18-a83a-427f-9fce-495d5e3d5f10",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19",
+    "website": "https://innovativebioresearch.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19/logo.png"
+  },
+  "name": "InnovativeBioresearchCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "INNBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

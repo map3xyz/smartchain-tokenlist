@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "xDitto is a secondary, non-rebasing asset that backs the Ditto elastic supply token."
+  },
+  "id": "3cc5ffef-cdb7-4f16-855c-ba58d33dd1ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB",
+    "website": "https://ditto.money",
+    "github": "https://github.com/ditto-money/",
+    "twitter": "https://twitter.com/dittomoney_"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB/logo.png"
+  },
+  "name": "xDitto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XDITTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

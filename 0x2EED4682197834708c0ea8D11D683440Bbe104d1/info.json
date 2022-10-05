@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x2EED4682197834708c0ea8D11D683440Bbe104d1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Nafty is the token for the adult industry, aimed to empower content creators and reward content consumers across the Nafty Network"
+  },
+  "id": "cfbfaa6c-06d6-4fe6-b8b9-bf0cf5a7ee10",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2EED4682197834708c0ea8D11D683440Bbe104d1",
+    "website": "https://naftytoken.com",
+    "telegram": "https://t.me/naftydiscussions",
+    "twitter": "https://twitter.com/naftyofficial",
+    "whitepaper": "https://naftytoken.com/docs/whitepaper/",
+    "github": "https://github.com/nafty2021/assets",
+    "telegramNews": "https://t.me/NaftyToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nafty/",
+    "coingecko": "https://coingecko.com/en/coins/nafty/",
+    "discord": "https://discord.com/CvtBYZGCKm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2EED4682197834708c0ea8D11D683440Bbe104d1/logo.png"
+  },
+  "name": "Nafty",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Nafty",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

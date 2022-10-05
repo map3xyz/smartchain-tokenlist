@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x16153214E683018D5aA318864c8e692b66E16778",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PolkaWar is a blockchain based NFT gaming platform and marketplace. Inspired by the recent crypto NFT and gaming narratives, PolkaWar will combine and synergize them both to build an attractive platform."
+  },
+  "id": "002e8912-5766-4ae9-9477-c08fc4b8b85d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x16153214E683018D5aA318864c8e692b66E16778",
+    "website": "https://polkawar.com/",
+    "twitter": "https://twitter.com/polkawarnft",
+    "telegram": "https://t.me/polkawarchat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x16153214E683018D5aA318864c8e692b66E16778/logo.png"
+  },
+  "name": "PolkaWar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PWAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

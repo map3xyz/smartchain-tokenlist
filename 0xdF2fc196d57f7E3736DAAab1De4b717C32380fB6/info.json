@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm Cardano on Binance Smart Chain"
+  },
+  "id": "81059a81-4450-4ccc-a436-8550fb9ed039",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6",
+    "website": "https://wcardano.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6/logo.png"
+  },
+  "name": "wCardano",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

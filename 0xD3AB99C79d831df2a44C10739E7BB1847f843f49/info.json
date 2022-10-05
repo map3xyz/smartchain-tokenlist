@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD3AB99C79d831df2a44C10739E7BB1847f843f49",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Burncoin is a super deflationary token thanks to the buy back protocol"
+  },
+  "id": "9a3801f8-b11d-4d51-a37b-9b0c0c705d0d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd3ab99c79d831df2a44c10739e7bb1847f843f49",
+    "website": "https://burncoin.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD3AB99C79d831df2a44C10739E7BB1847f843f49/logo.png"
+  },
+  "name": "Burncoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURNC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

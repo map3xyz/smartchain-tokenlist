@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MSS holders have voting rights and the ability to create proposals to improve the protocol. MSS holders also have many rights such as MSC minted will be distributed to MSS holders who have staked their tokens inside the boardroom."
+  },
+  "id": "9d6d23ed-e9b6-4132-8e3c-b0f34f3c2944",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6",
+    "website": "https://monsterslayer.finance/",
+    "github": "https://github.com/monsterslayerfinance/bdollar-smartcontracts",
+    "twitter": "https://twitter.com/monsterslayerfi",
+    "telegram": "https://t.me/monsterslayer_announcement",
+    "medium": "https://medium.com/@monsterslayerfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6/logo.png"
+  },
+  "name": "Monster Slayer Share",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

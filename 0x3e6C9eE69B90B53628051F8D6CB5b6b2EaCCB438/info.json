@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Multigame is a GameFi & multitasking NFTs platform was built on Binance Smart Chain. The platform will both ensure an accelerator role for other Gaming & NFTs startups and develop separated GameFi projects."
+  },
+  "id": "6eec7c01-358c-4ab4-94f4-1e59994c2f1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438",
+    "website": "https://multigame.org/",
+    "twitter": "https://twitter.com/multigame_org",
+    "telegram": "https://t.me/multigame_chat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438/logo.png"
+  },
+  "name": "Multigame",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MULTI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

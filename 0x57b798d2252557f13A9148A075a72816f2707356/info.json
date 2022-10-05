@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x57b798d2252557f13A9148A075a72816f2707356",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "RatsCoin is now completely owned and run by its amazing community."
+  },
+  "id": "39e2798d-86eb-41dc-a572-a68796f1cdf6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57b798d2252557f13A9148A075a72816f2707356",
+    "website": "https://www.ratscoin.com/",
+    "twitter": "https://twitter.com/ratscoinx1000",
+    "telegram": "https://t.me/ratscoinx1000",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ratscoin/",
+    "coingecko": "https://coingecko.com/coins/ratscoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x57b798d2252557f13A9148A075a72816f2707356/logo.png"
+  },
+  "name": "Ratscoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RATS",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

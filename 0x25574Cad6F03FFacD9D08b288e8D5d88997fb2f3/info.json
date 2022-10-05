@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x25574Cad6F03FFacD9D08b288e8D5d88997fb2f3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "REDFEG is BEP-20 token that is determined to feed every community member."
+  },
+  "id": "728b88e0-1b26-4b7c-809c-9a067004e25a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x25574cad6f03ffacd9d08b288e8d5d88997fb2f3",
+    "website": "https://feg.red",
+    "telegram": "https://t.me/RedFEG",
+    "twitter": "https://twitter.com/Red_FEG",
+    "github": "https://github.com/RedTeam-Blockchain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x25574Cad6F03FFacD9D08b288e8D5d88997fb2f3/logo.png"
+  },
+  "name": "RedFEG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REDFEG 🦍",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x54E5721Ea9c828E725aE6E3F640F69928B696b3e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dolphin Network is a fully decentralized, the NFT MarketPlace for Meme tokens."
+  },
+  "id": "a5a9d778-a1d1-4af8-8204-4a4b3cec8e87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x54E5721Ea9c828E725aE6E3F640F69928B696b3e",
+    "website": "https://dolphinnetwork.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x54E5721Ea9c828E725aE6E3F640F69928B696b3e/logo.png"
+  },
+  "name": "DolphinNetWork",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOLP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

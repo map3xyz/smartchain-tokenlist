@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0957C57C9EB7744850dCC95db5A06eD4a246236E",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "An Innovative Yield Farm on Binance Smart Chain."
+  },
+  "id": "9e5dbd97-b239-4b2e-85f0-a1bc8cf49e60",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0957c57c9eb7744850dcc95db5a06ed4a246236e",
+    "website": "https://bsc.dango.money",
+    "github": "https://github.com/dango-money/dango-money-farm",
+    "twitter": "https://twitter.com/dango_money",
+    "telegram": "https://t.me/DangoANN"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0957C57C9EB7744850dCC95db5A06eD4a246236E/logo.png"
+  },
+  "name": "DANGO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DANGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd522A1DcE1CA4B138DDA042a78672307eb124CC2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Swapz is the native currency of Swapz DEX"
+  },
+  "id": "8a56b7cd-841a-45a2-865e-daf83e48a2b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd522A1DcE1CA4B138DDA042a78672307eb124CC2",
+    "website": "https://www.swapz.app/",
+    "twitter": "https://twitter.com/swapz_app",
+    "telegram": "https://t.me/swapz_app",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/swapz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd522A1DcE1CA4B138DDA042a78672307eb124CC2/logo.png"
+  },
+  "name": "Swapz.app",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWAPZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

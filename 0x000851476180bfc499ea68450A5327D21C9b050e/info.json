@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x000851476180bfc499ea68450A5327D21C9b050e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SLAM aims to create an ecosystem of products ranging from casino platforms to innovative NFT collections and applications. SLAM holders get dividends."
+  },
+  "id": "21059158-0be3-4d03-a738-32d6741d5d1e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x000851476180bfc499ea68450A5327D21C9b050e",
+    "website": "https://slamtoken.com",
+    "twitter": "https://twitter.com/slamtoken",
+    "telegram": "https://t.me/SlamToken",
+    "whitepaper": "https://slamtoken.com/whitepaper",
+    "sourceCode": "https://bscscan.com/address/0x000851476180bfc499ea68450A5327D21C9b050e#code",
+    "github": "https://github.com/slamtoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x000851476180bfc499ea68450A5327D21C9b050e/logo.png"
+  },
+  "name": "SLAM Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLAM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

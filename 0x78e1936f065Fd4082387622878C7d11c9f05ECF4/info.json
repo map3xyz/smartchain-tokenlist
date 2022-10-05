@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0x78e1936f065Fd4082387622878C7d11c9f05ECF4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "fad126b2-dc35-403e-b89e-04bd64a78be1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x78e1936f065Fd4082387622878C7d11c9f05ECF4",
+    "website": "https://jointer.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x78e1936f065Fd4082387622878C7d11c9f05ECF4/logo.png"
+  },
+  "name": "Jointer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JNTR/b",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

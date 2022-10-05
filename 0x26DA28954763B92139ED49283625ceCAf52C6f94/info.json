@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x26DA28954763B92139ED49283625ceCAf52C6f94",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "f2f0f001-fa8b-46ad-96b1-970316007982",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26DA28954763B92139ED49283625ceCAf52C6f94",
+    "website": "https://venus.io/",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26DA28954763B92139ED49283625ceCAf52C6f94/logo.png"
+  },
+  "name": "Venus AAVE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vAAVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

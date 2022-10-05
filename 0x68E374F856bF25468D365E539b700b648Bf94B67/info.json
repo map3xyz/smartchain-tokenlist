@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x68E374F856bF25468D365E539b700b648Bf94B67",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Mist Token is the native in-game currency of Mist developed to incorporate NFTs with in-game functions for MMO audience."
+  },
+  "id": "0b1aa4d8-8207-464f-b7ff-71e8ff9226b6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x68E374F856bF25468D365E539b700b648Bf94B67",
+    "website": "https://mist.game/",
+    "telegram": "https://t.me/MistNFT",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mist/",
+    "twitter": "https://twitter.com/MistNft"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x68E374F856bF25468D365E539b700b648Bf94B67/logo.png"
+  },
+  "name": "Mist",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$MIST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

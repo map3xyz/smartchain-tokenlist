@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2B54d3d7aB8e65895168938F7145F39225Db7CE5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EYE is a fully decentralized token create a stable token"
+  },
+  "id": "b17443b1-192e-4a4d-bc6a-8c553e6420e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2B54d3d7aB8e65895168938F7145F39225Db7CE5",
+    "website": "https://eyeswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2B54d3d7aB8e65895168938F7145F39225Db7CE5/logo.png"
+  },
+  "name": "EyeSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EYE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

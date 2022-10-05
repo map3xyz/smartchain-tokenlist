@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x3A806A3315E35b3F5F46111ADb6E2BAF4B14A70D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LIBERA FINANCIAL is a Triple passive income & Hyper Deflationary token that is listed on CEXes."
+  },
+  "id": "28cd0f4d-75df-4b57-9ecc-48d8bef2db12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3A806A3315E35b3F5F46111ADb6E2BAF4B14A70D",
+    "website": "https://libera.financial/",
+    "twitter": "https://twitter.com/LiberaFinancial",
+    "telegram": "https://t.me/liberoofficialgroup",
+    "docs": "https://docs.libero.financial/",
+    "medium": "https://liberofinancial.medium.com/",
+    "youtube": "https://youtube.com/c/LiberoFinancial",
+    "github": "https://github.com/liberafinancial/Libera",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/libera-financial/",
+    "coingecko": "https://coingecko.com/en/coins/libera-financial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3A806A3315E35b3F5F46111ADb6E2BAF4B14A70D/logo.png"
+  },
+  "name": "Libera Financial",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIBERA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

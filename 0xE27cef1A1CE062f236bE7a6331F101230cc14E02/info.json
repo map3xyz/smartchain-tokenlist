@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE27cef1A1CE062f236bE7a6331F101230cc14E02",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Panda Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn."
+  },
+  "id": "3811fe4d-8da2-47cc-ace8-ceae48d6306d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE27cef1A1CE062f236bE7a6331F101230cc14E02",
+    "website": "https://littlepandamoon.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE27cef1A1CE062f236bE7a6331F101230cc14E02/logo.png"
+  },
+  "name": "LittlePandaMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTPM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

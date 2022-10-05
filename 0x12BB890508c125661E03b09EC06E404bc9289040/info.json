@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Radio Caca is the payment token for NFTs. Radio Caca (as “RACA”), is expected to gain rapid worldwide adoption in the music, digital art and fashion area across the world. A deflation token with limited supply. A community-driven token for NFT payment sector."
+  },
+  "id": "93116595-4659-4cb7-a2d5-90ce80e8c49b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12BB890508c125661E03b09EC06E404bc9289040",
+    "website": "https://www.radiocaca.com",
+    "github": "https://github.com/radiocaca/radio-caca",
+    "twitter": "https://twitter.com/RadioCacaNFT",
+    "medium": "https://radiocaca.medium.com/",
+    "telegram": "https://t.me/RadioCaca"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x12BB890508c125661E03b09EC06E404bc9289040/logo.png"
+  },
+  "name": "Radio Caca V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RACA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

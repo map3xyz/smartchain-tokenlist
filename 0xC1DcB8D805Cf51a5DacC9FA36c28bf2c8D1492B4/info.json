@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Hush Coin ($HUSH) was specifically created with the ambitious goal to “change the way you engage”."
+  },
+  "id": "51eb843c-375f-409c-bc67-52ac6491b979",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+    "website": "https://www.hushcoin.me/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4/logo.png"
+  },
+  "name": "HUSH COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HUSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xF14D3692B0055Db9Ca4c04065165d59B87E763f1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaBusdCoin is a deflationary reward token, rewarding holders in a stable coin pegged to the Binance Smart Chain."
+  },
+  "id": "dfcd10bc-e184-4ee5-a51f-a16b079f8b2a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF14D3692B0055Db9Ca4c04065165d59B87E763f1",
+    "website": "https://metabusdcoin.com/",
+    "twitter": "https://twitter.com/MetaBUSDCoin",
+    "telegram": "https://t.me/MetaBUSDCoin",
+    "discord": "https://discord.com/channels/913264078078759014/915762320242778162",
+    "coingecko": "https://coingecko.com/en/coins/metabusdcoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metabusdcoin",
+    "whitepaper": "https://metabusdcoin.com/assets/files/WhitePaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF14D3692B0055Db9Ca4c04065165d59B87E763f1/logo.png"
+  },
+  "name": "MetaBUSDCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MBC",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

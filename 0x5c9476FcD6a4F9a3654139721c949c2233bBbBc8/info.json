@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
+  },
+  "id": "b79539dd-434b-47e5-b90b-b0261ae65071",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8",
+    "website": "https://venus.io/",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8/logo.png"
+  },
+  "name": "Venus MATIC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vMATIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

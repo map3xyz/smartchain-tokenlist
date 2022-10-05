@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ShibaZilla aims to go above and beyond for its community, by providing investors 5% liquidity and 5% Reflection Rewards."
+  },
+  "id": "01d08564-e20a-49c7-964e-f2056749cedd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009",
+    "website": "https://shibazilla.com",
+    "telegram": "https://t.me/shibazillacoin",
+    "twitter": "https://twitter.com/shibazillacoin",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/shibazillacoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x68810a6F5bB0491cB9Ccf8c52735A1acf5f28009/logo.png"
+  },
+  "name": "ShibaZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ShibaZilla",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

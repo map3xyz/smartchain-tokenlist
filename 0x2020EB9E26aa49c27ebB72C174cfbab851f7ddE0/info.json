@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2020EB9E26aa49c27ebB72C174cfbab851f7ddE0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Jejudoge BSC protocol is a community driven, fair launched DeFi token on the Binance Smart Chain (BSC) that arose from the desire to introduce a new standard of professionalism to a market segment that has been largely characterized by a lack of effort or innovation in the areas of tokenomics, design, marketing, implementation, and ongoing catalysts to maintain momentum and generate continued returns for holders..."
+  },
+  "id": "1258f41e-3cca-467e-868d-5808ce04b373",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2020EB9E26aa49c27ebB72C174cfbab851f7ddE0",
+    "website": "https://jejudogebsc.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2020EB9E26aa49c27ebB72C174cfbab851f7ddE0/logo.png"
+  },
+  "name": "Jeju Doge BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JEJUDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

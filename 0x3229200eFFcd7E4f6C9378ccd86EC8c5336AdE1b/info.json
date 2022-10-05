@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3229200eFFcd7E4f6C9378ccd86EC8c5336AdE1b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RocketBsc is the largest decentralized payment system. RocketBsc provides a digital asset ecosystem that empowers you to control your own money. By using RocketBsc, everything will run smoothly, and transaction execution can be done in seconds. RocketBsc comes with the support of blockchain technology, which allows users to receive, store and send crypto money to anyone, anywhere and anytime directly"
+  },
+  "id": "7db70f42-414b-478c-803e-e80eed7d0f49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3229200eFFcd7E4f6C9378ccd86EC8c5336AdE1b",
+    "website": "https://www.rocketbsc.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3229200eFFcd7E4f6C9378ccd86EC8c5336AdE1b/logo.png"
+  },
+  "name": "Rocket Bsc",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RBST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

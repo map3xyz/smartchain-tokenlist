@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Feel like you were late to the party with Bitcoin? Then, don't miss out on BitBurn! BitBurn resides on the BSC network and rewards 5% Bitcoin while offering a TRUE burn!"
+  },
+  "id": "4486e702-6517-4d6e-b7f5-e365769a86ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5a5844cab96a7b8b257fc606aa6119c5cbc6d4c4",
+    "website": "https://bitburn.io/",
+    "twitter": "https://twitter.com/BitBurnOfficial",
+    "github": "https://github.com/bitburnio/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5A5844CAb96A7b8B257Fc606Aa6119c5cBc6D4c4/logo.png"
+  },
+  "name": "BitBurn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Burn",
+  "tags": [
+    "defi",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

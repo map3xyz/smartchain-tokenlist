@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x035aD59058c557be4532141FBCD60f0998fCE413",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyApeFunClub is designed to create a complex ecosystem in which DeFi, Metaverse & Real World are integrated together. Crypto users will access all DeFi & Metaverse services quickly, cheaply and effectively with only BabyApeFunClub platforms. For this, we are building the BAFC Stake, BAFC Swap, BAFC Marketplace, BAFC Metaverse, BAFC Store.Specifically, the BAFC Store was designed to help poor people around the world and is in great preparation."
+  },
+  "id": "d242910f-1eca-4dc3-8877-fa81c3d91d15",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x035ad59058c557be4532141fbcd60f0998fce413",
+    "website": "https://babyapefunclub.com/",
+    "twitter": "https://twitter.com/BabyApeFunClub",
+    "telegram": "https://t.me/BabyApeFunClub",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babyapefunclub/",
+    "coingecko": "https://coingecko.com/coins/babyapefunclub",
+    "youtube": "https://youtube.com/channel/UCL6fPF63i2RBVi-mTKPBDgg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x035aD59058c557be4532141FBCD60f0998fCE413/logo.png"
+  },
+  "name": "BabyApeFunClub",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAFC",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

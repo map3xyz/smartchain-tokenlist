@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "ElonXCoin is Memes Token"
+  },
+  "id": "ecf445e3-eaae-46f3-a6a0-55f7f7974ab4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262",
+    "website": "https://elonxcoinbsc.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAa7E7C03C6864ccA116D34EC5B7103b030dE5262/logo.png"
+  },
+  "name": "ElonXCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ElonX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

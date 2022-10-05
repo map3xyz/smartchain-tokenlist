@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xCE262761DF57c72999146b7A6a752da03835db4a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A sustainable economic model with Vaults, Hold and Earn, and Black Hole design."
+  },
+  "id": "a06f9b73-db91-4a02-a119-48415aaec725",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xce262761df57c72999146b7a6a752da03835db4a",
+    "website": "https://www.mucoin.us",
+    "twitter": "https://twitter.com/MUConFinTech",
+    "github": "https://github.com/MuConFinTech",
+    "telegram": "https://t.me/mucontinent",
+    "youtube": "https://youtube.com/channel/UCbXy0g1sIMP2ZEvfeloF1dw",
+    "medium": "https://mucommunity.medium.com",
+    "telegramNews": "https://t.me/MuContinentANN",
+    "whitepaper": "https://mucoin.us/whitepaper/",
+    "sourceCode": "https://github.com/MuConFinTech/Mu/blob/main/MuSmartContract.sol",
+    "coingecko": "https://coingecko.com/en/coins/mu-continent",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mu-continent"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCE262761DF57c72999146b7A6a752da03835db4a/logo.png"
+  },
+  "name": "Mu Continent",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

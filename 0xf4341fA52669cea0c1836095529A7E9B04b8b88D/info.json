@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf4341fA52669cea0c1836095529A7E9B04b8b88D",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The World's First Proof-of-Burn (PoB) Decentralized Ecosystem"
+  },
+  "id": "075e587e-e4f6-42d8-b845-4781ae8cbc60",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf4341fA52669cea0c1836095529A7E9B04b8b88D",
+    "website": "https://satozhi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf4341fA52669cea0c1836095529A7E9B04b8b88D/logo.png"
+  },
+  "name": "Satozhi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SATOZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

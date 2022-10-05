@@ -1,0 +1,34 @@
+{
+  "active": false,
+  "address": "0xed74Bc5DC139356E08dE28143996F5eF6e4334a4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpookyShiba is the first horror Genre Token on Binance Smartchain with utility for holders tied into the NFT Marketplace."
+  },
+  "id": "1aef6bf5-1b45-47f6-8397-9b85e8d874a5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xed74Bc5DC139356E08dE28143996F5eF6e4334a4",
+    "website": "https://SpookyShibaBSC.com",
+    "twitter": "https://twitter.com/shibaspooky",
+    "github": "https://github.com/CryptoCreators/SpookyShiba",
+    "telegram": "https://t.me/spookyshibaofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/spooky-shiba/",
+    "coingecko": "https://coingecko.com/en/coins/spookyshiba",
+    "discord": "https://discord.com/P6hkCFc5kR",
+    "reddit": "https://reddit.com//r/SpookyShibaBSC",
+    "facebook": "https://facebook.com/spookyshibatoken",
+    "youtube": "https://youtube.com/channel/UCaTAm3R9Orew15BAMD7w6xQ"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xed74Bc5DC139356E08dE28143996F5eF6e4334a4/logo.png"
+  },
+  "name": "SpookyShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPOOKYSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

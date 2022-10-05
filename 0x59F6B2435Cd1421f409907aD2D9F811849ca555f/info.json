@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x59F6B2435Cd1421f409907aD2D9F811849ca555f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tank Battle is a game that shows creativity in assembling TANK to fight."
+  },
+  "id": "71982d69-3248-40a6-9c79-718fe9e3e446",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x59F6B2435Cd1421f409907aD2D9F811849ca555f",
+    "website": "https://tankbattle.co/",
+    "twitter": "https://twitter.com/tankbattleco",
+    "github": "https://github.com/tankbattlex/",
+    "telegram": "https://t.me/tankbattlechannel",
+    "discord": "https://discord.com/invite/pTsHjEANZN",
+    "medium": "https://medium.com/@tankbattle.nft",
+    "whitepaper": "https://whitepaper.tankbattle.co/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tank-battle/",
+    "facebook": "https://facebook.com/tankbattle.co",
+    "youtube": "https://youtube.com/channel/UCC_Rclf5zz9YsJO3V9as_bA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x59F6B2435Cd1421f409907aD2D9F811849ca555f/logo.png"
+  },
+  "name": "TankBattle Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TBL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

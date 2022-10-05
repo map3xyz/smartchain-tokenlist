@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x139dd9203c8E46d15B3896814Dc9424c5e5559fA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "OX is a charity coin that donates 2% of every transaction directly to the Binance charity wallet."
+  },
+  "id": "d5077bd2-80ca-4bfa-81b2-b5f3ff649141",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x139dd9203c8E46d15B3896814Dc9424c5e5559fA",
+    "research": "https://orcax.finance",
+    "website": "https://orcax.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x139dd9203c8E46d15B3896814Dc9424c5e5559fA/logo.png"
+  },
+  "name": "OrcaX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

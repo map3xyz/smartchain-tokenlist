@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ulti Arena - NFT Marketplace for Game Assets with Proof of Gaming and Trading Card Game."
+  },
+  "id": "70e929e2-ce6f-4dbc-af1e-11647e6754a1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F",
+    "website": "https://ultiarena.com/",
+    "twitter": "https://twitter.com/UltiArena",
+    "telegram": "https://t.me/ultiarena",
+    "medium": "https://ulti-arena.medium.com",
+    "whitepaper": "https://ultiarena.com/wp-content/uploads/2021/09/Ulti-Arena-Whitepaper-2.0-1.pdf",
+    "facebook": "https://facebook.com/ultiarenacom",
+    "github": "https://github.com/ultiarena",
+    "youtube": "https://youtube.com/channel/UCw77VVcp4VEIwKUiv93qZcA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ulti-arena"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F/logo.png"
+  },
+  "name": "ULTI Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ULTI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

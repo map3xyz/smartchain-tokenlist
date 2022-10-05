@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x64F36701138f0E85cC10c34Ea535FdBADcB54147",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AINU was mistreated his whole life and has finally found a loving place to stay he calls home. ANON INU's goal is to keep his holders happy by being a Defi token that has three functions: manual burns, adding towards liquidity and distributing his holders."
+  },
+  "id": "acaa44df-7bdf-4127-9df9-1183bfcb5783",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64F36701138f0E85cC10c34Ea535FdBADcB54147",
+    "website": "https://inuanon.com/",
+    "discord": "https://discord.com/qzDnC4cyg3",
+    "twitter": "https://twitter.com/InuAnon",
+    "telegram": "https://t.me/InuAnonOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x64F36701138f0E85cC10c34Ea535FdBADcB54147/logo.png"
+  },
+  "name": "ANON INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The World’s First Business-Backed Blockchain Smart Economy."
+  },
+  "id": "f7ba0e00-9349-424c-b4ee-cdce178db606",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+    "website": "https://eco-system.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeDe2F059545e8Cde832d8Da3985cAacf795B8765/logo.png"
+  },
+  "name": "Ormeus Ecosystem",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

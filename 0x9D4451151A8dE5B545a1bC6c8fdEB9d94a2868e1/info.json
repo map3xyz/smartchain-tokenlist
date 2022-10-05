@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x9D4451151A8dE5B545a1bC6c8fdEB9d94a2868e1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralization is great for democratizing finance, but along with it comes massive fragmentation of the user experience. Lunar believes it is time to re-centralize DeFi around the most important part of the network: The user. This begins with their DeFi application, Lunar, that aims to streamline the entire process of crypto and NFT trading into one intuitive interface\". Lunar replaces the 10+ seperate tools needed to trade and research crypto with a single platform that gives users near-instant access to the functionality they need. "
+  },
+  "id": "43518def-9e61-431e-912d-de69dbd947b0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9d4451151a8de5b545a1bc6c8fdeb9d94a2868e1",
+    "website": "https://lunar.io/",
+    "twitter": "https://twitter.com/lnrdefi",
+    "telegram": "https://t.me/lnrdefi",
+    "reddit": "https://reddit.com/lnrdefi",
+    "whitepaper": "https://assets.website-files.com/6170a5fc21aede0d60d88b70/61f3531f8911db1a407c9fc5_LunarWhitepaperV1.2.pdf",
+    "facebook": "https://facebook.com/lnrdefi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lunar/",
+    "coingecko": "https://coingecko.com/",
+    "discord": "https://discord.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9D4451151A8dE5B545a1bC6c8fdEB9d94a2868e1/logo.png"
+  },
+  "name": "Lunar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LNR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

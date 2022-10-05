@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE405f6Ae74ad3efD31C23A40CE23b3D3A3B95FB9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Tokyo Inu is a family member of Shiba BUILT with peer-to-peer cryptocurrency + Automated Rewards Farming (ARF) technology."
+  },
+  "id": "aa32b3f6-2354-4ae2-948f-9783305240b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE405f6Ae74ad3efD31C23A40CE23b3D3A3B95FB9",
+    "website": "https://www.tokyoinu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE405f6Ae74ad3efD31C23A40CE23b3D3A3B95FB9/logo.png"
+  },
+  "name": "Tokyo Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

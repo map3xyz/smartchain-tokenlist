@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x47e28936D9c7944D106e46295d87A8E4c1Be818c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moonbar is the most delicious community-driven, fair-launched DeFi project built on Binance Smart Chain. Hodl $MOONBAR and earn $BNB while sleeping."
+  },
+  "id": "32d5df8b-c3ad-424b-8a43-94aeeee87832",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47e28936D9c7944D106e46295d87A8E4c1Be818c",
+    "website": "https://moonbar.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x47e28936D9c7944D106e46295d87A8E4c1Be818c/logo.png"
+  },
+  "name": "MOONBAR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONBAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

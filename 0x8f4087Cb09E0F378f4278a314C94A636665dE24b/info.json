@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8f4087Cb09E0F378f4278a314C94A636665dE24b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value of the DeFi, create diversified investment, and become the future of financial services."
+  },
+  "id": "7ca51eda-fedc-46f6-839d-471f7d962c64",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8f4087cb09e0f378f4278a314c94a636665de24b",
+    "website": "https://narwhalswap.org",
+    "twitter": "https://twitter.com/narwhalswap",
+    "telegram": "https://t.me/narwhalswap",
+    "medium": "https://medium.com/narwhalswap",
+    "docs": "https://docs.narwhalswap.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8f4087Cb09E0F378f4278a314C94A636665dE24b/logo.png"
+  },
+  "name": "NAR Ticket Token (GOLD)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

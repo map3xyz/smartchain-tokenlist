@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8203612382f61baFaE549fBF31eFbf70992fA289",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ShibaPup is a BSC token focused in the dog driven community, providing a play to earn Shiba game."
+  },
+  "id": "a3daa000-3a3d-4ff8-8dd2-cbdf64629781",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8203612382f61bafae549fbf31efbf70992fa289",
+    "website": "https://www.shibapup.dog/",
+    "twitter": "https://twitter.com/shibapupdog",
+    "telegram": "https://t.me/shibapupdog",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibapup/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8203612382f61baFaE549fBF31eFbf70992fA289/logo.png"
+  },
+  "name": "ShibaPup",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ShibaPup",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

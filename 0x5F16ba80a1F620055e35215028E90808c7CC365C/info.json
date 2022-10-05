@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5F16ba80a1F620055e35215028E90808c7CC365C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Europa is a leading DeFi yield aggregator on BSC that has 3 products as part of the Europa ecosystem, namely Vaults (yield optimizer), Europa (DEX Aggregator), and farmfolio"
+  },
+  "id": "b0c70710-c9ab-462f-abd0-e64c36645357",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5F16ba80a1F620055e35215028E90808c7CC365C",
+    "website": "https://europacoin.net",
+    "twitter": "https://twitter.com/Europacoin2021",
+    "github": "https://github.com/europacoinbsc/europa",
+    "telegram": "https://t.me/Europabsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5F16ba80a1F620055e35215028E90808c7CC365C/logo.png"
+  },
+  "name": "Europa",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EURO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

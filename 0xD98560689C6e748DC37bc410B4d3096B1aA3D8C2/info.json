@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DEFI For You. Is a listing where by users can make pawn loans online to a worldwide market. We are basically letting you run your own online finance company with rates of your choosing. If you ever dreamed of owning your own bank well now you can. DEFi For You aims to clean up the Pawn industry using DFY smart contracts. At last Cryptocurrency has come if age. This is a world first and the market is limitless."
+  },
+  "id": "c1c17f72-1d6e-4ea0-ae4d-d2bf389e177c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+    "website": "https://defi.com.vn",
+    "github": "https://github.com/defi-vn/DeFi-VN-Smart-Contract",
+    "twitter": "https://twitter.com/DeFi For You.",
+    "telegram": "https://t.me/DefiForYouDFY",
+    "facebook": "https://facebook.com/DeFiForYouDFY",
+    "reddit": "https://reddit.com/user/DeFiForYou",
+    "whitepaper": "https://defi.com.vn/document/DFY-White-Paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2/logo.png"
+  },
+  "name": "DeFi For You.",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DFY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

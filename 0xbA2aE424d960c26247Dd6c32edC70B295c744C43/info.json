@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Binance-Peg Dogecoin (DOGE BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Dogecoin (DOGE) at a ratio of 1:1."
+  },
+  "id": "6464ca6a-52a6-4a9b-885b-2df38b66b649",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43",
+    "research": "https://research.binance.com/en/projects/dogecoin",
+    "website": "https://dogecoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbA2aE424d960c26247Dd6c32edC70B295c744C43/logo.png"
+  },
+  "name": "Binance-Peg Dogecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGE",
+  "tags": [
+    "binance-peg",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

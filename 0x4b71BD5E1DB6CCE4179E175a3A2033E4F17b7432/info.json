@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4b71BD5E1DB6CCE4179E175a3A2033E4F17b7432",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Gameology is a decentralized gaming ecosystem based on the binance smart chain."
+  },
+  "id": "49c94280-e849-4be8-8833-c865a3de7a2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4b71BD5E1DB6CCE4179E175a3A2033E4F17b7432",
+    "website": "https://www.gameologycrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4b71BD5E1DB6CCE4179E175a3A2033E4F17b7432/logo.png"
+  },
+  "name": "Gameology Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xE2271046A181b41f20Ad1A4076A4FA0Fd0853D09",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFUV2, A Frictionless Yield Generation, Community Driven Protocol."
+  },
+  "id": "644f30e6-b6e6-41a3-af99-8e6a92ce2ff3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE2271046A181b41f20Ad1A4076A4FA0Fd0853D09",
+    "website": "https://safeuniverse.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE2271046A181b41f20Ad1A4076A4FA0Fd0853D09/logo.png"
+  },
+  "name": "SafeUniverse V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFUV2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

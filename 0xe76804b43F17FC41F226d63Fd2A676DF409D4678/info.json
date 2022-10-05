@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe76804b43F17FC41F226d63Fd2A676DF409D4678",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BAT is a decentralized, community driven, fair launched Meme Token in BSC"
+  },
+  "id": "9a0e9afe-49e7-4dc9-bb84-3948fd60cbff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe76804b43f17fc41f226d63fd2a676df409d4678",
+    "website": "https://app.batex.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe76804b43F17FC41F226d63Fd2A676DF409D4678/logo.png"
+  },
+  "name": "Bat Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

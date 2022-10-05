@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RABBIT token is a governance token of the Rabbit Finance. It will also capture the economic benefits of the protocol."
+  },
+  "id": "b3bdf21f-5271-4cd3-a761-8a8bc4025742",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+    "website": "https://rabbitfinance.io",
+    "twitter": "https://twitter.com/FinanceRabbit",
+    "medium": "https://rabbitfinance.medium.com/",
+    "telegram": "https://t.me/RabbitFinanceEN"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41/logo.png"
+  },
+  "name": "RABBIT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RABBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

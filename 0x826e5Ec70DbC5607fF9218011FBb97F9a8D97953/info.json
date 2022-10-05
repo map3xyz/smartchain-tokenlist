@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x826e5Ec70DbC5607fF9218011FBb97F9a8D97953",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TRAVEL is the reward token of the Travel Care platform."
+  },
+  "id": "cffc5b36-c1cf-4177-b187-215f54c892df",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x826e5ec70dbc5607ff9218011fbb97f9a8d97953",
+    "website": "https://travelcare.io/",
+    "github": "https://github.com/TokenTravelCare",
+    "twitter": "https://twitter.com/TravelCareToken",
+    "telegram": "https://t.me/TravelCareToken",
+    "whitepaper": "https://content.travelcare.io/whitepaper/whitepaperENG.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x826e5Ec70DbC5607fF9218011FBb97F9a8D97953/logo.png"
+  },
+  "name": "TravelCare",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRAVEL",
+  "tags": [
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

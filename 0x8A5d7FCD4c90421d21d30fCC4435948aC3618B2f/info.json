@@ -1,0 +1,44 @@
+{
+  "active": true,
+  "address": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cake Monster is a Hyper-Deflationary and Dividend-Yielding asset on BNB Chain that introduces a new form of monetary policy."
+  },
+  "id": "74b54648-c586-4b81-8e68-26117571e20d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+    "website": "https://cake.monster",
+    "docs": "https://docs.cake.monster",
+    "whitepaper": "https://cake.monster/whitepaper",
+    "telegram": "https://t.me/cakemnstr",
+    "telegramNews": "https://t.me/cakemnstrannouncement",
+    "twitter": "https://twitter.com/thecakemnstr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cake-monster",
+    "coingecko": "https://coingecko.com/coins/cake-monster",
+    "medium": "https://cakemonster.medium.com",
+    "reddit": "https://reddit.com/r/CAKEMONSTER",
+    "discord": "https://discord.com/invite/MonstaPartyNFTs",
+    "youtube": "https://youtube.com/channel/UCVDpZv6uXOArJ22BhtNCcCw",
+    "facebook": "https://facebook.com/officialcakemonster",
+    "github": "https://github.com/cake-monster"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f/logo.png"
+  },
+  "name": "Cake Monster",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MONSTA",
+  "tags": [
+    "deflationary",
+    "defi",
+    "staking",
+    "nft",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

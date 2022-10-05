@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x706954491EBFD6b38e5B1e6F079dBEfae0F5EBa0",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The Charizard Token is a deflationary cryptocurrency, a 5% tax is applied to each transaction made using CHZ006."
+  },
+  "id": "c64612cc-8625-4bdf-aed7-ac451e2d08bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x706954491ebfd6b38e5b1e6f079dbefae0f5eba0",
+    "website": "https://charizardtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x706954491EBFD6b38e5B1e6F079dBEfae0F5EBa0/logo.png"
+  },
+  "name": "Charizard Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHZ006",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

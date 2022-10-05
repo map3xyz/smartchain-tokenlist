@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they’re highly sensitive and do not like being left alone for long periods of the day. As companion dogs, they crave the company of their humans and may develop separation anxiety when they don’t get the attention they need."
+  },
+  "id": "88a5d503-2f6a-4682-af1f-4247c6c5383a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
+    "website": "https://flokiinu.com",
+    "twitter": "https://twitter.com/shibaflokitoken",
+    "github": "https://github.com/shibafloki/",
+    "telegram": "https://t.me/shibaflokitoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiba-floki/",
+    "coingecko": "https://coingecko.com/en/coins/shiba-floki-inu",
+    "whitepaper": "https://shibafloki.com/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4AadaD81487c3fadD9F162b851E6a61b729200cb/logo.png"
+  },
+  "name": "Shiba Floki Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLOKI",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

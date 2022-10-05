@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x26D6e280F9687c463420908740AE59f712419147",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bakerytools is the ultimate hub & trading tool for Binance smart chain pairs & pool explorer and a hotspot for Private and pre-sale listings."
+  },
+  "id": "9d55d377-fa94-4526-a073-563aa3c5f6f8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26D6e280F9687c463420908740AE59f712419147",
+    "website": "http://bakerytools.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26D6e280F9687c463420908740AE59f712419147/logo.png"
+  },
+  "name": "Bakerytools",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TBAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

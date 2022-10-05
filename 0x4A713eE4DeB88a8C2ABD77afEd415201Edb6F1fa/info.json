@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4A713eE4DeB88a8C2ABD77afEd415201Edb6F1fa",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralised Adult Content Sharing 18+ Content sharing platform powered by Blockchain technology. Immutable. Anonymous."
+  },
+  "id": "75a75c98-9c90-432c-8b96-1d9ed1fb647b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4A713eE4DeB88a8C2ABD77afEd415201Edb6F1fa",
+    "website": "http://cumstar.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4A713eE4DeB88a8C2ABD77afEd415201Edb6F1fa/logo.png"
+  },
+  "name": "Cumstar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CUMSTAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

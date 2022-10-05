@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$RFX, our native token, is a hyper deflationary reflection token hosted on the Binance Smart Chain. It is based on an innovative liquidity generating protocol with additional staking opportunities."
+  },
+  "id": "ac6eadf9-67ad-495e-a357-99d63b3d8cd1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
+    "website": "https://reflexfinance.com/",
+    "twitter": "https://twitter.com/Reflex_Finance",
+    "telegram": "https://t.me/ReflexFinanceV2",
+    "discord": "https://discord.com/invite/reflexfinance",
+    "reddit": "https://reddit.com/r/ReflexFinance",
+    "whitepaper": "https://reflexfinance.com/whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/reflex-finance/",
+    "coingecko": "https://coingecko.com/coins/reflex-finance-v2",
+    "youtube": "https://youtube.com/channel/UCIcGozPp0vTrLbtc83AgzFg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615/logo.png"
+  },
+  "name": "Reflex V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RFX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

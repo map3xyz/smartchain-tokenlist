@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA2D3e8E0723c6Cd0fBC0409FEc13B9E67B2420bc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFTShiba Finance is a NFT ART Meme and NFT Defi. NFTShiba Finance operates as a deflationary automated liquidity-locking and self-staking direct distribution protocol, providing safe, secure and hassle-free transactions and yield-generation for all holders."
+  },
+  "id": "281fdebc-c75c-4251-a937-217253ebeab6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA2D3e8E0723c6Cd0fBC0409FEc13B9E67B2420bc",
+    "website": "https://nft-shiba.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA2D3e8E0723c6Cd0fBC0409FEc13B9E67B2420bc/logo.png"
+  },
+  "name": "NFTShiba.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

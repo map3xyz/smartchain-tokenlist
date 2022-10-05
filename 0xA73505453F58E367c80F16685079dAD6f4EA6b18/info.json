@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA73505453F58E367c80F16685079dAD6f4EA6b18",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "UnderMineGold project will become a platform, which includes NFT, De-Fi and game."
+  },
+  "id": "b2e33f43-08c8-439d-99d8-03b764a137b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA73505453F58E367c80F16685079dAD6f4EA6b18",
+    "website": "https://www.underminegold.com",
+    "telegram": "https://t.me/UndermineGOLDchina",
+    "twitter": "https://twitter.com/UnderMineGold",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/underinegold",
+    "coingecko": "https://coingecko.com/en/coins/underminegold",
+    "whitepaper": "https://www.underminegold.com/en/UMG_White_Paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA73505453F58E367c80F16685079dAD6f4EA6b18/logo.png"
+  },
+  "name": "UnderMineGold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UMG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

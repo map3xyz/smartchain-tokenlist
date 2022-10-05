@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "A community-driven decentralized rewarding network."
+  },
+  "id": "4558da62-fd52-481e-8d19-adeea86428f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+    "website": "http://xstakechain.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538/logo.png"
+  },
+  "name": "X Stake Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "X Stake",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

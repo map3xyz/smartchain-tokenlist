@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BEP-20 utility token for Santos FC football club"
+  },
+  "id": "d7f9a6cc-24e2-4bbc-84a1-26763b18d804",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+    "website": "https://www.binance.com/en/fan-token/team-profile/porto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/santos-fc-fan-token/",
+    "twitter": "https://twitter.com/SantosFC",
+    "coingecko": "https://coingecko.com/coins/santos-fc-fan-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7/logo.png"
+  },
+  "name": "Santos FC Fan Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SANTOS",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

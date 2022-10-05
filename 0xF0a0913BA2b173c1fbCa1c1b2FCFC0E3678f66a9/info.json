@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Bfic Protocol is a decentralized network that allows anyone to invoice a payment for which the recipient can pay in a secure way."
+  },
+  "id": "f32023c3-1504-4d4c-9612-5d13f95a2f70",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf0a0913ba2b173c1fbca1c1b2fcfc0e3678f66a9",
+    "website": "https://bficoin.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9/logo.png"
+  },
+  "name": "BFI-COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

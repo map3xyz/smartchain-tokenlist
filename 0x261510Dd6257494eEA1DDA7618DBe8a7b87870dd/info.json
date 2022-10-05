@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+  "color": null,
+  "decimals": 12,
+  "description": {
+    "en": "DeHero is a decentralized GameFi application based on BSC."
+  },
+  "id": "a097e005-7b83-4771-abc4-ee069bc8b0fc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
+    "website": "https://dehero.co/",
+    "twitter": "https://twitter.com/MIXMARVELGAME",
+    "telegram": "https://t.me/MixMarvelGlobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd/logo.png"
+  },
+  "name": "Dehero Community Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HEROES",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

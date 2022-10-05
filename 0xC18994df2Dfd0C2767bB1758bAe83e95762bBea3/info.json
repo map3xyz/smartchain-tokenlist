@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC18994df2Dfd0C2767bB1758bAe83e95762bBea3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ElonPeg presents a new financial model for the now-common deflationary token: automated burn pegged to the Twitter account of the one and only Elon. Our system is unique, combining outside If-This-Then-That style API calls to scour Twitter regularly, highly secure serverless compute resources to take blockchain requests, and a unique BurnUponTweeting contract to transparently execute a 0.5% burn upon tweeting, rewarding holders with reflections and diminishing supply to hedge against volatility."
+  },
+  "id": "c959f622-1f13-4554-a056-e7321b50e14b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC18994df2Dfd0C2767bB1758bAe83e95762bBea3",
+    "website": "https://elonpeg.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC18994df2Dfd0C2767bB1758bAe83e95762bBea3/logo.png"
+  },
+  "name": "Elon Peg",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELONPEG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x8717e80EfF08F53A45b4A925009957E14860A8a8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bring blockchain to life."
+  },
+  "id": "2c37211e-5fd1-4486-8858-54b4523c78ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8717e80eff08f53a45b4a925009957e14860a8a8",
+    "website": "https://bho.network",
+    "twitter": "https://twitter.com/bhonetwork",
+    "telegram": "https://t.me/bhonetwork_en",
+    "github": "https://github.com/bhonetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8717e80EfF08F53A45b4A925009957E14860A8a8/logo.png"
+  },
+  "name": "BHO Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BHO",
+  "tags": [
+    "gamefi",
+    "staking-native",
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

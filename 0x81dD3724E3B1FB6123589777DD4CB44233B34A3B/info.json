@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x81dD3724E3B1FB6123589777DD4CB44233B34A3B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FlappyBird Go is the NFT game version of FlappyBird concept Play-to-Earn on Binance Smart Chain. Try to flap, Happy reward!"
+  },
+  "id": "3769218c-0d4b-4503-8759-92f552e9e23f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x81dd3724e3b1fb6123589777dd4cb44233b34a3b",
+    "website": "https://flappybirdgo.com",
+    "twitter": "https://twitter.com/FlappyBird_Go",
+    "telegram": "https://t.me/FlappyBirdGo",
+    "whitepaper": "https://whitepaper.flappybirdgo.com/",
+    "facebook": "https://facebook.com/FlappyBirdGo",
+    "medium": "https://flappybirdgo.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x81dD3724E3B1FB6123589777DD4CB44233B34A3B/logo.png"
+  },
+  "name": "Flap Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLAP",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

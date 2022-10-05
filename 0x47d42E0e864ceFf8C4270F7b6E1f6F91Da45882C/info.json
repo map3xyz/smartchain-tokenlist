@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EverEarn Coin (EARN), is a BSC blockchain platform designed to DISTRIBUTE WEALTH to the people, by providing the HIGHEST BUSD REWARDS ratio on the planet."
+  },
+  "id": "9e3cb13a-8d4b-4781-81e7-12cdb0c11483",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C",
+    "website": "https://everearn.net",
+    "twitter": "https://twitter.com/theEverEarn",
+    "telegram": "https://t.me/EverEarnOfficial",
+    "facebook": "https://facebook.com/everearnofficial/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/everearn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C/logo.png"
+  },
+  "name": "EverEarn",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EARN",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

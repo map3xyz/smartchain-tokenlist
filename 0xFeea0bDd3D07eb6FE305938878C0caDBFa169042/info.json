@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DEFI platform for automatic trustless crypto payments."
+  },
+  "id": "791571b3-67e1-4ad8-bef8-f506e17b2ade",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+    "website": "https://8pay.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042/logo.png"
+  },
+  "name": "8PAY Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "8PAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "Blockchain's first gaming and streaming aggregator platform. "
+  },
+  "id": "162ff47e-28fd-40f6-ba29-07a906dcc729",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
+    "website": "https://www.dehub.net/",
+    "twitter": "https://twitter.com/dehub_official",
+    "github": "https://github.com/DeHubToken/dehub-public-contract",
+    "telegram": "https://t.me/Dehubofficial",
+    "discord": "https://discord.com/invite/McWBqA6xJR",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dehub/",
+    "coingecko": "https://coingecko.com/en/coins/dehub",
+    "whitepaper": "https://www.dehub.net/uploads/Dehub%20Whitepaper%20V2.pdf",
+    "medium": "https://medium.com/@dehub.bsc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFC206f429d55c71cb7294EfF40c6ADb20dC21508/logo.png"
+  },
+  "name": "DeHub",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DeHub",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BFG is the internal token of BetFury platform launched on BSC."
+  },
+  "id": "50228463-0665-456d-9b71-fc821988fb96",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+    "website": "https://betfury.io/",
+    "twitter": "https://twitter.com/betfury_gaming",
+    "telegram": "https://t.me/betfuryofficialchannel",
+    "youtube": "https://youtube.com/channel/UCTlThuhFNg6yFw8hak4upDw"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86/logo.png"
+  },
+  "name": "BFG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x2bF4BE7C4520C41d012EB09a034179E03b898534",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ASIX+ Token is a token which is made by PT. META NUSANTARA VICTORI, which has purpose and the projects of P2E games, NFT Marketplace, and Metaverse.ASIX+ Token is the main utility in our 3 projects. P2E Games, NFT Market, and Nusantaraverse. ASIX+ Token can be used in all three projects.In addition, it does not rule out the possibility of developing or adding projects in the future."
+  },
+  "id": "a3aea36d-a5c7-481e-b082-f0ce17a1d4b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2bF4BE7C4520C41d012EB09a034179E03b898534",
+    "website": "https://asixplus.id",
+    "twitter": "https://twitter.com/asixplusNFT",
+    "telegram": "https://t.me/asixplus",
+    "coingecko": "https://coingecko.com/en/coins/asixplus"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2bF4BE7C4520C41d012EB09a034179E03b898534/logo.png"
+  },
+  "name": "ASIX+",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ASIX+",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

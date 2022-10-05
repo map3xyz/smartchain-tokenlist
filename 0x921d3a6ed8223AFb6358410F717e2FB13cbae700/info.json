@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x921d3a6ed8223AFb6358410F717e2FB13cbae700",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We Are First Online Qris Platform In Indonesia. Qrkita Provides The Latest Technology For Online And Offline Merchant To Boost Their Sales."
+  },
+  "id": "9131c901-9937-498b-97e7-681e7711763a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x921d3a6ed8223AFb6358410F717e2FB13cbae700",
+    "website": "https://www.qrkita.exchange",
+    "github": "https://github.com/qrkita/qrkitatoken.sol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qrkita-token/",
+    "twitter": "https://twitter.com/qrkitaexchanger?s=09"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x921d3a6ed8223AFb6358410F717e2FB13cbae700/logo.png"
+  },
+  "name": "QRKITA TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QRT",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB0228Eb6c0b49f8265e6E161c3a987eeD7471F42",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fanspel Token is a new blockchain innovation that provides gamified experience for users to earn cryptocurrency."
+  },
+  "id": "8ee3bc4e-937b-4e3e-bfa3-cf6e46a69ee5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb0228eb6c0b49f8265e6e161c3a987eed7471f42",
+    "website": "https://www.fanspel.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB0228Eb6c0b49f8265e6E161c3a987eeD7471F42/logo.png"
+  },
+  "name": "Fanspel Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CRYPTOGODZA VIRTUAL UNIVERSE OF FANTASY HEROES FOR P2P NFT GAMING"
+  },
+  "id": "38602046-b07a-45f6-95b8-2aac75e73156",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43",
+    "website": "https://cryptogodz.io",
+    "telegram": "https://t.me/cryptogodz1",
+    "twitter": "https://twitter.com/CryptogodzNFTG",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/cryptogodz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43/logo.png"
+  },
+  "name": "CryptoGodz",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GODZ",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB8c463c727742A1Fa673d36aE32cB5f4bad33FeA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BNBB is Binance Smart Chain Token"
+  },
+  "id": "fa7e8cd1-137b-448c-be3e-57e11adb15ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB8c463c727742A1Fa673d36aE32cB5f4bad33FeA",
+    "website": "https://smartchainblack.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB8c463c727742A1Fa673d36aE32cB5f4bad33FeA/logo.png"
+  },
+  "name": "Smart Chain Black",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

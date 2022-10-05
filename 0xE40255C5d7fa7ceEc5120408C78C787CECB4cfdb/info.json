@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Swirge is an ecosystem that embodies a decentralized social media, a decentralized financial system, and a marketplace built on the blockchain technology."
+  },
+  "id": "82dcc2c0-ffca-4151-8805-96e039e7b4d5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
+    "research": "https://swirgepay.com",
+    "website": "https://swirgepay.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb/logo.png"
+  },
+  "name": "SWGb",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWGb",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA",
+  "color": null,
+  "decimals": 2,
+  "description": {
+    "en": "Project Quantum is taking AAA gaming into the 21st Century, with cryptocurrency at the core of the economy."
+  },
+  "id": "5ae815da-63b1-4504-95a5-e8ee277e6bd8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA",
+    "website": "https://quantumworks.co.uk/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA/logo.png"
+  },
+  "name": "Project Quantum",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DareToken is a revolutionary funtech market project aimed at decentralizing online competitions and challenges"
+  },
+  "id": "022ce1df-9f6f-4e3d-9298-2a1c390acda8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
+    "website": "https://www.daretoken.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E/logo.png"
+  },
+  "name": "Dare Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

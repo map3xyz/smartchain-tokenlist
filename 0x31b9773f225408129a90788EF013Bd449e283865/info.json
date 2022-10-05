@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x31b9773f225408129a90788EF013Bd449e283865",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$PORN is a token with the goal of protecting people and ending human trafficking."
+  },
+  "id": "b413f11d-236a-4377-a106-a2dc8c2ea44d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31b9773f225408129a90788ef013bd449e283865",
+    "website": "https://buyporntoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x31b9773f225408129a90788EF013Bd449e283865/logo.png"
+  },
+  "name": "$PORN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PORN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

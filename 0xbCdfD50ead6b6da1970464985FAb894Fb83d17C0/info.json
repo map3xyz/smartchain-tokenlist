@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbCdfD50ead6b6da1970464985FAb894Fb83d17C0",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "TONE is a decentralized and social NFT marketplace (driven by the community) where you can turn your songs, music, performance or TONE'S into unique NFTs and win prizes, sell them or place it on an auction."
+  },
+  "id": "e73ef3de-40d5-480a-9632-eba5c0adb16b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbCdfD50ead6b6da1970464985FAb894Fb83d17C0",
+    "website": "https://www.nfttone.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbCdfD50ead6b6da1970464985FAb894Fb83d17C0/logo.png"
+  },
+  "name": "NFTTONE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xE77932B1216125848e82C3967e75698362168f99",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Galaxy Finance is First Ecosystem that Scaling Decentralized Applications."
+  },
+  "id": "033f91f3-d187-4cd5-b0f1-5a0028d6dd60",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE77932B1216125848e82C3967e75698362168f99",
+    "website": "https://galaxyfinance.io/",
+    "twitter": "https://twitter.com/galaxyfinance3",
+    "telegram": "https://t.me/galaxyfinance_channel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE77932B1216125848e82C3967e75698362168f99/logo.png"
+  },
+  "name": "Galaxy Finance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

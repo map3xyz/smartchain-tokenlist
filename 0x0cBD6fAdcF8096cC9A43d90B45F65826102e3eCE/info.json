@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CheckDot is designed to be the ultimate blockchain technology tool for end-users and developers, offering a various range of services that can help, simplify and innovates customers experience on cryptocurrency and blockchain world."
+  },
+  "id": "70e336e6-2c83-4d81-a62c-e84b31ad201e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "website": "https://checkdot.io",
+    "twitter": "https://twitter.com/Checkdot_proto",
+    "github": "https://github.com/checkdot",
+    "telegram": "https://t.me/checkdot",
+    "telegramNews": "https://t.me/checkdotnews",
+    "blog": "https://checkdot.medium.com",
+    "docs": "https://docs.checkdot.io",
+    "discord": "https://discord.com/invite/2BGQrNNd9X",
+    "youtube": "https://youtube.com/channel/UCzUKo78VJWDMDIXNw-3EGqA",
+    "whitepaper": "https://checkdot.io/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/checkdot",
+    "coingecko": "https://coingecko.com/en/coins/checkdot",
+    "reddit": "https://reddit.com/r/CheckDot_community/",
+    "medium": "https://checkdot.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE/logo.png"
+  },
+  "name": "CheckDot",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CDT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

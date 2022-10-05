@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x041640eA980e3fE61e9C4ca26D9007Bc70094C15",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PirateCoin aims to produce a game integrating NFT by finding Treasure and earning PirateCoin. The character will earn and get experience the more time spent in the game. There will be enemies to fight, weapon upgrades, and much more. PirateCoin will be the main currency of the game."
+  },
+  "id": "70ec2783-77a4-4fea-a8e3-dc113b70646e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x041640ea980e3fe61e9c4ca26d9007bc70094c15",
+    "website": "https://piratecoin.games/",
+    "twitter": "https://twitter.com/piratecoingames",
+    "telegram": "https://t.me/PirateCoinGamesOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x041640eA980e3fE61e9C4ca26D9007Bc70094C15/logo.png"
+  },
+  "name": "PirateCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PirateCoin☠",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": false,
+  "address": "0x31d3778A7Ac0d98c4aAA347D8b6EaF7977448341",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Kiba Inu restores integrity to meme coins by building a safe Dex and Launchpad. Kiba Swap includes a dex and launchpad that includes features enabling investors to know which projects are safe and which they may want to avoid. We are on our way to becoming the leader of all meme coins and expanding into a multifaceted crypto project."
+  },
+  "id": "a3a773aa-13e3-4fd0-82b1-aa8d6d67647f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31d3778A7Ac0d98c4aAA347D8b6EaF7977448341",
+    "website": "https://kibainu.space/ ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kiba-inu/",
+    "telegram": "https://t.me/KibaInuGlobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x31d3778A7Ac0d98c4aAA347D8b6EaF7977448341/logo.png"
+  },
+  "name": "Kiba Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KIBA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

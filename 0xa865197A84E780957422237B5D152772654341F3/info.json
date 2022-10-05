@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xa865197A84E780957422237B5D152772654341F3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A permissionless lending and margin trading protocol, enabling traders to go long or short with any pairs on DEXs efficiently and securely."
+  },
+  "id": "0ee1384e-2e83-4931-8022-459926d87787",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa865197A84E780957422237B5D152772654341F3",
+    "website": "https://openleverage.finance/",
+    "twitter": "https://twitter.com/OpenLeverage",
+    "discord": "https://discord.com/invite/openleverage",
+    "medium": "https://openleverage.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/openleverage/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa865197A84E780957422237B5D152772654341F3/logo.png"
+  },
+  "name": "Openleverage Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OLE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The support team told me to add my logo from this app. The fee was paid as you can see here https://github.com/trustwallet/assets/pull/8418#issuecomment-844545404 Description: DRIVEN’s primary goal is to bridge the needs of everyday businesses from your barber to your baker to your candlestick maker with the crypto ecosystem that enables them to use cryptocurrency for goods and services in a simple and intuitive manner, removing complexity from the current cumbersome process."
+  },
+  "id": "91bf9099-98c9-46c8-a056-7b85619a2b71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
+    "website": "https://drivenprotocol.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54/logo.png"
+  },
+  "name": "DRIVENprotocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$DVP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

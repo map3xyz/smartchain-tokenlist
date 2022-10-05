@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wall Street Games is a next generation hybrid blockchain-based online gaming platform, where players battle each other in fun & addicting simple games for rewards in cryptocurrencies!"
+  },
+  "id": "24aa97d6-be9b-42f1-92a7-3890a514c988",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA58950F05FeA2277d2608748412bf9F802eA4901",
+    "website": "https://wsg.gg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA58950F05FeA2277d2608748412bf9F802eA4901/logo.png"
+  },
+  "name": "Wall Street Games",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

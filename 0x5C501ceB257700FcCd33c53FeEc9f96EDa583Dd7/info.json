@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5C501ceB257700FcCd33c53FeEc9f96EDa583Dd7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Travel Care is the protocol that unites the world of traveling and cryptocurrencies"
+  },
+  "id": "9c4e3b01-4b55-4380-a7ad-96b3e428b39b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5C501ceB257700FcCd33c53FeEc9f96EDa583Dd7",
+    "website": "https://www.travelcare.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5C501ceB257700FcCd33c53FeEc9f96EDa583Dd7/logo.png"
+  },
+  "name": "Travel Care",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRAVEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

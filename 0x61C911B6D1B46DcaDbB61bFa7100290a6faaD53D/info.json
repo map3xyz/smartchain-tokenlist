@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Rise Up is a movement and the next growth token with an innovative buy back and burn system. A hyper deflationary token decreasing supply and economically increasing the price over time. Rise Up is building utilities to help investors check smart contracts and for launching safe tokens"
+  },
+  "id": "df861d29-48ee-422a-9b9f-7af94fd5b24f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D",
+    "website": "https://riseupofficial.com/",
+    "whitepaper": "https://riseupofficial.com/wp-content/uploads/2021/07/RiseUp_Litepaper_v4.pdf",
+    "twitter": "https://twitter.com/RISEUP_WE_STAND",
+    "telegram": "https://t.me/riseup_officiall",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/riseup/",
+    "coingecko": "https://coingecko.com/en/coins/riseup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D/logo.png"
+  },
+  "name": "RiseUp",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RiseUp",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

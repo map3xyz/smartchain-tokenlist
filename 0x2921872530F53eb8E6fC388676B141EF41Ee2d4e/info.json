@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Space Soldier is the first deflationary token for veterans. Two functions occur during each trade: Reflection & LP Acquisition"
+  },
+  "id": "2908c214-5d7e-4310-915f-5c63fd54dcf3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+    "website": "https://www.spacesoldier.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2921872530F53eb8E6fC388676B141EF41Ee2d4e/logo.png"
+  },
+  "name": "Space Soldier",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOLDIER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

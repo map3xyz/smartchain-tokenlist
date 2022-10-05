@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8397Eb3EC07615cE88ff854d08e9E27B5155128b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BLOCKCHAIN"
+  },
+  "id": "46f309b7-b99a-4da7-b98c-ac796aab861f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8397Eb3EC07615cE88ff854d08e9E27B5155128b",
+    "website": "http://gigablocks.org/",
+    "telegram": "https://t.me/OfficialGIGA",
+    "github": "https://github.com/Gigablocks"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8397Eb3EC07615cE88ff854d08e9E27B5155128b/logo.png"
+  },
+  "name": "GIGA BLOCK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GIGA",
+  "tags": [
+    "staking",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

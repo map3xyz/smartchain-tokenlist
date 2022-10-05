@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7c63F96fEAFACD84e75a594C00faC3693386FBf0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$ASS is a community meme token with safemoon tokenomics here to be the new financial standard on BSC. Slam Some $ASS With Us!"
+  },
+  "id": "939523fe-475e-4873-b08d-1f06610fa16c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7c63F96fEAFACD84e75a594C00faC3693386FBf0",
+    "website": "https://assfinance.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7c63F96fEAFACD84e75a594C00faC3693386FBf0/logo.png"
+  },
+  "name": "ASS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ASS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

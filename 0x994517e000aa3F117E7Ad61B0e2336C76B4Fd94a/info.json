@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Matador was created on the Binance Smart Chain Network with specific tokenomics that were created to divert market manipulators and to #stoptherug set to tax any transfer or sale at a rate of 30%, redistributing those funds to holders, liquidity and to burn."
+  },
+  "id": "7961e921-af1d-497e-a3de-352b8c5c91ac",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a",
+    "website": "https://www.matadortoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x994517e000aa3F117E7Ad61B0e2336C76B4Fd94a/logo.png"
+  },
+  "name": "MATADOR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTDR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

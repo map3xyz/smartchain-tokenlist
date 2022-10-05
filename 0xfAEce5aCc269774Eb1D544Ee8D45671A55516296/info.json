@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfAEce5aCc269774Eb1D544Ee8D45671A55516296",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Digo token is a crypto asset on the Binance Smart Chain used as a medium of exchange for goods and services, P2P transactions, cryptocurrency exchange and also can serve as a store of value."
+  },
+  "id": "ce8e14ba-0f71-4d73-b83d-a3b12076e025",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfAEce5aCc269774Eb1D544Ee8D45671A55516296",
+    "website": "https://coindigo.tech/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfAEce5aCc269774Eb1D544Ee8D45671A55516296/logo.png"
+  },
+  "name": "Digo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

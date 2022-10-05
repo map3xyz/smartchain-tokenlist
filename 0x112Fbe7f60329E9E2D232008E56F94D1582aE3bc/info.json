@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyflokiBillionaire is a meme token based on Floki hype"
+  },
+  "id": "d58a6b0f-e0fa-4642-bfd3-fbbb9a74ceda",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc",
+    "website": "http://babyflokibillionaire.com/",
+    "twitter": "https://twitter.com/BabyFlokiBLN",
+    "facebook": "https://facebook.com/Baby-Floki-Billionaire-104520351993111",
+    "telegram": "https://t.me/babyflokibillionaire"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc/logo.png"
+  },
+  "name": "Baby Floki Billionaire",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyFB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Velas Metaverse. Velhalla is a metaverse unlike any other out there in the market."
+  },
+  "id": "bcd883e0-20b1-4a37-9e09-4f7d2eff1a26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8d9fB713587174Ee97e91866050c383b5cEE6209",
+    "website": "https://velhalla.io/",
+    "telegram": "https://t.me/Velhallaofficial",
+    "twitter": "https://twitter.com/velhallaproject",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/velhalla/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8d9fB713587174Ee97e91866050c383b5cEE6209/logo.png"
+  },
+  "name": "VELHALLA.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SCAR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

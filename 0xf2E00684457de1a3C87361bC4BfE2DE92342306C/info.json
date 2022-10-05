@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Shield Network, a token audit platform where every token is thoroughly audited to ensure safety and avoid scams."
+  },
+  "id": "a8133efe-1ed0-408a-b2f2-7c00d9ade530",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
+    "website": "https://www.shieldnetwork.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf2E00684457de1a3C87361bC4BfE2DE92342306C/logo.png"
+  },
+  "name": "Shield Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIELDNET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

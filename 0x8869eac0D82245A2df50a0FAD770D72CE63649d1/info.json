@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Doggy Swap is the all-in-one DeFi platform that provides both AMM and NFT Marketplace solutions in one place!"
+  },
+  "id": "ebac515f-98de-4446-8fda-e6aff7b71ddd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8869eac0d82245a2df50a0fad770d72ce63649d1",
+    "website": "https://doggyswap.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8869eac0D82245A2df50a0FAD770D72CE63649d1/logo.png"
+  },
+  "name": "Doggy Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

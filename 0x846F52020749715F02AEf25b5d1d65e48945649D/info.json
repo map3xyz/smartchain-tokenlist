@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x846F52020749715F02AEf25b5d1d65e48945649D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Umbrella Network a Community owned, Decentralized Oracle built on Layer 2 for DeFi and Blockchain Applications powered by UMB cryptocurrency"
+  },
+  "id": "e07addfd-cbdf-4582-95bb-24f05c2197ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x846F52020749715F02AEf25b5d1d65e48945649D",
+    "website": "https://www.umb.network",
+    "github": "https://github.com/umbrella-network/overture",
+    "whitepaper": "https://www.umb.network/wp-content/uploads/2021/02/umb_litepaper_design_v3.1.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x846F52020749715F02AEf25b5d1d65e48945649D/logo.png"
+  },
+  "name": "Umbrella Network Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UMB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

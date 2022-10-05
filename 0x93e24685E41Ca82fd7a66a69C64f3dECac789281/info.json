@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x93e24685E41Ca82fd7a66a69C64f3dECac789281",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CHEECOIN is the 1st Hollywood NFT marketplace that also donates and supports animal healthcare and rescue."
+  },
+  "id": "f444c97f-185e-492e-8ad7-84d690ef2394",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x93e24685e41ca82fd7a66a69c64f3decac789281",
+    "website": "https://www.cheecoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x93e24685E41Ca82fd7a66a69C64f3dECac789281/logo.png"
+  },
+  "name": "Cheecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHEE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

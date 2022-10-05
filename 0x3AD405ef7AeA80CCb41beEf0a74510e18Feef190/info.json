@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x3AD405ef7AeA80CCb41beEf0a74510e18Feef190",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SadBaby TOKEN is a crypto money project created to breathe for all sma patients. It aims to help all babies with sma."
+  },
+  "id": "95907a29-ca62-4281-9813-41d62442f429",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3AD405ef7AeA80CCb41beEf0a74510e18Feef190",
+    "website": "https://sadbaby.org",
+    "whitepaper": "https://sadbaby.org/sadbaby-whitepaper.pdf",
+    "facebook": "https://facebook.com/SadbabyToken-104142708605129/",
+    "twitter": "https://twitter.com/sadbabyglobal",
+    "telegram": "https://t.me/sadbabyglobal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3AD405ef7AeA80CCb41beEf0a74510e18Feef190/logo.png"
+  },
+  "name": "SADBABY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SDBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

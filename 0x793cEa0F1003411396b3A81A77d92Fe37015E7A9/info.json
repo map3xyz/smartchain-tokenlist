@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x793cEa0F1003411396b3A81A77d92Fe37015E7A9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$CBC (Carbon Coin) is released on the basis of BINANCE SMART CHAIN platform and fully complies with BEP20* standard."
+  },
+  "id": "d6155f5b-852c-42df-a5ce-2b5de3271431",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x793cEa0F1003411396b3A81A77d92Fe37015E7A9",
+    "website": "https://carbon-netrual.global/",
+    "whitepaper": "https://carbon-netrual.global/doc/CNES_GreenPaper_1.0.pdf",
+    "telegram": "https://t.me/CNESCommunity",
+    "twitter": "https://twitter.com/cnesofficial",
+    "medium": "https://come-cnes.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/carbon-coin/",
+    "coingecko": "https://coingecko.com/en/coins/carbon-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x793cEa0F1003411396b3A81A77d92Fe37015E7A9/logo.png"
+  },
+  "name": "Carbon Coin - CNES",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CBC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5AdDc86A95A85Ec1D7764f0B6dEA6c566161D69c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized Cat To All Human Being"
+  },
+  "id": "b652635e-20ce-4e0c-90af-0fd178546f3f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5addc86a95a85ec1d7764f0b6dea6c566161d69c",
+    "website": "https://gingercat.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5AdDc86A95A85Ec1D7764f0B6dEA6c566161D69c/logo.png"
+  },
+  "name": "GingerCat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

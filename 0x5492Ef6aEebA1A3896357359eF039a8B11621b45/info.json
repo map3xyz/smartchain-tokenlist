@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Chumbi Valley is an enchanting RPG Play-to-Earn game. Chumbi Valley features NFT creatures and original art inspired by Pokemon and Studio Ghibli."
+  },
+  "id": "5331d86a-98c4-4d91-8b2b-daa6edd720d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
+    "website": "https://chumbivalley.com/",
+    "twitter": "https://twitter.com/chumbivalley",
+    "discord": "https://discord.com/invite/chumbi",
+    "telegram": "https://t.me/chumbivalley01"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5492Ef6aEebA1A3896357359eF039a8B11621b45/logo.png"
+  },
+  "name": "Chumbi Valley",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHMB",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x66dA5cc445feC38A9475Ae7941f89110b9d256b9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Vodka Token — collectible play-to-earn NFT game based on DeFi."
+  },
+  "id": "968f0382-d9f2-43cc-9ae1-7f7330054614",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x66dA5cc445feC38A9475Ae7941f89110b9d256b9",
+    "website": "https://vodkatoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vodka-token",
+    "telegram": "https://t.me/vodkatoken",
+    "twitter": "https://twitter.com/VodkaToken",
+    "coingecko": "https://coingecko.com/en/coins/vodka-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x66dA5cc445feC38A9475Ae7941f89110b9d256b9/logo.png"
+  },
+  "name": "Vodka Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VODKA",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

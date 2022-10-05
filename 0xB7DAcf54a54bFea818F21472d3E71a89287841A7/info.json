@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB7DAcf54a54bFea818F21472d3E71a89287841A7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We allow access to different odds slips, sell likely winnable odds, P2P betting and the creation of your bet event with our WSC token."
+  },
+  "id": "298edd74-d333-40c8-b189-d8d79fd67297",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB7DAcf54a54bFea818F21472d3E71a89287841A7",
+    "website": "https://www.wealthsecrets.io",
+    "telegram": "https://t.me/wealthsecretsofficial",
+    "twitter": "https://twitter.com/WSecrets_WSC?s=09",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/wealthsecrets/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB7DAcf54a54bFea818F21472d3E71a89287841A7/logo.png"
+  },
+  "name": "WealthSecrets",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSC",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

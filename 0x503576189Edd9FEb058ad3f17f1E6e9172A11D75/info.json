@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x503576189Edd9FEb058ad3f17f1E6e9172A11D75",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAINT is a charitable token on BSC with static rewards, auto LP, and charitable donations."
+  },
+  "id": "0b9423e3-12ba-4479-9912-7440c41b4fd6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x503576189Edd9FEb058ad3f17f1E6e9172A11D75",
+    "website": "https://saint.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x503576189Edd9FEb058ad3f17f1E6e9172A11D75/logo.png"
+  },
+  "name": "Saint Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Saint",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

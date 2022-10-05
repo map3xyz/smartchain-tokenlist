@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x88479186BAC914E4313389a64881F5ed0153C765",
+  "color": null,
+  "decimals": 19,
+  "description": {
+    "en": "SquidGrow is the next big meme utility token in the cryptocurrency space! Created by the biggest Shiba Inu whale, SquidGrow has the building blocks to get to the highest level. With our owner being one of the biggest investors in the world, the possibilities and connections for SquidGrow are endless!"
+  },
+  "id": "1ee61f65-f7d5-42d0-90a2-1300c2023fc6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x88479186BAC914E4313389a64881F5ed0153C765",
+    "website": "https://squidgrow.wtf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/squid-grow/",
+    "telegram": "https://t.me/SquidGrowPortal",
+    "twitter": "https://twitter.com/Squid_Grow",
+    "coingecko": "https://coingecko.com/en/coins/squidgrow",
+    "github": "https://github.com/shibtoshi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x88479186BAC914E4313389a64881F5ed0153C765/logo.png"
+  },
+  "name": "SquidGrow",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SquidGrow",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

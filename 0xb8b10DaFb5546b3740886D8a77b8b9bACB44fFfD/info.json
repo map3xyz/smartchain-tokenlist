@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "The Travel Coin project and the TCOIN token attached to it represent the first ecosystem in the world that uses the blockchain technology to offer an international reward system among all hospitality service providers, without limitations."
+  },
+  "id": "4f48fa39-2bb9-4afa-b2e0-d889c184fce4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD",
+    "website": "https://tcoin.one"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb8b10DaFb5546b3740886D8a77b8b9bACB44fFfD/logo.png"
+  },
+  "name": "Travel Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

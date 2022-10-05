@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5B5a3A45002736413613B8A4C46cC0d9D1D6F4Ae",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Wolf is a community based and community focused token on the Binance Smartchain."
+  },
+  "id": "8f47e609-8840-4dd7-8ce0-f4227a0ef67e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5B5a3A45002736413613B8A4C46cC0d9D1D6F4Ae",
+    "website": "https://www.babywolftoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5B5a3A45002736413613B8A4C46cC0d9D1D6F4Ae/logo.png"
+  },
+  "name": "Baby Moon Wolf",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyWolf",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

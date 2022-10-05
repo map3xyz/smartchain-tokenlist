@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Strike the moon, shoot at the stars."
+  },
+  "id": "3e358d25-f891-4441-9d29-c1aeb1898fd4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+    "website": "https://www.pepemoon.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888/logo.png"
+  },
+  "name": "PepeMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEPE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

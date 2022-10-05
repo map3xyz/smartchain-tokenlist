@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x406c3ed15D4537DD23870260cad503B591fF1b31",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SOCIAL NFT is a BNB based NFT (non-fungible token) platform for social media personalities who want to create digital collectibles of their likeness. Secured with blockchain technology."
+  },
+  "id": "9ac19d96-06b0-4e03-b18e-772193ea11e6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x406c3ed15D4537DD23870260cad503B591fF1b31",
+    "website": "https://socialnft.market/",
+    "twitter": "https://twitter.com/NftSocial",
+    "telegram": "https://t.me/SocialNFT/82"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x406c3ed15D4537DD23870260cad503B591fF1b31/logo.png"
+  },
+  "name": "social NFT ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

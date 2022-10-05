@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5cedD85E5C34Ef894380fb027FA5D2C944ea28e0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Proprietary, Hyper Deflationary Token! MFLOKI token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool!"
+  },
+  "id": "b2147e60-7ee3-405e-8fdc-c3049b4bc05f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5cedd85e5c34ef894380fb027fa5d2c944ea28e0",
+    "website": "https://www.miniflokishiba.io/",
+    "twitter": "https://twitter.com/miniflokishiba",
+    "telegram": "https://t.me/MiniFlokiShibaOfficial",
+    "telegramNews": "https://t.me/miniflokishiba_news",
+    "coingecko": "https://coingecko.com/en/coins/mini-floki-shiba",
+    "github": "https://github.com/MiniFlokiShiba"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5cedD85E5C34Ef894380fb027FA5D2C944ea28e0/logo.png"
+  },
+  "name": "MiniFlokiShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MFLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

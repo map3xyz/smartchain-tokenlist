@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PEEL is the governance token of Meta Apes, a mobile strategy game."
+  },
+  "id": "17d784b6-7f0d-44ce-9e10-5a8adccb9cea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+    "website": "https://metaapesgame.com",
+    "twitter": "https://twitter.com/MetaApesGame",
+    "docs": "https://meta-apes.gitbook.io/meta-apes-whitepaper",
+    "medium": "https://medium.com/@metaapesgame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aave/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB/logo.png"
+  },
+  "name": "PEEL Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEEL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

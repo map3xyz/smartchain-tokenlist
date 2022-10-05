@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3ec7ba1B86387B8CB323eaC3f2AAE217C876f9A7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MegaRise - A Proprietary, Hyper Deflationary Token. MegaRise holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool."
+  },
+  "id": "3fad3ce2-c27f-4c37-8c03-96ea821661ba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3ec7ba1b86387b8cb323eac3f2aae217c876f9a7",
+    "website": "https://megarisetoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3ec7ba1B86387B8CB323eaC3f2AAE217C876f9A7/logo.png"
+  },
+  "name": "MegaRise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEGARISE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

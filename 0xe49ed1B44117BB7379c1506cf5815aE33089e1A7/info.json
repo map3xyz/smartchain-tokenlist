@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The official token of Order of the Black Rose"
+  },
+  "id": "9d2b5bfa-2968-4fc4-8e7f-d5ec7f4a7aa6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
+    "website": "https://nftobr.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe49ed1B44117BB7379c1506cf5815aE33089e1A7/logo.png"
+  },
+  "name": "Order of the Black Rose",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OBRb",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

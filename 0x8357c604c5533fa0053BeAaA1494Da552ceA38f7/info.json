@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8357c604c5533fa0053BeAaA1494Da552ceA38f7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SPO token is designed for community governance and DeFi utilization with NFT-creator-centricity and DeFi-community-driven purpose. SPO is used to incentivize NFT creators, buyers, agents, liquidity providers across the ecosystem."
+  },
+  "id": "df239fbc-46b0-42da-ada5-5f7401891f12",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8357c604c5533fa0053BeAaA1494Da552ceA38f7",
+    "website": "https://spores.app/about",
+    "twitter": "https://twitter.com/Spores_Network",
+    "medium": "https://spores.medium.com",
+    "coingecko": "https://coingecko.com/en/coins/spores-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/spores-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8357c604c5533fa0053BeAaA1494Da552ceA38f7/logo.png"
+  },
+  "name": "SPO Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

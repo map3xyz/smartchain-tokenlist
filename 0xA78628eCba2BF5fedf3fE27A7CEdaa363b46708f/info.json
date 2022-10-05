@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA78628eCba2BF5fedf3fE27A7CEdaa363b46708f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Little Bunny Rocket is a collateralized cryptocurrency that grants investor holding LBR instant rewards on all transaction and protect them with its unique burn protocol. Little Bunny Rocket’s innovative ecosystem and LBR dApps will bring a true revolution to the cryptocurrency space and set new standard for security in DeFi."
+  },
+  "id": "6f670605-636d-435d-8ffa-65a8cf22a326",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA78628eCba2BF5fedf3fE27A7CEdaa363b46708f",
+    "website": "http://www.littlebunnyrocket.com",
+    "github": "https://github.com/littlebunnyrocket/littlebunnyrocket",
+    "twitter": "https://twitter.com/l_bunnyrocket",
+    "telegram": "https://t.me/littlebunnyrocket"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA78628eCba2BF5fedf3fE27A7CEdaa363b46708f/logo.png"
+  },
+  "name": "Little Bunny Rocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LBR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

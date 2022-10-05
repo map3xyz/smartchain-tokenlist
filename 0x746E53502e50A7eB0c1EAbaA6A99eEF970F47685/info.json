@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x746E53502e50A7eB0c1EAbaA6A99eEF970F47685",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Xiaoji.cash is the Crypto currency on the Binance Smart Chain. "
+  },
+  "id": "811d5eff-15bb-4c26-8531-a68b92823d6c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x746e53502e50a7eb0c1eabaa6a99eef970f47685",
+    "website": "http://Xiaoji.cash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x746E53502e50A7eB0c1EAbaA6A99eEF970F47685/logo.png"
+  },
+  "name": "Xiaoji.cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Ji",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "AZ World - The First SocialFi To Earn on BSC"
+  },
+  "id": "5a3a82b5-5bc2-49da-9e81-e9215c7783b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
+    "website": "https://azworld.network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/az-world/",
+    "twitter": "https://twitter.com/azworld_network",
+    "telegram": "https://t.me/azworld_global"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93/logo.png"
+  },
+  "name": "AZ World SocialFi ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AZW",
+  "tags": [
+    "Play To Earn",
+    "Social Networking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

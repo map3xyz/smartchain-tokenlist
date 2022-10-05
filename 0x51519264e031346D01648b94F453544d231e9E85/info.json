@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x51519264e031346D01648b94F453544d231e9E85",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "TDOGE makes everyone's income better."
+  },
+  "id": "eab3f796-d950-48ef-ba78-a0384faa1982",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x51519264e031346D01648b94F453544d231e9E85",
+    "website": "https://tsladoge.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x51519264e031346D01648b94F453544d231e9E85/logo.png"
+  },
+  "name": "TSLADOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

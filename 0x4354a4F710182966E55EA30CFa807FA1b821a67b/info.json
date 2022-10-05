@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4354a4F710182966E55EA30CFa807FA1b821a67b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Foxy Equilibrium is an experimental, play to earn NFT game on the BSC network which integrates (BEP721) tokens into the dAPP. Players can claim daily rewards, feed pets, battle with others and more!."
+  },
+  "id": "f13146fc-1973-4189-807c-483af1d2eaf5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4354a4f710182966e55ea30cfa807fa1b821a67b",
+    "website": "https://foxynft.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4354a4F710182966E55EA30CFa807FA1b821a67b/logo.png"
+  },
+  "name": "Foxy Equilibrium",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Foxy",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

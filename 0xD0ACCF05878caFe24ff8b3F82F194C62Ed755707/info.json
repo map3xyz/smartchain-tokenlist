@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "$SIMP is a frictionless farming token operating on the Binance Smart Chain, designed to power trust and transactions for Adult Entertainment Stars and their communities, starting by powering the existing PocketStars & RocketStars platforms."
+  },
+  "id": "d52cf3ce-b592-46db-8a6f-97f3278d8872",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707",
+    "website": "https://letsallsimp.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/simp-token/",
+    "twitter": "https://twitter.com/letsallsimp"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707/logo.png"
+  },
+  "name": "SIMP Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

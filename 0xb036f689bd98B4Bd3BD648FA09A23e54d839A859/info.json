@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb036f689bd98B4Bd3BD648FA09A23e54d839A859",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TacoCat Token is a utility token on the Binance Smart Chain intended to be the backbone of a lifestyle brand and ecosystem governed and operated by a corporate entity named The TacoCat Company Inc."
+  },
+  "id": "51e57747-a5ad-4a8e-a034-48f85aa68053",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb036f689bd98b4bd3bd648fa09a23e54d839a859",
+    "website": "https://tacocat.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb036f689bd98B4Bd3BD648FA09A23e54d839A859/logo.png"
+  },
+  "name": "TACOCAT Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

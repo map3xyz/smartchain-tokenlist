@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x1476e96FAdb37668d7680921297e2ab98Ec36c2F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alongside our limited edition NFT’s, Floki Rocket is a low tax reward token which has been designed to generously reward you in $BNB simply for holding!"
+  },
+  "id": "a7ec3c2e-6089-4d22-b210-664ff6309800",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1476e96FAdb37668d7680921297e2ab98Ec36c2F",
+    "website": "https://flokirocket.finance/",
+    "twitter": "https://twitter.com/rlokirocket",
+    "telegram": "https://t.me/floki_rocket_official",
+    "facebook": "https://facebook.com/Floki-Rocket-Token-100248829123164",
+    "whitepaper": "https://flokirocket.finance/Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1476e96FAdb37668d7680921297e2ab98Ec36c2F/logo.png"
+  },
+  "name": "Floki Rocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

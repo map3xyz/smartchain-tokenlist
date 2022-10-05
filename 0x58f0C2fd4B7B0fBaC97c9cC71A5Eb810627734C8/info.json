@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x58f0C2fd4B7B0fBaC97c9cC71A5Eb810627734C8",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Put your idle crypto-asset to work towards enhancing"
+  },
+  "id": "64fb923e-6e44-4c5a-b58d-5a98ef7ec3a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x58f0C2fd4B7B0fBaC97c9cC71A5Eb810627734C8",
+    "website": "https://wetux.com/",
+    "twitter": "https://twitter.com/wetux_liquidity",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wetux/",
+    "coingecko": "https://coingecko.com/en/coins/wetux",
+    "telegram": "https://t.me/Wetux_Community"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x58f0C2fd4B7B0fBaC97c9cC71A5Eb810627734C8/logo.png"
+  },
+  "name": "Wetux",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WETUX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB99172949554E6C10c28c880eC0306d2A9d5C753",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LunaDoge is the first ethical mememoin. LunaDoge is 100% transparent. LunaDoge is community-driven and used a fair launch to distribute tokens. All team tokens and LP tokens have been locked. Holders earn passive rewards through static reflection, as they watch their balance of $LOGE grow exponentially"
+  },
+  "id": "f7b2b4b5-179b-4d17-9443-4836b2e42458",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb99172949554e6c10c28c880ec0306d2a9d5c753",
+    "website": "https://lunadoge.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB99172949554E6C10c28c880eC0306d2A9d5C753/logo.png"
+  },
+  "name": "LunaDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

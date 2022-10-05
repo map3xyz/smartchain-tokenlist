@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hakka Finance: Decentralized Derivatives & Original Financial Instruments Hakka Finance is a decentralized financial ecosystem with remarkable DeFi products administered by governance token: $HAKKA."
+  },
+  "id": "ddd224f5-f8b9-48b6-83fd-ec2c20a6d9d5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC",
+    "website": "https://hakka.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC/logo.png"
+  },
+  "name": "Hakka Finance on xDai on BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HAKKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x283FA53f085F520D16a43e7c33180ff99E407b26",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Monetize your time in the game!"
+  },
+  "id": "46925507-b47f-4f83-9cee-ba86ba2238a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x283FA53f085F520D16a43e7c33180ff99E407b26",
+    "website": "https://www.maximatoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x283FA53f085F520D16a43e7c33180ff99E407b26/logo.png"
+  },
+  "name": "Maxima",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

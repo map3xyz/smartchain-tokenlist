@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x95111f630aC215Eb74599ED42C67E2c2790d69e2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "icarus.finace is a decentralized mining protocol that brings ETH and BTC mining to DeFi applications."
+  },
+  "id": "15ecc720-cb14-4dc1-83e5-b96fdf429950",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95111f630aC215Eb74599ED42C67E2c2790d69e2",
+    "website": "https://icarus.finance",
+    "twitter": "https://twitter.com/zetta_icarus",
+    "telegram": "https://t.me/icarus_finance",
+    "discord": "https://discord.com/invite/FW5QtuzPdS",
+    "medium": "https://icarus-finance.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x95111f630aC215Eb74599ED42C67E2c2790d69e2/logo.png"
+  },
+  "name": "icarus.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ICA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

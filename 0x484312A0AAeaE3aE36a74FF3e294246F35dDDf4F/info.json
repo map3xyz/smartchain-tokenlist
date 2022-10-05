@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Elon Tweets, we all eat"
+  },
+  "id": "033883b7-7178-4f62-93cd-52bcf2711ab0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F",
+    "website": "https://Bashtank.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F/logo.png"
+  },
+  "name": "Baby Shark Tank",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Bashtank",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x64Df6F1BDf3aE5924595B6E608c251306BEf0c0F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BTFDEX Token (BTF) - Native token of BTFDEX, a decentralized exchange AMM on Binance Smart Chain, with a total supply of 1,000,000,000 BTF. BTFDEX provides Staking, Farming, Swapping and more on Binance Smart Chain (BSC)."
+  },
+  "id": "53bc69cf-6bdc-4e89-8717-daec907df42d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64Df6F1BDf3aE5924595B6E608c251306BEf0c0F",
+    "website": "https://btfdex.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x64Df6F1BDf3aE5924595B6E608c251306BEf0c0F/logo.png"
+  },
+  "name": "BTFDEX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

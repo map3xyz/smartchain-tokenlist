@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9F70625680a4bd250d3c59C755632B09cD6D34Bc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Welcome to the newest member of the legendary crypto dog family. PumpShibaX has watched his elders soar to amazing heights and he is now ready for his own moonshot and to surpass his father, Shiba PumpShibaX will release its Play to Earn (P2E) blockchain game, allowing users to earn rewards, purchase non-fungible tokens (NFTs) to use within the game In order to expand the PumpShibaX ecosystem, a decentralized application (dApp) will be enhanced to implement in-app betting."
+  },
+  "id": "e5c9301a-1661-4f67-8c3c-161efbcc3b1d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9F70625680a4bd250d3c59C755632B09cD6D34Bc",
+    "website": "https://www.pumpshibax.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pumpshibax/",
+    "coingecko": "https://coingecko.com/en/coins/pumpshibax"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9F70625680a4bd250d3c59C755632B09cD6D34Bc/logo.png"
+  },
+  "name": "PumpShibaX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PShibaX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

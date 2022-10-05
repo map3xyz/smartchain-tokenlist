@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Regulated and secure, the FINXFLO platform is designed to provide users with a one-stop solution with some of the best prices from the world's leading CeFi and DeFi protocols."
+  },
+  "id": "2cc97bdd-a256-4bf1-8043-63439a74ce16",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",
+    "website": "https://www.finxflo.com/",
+    "facebook": "https://facebook.com/Finxflo/",
+    "telegram": "https://t.me/Finxflo_Community",
+    "twitter": "https://twitter.com/finxflo"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8a40c222996f9F3431f63Bf80244C36822060f12/logo.png"
+  },
+  "name": "Finxflo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FXF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

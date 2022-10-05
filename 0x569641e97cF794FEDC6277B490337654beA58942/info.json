@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x569641e97cF794FEDC6277B490337654beA58942",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAVEPALESTINE ($PAL) is a community-driven token that rewards holders while at the same time provides much needed donations to Palestine for humanitarian causes. Every week, a donation will be made based on the project’s market cap. "
+  },
+  "id": "d6f5b886-bbac-4a49-bf8f-8709e1e33457",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x569641e97cF794FEDC6277B490337654beA58942",
+    "website": "https://palestine.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x569641e97cF794FEDC6277B490337654beA58942/logo.png"
+  },
+  "name": "SAVEPALESTINE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

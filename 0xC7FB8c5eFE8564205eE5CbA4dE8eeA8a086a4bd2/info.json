@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "PocketRocket aims to achieve the impossible by giving away vehicles to its holders. Constantly rewarding holders with dividends as well as constantly deflating the supply with an automatic burn function with every transaction. This is achieved by our Car Wallet automatically transferring PocketRocketTokens, making it an anti-dump project! We are calculated to result on a moon mission that hasn’t yet been seen in the Binance Smart Chain."
+  },
+  "id": "2710807c-ac78-48a3-8719-81453a39d42d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2",
+    "website": "https://pocketrocket.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC7FB8c5eFE8564205eE5CbA4dE8eeA8a086a4bd2/logo.png"
+  },
+  "name": "PocketRocket",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POCROC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

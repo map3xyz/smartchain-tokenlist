@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "JulSwap DEX Commnuity Token"
+  },
+  "id": "c00913d4-d1e3-4143-8c7b-78bc587e3826",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+    "website": "https://julswap.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea/logo.png"
+  },
+  "name": "JulSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JulD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

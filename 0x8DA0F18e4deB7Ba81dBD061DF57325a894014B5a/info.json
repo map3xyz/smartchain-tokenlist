@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A new level in obtaining value . Auto-lock your lp and get access to passive value. Gain more rewards from your investments. Join us and let’s take this rocket to the moon."
+  },
+  "id": "f482740e-3876-4f89-81ca-af06e2adfde9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a",
+    "website": "https://www.pinkelon.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8DA0F18e4deB7Ba81dBD061DF57325a894014B5a/logo.png"
+  },
+  "name": "PinkElon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

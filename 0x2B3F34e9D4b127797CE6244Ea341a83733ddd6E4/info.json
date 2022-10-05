@@ -1,0 +1,29 @@
+{
+  "active": false,
+  "address": "0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Floki Inu is a meme token that provides deflationary rewards to holders."
+  },
+  "id": "71ff7d3a-5dd1-41b3-8c74-9b356778a2fb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4",
+    "website": "https://theflokiinu.com",
+    "telegram": "https://t.me/FlokiInuToken",
+    "twitter": "https://twitter.com/RealFlokiInu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/floki-inu/",
+    "coingecko": "https://coingecko.com/en/coins/floki-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4/logo.png"
+  },
+  "name": "Floki Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLOKI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

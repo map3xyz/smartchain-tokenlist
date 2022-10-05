@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Nothing is a deflationary BEP20 token that charges a 10% transaction fee and offers static rewards to holders along with automatic LP generation. What’s the difference between a meme coin that claims to do something innovative and a meme coin that does nothing? Nothing."
+  },
+  "id": "73430eaa-02c1-4b78-acd1-96d646a0c724",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xace8c5e6e492aa7aebf31a8053f8a487f62ceb84",
+    "website": "https://www.nothingcoincrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84/logo.png"
+  },
+  "name": "NOTHING",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NADA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

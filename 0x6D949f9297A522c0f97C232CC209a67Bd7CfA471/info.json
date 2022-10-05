@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6D949f9297A522c0f97C232CC209a67Bd7CfA471",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MoonRat is a community driven, fair launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, & Burn. MoonRat brings the most revolutionary mechanism to BSC ecosystem: Earn $BNB just by holding $MRAT token"
+  },
+  "id": "88319da7-98b8-4158-9212-767bb1ed8b3f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6D949f9297A522c0f97C232CC209a67Bd7CfA471",
+    "website": "https://moonrat.finance/",
+    "twitter": "https://twitter.com/MoonRatFinance",
+    "telegram": "https://t.me/moonrat_finance",
+    "medium": "https://medium.com/moonrat-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6D949f9297A522c0f97C232CC209a67Bd7CfA471/logo.png"
+  },
+  "name": "MoonRat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MRAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

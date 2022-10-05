@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6652048Fa5E66ed63a0225FFd7C82e106b0Aa18b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Yetucoin is the governance token of the Pan-Afrikan decentralized exchange YetuSwap."
+  },
+  "id": "3745d488-eb38-4526-ac75-612b7995da69",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b",
+    "website": "https://yetubit.com/",
+    "twitter": "https://twitter.com/yetuswap",
+    "telegram": "https://t.me/joinchat/WCgfoG3TKk0FVYsf",
+    "facebook": "https://facebook.com/yetuswap/",
+    "reddit": "https://reddit.com/user/YetuSwap",
+    "medium": "https://medium.com/yetuswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6652048Fa5E66ed63a0225FFd7C82e106b0Aa18b/logo.png"
+  },
+  "name": "Yetucoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YETU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

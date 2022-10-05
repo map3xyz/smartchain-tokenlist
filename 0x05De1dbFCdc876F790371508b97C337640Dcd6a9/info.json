@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x05De1dbFCdc876F790371508b97C337640Dcd6a9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GLOWV2 represents the illumination of the darkness in the crypto DeFi space through security, clarity, passive income, education, and charity."
+  },
+  "id": "f631ac5d-1d77-4ec3-ba93-14db76d0d8f2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05De1dbFCdc876F790371508b97C337640Dcd6a9",
+    "website": "https://glowtoken.net",
+    "github": "https://github.com/GlowTokenLLC",
+    "twitter": "https://twitter.com/GlowTokenLLC",
+    "telegram": "https://t.me/officialGlowV2",
+    "discord": "https://discord.com/glowv2",
+    "whitepaper": "https://drive.google.com/file/d/1xTOCq7dg4z10PRAmN1KaoIp0aPxyQhEO/view",
+    "reddit": "https://reddit.com/GlowTokenLLC",
+    "youtube": "https://youtube.com/channel/UCJaEd7QSboUsqjudACJrNFw",
+    "facebook": "https://facebook.com/groups/326003435955719",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/glow-v2/",
+    "coingecko": "https://coingecko.com/coins/glowv2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x05De1dbFCdc876F790371508b97C337640Dcd6a9/logo.png"
+  },
+  "name": "GlowV2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GlowV2",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

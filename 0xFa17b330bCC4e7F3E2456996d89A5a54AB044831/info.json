@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cardence is a launchpad for new projects on Cardano platform creating a trustless fund raising ecosystem for carefully vetted Cardano projects."
+  },
+  "id": "ae6e1e8e-e366-42b1-aefa-0b5a685e2af6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfa17b330bcc4e7f3e2456996d89a5a54ab044831",
+    "website": "https://cardence.io",
+    "twitter": "https://twitter.com/cardence_io",
+    "telegram": "https://t.me/cardence_chat",
+    "whitepaper": "https://docs.cardence.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cardence-io/",
+    "medium": "https://medium.com/cardence",
+    "reddit": "https://reddit.com/r/Cardence/",
+    "youtube": "https://youtube.com/user/ismulad",
+    "facebook": "https://facebook.com/cardence.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFa17b330bCC4e7F3E2456996d89A5a54AB044831/logo.png"
+  },
+  "name": "Cardence",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$CRDN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

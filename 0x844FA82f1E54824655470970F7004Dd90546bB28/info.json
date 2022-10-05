@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x844FA82f1E54824655470970F7004Dd90546bB28",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dopple is an automated market maker (AMM) designed for efficiently trading stablecoins and pegged assets on the Binance Smart Chain. Dopple's first pool is launching with a basket of a dollar-pegged stablecoins consisting of BUSD, USDT, DAI, USDC & UST."
+  },
+  "id": "bb5dcd3c-1485-4190-b8d9-f34f9a8b6297",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x844FA82f1E54824655470970F7004Dd90546bB28",
+    "website": "https://dopple.finance/",
+    "twitter": "https://twitter.com/dopplefi",
+    "telegram": "https://t.me/dopplefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x844FA82f1E54824655470970F7004Dd90546bB28/logo.png"
+  },
+  "name": "DOPPLE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sushiba is the first fully-decentralized and deflationary token that unites food lovers with dog lovers. It is also a future looking token aimed at establishing an AI-Based decentralized Marketplace built around its uniquely themed decentralized applications."
+  },
+  "id": "8ceda09a-3c25-4249-b69c-a7e4fd053095",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa96658cd0d04a8fdcdc30d1156cc65bbfc7591ed",
+    "website": "https://www.sushibatoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD/logo.png"
+  },
+  "name": "Sushiba Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SUSHIBA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

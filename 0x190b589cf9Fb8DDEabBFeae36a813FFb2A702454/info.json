@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "bDollar (BDO) is an algorithmic stable-coin running on Binance Smart-chain. Completely decentralised on-chain governance."
+  },
+  "id": "b85fb720-49ba-447a-a49c-5dabfc16cfd3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+    "website": "https://bdollar.fi",
+    "github": "https://github.com/bearn-defi/bdollar-smartcontracts",
+    "twitter": "https://twitter.com/bDollar_Fi",
+    "telegram": "https://t.me/Bearn_Fi",
+    "medium": "https://bearn-defi.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454/logo.png"
+  },
+  "name": "bDollar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

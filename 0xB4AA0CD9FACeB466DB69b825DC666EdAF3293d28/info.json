@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DAMN Connecting the World through Blockchain Innovations."
+  },
+  "id": "01ae152c-dcd6-4551-83fd-c6b5461c0733",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28",
+    "website": "https://damncool.io/",
+    "twitter": "https://twitter.com/_DAMNCool_",
+    "reddit": "https://reddit.com/r/DAMNCoolOfficial/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/damn-token/",
+    "github": "https://github.com/damncoolFrank/",
+    "telegram": "https://t.me/DAMN_Community",
+    "coingecko": "https://coingecko.com/en/coins/damn-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28/logo.png"
+  },
+  "name": "Damn Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAMN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

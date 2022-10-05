@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x8B6fA031c7D2E60fbFe4E663EC1B8f37Df1ba483",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CashCow is a fairly launched, low supply and highly deflationary DeFi Token that includes NFT and Play2Earn features"
+  },
+  "id": "eaa4cc45-c953-4144-8140-e8cc11af3c6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8B6fA031c7D2E60fbFe4E663EC1B8f37Df1ba483",
+    "website": "https://cashcowprotocol.com",
+    "twitter": "https://twitter.com/CashCowProtocol",
+    "facebook": "https://facebook.com/CashCowProtocol",
+    "telegram": "https://t.me/cashcowprotocol",
+    "discord": "https://discord.com/channels/866067292814311434/899447269961646100",
+    "whitepaper": "https://cashcowprotocol.gitbook.io/cashcow-protocol/about-cashcow/whitepaper",
+    "docs": "https://cashcowprotocol.gitbook.io/cashcow",
+    "coingecko": "https://coingecko.com/en/coins/cashcow",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cashcow"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8B6fA031c7D2E60fbFe4E663EC1B8f37Df1ba483/logo.png"
+  },
+  "name": "CashCow",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COW",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

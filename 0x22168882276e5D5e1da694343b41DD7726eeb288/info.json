@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x22168882276e5D5e1da694343b41DD7726eeb288",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WSBDApp gives users access to stocks, staking and crypto portfolios."
+  },
+  "id": "dec8fd53-e005-491d-a71a-200fd6e6596f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x22168882276e5D5e1da694343b41DD7726eeb288",
+    "website": "https://wsbdapp.com",
+    "twitter": "https://twitter.com/WSBDapp",
+    "medium": "https://wsbdapp.medium.com/",
+    "telegram": "https://t.me/wallstreetbets",
+    "youtube": "https://youtube.com/channel/UCUvxcGE0XCWVPmflZiUXK-g"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x22168882276e5D5e1da694343b41DD7726eeb288/logo.png"
+  },
+  "name": "WallStreetBets DApp",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

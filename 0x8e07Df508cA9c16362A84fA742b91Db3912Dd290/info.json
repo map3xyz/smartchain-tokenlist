@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8e07Df508cA9c16362A84fA742b91Db3912Dd290",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The role of NFT-Starter is as a provider of technology to have a platform exclusively governed by NFT-Starter community. There are multiple benefits for NST holders such as earning BNB passively, IDO participation, voting power, farming (liquidity pool), earning rating star and many benefits coming in the future."
+  },
+  "id": "ac8b331a-48cb-4e9f-8e5f-db7d9784f880",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8e07Df508cA9c16362A84fA742b91Db3912Dd290",
+    "website": "https://www.nft-starter.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8e07Df508cA9c16362A84fA742b91Db3912Dd290/logo.png"
+  },
+  "name": "NST Starter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

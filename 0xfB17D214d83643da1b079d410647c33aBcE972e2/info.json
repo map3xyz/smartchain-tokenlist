@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "FEG Wrapped DOGE"
+  },
+  "id": "10a4df78-f003-4f94-97f2-3c8d68815176",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfb17d214d83643da1b079d410647c33abce972e2",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfB17D214d83643da1b079d410647c33aBcE972e2/logo.png"
+  },
+  "name": "FEG Wrapped DOGE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

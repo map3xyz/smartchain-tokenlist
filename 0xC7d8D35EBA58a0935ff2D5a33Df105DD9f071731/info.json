@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Hedget is a decentralised protocol for options trading."
+  },
+  "id": "205e07c8-31ec-40c0-b984-eb8b9bcd0508",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc7d8d35eba58a0935ff2d5a33df105dd9f071731",
+    "website": "https://www.hedget.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731/logo.png"
+  },
+  "name": "Hedget",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HGET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4D5bd38263C03d684289fa4Ff7cAF6172c377338",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeMoonGold is a BSC based utility token that will allow holders to trade without the need for centralized power, thus maintaining stable copyright ownership and earning further SafeMoonGold."
+  },
+  "id": "0214c35c-a666-4599-8cac-3ec6a8c9b303",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d5bd38263c03d684289fa4ff7caf6172c377338",
+    "website": "https://www.safemoongold.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4D5bd38263C03d684289fa4Ff7cAF6172c377338/logo.png"
+  },
+  "name": "SafeMoonGold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEMOONGOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

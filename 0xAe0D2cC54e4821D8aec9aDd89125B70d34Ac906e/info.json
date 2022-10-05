@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAe0D2cC54e4821D8aec9aDd89125B70d34Ac906e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The purpose of our coin is to build a vast community world wide for all apes to call home, our very own planet of the apes."
+  },
+  "id": "1324eded-4845-471a-aa7e-ebecea4e13ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAe0D2cC54e4821D8aec9aDd89125B70d34Ac906e",
+    "website": "https://apeinu.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAe0D2cC54e4821D8aec9aDd89125B70d34Ac906e/logo.png"
+  },
+  "name": "APE INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

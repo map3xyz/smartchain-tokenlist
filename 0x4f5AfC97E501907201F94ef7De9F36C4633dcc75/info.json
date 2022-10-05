@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4f5AfC97E501907201F94ef7De9F36C4633dcc75",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": " Safecom is a token made for the community on the BSC Scan."
+  },
+  "id": "44bab1ff-629a-4b47-8a9a-a31db5d0b072",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4f5AfC97E501907201F94ef7De9F36C4633dcc75",
+    "website": "https://www.safecomtoken.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4f5AfC97E501907201F94ef7De9F36C4633dcc75/logo.png"
+  },
+  "name": "SAFE Community Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFECOM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

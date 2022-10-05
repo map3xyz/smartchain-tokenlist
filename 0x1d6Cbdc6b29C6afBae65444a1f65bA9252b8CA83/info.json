@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TOR is a fully collateralized, backed by the Hector Finance Treasury, stablecoin built on the Fantom Opera Chain."
+  },
+  "id": "ad3a0c9e-4f59-4feb-ab2c-1844f5a5b83e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83",
+    "website": "https://tor.cash",
+    "twitter": "https://twitter.com/HectorDAO_HEC",
+    "medium": "https://medium.com/@hectordao",
+    "whitepaper": "https://docs.hector.finance/the-tor-stablecoin/the-tor-stablecoin",
+    "telegram": "https://t.me/hectorDAO",
+    "telegramNews": "https://t.me/hectordaoann",
+    "github": "https://github.com/Hector-DAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tor/",
+    "coingecko": "https://coingecko.com/coins/tor"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83/logo.png"
+  },
+  "name": "TOR Stablecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TOR",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

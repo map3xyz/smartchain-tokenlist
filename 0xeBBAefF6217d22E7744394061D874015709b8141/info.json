@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xeBBAefF6217d22E7744394061D874015709b8141",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WAM is a play & earn crypto-gaming platform where everybody can play & compete with friends in simple hyper-casual tournaments to earn crypto rewards."
+  },
+  "id": "e8d57a03-2fd3-4ef8-a815-6b3a02f8fe7d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeBBAefF6217d22E7744394061D874015709b8141",
+    "website": "https://wam.app",
+    "twitter": "https://twitter.com/playWAM",
+    "telegram": "https://t.me/wamapp",
+    "github": "https://github.com/Digitapeu/",
+    "discord": "https://discord.com/invite/wam",
+    "blog": "https://blog.wam.app",
+    "whitepaper": "https://whitepaper.wam.app"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeBBAefF6217d22E7744394061D874015709b8141/logo.png"
+  },
+  "name": "WAM",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAM",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

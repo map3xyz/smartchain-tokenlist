@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CHAD token is a community driven token with automatic LP and reflective rewards."
+  },
+  "id": "fb4f7c39-51e5-49d9-9ed0-be258de85e1b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB",
+    "website": "https://chads.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB/logo.png"
+  },
+  "name": "CHAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6775729FaD1438116b2E3B4Fb2878539795297A7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CoinAlpha is community based coin listing and voting platform."
+  },
+  "id": "c4856c50-550d-4ac5-8706-a6eb2ef4cf04",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6775729FaD1438116b2E3B4Fb2878539795297A7",
+    "website": "https://coinalpha.app/",
+    "twitter": "https://twitter.com/CoinAlpha3",
+    "telegram": "https://t.me/coinalpha_x100",
+    "facebook": "https://facebook.com/coinalphax4r",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coinalpha/",
+    "coingecko": "https://coingecko.com/en/coins/coinalpha"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6775729FaD1438116b2E3B4Fb2878539795297A7/logo.png"
+  },
+  "name": "CoinAlpha",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

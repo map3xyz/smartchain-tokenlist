@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped BUSD"
+  },
+  "id": "971d516e-31de-4ef1-96f0-930d18890b69",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x38b4119845b5a60d48178a17c9215162e84856ed",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x38b4119845b5A60D48178a17C9215162E84856ed/logo.png"
+  },
+  "name": "FEG Wrapped BUSD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fBUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A fresh RFI-like cryptocurrency where the longer you hold, the more you are rewarded."
+  },
+  "id": "b9300cb7-bb72-47b1-aae6-f56025c022f8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
+    "website": "https://diamondhold.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB/logo.png"
+  },
+  "name": "DiamondHold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DHOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

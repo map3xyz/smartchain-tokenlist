@@ -1,0 +1,29 @@
+{
+  "active": false,
+  "address": "0xd27D3F7f329D93d897612E413F207A4dbe8bF799",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moonshot is a deflationary, frictionless yield and liquidity generation protocol."
+  },
+  "id": "2419185f-94cf-40a5-ad66-41873fafc51c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd27D3F7f329D93d897612E413F207A4dbe8bF799",
+    "website": "https://project-moonshot.me/",
+    "github": "https://github.com/moonshot-platform",
+    "twitter": "https://twitter.com/RS25Moonshot",
+    "telegram": "https://t.me/MoonShotChat",
+    "medium": "https://rs25moonshot.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xd27D3F7f329D93d897612E413F207A4dbe8bF799/logo.png"
+  },
+  "name": "Moonshot",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONSHOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7D72DEDa97AfCE34caeb5DcbCc4001b7Ceb8074B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MonkeyMoon - is an automatic liquidity generation protocol."
+  },
+  "id": "61bf7cf7-4aed-40db-8848-9c76371a7b5a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7d72deda97afce34caeb5dcbcc4001b7ceb8074b",
+    "website": "http://monkeycoin.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7D72DEDa97AfCE34caeb5DcbCc4001b7Ceb8074B/logo.png"
+  },
+  "name": "MonkeyCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MKMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

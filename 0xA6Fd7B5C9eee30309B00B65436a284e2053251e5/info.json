@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xA6Fd7B5C9eee30309B00B65436a284e2053251e5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hora OS is an operating system built to administer a network of computers through a decentralized protocol."
+  },
+  "id": "3cade181-660b-4c9b-8d1f-528474136101",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA6Fd7B5C9eee30309B00B65436a284e2053251e5",
+    "website": "https://horaos.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA6Fd7B5C9eee30309B00B65436a284e2053251e5/logo.png"
+  },
+  "name": "HORA OS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HORA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

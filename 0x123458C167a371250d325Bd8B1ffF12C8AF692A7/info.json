@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x123458C167a371250d325Bd8B1ffF12C8AF692A7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized Rewarding Autonomous Chain."
+  },
+  "id": "e3df6a98-a409-4795-ae20-2d34f434e871",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x123458C167a371250d325Bd8B1ffF12C8AF692A7",
+    "website": "https://drac.io",
+    "twitter": "https://twitter.com/DRAC_Network",
+    "github": "https://github.com/DRAC-Network-Admin",
+    "telegram": "https://t.me/DRAC_English",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/drac-token/",
+    "whitepaper": "https://drac.io/whitepaper.pdf",
+    "medium": "https://dracnetwork.medium.com/",
+    "youtube": "https://youtube.com/channel/UCcD7AsRqhU92IfqTh4SY0kQ",
+    "discord": "https://discord.com/invite/9DyPCHsk"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x123458C167a371250d325Bd8B1ffF12C8AF692A7/logo.png"
+  },
+  "name": "DRAC Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRAC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

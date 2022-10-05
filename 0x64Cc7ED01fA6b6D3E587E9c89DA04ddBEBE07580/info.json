@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x64Cc7ED01fA6b6D3E587E9c89DA04ddBEBE07580",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SHIBA INU GOLD is Memes Token"
+  },
+  "id": "a66c80d9-004b-40cb-930f-aee88ff7ab7a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64Cc7ED01fA6b6D3E587E9c89DA04ddBEBE07580",
+    "website": "https://shibainugold.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x64Cc7ED01fA6b6D3E587E9c89DA04ddBEBE07580/logo.png"
+  },
+  "name": "SHIBA INU GOLD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

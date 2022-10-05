@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "5784f852-b8c0-4449-8558-2967a21bb3c6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+    "website": "https://saber.so/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1/logo.png"
+  },
+  "name": "Saber (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SBR",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

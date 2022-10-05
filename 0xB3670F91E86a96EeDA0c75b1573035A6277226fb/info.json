@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB3670F91E86a96EeDA0c75b1573035A6277226fb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Buyback is a utility token for defi aplications and also have Reflection, Auto Funding, and Burn mechanism. "
+  },
+  "id": "6cc569ef-629d-420d-a725-95ef04fee0e2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb3670f91e86a96eeda0c75b1573035a6277226fb",
+    "website": "https://www.buybacktoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB3670F91E86a96EeDA0c75b1573035A6277226fb/logo.png"
+  },
+  "name": "BUYBACK Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

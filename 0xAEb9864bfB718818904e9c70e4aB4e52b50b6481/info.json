@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAEb9864bfB718818904e9c70e4aB4e52b50b6481",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PEA Farm is virtual blockchain game that uses blockchain technology and NFT to create a variety of digital assets and give the ownership to the players."
+  },
+  "id": "4fd30775-a43e-47d8-a68e-47275079603e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAEb9864bfB718818904e9c70e4aB4e52b50b6481",
+    "website": "https://pea.farm/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAEb9864bfB718818904e9c70e4aB4e52b50b6481/logo.png"
+  },
+  "name": "PEA Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

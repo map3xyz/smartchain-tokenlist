@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Buy and Hold BabyShiba and you will automatically get more in your wallet. No need to farm, stake or claim."
+  },
+  "id": "1b6177e5-9d13-4358-8080-bb08865f5bdc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+    "website": "https://babyshiba.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B/logo.png"
+  },
+  "name": "BabyShiba",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyShiba",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

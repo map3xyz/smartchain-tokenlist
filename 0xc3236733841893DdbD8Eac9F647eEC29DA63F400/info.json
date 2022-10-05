@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc3236733841893DdbD8Eac9F647eEC29DA63F400",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A project made for the community, 97% owned by the community and with PancakeSwap locked liquidity and RENOUNCED OWNERSHIP. We aim to reduce the pollution by donating to organizations involved in reducing the CARBON footprint. The organizations will be voted by the community."
+  },
+  "id": "64393ff9-1613-4e63-a364-6a4f36bda143",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc3236733841893DdbD8Eac9F647eEC29DA63F400",
+    "website": "https://carbondefi.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc3236733841893DdbD8Eac9F647eEC29DA63F400/logo.png"
+  },
+  "name": "CarbonDEFI Finance CARBO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CARBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

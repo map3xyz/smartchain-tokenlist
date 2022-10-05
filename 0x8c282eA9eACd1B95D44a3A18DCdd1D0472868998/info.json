@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8c282eA9eACd1B95D44a3A18DCdd1D0472868998",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Ancient Kingdom is the 1st ancient martial arts game on the blockchain platform, pioneering the realization of real-time games on the blockchain platform."
+  },
+  "id": "d8a6a72e-9c50-4d76-8fd7-48ba04a3a9f5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8c282eA9eACd1B95D44a3A18DCdd1D0472868998",
+    "website": "https://acdom.io",
+    "telegram": "https://t.me/AncientCommunity",
+    "twitter": "https://twitter.com/AncientKingNft",
+    "youtube": "https://youtube.com/channel/UCpSghae57xjFYfnUyBulpIw",
+    "discord": "https://discord.com/invite/gXHFkvva6a"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8c282eA9eACd1B95D44a3A18DCdd1D0472868998/logo.png"
+  },
+  "name": "Ancient Kingdom",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

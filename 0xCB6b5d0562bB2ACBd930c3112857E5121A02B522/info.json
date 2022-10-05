@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
+  "color": null,
+  "decimals": 3,
+  "description": {
+    "en": "PaynShop is a ecommerce built on blockchain technology that will offer fantastic value for shoppers and casual purchasers."
+  },
+  "id": "7e518f55-1940-4084-9521-6045a254ba82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCB6b5d0562bB2ACBd930c3112857E5121A02B522",
+    "website": "https://paynshop.store/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCB6b5d0562bB2ACBd930c3112857E5121A02B522/logo.png"
+  },
+  "name": "Paynshop",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAYNS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

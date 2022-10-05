@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8eE4924BD493109337D839C23f628e75Ef5f1C4D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ben is a decentralized community experiment which is inspired by Elon Musk and Dogecoin."
+  },
+  "id": "bbbcaa90-9d3b-4e9c-8f5c-c99860728227",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8eE4924BD493109337D839C23f628e75Ef5f1C4D",
+    "website": "https://bentoken.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8eE4924BD493109337D839C23f628e75Ef5f1C4D/logo.png"
+  },
+  "name": "BEN Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Ben",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AntiMatter is a lightweight on-chain DeFi perpetual derivative protocol based on a polarized token model."
+  },
+  "id": "47f781e5-b692-4707-9ed4-90284effb6b1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F",
+    "website": "https://antimatter.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1C9491865a1DE77C5b6e19d2E6a5F1D7a6F2b25F/logo.png"
+  },
+  "name": "Antimatter.Finance Governance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MATTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

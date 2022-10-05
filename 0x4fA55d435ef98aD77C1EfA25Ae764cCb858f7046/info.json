@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4fA55d435ef98aD77C1EfA25Ae764cCb858f7046",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hello swap exchange is a decentralized exchange platform built on the Binance smart chain BSC protocol, with an integrated seamless interoperability across all blockchain network and diverse contract systems."
+  },
+  "id": "0ab4f201-3ceb-4e88-87b1-e6986922fabe",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4fA55d435ef98aD77C1EfA25Ae764cCb858f7046",
+    "website": "https://helloswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4fA55d435ef98aD77C1EfA25Ae764cCb858f7046/logo.png"
+  },
+  "name": "HelloSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HELLO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

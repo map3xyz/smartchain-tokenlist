@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dot.Finance is a new DeFi platform designed to incentivize the growth of the Polkadot ecosystem."
+  },
+  "id": "3a85997e-bc40-4783-9456-86e47b9ac9e8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+    "website": "https://dot.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC/logo.png"
+  },
+  "name": "Pink token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

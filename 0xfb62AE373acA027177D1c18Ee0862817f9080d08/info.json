@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "My DeFi Pet brings traditional game experience and DeFi features to NFT collectibles where players can collect, breed and trade monsters or items, battle and participate in events."
+  },
+  "id": "73b5885f-5bae-4aec-a1ba-10dbbc2673ce",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+    "website": "https://mydefipet.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/my-defi-pet/",
+    "twitter": "https://twitter.com/MyDeFiPet",
+    "telegram": "https://t.me/mydefipet"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xfb62AE373acA027177D1c18Ee0862817f9080d08/logo.png"
+  },
+  "name": "My DeFi Pet Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DPET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

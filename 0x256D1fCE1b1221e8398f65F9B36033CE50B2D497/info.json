@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alvey Coin is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a Proof of Stake consensus."
+  },
+  "id": "53a29ddc-718c-41ef-b4a1-cbc2d1e60083",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
+    "website": "https://www.alveychain.com",
+    "twitter": "https://twitter.com/AlveyChain",
+    "github": "https://github.com/AlveyCoin",
+    "telegram": "https://t.me/AlveyChain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x256D1fCE1b1221e8398f65F9B36033CE50B2D497/logo.png"
+  },
+  "name": "Alvey Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "wALV",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

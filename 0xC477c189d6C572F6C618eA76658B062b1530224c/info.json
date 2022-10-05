@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xC477c189d6C572F6C618eA76658B062b1530224c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cryptonlyfanz is a decentralized social network dedicated to providing a platform that connects exclusive influencer content and their fanz like never before. Our decentralized platform is powered by COF Token; a cryptocurrency with embedded features that sustains a low-cost environment where content creators and subscribers can connect with little interference from a third party. To learn more please reference our “"
+  },
+  "id": "2917ac12-e2da-42f5-9b2d-79b33736c7cf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC477c189d6C572F6C618eA76658B062b1530224c",
+    "website": "https://www.cryptonlyfanz.com/",
+    "telegram": "https://t.me/CryptonlyFanz",
+    "twitter": "https://twitter.com/CryptonlyFanz"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC477c189d6C572F6C618eA76658B062b1530224c/logo.png"
+  },
+  "name": "CryptonlyFanz",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

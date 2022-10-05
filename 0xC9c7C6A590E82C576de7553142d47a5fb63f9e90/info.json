@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC9c7C6A590E82C576de7553142d47a5fb63f9e90",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Birdchain is base in the era of sharing Economy allowing users to benefit greatly by using blockchain tech. Birdchain has multiple products such as DEFI, NFT, etc. Birdchain has currently built an incentivized App that revolves around an easy-to-use, high-engagement, marketing & content platform where users engage with content and get rewarded. we are working to add more use cases to the token. such as incentivize users for liquidity provision to the Birdchainswap defi platform."
+  },
+  "id": "0f6c0230-e73c-4b67-a24d-a320f0f46caa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC9c7C6A590E82C576de7553142d47a5fb63f9e90",
+    "website": "https://www.birdchainapp.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC9c7C6A590E82C576de7553142d47a5fb63f9e90/logo.png"
+  },
+  "name": "BirdChain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIRD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

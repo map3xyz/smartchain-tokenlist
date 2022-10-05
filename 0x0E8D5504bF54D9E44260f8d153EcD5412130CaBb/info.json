@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0E8D5504bF54D9E44260f8d153EcD5412130CaBb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "UNCL is the liquidity rewards token of the UniCrypt Farming platform."
+  },
+  "id": "5622a744-be4f-4583-8cb8-7c3b4885456c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0e8d5504bf54d9e44260f8d153ecd5412130cabb",
+    "website": "https://unicrypt.network",
+    "twitter": "https://twitter.com/UNCX_token",
+    "medium": "https://unicrypt.medium.com/",
+    "telegram": "https://t.me/uncx_token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/uncl/",
+    "coingecko": "https://coingecko.com/en/coins/uncl",
+    "docs": "https://docs.unicrypt.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E8D5504bF54D9E44260f8d153EcD5412130CaBb/logo.png"
+  },
+  "name": "UNCL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UNCL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

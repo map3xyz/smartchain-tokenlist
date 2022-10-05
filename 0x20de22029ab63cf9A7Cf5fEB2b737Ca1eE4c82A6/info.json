@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset."
+  },
+  "id": "ada83ec0-c7a0-4ed7-ba97-0088714a25f9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+    "website": "https://tranchess.com/",
+    "github": "https://github.com/tranchess/contract-core",
+    "twitter": "https://twitter.com/tranchess",
+    "medium": "https://medium.com/@tranchess",
+    "telegram": "https://t.me/tranchess",
+    "coingecko": "https://coingecko.com/en/coins/tranchess",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tranchess",
+    "discord": "https://discord.com/invite/tKxAq78VBr"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6/logo.png"
+  },
+  "name": "Chess",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHESS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x5EA29eEe799aA7cC379FdE5cf370BC24f2Ea7c81",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Keep3r BSC Network is First Decentralized Keeper Network Project on Binance Smart Chain. KP3RB token is fully democratic governance dapp."
+  },
+  "id": "7010deae-ec15-44bd-a063-d698a32ded5f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5EA29eEe799aA7cC379FdE5cf370BC24f2Ea7c81",
+    "website": "https://keep3rb.network",
+    "github": "https://github.com/keep3rb-network",
+    "whitepaper": "https://docs.keep3rb.network/docs"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5EA29eEe799aA7cC379FdE5cf370BC24f2Ea7c81/logo.png"
+  },
+  "name": "Keep3r BSC Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KP3RB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

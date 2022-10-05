@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MCDEX is the first fully-permissionless DEX for trading perpetual contracts, powered by MCDEX's revolutionary AMM technology"
+  },
+  "id": "3e0b26e1-7fb7-46fe-89b4-f2e87519732f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5fE80d2CD054645b9419657d3d10d26391780A7B",
+    "website": "https://mcdex.io",
+    "twitter": "https://twitter.com/MonteCarloDEX",
+    "telegram": "https://t.me/Mcdex",
+    "medium": "https://mcdex.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5fE80d2CD054645b9419657d3d10d26391780A7B/logo.png"
+  },
+  "name": "MCB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

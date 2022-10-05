@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x2098fEf7eEae592038f4f3C4b008515fed0d5886",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The governance token and in-game currency of Rune, an epic dark fantasy universe"
+  },
+  "id": "d584f5cf-d5bd-4e41-bf20-d6653cdbc462",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2098fEf7eEae592038f4f3C4b008515fed0d5886",
+    "website": "https://rune.game/",
+    "twitter": "https://twitter.com/RuneMetaverse",
+    "telegram": "https://t.me/RuneMetaverse",
+    "medium": "https://medium.com/runemmo",
+    "docs": "https://docs.rune.game",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/rune-shards/",
+    "coingecko": "https://coingecko.com/coins/rune-shards/",
+    "facebook": "https://facebook.com/RuneMetaverse/",
+    "discord": "https://discord.com/invite/rune/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2098fEf7eEae592038f4f3C4b008515fed0d5886/logo.png"
+  },
+  "name": "Rune Shards",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RXS",
+  "tags": [
+    "nft",
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

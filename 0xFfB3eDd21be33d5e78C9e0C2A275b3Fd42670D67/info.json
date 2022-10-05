@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "STAKD Finance is a powerful DeFi ecosystem on Binance Smart Chain that wants to revolutionize the DeFi sector on BSC by providing all in one solution for everyone."
+  },
+  "id": "2f53f46a-08c7-4908-9c4a-268515177a77",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67",
+    "research": "https://docs.stakd.finance/",
+    "website": "https://stakd.finance/",
+    "twitter": "https://twitter.com/STAKD_finance",
+    "telegram": "https://t.me/stakdfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFfB3eDd21be33d5e78C9e0C2A275b3Fd42670D67/logo.png"
+  },
+  "name": "STAKD Finance (STAKD)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STAKD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

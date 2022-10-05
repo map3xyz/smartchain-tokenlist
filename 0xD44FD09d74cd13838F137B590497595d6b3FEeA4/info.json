@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoMines is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $ETERNAL, this mineral allows them to live another day and make some profits along the way."
+  },
+  "id": "3e2cf085-1050-46fb-8ed2-46c1873bc7e9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+    "website": "https://cryptomines.app",
+    "twitter": "https://twitter.com/cryptominesapp",
+    "telegram": "https://t.me/cryptominesapp",
+    "telegramNews": "https://t.me/joinchat/dav21Cm7oBkwYzcx",
+    "youtube": "https://youtube.com/watch?v=e6GsGwBwlgs",
+    "whitepaper": "https://docs.cryptomines.app/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptomines/",
+    "coingecko": "https://coingecko.com/es/monedas/cryptomines-eternal",
+    "discord": "https://discord.com/invite/8Q7cMb3Cqe"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD44FD09d74cd13838F137B590497595d6b3FEeA4/logo.png"
+  },
+  "name": "CryptoMines",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETERNAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

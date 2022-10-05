@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Quantum Assets uses quantum phenomena (quantum tunneling of electrons) to produce a new class of quantum cryptographic keys - creating quantum assets. Holders of Quantum Assets Token (QA) at relevant blocks are guaranteed airdrops of new quantum assets as they are released to market."
+  },
+  "id": "7bf62236-ff99-46d4-97bb-71d22fbab927",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9",
+    "website": "https://www.quantumassets.vg/",
+    "twitter": "https://twitter.com/QuantumAssetsQA",
+    "coingecko": "https://coingecko.com/en/coins/quantum-assets"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9/logo.png"
+  },
+  "name": "Quantum Assets Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QA",
+  "tags": [
+    "privacy"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

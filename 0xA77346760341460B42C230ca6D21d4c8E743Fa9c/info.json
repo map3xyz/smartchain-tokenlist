@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xA77346760341460B42C230ca6D21d4c8E743Fa9c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Meet MicroPets – Home to the cutest NFT’s on the Binance Smart Chain! We’ve taken your favorite memes and packaged them up into adorable pets you can trade or stake. The rarer the MicroPet the better the rewards."
+  },
+  "id": "48255011-b91b-4d8d-9374-dafc8be940cb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa77346760341460b42c230ca6d21d4c8e743fa9c",
+    "website": "https://micropets.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/micropets/",
+    "twitter": "https://twitter.com/MicroPetsBSC",
+    "telegram": "https://t.me/MicroPets",
+    "github": "https://github.com/micropets2021",
+    "whitepaper": "https://micropets.io/uploads/MicroPetsWhitepaper.pdf",
+    "discord": "https://discord.com/invite/UeMh9AAnfv",
+    "reddit": "https://reddit.com/r/micropetsbsc/",
+    "coingecko": "https://coingecko.com/en/coins/micropets"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA77346760341460B42C230ca6D21d4c8E743Fa9c/logo.png"
+  },
+  "name": "MicroPets",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PETS",
+  "tags": [
+    "nft",
+    "defi",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

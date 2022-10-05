@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "SHIBZILLA is a METAVERSE token which rewards you with $SHIB"
+  },
+  "id": "77e086f6-2bb8-4c71-a45f-54204ddfed74",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
+    "website": "https://shibazillatoken.com",
+    "github": "https://github.com/ShibaZilla",
+    "twitter": "https://twitter.com/ShibZillaBSC",
+    "telegram": "https://t.me/shibzillaofficial",
+    "reddit": "https://reddit.com/r/SHIBZILLABSC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E/logo.png"
+  },
+  "name": "ShibaZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBAZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

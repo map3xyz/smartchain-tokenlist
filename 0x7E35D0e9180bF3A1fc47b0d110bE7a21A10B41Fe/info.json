@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x7E35D0e9180bF3A1fc47b0d110bE7a21A10B41Fe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OVR is the decentralized infrastructure for the metaverse, merging physical and virtual world through Augmented Reality"
+  },
+  "id": "6ee57aee-4687-48e5-bf82-c8d6feb4c640",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
+    "website": "https://www.ovr.ai/",
+    "telegram": "https://t.me/OVRtheReality",
+    "twitter": "https://twitter.com/OVRtheReality",
+    "facebook": "https://facebook.com/OVRmetaverse/",
+    "telegramNews": "https://t.me/ovrannouncements",
+    "medium": "https://medium.com/ovrthereality",
+    "coingecko": "https://coingecko.com/en/coins/ovr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ovr/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7E35D0e9180bF3A1fc47b0d110bE7a21A10B41Fe/logo.png"
+  },
+  "name": "OVR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OVR",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

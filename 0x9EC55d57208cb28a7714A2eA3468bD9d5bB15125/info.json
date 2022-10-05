@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9EC55d57208cb28a7714A2eA3468bD9d5bB15125",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GOMA is a Multi-chain Hyper-Deflationary Incentive, DeFi & Staking Ecosystem"
+  },
+  "id": "227f6d97-4b52-4103-9008-6b4cd4efeb71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9ec55d57208cb28a7714a2ea3468bd9d5bb15125",
+    "website": "https://gomatoken.com",
+    "twitter": "https://twitter.com/GOMAFinance",
+    "github": "https://github.com/GOMA-Finance",
+    "medium": "https://gomafinance.medium.com",
+    "docs": "https://goma-finance.gitbook.io/docs"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9EC55d57208cb28a7714A2eA3468bD9d5bB15125/logo.png"
+  },
+  "name": "GOMA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOMA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

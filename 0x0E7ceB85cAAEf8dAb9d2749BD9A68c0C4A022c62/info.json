@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0E7ceB85cAAEf8dAb9d2749BD9A68c0C4A022c62",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KORBIT COIN is a multi blockchain wallet"
+  },
+  "id": "0365d191-16e3-49d6-86f1-c6409bb7fff8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E7ceB85cAAEf8dAb9d2749BD9A68c0C4A022c62",
+    "website": "https://korbitcoin.com",
+    "whitepaper": "https://korbitcoin.com",
+    "telegram": "https://t.me/korbitcoinofficial",
+    "facebook": "https://facebook.com/korbitcoinofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E7ceB85cAAEf8dAb9d2749BD9A68c0C4A022c62/logo.png"
+  },
+  "name": "KORBIT COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

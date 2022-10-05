@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x854B4c305554c5fa72353e31b8480c0e5128A152",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dear Trust Wallet Team. According to the meeting, We have collaboration with the BSC team at the suggestion of the Sea Binance Team (telegram user @bibiapac @Jessbinance, @BrettBinance, @BinanceBrokerTeam). So We would like to submit our Logo to Trust Wallet for more business collaboration."
+  },
+  "id": "b22306eb-b72e-4549-9639-782b22d805c5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x854B4c305554c5fa72353e31b8480c0e5128A152",
+    "website": "https://welnance.com",
+    "twitter": "https://twitter.com/WelnanceWorld",
+    "github": "https://github.com/Welnance",
+    "telegram": "https://t.me/joinchat/8IPBEUZrLb4yNjQ1",
+    "telegramNews": "https://t.me/welnance",
+    "blog": "https://medium.com/@info_welnance",
+    "docs": "https://welnance.gitbook.io/welnance-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x854B4c305554c5fa72353e31b8480c0e5128A152/logo.png"
+  },
+  "name": "Welnance Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

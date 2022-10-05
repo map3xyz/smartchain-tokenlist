@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x04260673729c5F2b9894A467736f3D85F8d34fC8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game was founded."
+  },
+  "id": "3290c3bc-3c1b-4a17-879a-9d43767a750c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x04260673729c5F2b9894A467736f3D85F8d34fC8",
+    "website": "https://cryptoplanes.me/",
+    "twitter": "https://twitter.com/NFTCryptoPlanes",
+    "github": "https://github.com/cryptocitymetaverse/cryptoplanes",
+    "telegram": "https://t.me/CryptoPlanesGlobal",
+    "discord": "https://discord.com/invite/ZUsxPc2JGR",
+    "telegramNews": "https://t.me/CryptoPlanes",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptoplanes/",
+    "coingecko": "https://coingecko.com/coins/cryptoplanes",
+    "whitepaper": "https://whitepaper.cryptoplanes.me/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x04260673729c5F2b9894A467736f3D85F8d34fC8/logo.png"
+  },
+  "name": "CryptoPlanes",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CPAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

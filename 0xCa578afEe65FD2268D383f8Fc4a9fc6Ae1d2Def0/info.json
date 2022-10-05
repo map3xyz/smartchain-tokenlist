@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Fairmoon’s native BEP-20 token $FAIR is a hybrid utility token. It is both a community-owned deflationary frictionless yield token and a launchpad platform token for participating in IDO launch tiers. Passive income and liquidity generation are built into the smart contract to allow token holders to effortlessly gain more tokens automatically."
+  },
+  "id": "fc9eda8b-04ce-42a8-b77b-f29958782711",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0",
+    "website": "https://fairmoon.community/",
+    "twitter": "https://twitter.com/fairmooncoin",
+    "telegram": "https://t.me/fairmooncoin",
+    "discord": "https://discord.com/invite/RhCfUMsYVa",
+    "reddit": "https://reddit.com/r/fairmoon",
+    "medium": "https://fairmoon.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCa578afEe65FD2268D383f8Fc4a9fc6Ae1d2Def0/logo.png"
+  },
+  "name": "Fairmoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FAIR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

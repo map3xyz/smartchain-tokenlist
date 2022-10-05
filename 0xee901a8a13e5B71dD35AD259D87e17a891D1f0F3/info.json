@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xee901a8a13e5B71dD35AD259D87e17a891D1f0F3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FlokiZ is an airdrop platform and protocol where up-and-coming projects are promoted. It focusses on increasing holders as well as filtering out legit and safe projects for its community. Holders of the token will be eligible for Airdrops, NFT's and exclusivity to contribute in new projects."
+  },
+  "id": "058e5072-9507-4f84-8282-04999006dec3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xee901a8a13e5B71dD35AD259D87e17a891D1f0F3",
+    "website": "https://flokizap.finance/",
+    "twitter": "https://twitter.com/FlokiZap",
+    "github": "https://github.com/interfinetwork/smart-contract-audits/blob/main/FlokiZap_AuditReport_InterFi.pdf",
+    "telegram": "https://t.me/FlokiZapOfficial",
+    "discord": "https://discord.com/invite/gvD9TAwxpp",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/flokizap/",
+    "whitepaper": "https://flokizap.finance/assets/images/FlokiZap-VikingPaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xee901a8a13e5B71dD35AD259D87e17a891D1f0F3/logo.png"
+  },
+  "name": "FlokiZap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLOKIZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

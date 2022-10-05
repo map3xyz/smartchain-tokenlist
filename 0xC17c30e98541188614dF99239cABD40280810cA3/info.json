@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Original Buyback Token Powering The EverRise Ecosystem. EverRise token (RISE) is a multi-chain collateralized cryptocurrency that protects both the ecosystem and investors with its innovative buyback and staking protocol."
+  },
+  "id": "d3bb5c3c-83ef-4fde-b2b1-d0fca8b8bb64",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC17c30e98541188614dF99239cABD40280810cA3",
+    "website": "https://www.everrise.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/everrise/",
+    "coingecko": "https://coingecko.com/en/coins/everrise",
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "youtube": "https://youtube.com/c/everriseofficial/",
+    "reddit": "https://reddit.com/r/EverRise",
+    "discord": "https://discord.com/invite/everrise",
+    "github": "https://github.com/everrise-ecosystem",
+    "facebook": "https://facebook.com/EverRiseToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
+  },
+  "name": "EverRise",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

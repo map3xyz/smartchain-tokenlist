@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are going to $CHANGE our world. Change is a community-driven Charity token. With your help, our community and partners can encourage positive action to benefit the lives of vulnerable communities and causes around the world. By turning the concept of charity on its head, everyone can “make it.” Do great things, earn great rewards."
+  },
+  "id": "6883fa48-72b9-4941-9224-098b6f6ad634",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6e1b4ba8f5be7708cd475795fc23924ed078a8d2",
+    "website": "https://changeourworld.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2/logo.png"
+  },
+  "name": "Change Our World",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHANGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc9132C76060F6b319764Ea075973a650A1a53bC9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DuckDAO, the world’s largest crowdsourced Incubator for crypto projects."
+  },
+  "id": "fe8c6bea-1d58-48c4-ac72-81a0d2b9d92e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc9132C76060F6b319764Ea075973a650A1a53bC9",
+    "website": "https://duckdao.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc9132C76060F6b319764Ea075973a650A1a53bC9/logo.png"
+  },
+  "name": "DuckDaoDime",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DDIM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8927282a3d05EF5F7dc24eD0eE009be264d2ebd7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "As the little brother of $FLOKI, Baby Floki Up is here to bring the cutest most inspiring coin of the whole Doge family thanks to the #DogeFather Elon Musk"
+  },
+  "id": "9cdabbf2-f4de-4f39-916b-af56bf6d962f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8927282a3d05ef5f7dc24ed0ee009be264d2ebd7",
+    "website": "https://babyflokiup.finance/",
+    "telegram": "https://t.me/babyflokiupchat",
+    "twitter": "https://twitter.com/babyflokiup",
+    "reddit": "https://reddit.com/r/babyflokiup/",
+    "whitepaper": "https://baby-floki-up-1.gitbook.io/baby-floki-up/-MlR5iPBdYX6tEQ8kpvS/",
+    "coinmarketcap": "https://coinmarketcap.com/vi/currencies/baby-floki-up/",
+    "coingecko": "https://coingecko.com/en/coins/baby-floki-up"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8927282a3d05EF5F7dc24eD0eE009be264d2ebd7/logo.png"
+  },
+  "name": "Baby Floki Up",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

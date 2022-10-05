@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card."
+  },
+  "id": "ec723b35-0c3b-4c64-b0c6-225199d93ae0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+    "research": "https://research.binance.com/en/projects/swipe",
+    "website": "https://swipe.io/token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png"
+  },
+  "name": "Swipe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SXP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

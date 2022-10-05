@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3dcB18569425930954feb191122e574b87F66abd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "ef1c4676-4b7a-4c72-a3b7-2539d4a86b64",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3dcB18569425930954feb191122e574b87F66abd",
+    "website": "https://orion.money/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3dcB18569425930954feb191122e574b87F66abd/logo.png"
+  },
+  "name": "Orion Money (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ORION",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

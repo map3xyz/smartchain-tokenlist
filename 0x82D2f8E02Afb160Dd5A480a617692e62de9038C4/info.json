@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x82D2f8E02Afb160Dd5A480a617692e62de9038C4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security)."
+  },
+  "id": "98806d43-bd14-4fa8-be7e-c996aab8a440",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x82d2f8e02afb160dd5a480a617692e62de9038c4",
+    "website": "https://aleph.im",
+    "twitter": "https://twitter.com/aleph_im",
+    "telegram": "https://t.me/alephim",
+    "medium": "https://medium.com/aleph-im/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x82D2f8E02Afb160Dd5A480a617692e62de9038C4/logo.png"
+  },
+  "name": "aleph.im BEP-20 v2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ALEPH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

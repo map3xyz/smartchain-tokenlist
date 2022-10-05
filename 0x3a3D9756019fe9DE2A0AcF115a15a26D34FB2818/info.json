@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token of DAX NFT"
+  },
+  "id": "4345e552-44e3-4648-9c09-cac0e2e81bc5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+    "website": "https://prodax.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818/logo.png"
+  },
+  "name": "PRODAX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

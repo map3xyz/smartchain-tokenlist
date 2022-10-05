@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralized Inu Meme Coin of the Metaverse. MetaverseInu is the first official Inu-based meme coin of the Metaverse universe which aims to create a decentralized, fast and unique chain with the enhanced MetaverseInu genesis structure."
+  },
+  "id": "dffcd3ce-ab7c-483a-a844-80c4863138d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135",
+    "website": "https://metaverseinu.org",
+    "twitter": "https://twitter.com/Metaverse_Inu",
+    "github": "https://github.com/MetaverseInu",
+    "discord": "https://discord.com/invite/wupjWu8Jds",
+    "telegram": "https://t.me/Metaverse_Inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC75bcC3ae0844c16Fd1881b8bb47BD509303a135/logo.png"
+  },
+  "name": "Metaverse Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MetaInu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9AeF8F6a15cC1de43Ce6445A6fE2d344D3843a29",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HalalCoin is a deflationary store of value to help charity while making its community more wealthy."
+  },
+  "id": "93bc8b95-7074-4544-8012-cb104816b44f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9aef8f6a15cc1de43ce6445a6fe2d344d3843a29",
+    "website": "https://halalco.in",
+    "twitter": "https://twitter.com/coin_halal",
+    "telegram": "https://t.me/halalcoindiscuss"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9AeF8F6a15cC1de43Ce6445A6fE2d344D3843a29/logo.png"
+  },
+  "name": "HalalCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HALAL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

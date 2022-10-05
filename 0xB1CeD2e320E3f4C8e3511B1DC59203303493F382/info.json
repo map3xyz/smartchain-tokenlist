@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Moonlight is a comprehensive set of analytical tools for the BSC network."
+  },
+  "id": "aabc756f-0146-43b6-9201-40596a4cc7d0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
+    "website": "https://moonlighttoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB1CeD2e320E3f4C8e3511B1DC59203303493F382/logo.png"
+  },
+  "name": "Moonlight Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOONLIGHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

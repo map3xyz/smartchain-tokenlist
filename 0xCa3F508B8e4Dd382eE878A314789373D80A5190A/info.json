@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Multichain Yield Optimizer"
+  },
+  "id": "5acf2807-0ed5-49aa-a99d-3e7f01f52cee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "website": "https://beefy.finance/",
+    "github": "https://github.com/beefyfinance",
+    "twitter": "https://twitter.com/beefyfinance",
+    "telegram": "https://t.me/beefyannouncement",
+    "coingecko": "https://coingecko.com/en/coins/beefy-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/beefy-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png"
+  },
+  "name": "beefy.finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

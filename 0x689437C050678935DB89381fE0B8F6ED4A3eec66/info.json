@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x689437C050678935DB89381fE0B8F6ED4A3eec66",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Space Floki has always dreamed of going to the moon and we want to send him there. Join him for the ride! There has been a long and noble history of sending dogs to space but we want Baby Space Floki to be the first dog to step foot on the moon."
+  },
+  "id": "a68a8e9c-64a3-41cf-b5dc-834a78356a09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x689437C050678935DB89381fE0B8F6ED4A3eec66",
+    "website": "https://www.babyspacefloki.com",
+    "twitter": "https://twitter.com/BabySpaceFloki",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babyspacefloki"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x689437C050678935DB89381fE0B8F6ED4A3eec66/logo.png"
+  },
+  "name": "BABYSPACEFLOKI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xF19b09DA89722F0a6960F9bF9701A63AE891603A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TetraHedra is an arabic leading Token that has many unique features it is a must to read about us so you can have a better understanding about the nature of our defi process."
+  },
+  "id": "0a852dae-ddd0-4f48-985c-5c603928e589",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF19b09DA89722F0a6960F9bF9701A63AE891603A",
+    "website": "https://tetra-hedra.com",
+    "twitter": "https://twitter.com/TetraHedraTTH",
+    "facebook": "https://facebook.com/tetrahedra2021",
+    "telegram": "https://t.me/TetraHedraChat",
+    "telegramNews": "https://t.me/TetraHedranews",
+    "whitepaper": "https://tetra-hedra.com/img/TetraHedra-Whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tetrahedra",
+    "coingecko": "https://coingecko.com/en/coins/tetrahedra"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF19b09DA89722F0a6960F9bF9701A63AE891603A/logo.png"
+  },
+  "name": "TetraHedra",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

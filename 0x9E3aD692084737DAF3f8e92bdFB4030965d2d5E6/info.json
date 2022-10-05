@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9E3aD692084737DAF3f8e92bdFB4030965d2d5E6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaPlay project hosts professional and amateur e-sport tournaments especially for trendy games like CSGO and others. This all with a sizeable prize pool funded by all the transactions made whilst offering staking and launchpad for its holders focused on heavily vetted projects and GameFi niche."
+  },
+  "id": "f4e83235-e828-4341-8457-b0c2fa4e56c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9E3aD692084737DAF3f8e92bdFB4030965d2d5E6",
+    "website": "https://www.meta-play.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metaplay/",
+    "coingecko": "https://coingecko.com/en/coins/metaplay"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9E3aD692084737DAF3f8e92bdFB4030965d2d5E6/logo.png"
+  },
+  "name": "MetaPlay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MPLAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

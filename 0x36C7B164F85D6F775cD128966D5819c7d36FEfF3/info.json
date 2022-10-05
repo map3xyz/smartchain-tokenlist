@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x36C7B164F85D6F775cD128966D5819c7d36FEfF3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OPENLIVE NFT is a decentralized marketplace where users can generate, store, buy & sell NFTs."
+  },
+  "id": "0b882354-8cff-45e7-ba92-9005e1cf7e13",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x36C7B164F85D6F775cD128966D5819c7d36FEfF3",
+    "website": "https://openlivenft.com/",
+    "twitter": "https://twitter.com/OpenLiveNFT",
+    "telegram": "https://t.me/OpenLiveNFT",
+    "docs": "https://docs.openlivenft.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/openlive-nft/",
+    "reddit": "https://reddit.com/r/openLiveNFT/",
+    "github": "https://github.com/openLiveNFT",
+    "coingecko": "https://coingecko.com/en/coins/openlive-nft",
+    "whitepaper": "https://docs.openlivenft.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x36C7B164F85D6F775cD128966D5819c7d36FEfF3/logo.png"
+  },
+  "name": "Openlive NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OPV",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

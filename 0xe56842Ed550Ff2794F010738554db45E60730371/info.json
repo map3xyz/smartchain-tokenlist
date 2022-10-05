@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe56842Ed550Ff2794F010738554db45E60730371",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binemon is a virtual pet NFT game combined with elements of an Idle RPG game."
+  },
+  "id": "5ff20a1f-1b12-4cbd-aea0-8115619286de",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe56842ed550ff2794f010738554db45e60730371",
+    "website": "https://binemon.io",
+    "twitter": "https://twitter.com/binemonnft",
+    "telegram": "https://t.me/binemonchat",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/binemon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe56842Ed550Ff2794F010738554db45E60730371/logo.png"
+  },
+  "name": "Binemon token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

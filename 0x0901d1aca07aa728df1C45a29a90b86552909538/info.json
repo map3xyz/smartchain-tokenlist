@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0901d1aca07aa728df1C45a29a90b86552909538",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "EthereumSV Protocol on Binance Smart Chain"
+  },
+  "id": "7d8cfe42-d354-41e5-be5d-06c7418979ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0901d1aca07aa728df1C45a29a90b86552909538",
+    "website": "https://ethereumsv.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0901d1aca07aa728df1C45a29a90b86552909538/logo.png"
+  },
+  "name": "Ethereum SV",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHSV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

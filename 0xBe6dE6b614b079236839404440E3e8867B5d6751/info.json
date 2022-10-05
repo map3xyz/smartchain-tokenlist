@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xBe6dE6b614b079236839404440E3e8867B5d6751",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$WLV aims to protect wildlife through our signature token – with benefits to our investors such as minimum taxes, Reflections and consistent marketing to increase the value of $WLV."
+  },
+  "id": "286652d3-9d28-47b2-8ee0-ecdfcdf91901",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBe6dE6b614b079236839404440E3e8867B5d6751",
+    "website": "https://wolverineofficial.com/",
+    "twitter": "https://twitter.com/WolverineBSC",
+    "telegram": "https://t.me/wolverinebsc",
+    "github": "https://github.com/WolverineBSC",
+    "whitepaper": "https://wolverineofficial.com/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wolverine/",
+    "coingecko": "https://coingecko.com/en/coins/wolverine",
+    "sourceCode": "https://bscscan.com/address/0xbe6de6b614b079236839404440e3e8867b5d6751#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBe6dE6b614b079236839404440E3e8867B5d6751/logo.png"
+  },
+  "name": "Wolverine",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WLVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

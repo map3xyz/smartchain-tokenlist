@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x520EbCcc63E4d0804b35Cda25978BEb7159bF0CC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LEGOCOIN is a social meme token and reward, with goals to contribute in social and creativity movement all around the world through your favorite toys: LEGO ."
+  },
+  "id": "966948e6-4295-458e-a4ea-8f3751d09daf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x520EbCcc63E4d0804b35Cda25978BEb7159bF0CC",
+    "website": "https://www.legocoinlive.com/",
+    "twitter": "https://twitter.com/legocoinlive",
+    "telegram": "https://t.me/legocoinlive",
+    "coingecko": "https://coingecko.com/en/coins/lego-coin-v2/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lego-coin/",
+    "discord": "https://discord.com/invite/kKZZYJ5aaD"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x520EbCcc63E4d0804b35Cda25978BEb7159bF0CC/logo.png"
+  },
+  "name": "Lego Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEGO",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

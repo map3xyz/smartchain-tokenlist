@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0xA4050Aa9b76CcDAe1A6a8b2F3e8627Cdc1546d86",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LEPA is the utility token of LEPASA- A decentralised metaverse project with a vision to establish a complete ecosystem for the developers and users."
+  },
+  "id": "e65007bd-f747-4ffc-bdd0-3b339cbf46fb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA4050Aa9b76CcDAe1A6a8b2F3e8627Cdc1546d86",
+    "website": "https://www.lepasa.com",
+    "twitter": "https://twitter.com/lepasaorg",
+    "github": "https://github.com/lepasa",
+    "telegram": "https://t.me/lepasa",
+    "docs": "https://docs.lepasa.com",
+    "discord": "https://discord.com/invite/fUeCwJ9y5M",
+    "telegramNews": "https://t.me/lepasaorg",
+    "whitepaper": "https://app.lepasa.com/assets/docs/whitepaper.pdf",
+    "medium": "https://lepasa.medium.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lepasa",
+    "coingecko": "https://coingecko.com/coins/lepasa"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA4050Aa9b76CcDAe1A6a8b2F3e8627Cdc1546d86/logo.png"
+  },
+  "name": "Lepasa",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Lepa",
+  "tags": [
+    "wrapped",
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

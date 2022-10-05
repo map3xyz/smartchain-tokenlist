@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb3d54df1676c1fe4b0987C041fA8C28471429ce7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Lovecoin is a decentralized peer to peer cryptocurrency based upon Bitcoin and Tron blockchain technology, designed with the purpose of spreading; Love, Peace, Happiness and Economic Freedom worldwide."
+  },
+  "id": "cab72f1a-79c3-4fd2-a6c0-b8011f603dff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb3d54df1676c1fe4b0987C041fA8C28471429ce7",
+    "website": "https://lovecointoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb3d54df1676c1fe4b0987C041fA8C28471429ce7/logo.png"
+  },
+  "name": "Lovecoin Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Lovecoin",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

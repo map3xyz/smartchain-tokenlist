@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Pegged Franklin (FLy) – the native token of the VRM and Black Ocean ecosystems. Token holders can enjoy discounted trading fees, additional rebates and use Black Ocean solutions, such as Liquidity and Dark pools, Token-sale launchpad, NFT market, margin trading and liquidity mining opportunities."
+  },
+  "id": "f1e7bb65-9623-45fb-9f77-f9579c3d6af6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
+    "website": "https://tokenfly.co/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x681fd3e49a6188Fc526784eE70AA1C269ee2B887/logo.png"
+  },
+  "name": "Franklin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLy",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

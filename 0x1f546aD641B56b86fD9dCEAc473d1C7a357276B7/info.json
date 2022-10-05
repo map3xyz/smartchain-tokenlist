@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PantherSwap is the First Automatic Liquidity Acquisition Yield Farm & AMM on Binance Smart Chain."
+  },
+  "id": "84c28a5b-8ae1-4230-8a8f-54999daeab3a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7",
+    "research": "https://docs.pantherswap.com",
+    "website": "https://pantherswap.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7/logo.png"
+  },
+  "name": "PantherSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PANTHER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

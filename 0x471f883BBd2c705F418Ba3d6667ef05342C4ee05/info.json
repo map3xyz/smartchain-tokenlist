@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x471f883BBd2c705F418Ba3d6667ef05342C4ee05",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Spong is a meme token and has its own web marketplace that provides hoodies that can be purchased using the Spong token"
+  },
+  "id": "1948d587-fe6e-41b9-a07f-3029fa7959d2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x471f883BBd2c705F418Ba3d6667ef05342C4ee05",
+    "website": "https://www.spongebobsquare.com/",
+    "twitter": "https://twitter.com/Spongssqueare",
+    "github": "https://github.com/spongebobsquareE",
+    "telegram": "https://t.me/Spongsquare",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/spongebob-square/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x471f883BBd2c705F418Ba3d6667ef05342C4ee05/logo.png"
+  },
+  "name": "SpongeBob Square",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPONGS",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x75aFA9915B2210Cd6329E820af0365e932bC1dd5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SmurfsINU is designed to create a complex ecosystem in which DeFi and Metaverse are integrated together. Crypto users will access all DeFi & Metaverse services quickly, cheaply and effectively with only SmurfsINU platforms. For this, we are building the SmurfsVerse world and the SmurfINU DexWallet application. In addition, SmurfsINU is making special preparations for FIFA WorldCup Qatar 2022 and aims to be the mascot of the tournament."
+  },
+  "id": "085f8c6d-0e32-4677-9c59-ac9309e5ca18",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x75afa9915b2210cd6329e820af0365e932bc1dd5",
+    "website": "https://smurfsinu.com",
+    "twitter": "https://twitter.com/smurfsinu_",
+    "telegram": "https://t.me/smurfsinu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x75aFA9915B2210Cd6329E820af0365e932bC1dd5/logo.png"
+  },
+  "name": "Smurfs INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SMURF",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

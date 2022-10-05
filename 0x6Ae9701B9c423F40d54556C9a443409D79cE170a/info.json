@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x6Ae9701B9c423F40d54556C9a443409D79cE170a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PolkaCity is a unique fully contract-based metaverse project which combines NFT, DeFi and gaming worlds!"
+  },
+  "id": "810673f2-f917-44f7-b087-9fd5c2dafe49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6Ae9701B9c423F40d54556C9a443409D79cE170a",
+    "website": "https://www.polkacity.io/",
+    "twitter": "https://twitter.com/PolkaCity",
+    "telegram": "https://t.me/Polkacity"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6Ae9701B9c423F40d54556C9a443409D79cE170a/logo.png"
+  },
+  "name": "Polka City",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "POLC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

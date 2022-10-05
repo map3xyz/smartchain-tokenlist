@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FROYO is the main currency in the Froyo metaverse."
+  },
+  "id": "dab92399-8a30-4f67-8f9a-37690690b457",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+    "website": "https://froyo.games",
+    "twitter": "https://twitter.com/realfroyogames",
+    "github": "https://github.com/froyogames",
+    "telegram": "https://t.me/froyogames",
+    "medium": "https://medium.com/@froyogames",
+    "discord": "https://discord.com/invite/Aja3uWSSAS",
+    "docs": "https://docs.froyo.games/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/froyo-games/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9/logo.png"
+  },
+  "name": "FROYO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FROYO",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

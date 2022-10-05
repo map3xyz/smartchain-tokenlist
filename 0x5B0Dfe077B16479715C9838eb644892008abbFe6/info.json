@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5B0Dfe077B16479715C9838eb644892008abbFe6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Bitcoin is a BEP-20 Token with a focus on charity and meme culture."
+  },
+  "id": "aaf1f128-2ae5-4b2e-bf4d-318535e6b189",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5B0Dfe077B16479715C9838eb644892008abbFe6",
+    "website": "https://babybitcoin.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5B0Dfe077B16479715C9838eb644892008abbFe6/logo.png"
+  },
+  "name": "Baby Bitcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBTC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

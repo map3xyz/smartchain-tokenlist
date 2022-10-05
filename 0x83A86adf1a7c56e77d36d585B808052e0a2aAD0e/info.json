@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The $SYA DeFi experiment is a new type of deflationary currency applying autonomous yield and liquidity generation."
+  },
+  "id": "0368cb0b-067d-4f38-bb57-ad8330b1255a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e",
+    "website": "https://sya.today/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e/logo.png"
+  },
+  "name": "Save Your Assets",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SYA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

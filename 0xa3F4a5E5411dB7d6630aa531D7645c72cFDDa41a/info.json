@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xa3F4a5E5411dB7d6630aa531D7645c72cFDDa41a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitagon (TSC) is built based on the PoS consensus protocol, which is decentralized and energy efficient, helping you easily build your own decentralized applications."
+  },
+  "id": "d7d4c84c-c58b-452a-80a7-2442224fcb2c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa3f4a5e5411db7d6630aa531d7645c72cfdda41a",
+    "website": "https://bitagon.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa3F4a5E5411dB7d6630aa531D7645c72cFDDa41a/logo.png"
+  },
+  "name": "Bitagon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

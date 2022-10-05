@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x11Eecc7c164B185dc54534DcE21fDA807D6F301a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BPlanted was created to support charities working to combat deforestation, we use cryptocurrencies as a new way to collect and distribute donations to various charities that we and the community, believe in."
+  },
+  "id": "c9f18bfe-deb9-40df-9a6e-93c84f22cca0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11Eecc7c164B185dc54534DcE21fDA807D6F301a",
+    "website": "https://bplanted.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x11Eecc7c164B185dc54534DcE21fDA807D6F301a/logo.png"
+  },
+  "name": "BPlanted",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BPD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x271C418B045d05A1D52c6bF849d47b5B5B4d769e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fully Dex protocol, staking and more on Binance Smart Chain. #Defi #BSC"
+  },
+  "id": "6e27df73-d494-4415-a6c2-df1a04bb41dc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x271c418b045d05a1d52c6bf849d47b5b5b4d769e",
+    "website": "https://veraswap.org",
+    "github": "https://github.com/Virginlink",
+    "twitter": "https://twitter.com/Veraswap Protocol",
+    "telegram": "https://t.me/veraswap"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x271C418B045d05A1D52c6bF849d47b5B5B4d769e/logo.png"
+  },
+  "name": "Veraswap Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VRAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

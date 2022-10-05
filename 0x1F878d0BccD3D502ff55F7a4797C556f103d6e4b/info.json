@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Bringing Squid Game to life through gaming, NFTs and community prizes!"
+  },
+  "id": "edecccab-0e5c-4a6a-9256-6cea8b4b39cf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
+    "website": "https://squidanomics.xyz",
+    "twitter": "https://twitter.com/Squidanomics",
+    "github": "https://github.com/JakeYoungDev/SquidanomicsCODE",
+    "telegram": "https://t.me/Squidanomics",
+    "telegramNews": "https://t.me/SquidanomicsAnnouncement"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b/logo.png"
+  },
+  "name": "Squidanomics",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SQUID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

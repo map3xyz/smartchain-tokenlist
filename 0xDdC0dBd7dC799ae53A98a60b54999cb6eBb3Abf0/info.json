@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDdC0dBd7dC799ae53A98a60b54999cb6eBb3Abf0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeBLAST(BLAST) is an Autonomous yield and Liquidity generation protocol."
+  },
+  "id": "d3404557-ad8b-4932-aed0-eca03adb1a4b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
+    "website": "https://safeblastcrypto.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDdC0dBd7dC799ae53A98a60b54999cb6eBb3Abf0/logo.png"
+  },
+  "name": "SafeBLAST",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLAST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

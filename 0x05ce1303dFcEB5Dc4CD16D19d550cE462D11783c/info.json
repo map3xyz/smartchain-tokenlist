@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x05ce1303dFcEB5Dc4CD16D19d550cE462D11783c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Safedoge was created to simplify investing in cryptocurrency and earn rewards. Helping the world through Cryptocurrency Charity. Help us, Help you so you can help others. Join us and make a Difference.MEME Base Token, Inspired by Safemoon and Dogecoin"
+  },
+  "id": "85c61941-dbe2-4ad7-b8bc-6a0cd8ba877d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05ce1303dFcEB5Dc4CD16D19d550cE462D11783c",
+    "website": "https://safedoge.me"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x05ce1303dFcEB5Dc4CD16D19d550cE462D11783c/logo.png"
+  },
+  "name": "SafeDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFEDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

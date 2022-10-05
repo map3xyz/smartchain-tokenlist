@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Game Platform integrated with a next-generation NFT marketplace."
+  },
+  "id": "21069faf-3940-4188-94de-2c7bb911482f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B",
+    "website": "https://griffinart.finance/",
+    "twitter": "https://twitter.com/griffinnftart",
+    "whitepaper": "https://griffinart.finance/griffinart-whitepaper.pdf",
+    "telegram": "https://t.me/griffinart",
+    "reddit": "https://reddit.com/user/GriffinNftArt/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B/logo.png"
+  },
+  "name": "Griffin Art",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

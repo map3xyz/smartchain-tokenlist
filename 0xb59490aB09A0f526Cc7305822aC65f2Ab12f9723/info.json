@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized identity authentication and user activity data management Infrastructure."
+  },
+  "id": "f88e7931-37bf-40e7-ac6b-098218aca85c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+    "website": "https://www.litentry.com",
+    "twitter": "https://twitter.com/litentry",
+    "github": "https://github.com/litentry/",
+    "telegram": "https://t.me/litentry",
+    "coingecko": "https://coingecko.com/en/coins/litentry/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723/logo.png"
+  },
+  "name": "Litentry",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

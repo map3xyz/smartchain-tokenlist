@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Simplifying blockchain for individuals and businesses of all sizes - from new projects to enterprises - Polkalokr's solutions provide an on-ramp into crypto with no coding required."
+  },
+  "id": "6ada4992-d107-46ea-95dd-c2dcbf9f9c9d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3",
+    "website": "https://polkalokr.com",
+    "twitter": "https://twitter.com/Polkalokr",
+    "github": "https://github.com/Polkalokr",
+    "telegram": "https://t.me/Polkalokr",
+    "telegramNews": "https://t.me/polkalokrannouncements",
+    "blog": "https://medium.com/polkalokr",
+    "medium": "https://medium.com/polkalokr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/polkalokr/",
+    "coingecko": "https://coingecko.com/polkalokr"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3/logo.png"
+  },
+  "name": "Polkalokr",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LKR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x04F73A09e2eb410205BE256054794fB452f0D245",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem."
+  },
+  "id": "4a2389b3-506e-4ed2-9fe1-97f9210fe367",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x04F73A09e2eb410205BE256054794fB452f0D245",
+    "website": "https://dxsale.network/",
+    "twitter": "https://twitter.com/dxsale",
+    "telegram": "https://t.me/DxSale",
+    "telegramNews": "https://t.me/DxSaleAnn",
+    "medium": "https://hash-dxsale.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/dxsale-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dxsale-network/",
+    "youtube": "https://youtube.com/channel/UCDrVyjNivEdu7_cIA53B0cg",
+    "docs": "https://docs.dxsale.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x04F73A09e2eb410205BE256054794fB452f0D245/logo.png"
+  },
+  "name": "DxSale Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SALE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
