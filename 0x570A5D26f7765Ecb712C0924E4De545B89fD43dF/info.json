@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data."
+  },
+  "id": "c033869f-8443-45e5-90be-d518a36eec21",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+    "research": "https://research.binance.com/en/projects/solana",
+    "website": "https://solana.com/",
+    "github": "https://github.com/solana-labs",
+    "twitter": "https://twitter.com/solana",
+    "reddit": "https://reddit.com/r/solana",
+    "whitepaper": "https://github.com/solana-labs/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF/logo.png"
+  },
+  "name": "Solana",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

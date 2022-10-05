@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Lil Floki is a BSC token which donates to New Zealand dog shelters while also rewarding Lil Floki holders with BNB Reward pay-outs."
+  },
+  "id": "6c2688ce-7f77-4c27-8e99-9cd86fcefe01",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
+    "website": "https://lilfloki.com/",
+    "twitter": "https://twitter.com/thelilfloki/",
+    "facebook": "https://facebook.com/TheLilFloki/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35/logo.png"
+  },
+  "name": "Lil Floki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "lilfloki",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

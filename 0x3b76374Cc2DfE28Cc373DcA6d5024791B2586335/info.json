@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A DeFi protocol which facilitates creation of fully collateralized stable coins leveraging Native Cardano Assets"
+  },
+  "id": "f6d10265-5991-4840-8813-fde625832254",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335",
+    "website": "https://adadao.org",
+    "twitter": "https://twitter.com/adadao_org",
+    "github": "https://github.com/adadao",
+    "telegram": "https://t.me/adadao_org",
+    "telegramNews": "https://t.me/adadao_org_announcement",
+    "blog": "https://adadao.medium.com",
+    "docs": "https://docs.adadao.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335/logo.png"
+  },
+  "name": "Adadao",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ADAO",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

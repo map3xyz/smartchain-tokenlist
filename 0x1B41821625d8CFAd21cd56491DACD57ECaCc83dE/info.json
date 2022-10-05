@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1B41821625d8CFAd21cd56491DACD57ECaCc83dE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NanoDogeCoin is the revolutionary token that allows investors to earn USD Tether while helping to save dogs worldwide."
+  },
+  "id": "7c84a577-9bca-4e78-ab9d-091ec332e18f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1B41821625d8CFAd21cd56491DACD57ECaCc83dE",
+    "website": "https://nanodogecoin.com/",
+    "telegram": "https://t.me/NanoDogecoin",
+    "twitter": "https://twitter.com/nanodogecoin",
+    "coingecko": "https://coingecko.com/en/coins/nano-dogecoin",
+    "medium": "https://nanodoge.medium.com/",
+    "reddit": "https://reddit.com/r/NanoDogeCoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1B41821625d8CFAd21cd56491DACD57ECaCc83dE/logo.png"
+  },
+  "name": "NanoDogeCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NDC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

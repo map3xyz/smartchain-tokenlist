@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x244f8596E985B8EBd9eA44A9356B22d3D20b101c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DOGE-1 is a BSC Meme Token with future utility development to bring light in a dark space."
+  },
+  "id": "3a520ac3-268d-43f7-980b-8d50fb5f6e9c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x244f8596E985B8EBd9eA44A9356B22d3D20b101c",
+    "website": "https://doge-1.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x244f8596E985B8EBd9eA44A9356B22d3D20b101c/logo.png"
+  },
+  "name": "DOGE-1",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGE1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

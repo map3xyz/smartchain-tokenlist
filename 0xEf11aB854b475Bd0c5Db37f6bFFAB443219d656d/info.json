@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped USDT"
+  },
+  "id": "af50b939-fc00-4734-8273-db47838814b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xef11ab854b475bd0c5db37f6bffab443219d656d",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d/logo.png"
+  },
+  "name": "FEG Wrapped USDT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fUSDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

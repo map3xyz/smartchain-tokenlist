@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x7Abf7f54F30a45c7c43D728A75d6741440d7c591",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Let's get Elon Sperm to Mars!"
+  },
+  "id": "5e1f3d4b-a2bb-48b6-b563-0a8ad3186d0d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7Abf7f54F30a45c7c43D728A75d6741440d7c591",
+    "website": "https://elonsperm.com/",
+    "twitter": "https://twitter.com/elonsperm",
+    "telegram": "https://t.me/elonspermtomars"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7Abf7f54F30a45c7c43D728A75d6741440d7c591/logo.png"
+  },
+  "name": "ElonSperm",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPERM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

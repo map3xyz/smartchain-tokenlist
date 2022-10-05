@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x54E87ed5A096f09d9665fD114002bdDFc2084a7F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Moon Floki is a hyper-deflationary token that has a smart exchange system built into the ecosystem"
+  },
+  "id": "73d39879-adf3-4960-8d3d-256f5d549123",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x54E87ed5A096f09d9665fD114002bdDFc2084a7F",
+    "website": "https://babymoonfloki.com",
+    "twitter": "https://twitter.com/babymoonfloki",
+    "telegram": "https://t.me/BMFloki"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x54E87ed5A096f09d9665fD114002bdDFc2084a7F/logo.png"
+  },
+  "name": "Baby Moon Floki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Floki",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

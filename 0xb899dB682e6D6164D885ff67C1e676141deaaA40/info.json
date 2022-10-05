@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xb899dB682e6D6164D885ff67C1e676141deaaA40",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Onlyone is a community driven fairly launched token on the Binance Smart Chain used in the Onlyone Casino. The total token supply is only one. Five percent of the value of each transaction is redistributed to token holders and other five percent it sent to the liquidity pool."
+  },
+  "id": "e33ffd0b-1f56-4aa2-b1fd-0a540a031a75",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb899dB682e6D6164D885ff67C1e676141deaaA40",
+    "website": "https://onlyonefinance.com/",
+    "twitter": "https://twitter.com/onlyonefinance",
+    "telegram": "https://t.me/onlyone_finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb899dB682e6D6164D885ff67C1e676141deaaA40/logo.png"
+  },
+  "name": "Onlyone",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ONLYONE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

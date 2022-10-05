@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg IoTeX Network (IOTX BEP20) is a token issued by Binance on Smart Chain; its price is pegged to IoTeX Network (IOTX ERC20) at a ratio of 1:1."
+  },
+  "id": "52244cad-470d-4ea3-8360-9d19ca5088ee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+    "research": "https://iotex.io/research",
+    "website": "https://iotex.io",
+    "github": "https://github.com/iotexproject/iotex-core",
+    "twitter": "https://twitter.com/iotex_io",
+    "telegram": "https://t.me/IoTeXGroup",
+    "facebook": "https://facebook.com/iotex.io/",
+    "reddit": "https://reddit.com/r/IoTeX/",
+    "medium": "https://medium.com/iotex"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5/logo.png"
+  },
+  "name": "Binance-Peg IoTeX Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IOTX",
+  "tags": [
+    "binance-peg",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xD024Ac1195762F6F13f8CfDF3cdd2c97b33B248b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MiniFootball is a new crypto that combines the greatest fans from Football and Doge, creating the greatest community in the world!"
+  },
+  "id": "00b75cd9-2c65-4c6f-a4fe-f8de7047d2b4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b",
+    "website": "https://minifootballtoken.com",
+    "twitter": "https://twitter.com/minifootballbsc",
+    "telegram": "https://t.me/minifootballtoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/minifootball/",
+    "coingecko": "https://coingecko.com/en/coins/minifootball/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD024Ac1195762F6F13f8CfDF3cdd2c97b33B248b/logo.png"
+  },
+  "name": "MiniFootball",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MiniFootball",
+  "tags": [
+    "gamefi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

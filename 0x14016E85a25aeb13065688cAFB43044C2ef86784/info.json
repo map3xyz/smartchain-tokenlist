@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg TrueUSD (TUSDP BEP20) is a token issued by Binance on Smart Chain; its price is pegged to TrueUSD (TUSD ERC20) at a ratio of 1:1."
+  },
+  "id": "fe531eca-aad4-40e0-8386-d2bd342e9cc0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x14016e85a25aeb13065688cafb43044c2ef86784",
+    "website": "https://www.trueusd.com/",
+    "github": "https://github.com/trusttoken/TrueUSD",
+    "twitter": "https://twitter.com/tusd_official",
+    "telegram": "https://t.me/TUSDofficial_EN",
+    "medium": "https://trueusd.medium.com/",
+    "coingecko": "https://coingecko.com/en/coins/true-usd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png"
+  },
+  "name": "Binance-Peg TrueUSD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "binance-peg",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

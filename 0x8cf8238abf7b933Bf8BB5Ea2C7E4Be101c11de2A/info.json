@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "XP.network is the first blockchain-agnostic NFT ecosystem"
+  },
+  "id": "b13672ba-189a-44ba-b621-51e792db8ab0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A",
+    "website": "https://xp.network",
+    "twitter": "https://twitter.com/xpnetwork_",
+    "github": "https://github.com/xp-network/",
+    "telegram": "https://t.me/xp_network",
+    "coingecko": "https://coingecko.com/en/coins/xp-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xp-network/",
+    "blog": "https://blog.xp.network/",
+    "whitepaper": "https://xp.network/whitepaper/",
+    "reddit": "https://reddit.com/user/XP_network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A/logo.png"
+  },
+  "name": "XP.network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XPNET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

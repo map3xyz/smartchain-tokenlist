@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x127CF9704DDFcf0e9eC1Dc20f11877731D18ac34",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Charity DeFi NFT token"
+  },
+  "id": "af80ed35-6149-455d-afe2-5180b6b7cf75",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x127cf9704ddfcf0e9ec1dc20f11877731d18ac34",
+    "website": "https://saiyaninu.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x127CF9704DDFcf0e9eC1Dc20f11877731D18ac34/logo.png"
+  },
+  "name": "Saiyan Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAYAN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

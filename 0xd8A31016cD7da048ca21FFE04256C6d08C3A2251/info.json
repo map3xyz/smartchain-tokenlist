@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WENLAMBO finance is a deflationary token rewarding holders on each transaction and donating part of fees to charity"
+  },
+  "id": "4965c6cc-c637-4fcd-8fc1-1eeb3497bb6e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
+    "website": "https://wenlambo.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd8A31016cD7da048ca21FFE04256C6d08C3A2251/logo.png"
+  },
+  "name": "Wenlambo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WENLAMBO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

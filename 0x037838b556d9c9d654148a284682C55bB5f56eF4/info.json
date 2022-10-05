@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x037838b556d9c9d654148a284682C55bB5f56eF4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Lightning Cross-Chain Incubator & Open Launchpad gives $LIGHT holders exclusive access to seed, private and presale rounds for the most exciting new projects, as well as staking to earn $BNB and airdrops for all IDOs."
+  },
+  "id": "c167d5a8-49a9-47e4-a15c-81e5ad9aad85",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x037838b556d9c9d654148a284682c55bb5f56ef4",
+    "website": "https://lightningprotocol.finance/",
+    "telegram": "https://t.me/lightningprotocol",
+    "twitter": "https://twitter.com/LightningDeFi",
+    "reddit": "https://reddit.com/r/Lightning_Incubator/",
+    "facebook": "https://facebook.com/LightningProtocol/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x037838b556d9c9d654148a284682C55bB5f56eF4/logo.png"
+  },
+  "name": "Lightning",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIGHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

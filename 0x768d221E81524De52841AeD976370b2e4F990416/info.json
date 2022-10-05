@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x768d221E81524De52841AeD976370b2e4F990416",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Moon Maker Protocol is a DeFi launchpad project, which assist a novel DeFi token launching their to community."
+  },
+  "id": "f3326053-f99e-4183-9dd7-72863cf88c82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x768d221E81524De52841AeD976370b2e4F990416",
+    "website": "https://moonmakerprotocol.com",
+    "twitter": "https://twitter.com/Moon Maker Protocol (MMP)",
+    "telegram": "https://t.me/moonmooncash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x768d221E81524De52841AeD976370b2e4F990416/logo.png"
+  },
+  "name": "Moon Maker Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MMP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x29b1E39A529d3B3cacEA55989594F71813e998Bb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dexioprotocol provides the world with a new way of engagement to the world of blockchain and cryptocurrency."
+  },
+  "id": "cc1eae80-aedc-43bb-ac85-0a3a856b3ef0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x29b1E39A529d3B3cacEA55989594F71813e998Bb",
+    "website": "https://www.dexioprotocol.com/",
+    "github": "https://github.com/Dexioprotocol",
+    "twitter": "https://twitter.com/dexioprotocol",
+    "reddit": "https://reddit.com/r/dexioprotocoltoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x29b1E39A529d3B3cacEA55989594F71813e998Bb/logo.png"
+  },
+  "name": "Dexioprotocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEXI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "One stop SAFU service for yield farmers."
+  },
+  "id": "0877ef44-d91b-4d10-97cf-1b4f950ea180",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+    "website": "https://jdiyield.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0491648C910ad2c1aFaab733faF71D30313Df7FC/logo.png"
+  },
+  "name": "JDI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JDI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

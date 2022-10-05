@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Spider is more then just a community token."
+  },
+  "id": "89860b28-510d-423b-9a7f-7500f324aa27",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+    "website": "https://www.spiderswap.in"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440/logo.png"
+  },
+  "name": "Spider Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPIDER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

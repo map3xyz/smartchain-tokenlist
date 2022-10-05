@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Titano Finance is transforming DeFi with the Titano Autostaking Protocol (TAP) that delivers the industry’s highest fixed APY, rebasing rewards every 30 minutes, and a simple buy-hold-earn system that grows your portfolio in your wallet, fast"
+  },
+  "id": "88af4818-3a0f-4686-8019-189d0c5eb11d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f",
+    "website": "https://titano.finance",
+    "twitter": "https://twitter.com/TitanoFinance",
+    "github": "https://github.com/Titano-finance",
+    "telegram": "https://t.me/titano_finance",
+    "coingecko": "https://coingecko.com/coins/titano",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/titano/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f/logo.png"
+  },
+  "name": "Titano",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TITANO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

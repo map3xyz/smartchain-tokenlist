@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xdDaE5F343b7768eAdaAD88A7f520fFf54F198211",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitcoiva is the Next-generation crypto-trading platform that supports various forms of transactions such as Fiat to Crypto trading, Crypto to Crypto trading and direct purchase option. Instant, fast and easy transactions are possible with Bitcoiva."
+  },
+  "id": "d55b5694-a37e-45e6-86cd-7244e23b24a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xddae5f343b7768eadaad88a7f520fff54f198211",
+    "website": "https://www.bitcoiva.com",
+    "twitter": "https://twitter.com/bitcoiva",
+    "facebook": "https://facebook.com/Bitcoiva.com.2021/",
+    "youtube": "https://youtube.com/channel/UCxPyXRsK0TFIKfG1p2Ws0QA",
+    "telegram": "https://t.me/BITCOIVA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bitcoiva/",
+    "coingecko": "https://coingecko.com/coins/bitcoiva",
+    "blog": "https://blog.bitcoiva.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdDaE5F343b7768eAdaAD88A7f520fFf54F198211/logo.png"
+  },
+  "name": "Bitcoiva",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BCA",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

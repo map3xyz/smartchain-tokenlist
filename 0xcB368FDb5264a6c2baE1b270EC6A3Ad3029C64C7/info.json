@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcB368FDb5264a6c2baE1b270EC6A3Ad3029C64C7",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Yield farm hyperion on Binance Smart Chain."
+  },
+  "id": "2c35e190-8b9b-4089-bdb7-0a0b917e803b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcB368FDb5264a6c2baE1b270EC6A3Ad3029C64C7",
+    "website": "http://hyperion.exchange/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcB368FDb5264a6c2baE1b270EC6A3Ad3029C64C7/logo.png"
+  },
+  "name": "Hyperion",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HPR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

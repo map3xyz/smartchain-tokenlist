@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Dart Inu is a Metaverse token which supports the vision of NASA's Double Asteroid Redirection Test to defend Mother Earth"
+  },
+  "id": "9b8ddd81-63d8-4c11-b16d-4ba467fdb100",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5",
+    "website": "https://dartinu.com",
+    "twitter": "https://twitter.com/dartinu_bsc",
+    "github": "https://github.com/dartinu",
+    "telegram": "https://t.me/dartinu",
+    "telegramNews": "https://t.me/dartinu_news",
+    "whitepaper": "https://dartinu.com/assets/dart_inu_whitepaper.pdf",
+    "medium": "https://medium.com/@dartinu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dart-inu/",
+    "coingecko": "https://coingecko.com/en/coins/dart-inu",
+    "sourceCode": "https://bscscan.com/address/0x49152dd96be5a710facf9a8ab7de4343a49186d5#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5/logo.png"
+  },
+  "name": "DART Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xdB29192Fc2B487BB5185e155752328d4f249743C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are new generation NFT market on Binance Smart Chain. Ultra NFT is a team of young people who are experts in their fields. Ultra NFT focused on endangered animals and natural wonders in the NFT market. It aims to bring in its investors and to take part in projects that are beneficial to its followers. It helps associations related to nature and animals with the proceeds from all trades."
+  },
+  "id": "67c6db33-9db8-4a76-b162-54ae75e21218",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdB29192Fc2B487BB5185e155752328d4f249743C",
+    "website": "https://ultranft.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdB29192Fc2B487BB5185e155752328d4f249743C/logo.png"
+  },
+  "name": "Ultra NFT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UNFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

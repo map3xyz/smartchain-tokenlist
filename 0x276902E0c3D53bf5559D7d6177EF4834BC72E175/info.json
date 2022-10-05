@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x276902E0c3D53bf5559D7d6177EF4834BC72E175",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Discover Dory Finance, the leading DEX on Binance Smart Chain (BSC) with the best farms in DeFi."
+  },
+  "id": "b49540d1-6693-409b-b686-1d6abcecfb11",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x276902E0c3D53bf5559D7d6177EF4834BC72E175",
+    "website": "https://doryswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x276902E0c3D53bf5559D7d6177EF4834BC72E175/logo.png"
+  },
+  "name": "Dory Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DORY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

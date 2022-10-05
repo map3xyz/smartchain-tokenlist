@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x549CC5dF432cdbAEbc8B9158A6bDFe1cbD0Ba16d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HOWL is the token of the HowlCity project, a 3D metaverse game"
+  },
+  "id": "35994247-4827-42aa-b80f-b72172ef7cd8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x549cc5df432cdbaebc8b9158a6bdfe1cbd0ba16d",
+    "website": "https://howlcity.io",
+    "twitter": "https://twitter.com/HowlCityNft",
+    "telegram": "https://t.me/HowlCity_Official",
+    "discord": "https://discord.com/invite/mMj2g3MHmQ",
+    "coinmarketcap": "https://coinmarketcap.com/vi/currencies/howl-city/",
+    "facebook": "https://facebook.com/HowlCityOfficial",
+    "reddit": "https://reddit.com/r/HowlCity/",
+    "whitepaper": "https://drive.google.com/file/d/1rVgfFV0SC68cv4W15pMc80jct2qrLArm/view"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x549CC5dF432cdbAEbc8B9158A6bDFe1cbD0Ba16d/logo.png"
+  },
+  "name": "HOWL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HWL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

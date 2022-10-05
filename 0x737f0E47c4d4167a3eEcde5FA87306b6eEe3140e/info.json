@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x737f0E47c4d4167a3eEcde5FA87306b6eEe3140e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "KimJongMoon is a fun and unique deflationary DEFI cryptocurrency on the Binance Smart Chain network with a few development projects to be released in the near future (NFT marketplace, merch store, mini-games, and animated series)."
+  },
+  "id": "ef2b1d6f-f5a5-4520-9ee4-6e8771dbe6e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x737f0E47c4d4167a3eEcde5FA87306b6eEe3140e",
+    "website": "https://kimjongmoon.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x737f0E47c4d4167a3eEcde5FA87306b6eEe3140e/logo.png"
+  },
+  "name": "KimJongMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KIMJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

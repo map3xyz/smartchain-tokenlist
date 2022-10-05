@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "VLXPAD is a token for VelasPad launchpad"
+  },
+  "id": "a8d6afb8-56f0-42ab-94c1-ef2536edeca9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0",
+    "website": "https://velaspad.io/",
+    "twitter": "https://twitter.com/VelasPad",
+    "coingecko": "https://coingecko.com/velaspad",
+    "telegram": "https://t.me/VelasPad",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/velaspad/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb8e3bB633F7276cc17735D86154E0ad5ec9928C0/logo.png"
+  },
+  "name": "VELASPAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VLXPAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

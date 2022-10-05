@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem."
+  },
+  "id": "840c2ec1-d6a7-4403-8a2d-e3db5c6de3a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+    "website": "https://bsc.dego.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC/logo.png"
+  },
+  "name": "Dego Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

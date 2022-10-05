@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "QANX is the utility token of QAN Platform."
+  },
+  "id": "49dd8fa7-8060-429f-99b0-6894d754ea56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
+    "website": "https://qanplatform.com",
+    "telegram": "https://t.me/QANplatform",
+    "telegramNews": "https://t.me/QANplatform_ANN",
+    "twitter": "https://twitter.com/qanplatform",
+    "discord": "https://discord.com/invite/bABaQeTPN7",
+    "reddit": "https://reddit.com/r/qanplatform",
+    "medium": "https://medium.com/qanplatform",
+    "youtube": "https://youtube.com/c/QANplatform",
+    "whitepaper": "https://assets.qanplatform.com/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qanplatform/",
+    "coingecko": "https://coingecko.com/en/coins/qanplatform",
+    "github": "https://github.com/QANplatform"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa/logo.png"
+  },
+  "name": "QANX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "QANX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

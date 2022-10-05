@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x2223bF1D7c19EF7C06DAB88938EC7B85952cCd89",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The most advanced 3D NFT Metaverse MMORPG On Blockchain | #BNBChain"
+  },
+  "id": "867060dd-f7c9-4fbd-a0e5-fcc044b8d169",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89",
+    "website": "https://kryxivia.io/",
+    "twitter": "https://twitter.com/kryxivia",
+    "github": "https://github.com/Kryxivia",
+    "telegram": "https://t.me/kryxivia",
+    "telegramNews": "https://t.me/KryxiviaANN",
+    "blog": "https://kryxivia.io/en/devblog",
+    "docs": "https://docs.kryxivia.io/",
+    "discord": "https://discord.com/invite/eH4fPm66qZ",
+    "reddit": "https://reddit.com/r/kryxivia/",
+    "whitepaper": "https://kryxivia.io/kryxivia_paper.pdf",
+    "medium": "https://kryxivia.medium.com/",
+    "youtube": "https://youtube.com/channel/UCZV1N-ajeO16504yw4RFR7A",
+    "coinmarketcap": "https://coinmarketcap.com/fr/currencies/kryxivia/",
+    "coingecko": "https://coingecko.com/en/coins/kryxivia-game"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2223bF1D7c19EF7C06DAB88938EC7B85952cCd89/logo.png"
+  },
+  "name": "Kryxivia",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KXA",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "IOTA is a distributed ledger with its proprietary technology known as Tangle, a system of nodes that confirm transactions. It aims to offer greater speeds than conventional blockchains and an ideal footprint for the ever-expanding Internet of Things ecosystem."
+  },
+  "id": "12a3a8d4-9d33-4174-9191-85c462ab742a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+    "website": "https://www.iota.org/",
+    "twitter": "https://twitter.com/iota",
+    "github": "https://github.com/iotaledger",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/iota/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782/logo.png"
+  },
+  "name": "MIOTAC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IOTA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

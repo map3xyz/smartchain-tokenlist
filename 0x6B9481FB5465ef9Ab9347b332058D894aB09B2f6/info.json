@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x6B9481FB5465ef9Ab9347b332058D894aB09B2f6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DNL is a transferable representation of attributed utility functions specified in the protocol/code of Dinoland, and which is designed to be used solely as an interoperable utility token thereon."
+  },
+  "id": "0427d362-44c9-4aa3-a575-3d64b804be8b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6B9481FB5465ef9Ab9347b332058D894aB09B2f6",
+    "website": "https://dinoland.io",
+    "twitter": "https://twitter.com/dinolandgame",
+    "telegram": "https://t.me/dinolandofficial",
+    "facebook": "https://facebook.com/dinolandgame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dinoland",
+    "coingecko": "https://coingecko.com/en/coins/dinoland"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6B9481FB5465ef9Ab9347b332058D894aB09B2f6/logo.png"
+  },
+  "name": "Dinoland Metaverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DNL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

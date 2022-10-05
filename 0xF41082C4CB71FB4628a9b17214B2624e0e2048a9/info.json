@@ -1,0 +1,31 @@
+{
+  "active": false,
+  "address": "0xF41082C4CB71FB4628a9b17214B2624e0e2048a9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Real Trump Token is a crypto designed to donate into organizations that put America First & President Donald J. Trump's 2024 re-election."
+  },
+  "id": "65cb2ae9-8532-44a2-8490-3f94abb47a51",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf41082c4cb71fb4628a9b17214b2624e0e2048a9",
+    "website": "https://realtrumptoken.com/",
+    "twitter": "https://twitter.com/realtrumptoken",
+    "github": "https://github.com/realtrumptoken/realtrumptoken",
+    "telegram": "https://t.me/realtrumptokenchat",
+    "discord": "https://discord.com/invite/k4yVP8xVn5",
+    "facebook": "https://facebook.com/Real-Trump-Token-RTT-105614135073370",
+    "coingecko": "https://coingecko.com/en/coins/real-trump-token-v2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xF41082C4CB71FB4628a9b17214B2624e0e2048a9/logo.png"
+  },
+  "name": "Real Trump Token V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RTTv2",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

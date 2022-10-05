@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xe56a473043EaAB7947c0a2408cEA623074500EE3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Safeswap.finance (SWAP) is a DeFi (DEX) based decentralized trading protocol that allows different types of cryptocurrencies to be swapped & exchanged, SWAP token issued by safeswap.online protocol."
+  },
+  "id": "9bae06ce-d90b-48e1-8e43-af7689abf970",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe56a473043EaAB7947c0a2408cEA623074500EE3",
+    "website": "https://info.safeswap.online",
+    "twitter": "https://twitter.com/safeswaponline",
+    "telegram": "https://t.me/safeswap_online",
+    "telegramNews": "https://t.me/SafeSwapAnnouncement",
+    "blog": "https://binancechain.news/%f0%9f%94%b5-safeswap-has-just-launched-2-new-meda-meda-staking-pools-%e2%9a%aa%ef%b8%8f/2021/10/09/",
+    "facebook": "https://facebook.com/safeswaponline",
+    "reddit": "https://reddit.com/r/safeswaponline",
+    "youtube": "https://youtube.com/channel/UCm594jehnIUlIm-WUK4XoXg",
+    "forum": "https://bitcointalk.org/index.php?topic=5348899",
+    "docs": "https://docs.google.com/document/d/19nWQlfyRzg1f8lUc5wKmaMpp_UeNQxdlXpIo3gSpk28/edit?usp=drivesdk",
+    "whitepaper": "https://docs.google.com/document/d/1E0oPPNHg5zmZL5gsL4fWkKVxaMBZ0dnE/edit?usp=drivesdk&ouid=114521995883501580344&rtpof=true&sd=true",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/safeswaponline/",
+    "coingecko": "https://coingecko.com/en/coins/safeswap-online"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe56a473043EaAB7947c0a2408cEA623074500EE3/logo.png"
+  },
+  "name": "Safeswap TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

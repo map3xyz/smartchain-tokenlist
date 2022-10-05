@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x12b83d77a606D8f5c4CE29dfFdb592C523364995",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby YooShi is a token on Binance Smart Chain boasting various features. BabyYooShi name and image are inspired by a dinosaur in Super Mario, whose name is Yoshi."
+  },
+  "id": "20c8143c-03a3-463f-b2e1-cb13b0982014",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12b83d77a606d8f5c4ce29dffdb592c523364995",
+    "website": "https://www.babyyooshi.com/",
+    "github": "https://github.com/BABYYOOSHI/BABYYOOSHI",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-yooshi/",
+    "twitter": "https://twitter.com/baby_yooshi",
+    "telegram": "https://t.me/byooshi_offical",
+    "coingecko": "https://coingecko.com/en/coins/baby-yooshi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x12b83d77a606D8f5c4CE29dfFdb592C523364995/logo.png"
+  },
+  "name": "Baby Yooshi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyYooshi",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2a49De60cc6204c3AFC3e770FDB30A0554147519",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Laika is a first of its kind, second generation cross-chain deflationary token. The protocol uses a brand new type of Scalable Automatic Liquidity Pools combined with a maximum transaction limit to prevent price manipulation. Laika Protocol is cross-chain and already live on Harmony with a fully automated bridge to be launched soon. The protocol will also expand to many other chains in the near future by using Sushiswap as its HomeDex. Other features such as staking pools are coming soon!"
+  },
+  "id": "a52d5ff7-77a1-42b3-93d9-26f956bae45b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2a49De60cc6204c3AFC3e770FDB30A0554147519",
+    "website": "https://laikato.space"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2a49De60cc6204c3AFC3e770FDB30A0554147519/logo.png"
+  },
+  "name": "LaikaProtocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAIKA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

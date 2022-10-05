@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SWASS is a revolutionary tokenomics access token for DApp's, web services, and more."
+  },
+  "id": "d1b7234b-bbb6-4885-bc0b-a4b8ef11c510",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xefba8b41e3495ad52258dfe916199dc643f99da2",
+    "website": "https://swass.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2/logo.png"
+  },
+  "name": "SWASS.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWASS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

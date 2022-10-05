@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0FC013E24AE732fcEc9Eb6BF8CAE12782a56bE7E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Where the coolest llamas go yield farming, on Binance Smart Chain"
+  },
+  "id": "c2093e86-f40b-4556-a991-5058965a637f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0FC013E24AE732fcEc9Eb6BF8CAE12782a56bE7E",
+    "website": "https://llamaswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0FC013E24AE732fcEc9Eb6BF8CAE12782a56bE7E/logo.png"
+  },
+  "name": "LlamaSwap Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAMA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

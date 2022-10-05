@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We are KYC'ed by Doken, we want to make sure that our investors are comfortable while investing in LunaGens."
+  },
+  "id": "699b5b5f-f51a-4bc5-8d73-405ba0b10f2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x28B9aed756De31B6b362aA0f23211D13093EBb79",
+    "website": "https://www.lunagens.com",
+    "twitter": "https://twitter.com/LunaGensOffcial",
+    "telegram": "https://t.me/LunaGensOfficial",
+    "facebook": "https://facebook.com/profile.php?id=100083974249018",
+    "coingecko": "https://coingecko.com/en/coins/lunagens",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lunagens/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x28B9aed756De31B6b362aA0f23211D13093EBb79/logo.png"
+  },
+  "name": "LunaGens ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LUNG",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The BSCex aims to offer aggregating engine that will divide the order into many parts and execute each part in different AMMs to lower the risk of price slippage"
+  },
+  "id": "af627ac6-62fd-4891-8143-20fed4478dcc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+    "website": "https://bscex.org",
+    "github": "https://github.com/bscex",
+    "whitepaper": "https://bscex.org/docs/introduction"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587/logo.png"
+  },
+  "name": "BSCX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSCX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

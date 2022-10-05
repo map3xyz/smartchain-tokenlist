@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x851F7a700c5d67DB59612b871338a85526752c25",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Worlds first and only blockchain-based freelancer platform on the Binance Chain network, working with fully decentralized and smart contracts."
+  },
+  "id": "c0b3fa75-753b-4b1a-97fc-f3923ede9321",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x851f7a700c5d67db59612b871338a85526752c25",
+    "website": "https://argon.run"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x851F7a700c5d67DB59612b871338a85526752c25/logo.png"
+  },
+  "name": "ArgonToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARGON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MOWA token is a utility token that was issued by Moniwar development team."
+  },
+  "id": "330fae85-963d-4672-a73b-e0609db9ec79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
+    "website": "https://moniwar.io/",
+    "twitter": "https://twitter.com/moniwar_game",
+    "coingecko": "https://coingecko.com/vi/ty_gia/moniwar",
+    "whitepaper": "https://docs.moniwar.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/moniwar/",
+    "facebook": "https://facebook.com/MoniwarOfficial/",
+    "youtube": "https://youtube.com/c/MoniwarOfficial",
+    "discord": "https://discord.com/yUWKW9cY"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x411Ec510c85C9e56271bF4E10364Ffa909E685D9/logo.png"
+  },
+  "name": "Moniwar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOWA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

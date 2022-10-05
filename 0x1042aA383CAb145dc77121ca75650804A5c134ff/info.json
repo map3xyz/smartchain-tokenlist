@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x1042aA383CAb145dc77121ca75650804A5c134ff",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "aggle.io is a decentralized sports betting platform where you can accept the best odds or interact as a bookmaker yourself."
+  },
+  "id": "db6d85db-8a7a-4d92-8410-70606eb20149",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1042aA383CAb145dc77121ca75650804A5c134ff",
+    "website": "https://aggle.io",
+    "facebook": "https://facebook.com/Aggleio-106575305321004",
+    "telegram": "https://t.me/aggle_io",
+    "twitter": "https://twitter.com/aggle_io",
+    "discord": "https://discord.com/qAC48Fvr",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aggle-io/",
+    "coingecko": "https://coingecko.com/de/munze/aggle-io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1042aA383CAb145dc77121ca75650804A5c134ff/logo.png"
+  },
+  "name": "aggle.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AGGL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

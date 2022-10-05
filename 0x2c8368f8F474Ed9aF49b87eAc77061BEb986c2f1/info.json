@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Leonicorn Swap is an Advance AMM with features Like NFT Marketplace, Lottery, IDO and many other advanced features."
+  },
+  "id": "dd4ebbf8-891b-4a4b-9538-fbf2627090ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
+    "website": "https://leonicornswap.com",
+    "github": "https://github.com/Leonicornswap",
+    "twitter": "https://twitter.com/swapleonicorn",
+    "telegram": "https://t.me/leonicornswap",
+    "whitepaper": "https://leonicornswap.com/images/whitepaper.pdf",
+    "facebook": "https://facebook.com/Leonicorn-Swap-104821111837719",
+    "reddit": "https://reddit.com/r/LeonicornSwap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/leonicorn-swap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1/logo.png"
+  },
+  "name": "LeonicornSwap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LEOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

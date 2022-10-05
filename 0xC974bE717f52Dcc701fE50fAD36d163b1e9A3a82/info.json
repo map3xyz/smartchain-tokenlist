@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC974bE717f52Dcc701fE50fAD36d163b1e9A3a82",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Healing potion is a wallet regeneration token that allows investors to earn passive income as they hold. 7% of every transaction is distributed equally among holders and an extra 5% is sent straight to the liquidity pool. "
+  },
+  "id": "2ef27772-b8e4-433b-bcf5-89d97dcc6fd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc974be717f52dcc701fe50fad36d163b1e9a3a82",
+    "website": "https://healingpot.info"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC974bE717f52Dcc701fE50fAD36d163b1e9A3a82/logo.png"
+  },
+  "name": "Healing Potion Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HPPOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

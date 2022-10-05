@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Faraland is an NFT project focusing on a true `Play to Earn` game. Users can summon Heroes with different races and equip them with powerful items and sending them into expedition to earn valuable resources."
+  },
+  "id": "68f4d097-8a6a-47ac-b0cb-8b8bc52372c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1",
+    "website": "https://faraland.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF4Ed363144981D3A65f42e7D0DC54FF9EEf559A1/logo.png"
+  },
+  "name": "FaraCrystal",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FARA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

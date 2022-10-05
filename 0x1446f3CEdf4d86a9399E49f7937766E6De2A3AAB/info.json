@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Krown is a multi-chain yield aggregator."
+  },
+  "id": "8ae6258f-4d14-44f5-b985-c1ac4ddccb2b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB",
+    "website": "https://kingdefi.io",
+    "twitter": "https://twitter.com/KingDefi2",
+    "telegram": "https://t.me/KingDefi_Community",
+    "discord": "https://discord.com/invite/9d3RrbNvTM"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1446f3CEdf4d86a9399E49f7937766E6De2A3AAB/logo.png"
+  },
+  "name": "Krown",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KRW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7E7c1d1a7DC1A978100E7faBe865cbb2Ce0b20B1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ETET is the equity token of ETET.Finance, the first decentralized Ethereum computing platform."
+  },
+  "id": "16946bf1-8937-4201-886d-5a792b86c58b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7E7c1d1a7DC1A978100E7faBe865cbb2Ce0b20B1",
+    "website": "https://etet.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7E7c1d1a7DC1A978100E7faBe865cbb2Ce0b20B1/logo.png"
+  },
+  "name": "ETET Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETET",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

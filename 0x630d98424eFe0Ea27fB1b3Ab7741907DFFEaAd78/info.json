@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth."
+  },
+  "id": "07c4de32-5dda-4152-84a8-97b76ac2e667",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+    "website": "https://peakdefi.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78/logo.png"
+  },
+  "name": "PEAK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEAK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

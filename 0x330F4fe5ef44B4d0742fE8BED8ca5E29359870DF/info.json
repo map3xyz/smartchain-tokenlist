@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x330F4fe5ef44B4d0742fE8BED8ca5E29359870DF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Jade Currency project is committed to changing the world by creating the first ever NFT (non-fungible token) marketplace and metaverse shop for precious gems such as jade where buyers can purchase in cryptocurrency. We believe the future holds a strong demand for the use of cryptocurrencies and there is somewhat of a barrier to entry for the current industry which Crypto Jade can solve. The holders of Jade Currency (JADE) token have majority ownership of the company."
+  },
+  "id": "68f209a4-f3e2-4b29-a0f1-8c5f474f4066",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x330F4fe5ef44B4d0742fE8BED8ca5E29359870DF",
+    "website": "https://www.jadecurrency.com",
+    "twitter": "https://twitter.com/CurrencyJade",
+    "whitepaper": "https://jadecurrency.com/wp-content/uploads/2021/07/jade_currency_whitepaper_v2.pdf",
+    "github": "https://github.com/CryptoJade",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/jade-currency",
+    "coingecko": "https://coingecko.com/en/coins/jade-currency",
+    "telegram": "https://t.me/jadecurrency",
+    "medium": "https://jadecurrency.medium.com/",
+    "facebook": "https://facebook.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x330F4fe5ef44B4d0742fE8BED8ca5E29359870DF/logo.png"
+  },
+  "name": "Jade Currency",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JADE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

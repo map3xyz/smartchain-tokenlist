@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DoubleMoon is Next generation of Defi yield generating, community driven. Earn interest by holding."
+  },
+  "id": "6d4707d0-04d1-44d3-a519-743e3a81c7db",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0314e5a39806c30d67b869ee1bcdabee7e08de74",
+    "website": "https://doublemoon.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0314e5a39806C30D67B869EE1bCDABee7e08dE74/logo.png"
+  },
+  "name": "DoubleMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DBM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "a4257314-ce5e-402d-b3d6-af015d022809",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
+    "website": "https://www.avax.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x96412902aa9aFf61E13f085e70D3152C6ef2a817/logo.png"
+  },
+  "name": "AVAX (Portal)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

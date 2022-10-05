@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xB068bD15AEDf75Be6c2c6d0Be10b286a32087120",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TokeNoid is developing games using the blockchain technology for their transactions. More game, More utility for NOID."
+  },
+  "id": "48c0c6bf-4307-43cd-a9ac-10a1de7d7f51",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xB068bD15AEDf75Be6c2c6d0Be10b286a32087120",
+    "website": "https://tokenoid.io/",
+    "twitter": "https://twitter.com/NoidToken",
+    "github": "https://github.com/TokeNOID/",
+    "telegram": "https://t.me/TokeNOIDOfficial_Chat",
+    "telegramNews": "https://t.me/TokeNOIDOfficial_Ann",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tokenoid/",
+    "coingecko": "https://coingecko.com/en/coins/tokenoid",
+    "docs": "https://tokenoid-studio.gitbook.io/welcome-to-gitbook/",
+    "youtube": "https://youtube.com/channel/UCYiyO8VMCZvakrMCqkOpyDw"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xB068bD15AEDf75Be6c2c6d0Be10b286a32087120/logo.png"
+  },
+  "name": "Tokenoid",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NOID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

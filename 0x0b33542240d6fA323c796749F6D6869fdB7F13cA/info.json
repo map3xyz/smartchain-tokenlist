@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x0b33542240d6fA323c796749F6D6869fdB7F13cA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "If Ethereum is like http then Ethereum Meta is https — a secure transport layer"
+  },
+  "id": "418e2d14-7bd4-404c-9e8e-aad46c0cd984",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0b33542240d6fA323c796749F6D6869fdB7F13cA",
+    "website": "https://ethermeta.com/",
+    "telegram": "https://t.me/ethereummeta",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethereum-meta/",
+    "twitter": "https://twitter.com/EthereumMeta"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0b33542240d6fA323c796749F6D6869fdB7F13cA/logo.png"
+  },
+  "name": "Ethereum Meta",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

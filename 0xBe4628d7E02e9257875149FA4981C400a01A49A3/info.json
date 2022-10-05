@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xBe4628d7E02e9257875149FA4981C400a01A49A3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Jail Doge is a deflationary DeFi token that takes a 9% tax from each buy and sell. This tax acts to benefit the project as a whole by putting 3% in the liquidity pool for a stable price floor, 3% proportionally reflected back to all holders of a JAILDOGE token and 3% added to a marketing wallet to make sure that the project is able to succeed in the long term."
+  },
+  "id": "0f80dccb-aad8-4f05-b446-d213daa13cb1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBe4628d7E02e9257875149FA4981C400a01A49A3",
+    "website": "https://jaildoge.net",
+    "twitter": "https://twitter.com/jaildoge",
+    "telegram": "https://t.me/jaildoge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBe4628d7E02e9257875149FA4981C400a01A49A3/logo.png"
+  },
+  "name": "Jail Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JAILDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

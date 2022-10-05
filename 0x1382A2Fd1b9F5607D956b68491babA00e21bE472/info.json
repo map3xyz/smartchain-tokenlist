@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x1382A2Fd1b9F5607D956b68491babA00e21bE472",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bamboo is is an ERC-20 compliant governance and utility token currently deployed on the BNB Smart Chain. It is used within the BAM ecosystem to enable simplified onboarding into digital assets, via a decentralized community coupled with Bamboo Asset Management building a mobile-first digital assets platform."
+  },
+  "id": "bc4cb4f8-3aa6-4cb4-91e6-792bbbf6613f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1382a2fd1b9f5607d956b68491baba00e21be472",
+    "website": "https://pinkpanda.io",
+    "twitter": "https://twitter.com/bamboodaoio",
+    "telegram": "https://t.me/PinkPandaHoldingsInc",
+    "github": "https://github.com/orgs/bamboodao/",
+    "medium": "https://medium.com/@PinkPandaFinance",
+    "reddit": "https://reddit.com/r/PinkPanda/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1382A2Fd1b9F5607D956b68491babA00e21bE472/logo.png"
+  },
+  "name": "Bamboo",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BAM",
+  "tags": [
+    "defi",
+    "nft",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

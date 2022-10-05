@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x464863745ED3aF8b9f8871f1082211C55f8f884D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CryptoTycoon is a gaming platform based on BSC.."
+  },
+  "id": "5d30f1f8-7823-443c-8016-cedcda3aa06f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x464863745ed3af8b9f8871f1082211c55f8f884d",
+    "website": "http://cryptotycoon.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x464863745ED3aF8b9f8871f1082211C55f8f884D/logo.png"
+  },
+  "name": "CryptoTycoon Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

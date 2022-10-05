@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xFd431CB76965cF80c6FCec011a273B46df23EB04",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COCOPAD IS THE BEST DECENTRALIZED IDO PLATFORM FOR THE # BSC - BINANCE SMART CHAIN NETWORK."
+  },
+  "id": "41b59a8a-308d-4866-a303-2e5d27b963df",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFd431CB76965cF80c6FCec011a273B46df23EB04",
+    "website": "http://cocopad.co/",
+    "twitter": "https://twitter.com/Cocopad_BSC",
+    "telegram": "https://t.me/cocopad_official",
+    "medium": "https://cocopad.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFd431CB76965cF80c6FCec011a273B46df23EB04/logo.png"
+  },
+  "name": "Cocopad",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COCO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

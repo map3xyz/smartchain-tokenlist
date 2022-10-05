@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x49324d59327fB799813B902dB55b2a118d601547",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Boss Token is a community driven DeFi cryptocurrency, with the aim to become the boss of Dogcoins! Two main functions happen during a trade, RFI static rewards distributed to holders and LP acquisition."
+  },
+  "id": "f6960fe3-6fc0-47af-8346-d21742555c02",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x49324d59327fB799813B902dB55b2a118d601547",
+    "website": "https://bosstoken.com/ ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/boss-token/",
+    "coingecko": "https://coingecko.com/en/coins/boss",
+    "telegram": "https://t.me/bosstokencrypto"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x49324d59327fB799813B902dB55b2a118d601547/logo.png"
+  },
+  "name": "Boss Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOSS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A community-driven, dog-themed protocol with actual use cases and utility."
+  },
+  "id": "f8c24796-cb0d-4c18-a9ba-f5f3c611726e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+    "website": "https://boxerinu.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x192E9321b6244D204D4301AfA507EB29CA84D9ef/logo.png"
+  },
+  "name": "BoxerInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BOXER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x465707181ACba42Ed01268A33f0507e320a154bD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Track fitness activity, earn crypto, and be the best version of you. Same effort, more results."
+  },
+  "id": "9cf8ab05-c745-40c7-a61a-6465fe344497",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x465707181ACba42Ed01268A33f0507e320a154bD",
+    "website": "https://walkwithstep.io/",
+    "twitter": "https://twitter.com/walkwithstep",
+    "telegram": "https://t.me/walkwithstep",
+    "telegramNews": "https://t.me/StepAnnouncements",
+    "reddit": "https://reddit.com/r/OfficialSTEP/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/step/",
+    "coingecko": "https://coingecko.com/en/coins/step",
+    "whitepaper": "https://walkwithstep.io/whitepaperstep.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x465707181ACba42Ed01268A33f0507e320a154bD/logo.png"
+  },
+  "name": "Step",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STEP",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

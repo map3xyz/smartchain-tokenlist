@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "The first cryptocurrency to think about reducing the poor by providing social assistance."
+  },
+  "id": "ed375a2a-8c70-443a-bc89-e500e4d5c567",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+    "website": "https://wolfsafepoorpeople.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png"
+  },
+  "name": "WolfSafePoorPeople",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSPP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We are the original Shiba Cash token on Binance Smart Chain, the same tokenomics as the original Shiba Inu with no gimmicks!"
+  },
+  "id": "90eca014-6dba-464f-9c8c-ce80a97f27d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0",
+    "website": "https://www.shibacashtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0/logo.png"
+  },
+  "name": "ShibaCash Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBACASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

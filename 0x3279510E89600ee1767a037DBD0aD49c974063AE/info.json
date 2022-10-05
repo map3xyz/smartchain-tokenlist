@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x3279510E89600ee1767a037DBD0aD49c974063AE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFTBooks envisions to transform the world of book-readings, making it become more affordable and more accessible to many people."
+  },
+  "id": "490c0d48-071d-4901-98b4-b91c531d459c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3279510E89600ee1767a037DBD0aD49c974063AE",
+    "website": "https://nftbooks.info",
+    "github": "https://github.com/nftbs",
+    "twitter": "https://twitter.com/nftbstoken",
+    "reddit": "https://reddit.com/r/Nftbooks/",
+    "whitepaper": "https://github.com/nftbs/Whitepaper/blob/477ac26b4824162d2e0e4fc7aad103a7aa74ee55/NFTBS_Whitepaper.pdf",
+    "telegram": "https://t.me/nftbs",
+    "telegramNews": "https://t.me/nftbsnews",
+    "medium": "https://nftbs.medium.com/",
+    "facebook": "https://facebook.com/nftbs",
+    "youtube": "https://youtube.com/channel/UC9sNyHb5tn3VXCftusc6gTg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nftbooks/",
+    "coingecko": "https://coingecko.com/en/coins/nftbooks"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3279510E89600ee1767a037DBD0aD49c974063AE/logo.png"
+  },
+  "name": "NFTBooks",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

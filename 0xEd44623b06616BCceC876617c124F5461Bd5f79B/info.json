@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xEd44623b06616BCceC876617c124F5461Bd5f79B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Battle Fort Knox - BFK is a complete gaming ecosystem with our native token $BFK, our NFT Marketplace, and our P2E 2D shooter coming to iOS, Android, and Windows."
+  },
+  "id": "58127c01-741c-4dfa-aecd-8b49a747fe88",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEd44623b06616BCceC876617c124F5461Bd5f79B",
+    "website": "https://bfkwarzone.com",
+    "twitter": "https://twitter.com/bfkwarzone",
+    "github": "https://github.com/bfkwarzone",
+    "telegram": "https://t.me/bfkwarzone",
+    "telegramNews": "https://t.me/bfkannouncements",
+    "coingecko": "https://coingecko.com/en/coins/bfk-warzone",
+    "facebook": "https://facebook.com/BFK-Warzone-113049517816470",
+    "whitepaper": "https://whitepaper.bfkwarzone.app/whitepaper.pdf",
+    "sourceCode": "https://bscscan.com/address/0xed44623b06616bccec876617c124f5461bd5f79b#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEd44623b06616BCceC876617c124F5461Bd5f79B/logo.png"
+  },
+  "name": "BFK WARZONE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BFK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x8A9030c0ED9A5b9C7Ab39EBfEE11D90aF9945f6F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SafeLaunchpad is High Deflationary Project Incubator Utility Token."
+  },
+  "id": "a0cb7848-a34a-4df2-81a5-2870ea84156d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8A9030c0ED9A5b9C7Ab39EBfEE11D90aF9945f6F",
+    "website": "https://safelaunchpad.net",
+    "github": "https://github.com/safelaunchpad/Contract",
+    "twitter": "https://twitter.com/safelaunchpad",
+    "telegram": "https://t.me/safelaunchpad",
+    "docs": "https://safelaunchpad.gitbook.io/safelaunchpad"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8A9030c0ED9A5b9C7Ab39EBfEE11D90aF9945f6F/logo.png"
+  },
+  "name": "SafeLaunchpad",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

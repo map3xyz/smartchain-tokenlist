@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EverRise token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool."
+  },
+  "id": "0e895a0c-f561-415d-ac63-36fc1da80373",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a",
+    "website": "https://www.everrisecoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xC7D43F2B51F44f09fBB8a691a0451E8FFCF36c0a/logo.png"
+  },
+  "name": "EverRise (old)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RISE (old)",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

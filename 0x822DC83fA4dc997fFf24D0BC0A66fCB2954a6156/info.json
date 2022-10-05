@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x822DC83fA4dc997fFf24D0BC0A66fCB2954a6156",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BSocial is a social network specialized for Cryptocurrency and MMO (making money online) communities."
+  },
+  "id": "7efa3af1-c4f7-4e98-a95d-a85fd100b24c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x822DC83fA4dc997fFf24D0BC0A66fCB2954a6156",
+    "website": "https://bsocial.pro",
+    "twitter": "https://twitter.com/Bsocialfi",
+    "telegram": "https://t.me/bsocialchannel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bsocial/",
+    "coingecko": "https://coingecko.com/en/coins/bsocial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x822DC83fA4dc997fFf24D0BC0A66fCB2954a6156/logo.png"
+  },
+  "name": "BSocial",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BINS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

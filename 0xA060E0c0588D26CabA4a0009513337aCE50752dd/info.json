@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA060E0c0588D26CabA4a0009513337aCE50752dd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zooshi is a hyper deflationary token on the Binance Smart Chain, with rewards backed by $SUSHI, paid out hourly. We have an arcade with play-to-earn mechanics!"
+  },
+  "id": "5676374e-4523-4f41-b10c-9c8cd4c53299",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA060E0c0588D26CabA4a0009513337aCE50752dd",
+    "website": "https://zooshi.io/",
+    "twitter": "https://twitter.com/zooshicoin",
+    "telegram": "https://t.me/zooshicoin",
+    "telegramNews": "https://t.me/zooshicoinannouncements"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA060E0c0588D26CabA4a0009513337aCE50752dd/logo.png"
+  },
+  "name": "Zooshi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZOOSHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

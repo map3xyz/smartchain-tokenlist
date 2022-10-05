@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6Fc015dC3283369125cc31907eEF990b8F67a7a1",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Leading Decentralized Ecosystem in DeFi and Stake Sharing. Generate passive daily income while staking your tokens."
+  },
+  "id": "4f78e70a-9921-4dbd-a969-d9fbcadc4691",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6fc015dc3283369125cc31907eef990b8f67a7a1",
+    "website": "https://moonchain.finance",
+    "twitter": "https://twitter.com/MoonChainFinane",
+    "telegram": "https://t.me/moonchain_tg",
+    "telegramNews": "https://t.me/moonchain_ann"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6Fc015dC3283369125cc31907eEF990b8F67a7a1/logo.png"
+  },
+  "name": "Moon Chain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MCF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

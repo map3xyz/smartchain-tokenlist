@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x07a3554899D97a087Bda931Dd5224B3B7435E568",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized Currency from People to People."
+  },
+  "id": "d56d9bb7-f79a-4224-a4ce-67e0cf5e1af6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x07a3554899D97a087Bda931Dd5224B3B7435E568",
+    "website": "https://tendacoin.com",
+    "twitter": "https://twitter.com/TendaCoin1",
+    "telegram": "https://t.me/TendaCoinChat",
+    "github": "https://github.com/tendacoin",
+    "whitepaper": "https://tendacoin.com/whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x07a3554899D97a087Bda931Dd5224B3B7435E568/logo.png"
+  },
+  "name": "TendaCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TND",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

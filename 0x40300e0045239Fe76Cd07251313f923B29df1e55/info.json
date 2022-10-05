@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x40300e0045239Fe76Cd07251313f923B29df1e55",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Proprietary, Hyper Deflationary Token! RON token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool!."
+  },
+  "id": "e667dfed-80bd-4092-bb14-c232b9887de2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40300e0045239fe76cd07251313f923b29df1e55",
+    "website": "https://www.riseofnebula.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x40300e0045239Fe76Cd07251313f923B29df1e55/logo.png"
+  },
+  "name": "RiseofNebula",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

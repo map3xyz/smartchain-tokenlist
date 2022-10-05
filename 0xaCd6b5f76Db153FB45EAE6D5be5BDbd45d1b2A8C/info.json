@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PeachSwap - An evolution of #Uniswap with $Peach tokenomics on Binance Smart Chain."
+  },
+  "id": "b5f39fec-9434-4273-bf0e-7b03a782aa52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
+    "website": "https://peachswap.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C/logo.png"
+  },
+  "name": "Peach Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PEACH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

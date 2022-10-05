@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1fBB6cA220dCBE732f796Fa9b13dd21cD654511b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "0xzx.com is a content-based incentive platform based on the decentralized economy that continually motivates new news content."
+  },
+  "id": "aaeda63f-d676-46d2-a2c1-4916afcc410d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b",
+    "website": "https://0xzx.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1fBB6cA220dCBE732f796Fa9b13dd21cD654511b/logo.png"
+  },
+  "name": "0xzx Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "0xzx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

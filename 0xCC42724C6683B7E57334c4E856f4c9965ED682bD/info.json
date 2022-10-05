@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Matic Network is a layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using Plasma framework and a decentralized network of Proof-of-Stake (PoS) vailidators."
+  },
+  "id": "8e7b8dff-1075-486b-b3e9-219816d703b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+    "website": "https://matic.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/logo.png"
+  },
+  "name": "Matic Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

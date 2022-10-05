@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Introducing Baby CatCoin, featuring an ever increasing price floor and simple yet effective rewarding system giving ALL holders a massive 3% BUSD rewards. Utility, Nfts, Dapp."
+  },
+  "id": "5005f07d-2514-4933-8503-320e819a7ccb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4",
+    "website": "https://babycatcoin.net/ ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/baby-cat-coin/",
+    "twitter": "https://twitter.com/babycatcoinbsc",
+    "coingecko": "https://coingecko.com/en/coins/baby-catcoin",
+    "github": "https://github.com/MyBabyCatCoin/BabyCatCoin/blob/main/Contract",
+    "reddit": "https://reddit.com/r/BabyCatcoinBSC/",
+    "telegram": "https://t.me/BabyCatcoinChat"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4/logo.png"
+  },
+  "name": "Baby Catcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABYCATS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

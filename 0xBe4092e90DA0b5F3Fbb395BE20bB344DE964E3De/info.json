@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xBe4092e90DA0b5F3Fbb395BE20bB344DE964E3De",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SephirothInu is a Charity Token that aims to help less fortunate animals."
+  },
+  "id": "20460426-4e98-40f6-bfc1-e00d703cffa1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBe4092e90DA0b5F3Fbb395BE20bB344DE964E3De",
+    "website": "https://www.sephirothinu.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBe4092e90DA0b5F3Fbb395BE20bB344DE964E3De/logo.png"
+  },
+  "name": "Sephiroth Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SEPHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

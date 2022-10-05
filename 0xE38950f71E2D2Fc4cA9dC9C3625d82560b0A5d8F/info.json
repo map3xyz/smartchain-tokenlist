@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NELO is a protocol and infrastructure that is leveraging the Proof-of-Stake consensus algorithm to help developers deploy their games and Metaverse projects."
+  },
+  "id": "6f5f9824-f87b-49dc-a887-f23915097ccb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F",
+    "website": "https://nelo.network/",
+    "twitter": "https://twitter.com/NELOnetwork",
+    "telegram": "https://t.me/NELOnetwork",
+    "discord": "https://discord.com/invite/NELOnetwork",
+    "facebook": "https://facebook.com/NELOnetwork/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F/logo.png"
+  },
+  "name": "NELO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NELO",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x9953170dcAac530AD7D6949c7295207c6ec5669D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MetaDoge is a community-driven project. It is a Memecoin and utility token in the crypto sphere."
+  },
+  "id": "e044f3d7-c5cb-4665-907a-962a0554fc0e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9953170dcAac530AD7D6949c7295207c6ec5669D",
+    "website": "https://www.metadoge.live",
+    "twitter": "https://twitter.com/MetaDogeBSC",
+    "telegram": "https://t.me/MetaDoge_Official",
+    "whitepaper": "https://secureservercdn.net/160.153.137.163/nxz.d14.myftpupload.com/wp-content/uploads/2022/02/MetaDogeV2-whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metadoge/",
+    "coingecko": "https://coingecko.com/en/coins/metadoge-v2"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9953170dcAac530AD7D6949c7295207c6ec5669D/logo.png"
+  },
+  "name": "MetaDoge V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "METADOGEV2",
+  "tags": [
+    "nft",
+    "staking",
+    "memes",
+    "gamefi",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

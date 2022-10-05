@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "yieldwatch.net is a smart yield farming dashboard that lets you monitor your liquidity pools, yield farming and token staking."
+  },
+  "id": "0bf45cda-60fb-4382-ad4b-152059848c8f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+    "website": "https://yieldwatch.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0/logo.png"
+  },
+  "name": "yieldwatch",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WATCH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

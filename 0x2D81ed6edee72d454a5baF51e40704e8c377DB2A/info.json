@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2D81ed6edee72d454a5baF51e40704e8c377DB2A",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FomoDOTA was founded in 2021 in the purpose of building FOMO MOBA Ecosystem for all e-sports gamers to achieve more influence of gaming on blockchain."
+  },
+  "id": "cdf2756b-a831-4235-8185-8793c9261149",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2d81ed6edee72d454a5baf51e40704e8c377db2a",
+    "website": "https://fomodota.org",
+    "telegram": "https://t.me/Fomodota_BSC_EN",
+    "twitter": "https://twitter.com/FomoDOTA_BSC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2D81ed6edee72d454a5baF51e40704e8c377DB2A/logo.png"
+  },
+  "name": "FomoDota",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FDOTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

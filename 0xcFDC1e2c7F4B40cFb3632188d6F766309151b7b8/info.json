@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SAFE & SECURE WALLET"
+  },
+  "id": "74df87e4-4bff-4dfc-8dcd-ef3d50916288",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+    "website": "https://saswallets.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8/logo.png"
+  },
+  "name": "SAFE & SECURE WALLET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

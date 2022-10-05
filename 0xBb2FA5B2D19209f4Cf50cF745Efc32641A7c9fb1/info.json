@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A token based on the Binance Smart Chain. With an NFT marketplace, play to earn gaming, charity donations, manual buy back, token burns and a perk of choosing your reflections in BUSD or HKUN token."
+  },
+  "id": "300eb47f-ab97-455b-8bc0-88734a56aedb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1",
+    "website": "https://hakunamatatatoken.com",
+    "twitter": "https://twitter.com/HKUNtoken",
+    "telegram": "https://t.me/HKUNtoken",
+    "youtube": "https://youtube.com/channel/UC-UUoGWO_MCcPusXptzCmkA",
+    "whitepaper": "https://hakunamatatatoken.com/wp-content/uploads/2021/09/HakunaMatata_Whitepaper_v1.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hakunamatata-new"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1/logo.png"
+  },
+  "name": "Hakuna Matata",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HKUN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

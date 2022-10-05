@@ -1,0 +1,27 @@
+{
+  "active": false,
+  "address": "0x4cbdfad03b968bF43449D0908f319Ae4A5A33371",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "E-COIN Finance is a decentralized & deflationary BEP-20 token that aims to be an online payment platform replacing conventional fiat currency through our integrated debit card."
+  },
+  "id": "35759c86-a2d0-4bce-bd23-3b90f512cf2e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4cbdfad03b968bF43449D0908f319Ae4A5A33371",
+    "website": "https://ecoin-finance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4cbdfad03b968bF43449D0908f319Ae4A5A33371/logo.png"
+  },
+  "name": "E-COIN Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECOIN",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

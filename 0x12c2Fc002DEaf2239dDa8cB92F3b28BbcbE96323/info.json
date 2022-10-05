@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x12c2Fc002DEaf2239dDa8cB92F3b28BbcbE96323",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Diamond Cash (DCASH) is a decentralized finance currency on the Binance Smart Chain"
+  },
+  "id": "7b372aed-281f-4835-9867-420c38d69eb3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12c2fc002deaf2239dda8cb92f3b28bbcbe96323",
+    "website": "https://diamondcash.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x12c2Fc002DEaf2239dDa8cB92F3b28BbcbE96323/logo.png"
+  },
+  "name": "Diamond Cash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DCASH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

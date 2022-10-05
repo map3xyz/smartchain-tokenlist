@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Best Meme-Based Geometric Deflationary Token"
+  },
+  "id": "99c14e74-dcaf-42f1-862b-71d7c9c33c2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2",
+    "website": "https://ceezee.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2/logo.png"
+  },
+  "name": "CEEZEE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

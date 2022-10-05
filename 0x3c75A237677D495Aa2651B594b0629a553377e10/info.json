@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3c75A237677D495Aa2651B594b0629a553377e10",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BitcoinXv2 is a deflationary token, completely decentralized and thrives from the power of the community. It is a token for the people. One Governance, One BitcoinXv2."
+  },
+  "id": "c423a612-2441-4b1b-b9eb-371b85c06da1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3c75A237677D495Aa2651B594b0629a553377e10",
+    "website": "https://btcxv2.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3c75A237677D495Aa2651B594b0629a553377e10/logo.png"
+  },
+  "name": "bitcoinXv2.0 Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "btcXv2.0",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

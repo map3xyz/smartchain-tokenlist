@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x035de3679E692C471072d1A09bEb9298fBB2BD31",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "52c8ee4f-3671-4597-8463-3bff4db6b8b7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x035de3679E692C471072d1A09bEb9298fBB2BD31",
+    "website": "https://www.paxos.com/busd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x035de3679E692C471072d1A09bEb9298fBB2BD31/logo.png"
+  },
+  "name": "Binance USD (Portal from Ethereum)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUSDet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x71e1611075800E89A460463FCDfbA3d0FEA8c01d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Great ideas start in a small shed! This is the first giveaway-centered, meme-based, reflective crypto token to be launching on the Binance Smart Chain."
+  },
+  "id": "9b907dae-ce7e-4ecd-b456-aa86d39af1f7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x71e1611075800e89a460463fcdfba3d0fea8c01d",
+    "website": "https://aerotynetoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x71e1611075800E89A460463FCDfbA3d0FEA8c01d/logo.png"
+  },
+  "name": "Aerotyne",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATYNE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBf38A8b9cf02223b44f823e15f45219E9978b491",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "We’ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to ensure its long-term significance. We sincerely hold that Diviner will be the cradle of cross-NFT, game, and cross-meta-universe."
+  },
+  "id": "4fa63d68-1790-4214-b62a-ee966fb22f47",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBf38A8b9cf02223b44f823e15f45219E9978b491",
+    "website": "https://www.diviner.io",
+    "twitter": "https://twitter.com/DivinerFi",
+    "telegram": "https://t.me/Diviner_Games",
+    "docs": "https://docs.diviner.games/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBf38A8b9cf02223b44f823e15f45219E9978b491/logo.png"
+  },
+  "name": "DIVINER",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DIV",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc8aE2289c032B119DFD29396F1FC68Ee91F80118",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The IM Super League is an educative, entertained, and profitable way to play with your favorite football team of all times on the blockchain."
+  },
+  "id": "2b18d1b9-cbbf-427b-b9b5-48b98deb076c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc8aE2289c032B119DFD29396F1FC68Ee91F80118",
+    "website": "https://imsuperleague.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc8aE2289c032B119DFD29396F1FC68Ee91F80118/logo.png"
+  },
+  "name": "IM Super League",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IMSL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

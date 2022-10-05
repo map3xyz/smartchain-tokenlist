@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x23481F4d3ac4642d2f45d014a514b45B0338b927",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Ulink Finance smart contracts continuously route your funds to a portfolio of the latest-and-greatest yield farming strategies."
+  },
+  "id": "ecaddb85-ebfe-4cb1-8730-c736474544bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x23481f4d3ac4642d2f45d014a514b45b0338b927",
+    "website": "https://ulink.finance/",
+    "twitter": "https://twitter.com/UlinkFinance",
+    "telegram": "https://t.me/ulink_finance",
+    "telegramNews": "https://t.me/ulinkfinanceann"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x23481F4d3ac4642d2f45d014a514b45B0338b927/logo.png"
+  },
+  "name": "Ulink Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ULK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x36f66D61Db3497f7FDBA22Efd2A251753A95d0E2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Life Token is a charity-orientated, self-staking, deflationary token aiming to help aid suicide prevention."
+  },
+  "id": "f98b460e-471f-4cf4-8e8c-cf23ac6098a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x36f66D61Db3497f7FDBA22Efd2A251753A95d0E2",
+    "website": "https://thelifetoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x36f66D61Db3497f7FDBA22Efd2A251753A95d0E2/logo.png"
+  },
+  "name": "Life Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LTN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A peer to peer Internet currency of Flat Earth."
+  },
+  "id": "67fd4fe7-6496-4426-82c5-3a273c7eea29",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+    "website": "https://flatearthtoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1/logo.png"
+  },
+  "name": "Flat Earth Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FLAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

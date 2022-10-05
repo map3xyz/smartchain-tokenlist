@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$DOGEBULL is part of DOGECOLA project. Same family, same community, same devs. Hold $DOGEBULL and you'll receive DOGECOLA automatically in your wallet."
+  },
+  "id": "f092e361-07d6-497d-b411-9456658a8c13",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51",
+    "website": "https://dogecola.finance",
+    "twitter": "https://twitter.com/doge_cola",
+    "telegram": "https://t.me/dogecola"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51/logo.png"
+  },
+  "name": "DogeBull",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

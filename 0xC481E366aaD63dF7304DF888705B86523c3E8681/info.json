@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC481E366aaD63dF7304DF888705B86523c3E8681",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Film Vault protocol is a dApp/Smart Contract to Learn, Invest and Profit from the Independent Film Industry. Built with latest openzeppellin secured smart contract in Solidity, deployed in both Ethereun Network [ERC20] and Binance Smart Chain [BEP20] with a multi chain tokenomics of 1Million FILMVAULT max supply, and unique 10 year minting strategy."
+  },
+  "id": "6436f352-19b3-41dc-94ee-ec5f086d58bc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc481e366aad63df7304df888705b86523c3e8681",
+    "website": "https://filmvault.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC481E366aaD63dF7304DF888705B86523c3E8681/logo.png"
+  },
+  "name": "Film Vault Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FILMVAULT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

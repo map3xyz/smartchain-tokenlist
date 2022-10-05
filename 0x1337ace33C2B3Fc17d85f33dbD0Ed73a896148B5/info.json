@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Gravitoken is the first elastic supply token on BSC with Auto LP, token buyback and marketing provision"
+  },
+  "id": "fe05b33b-3168-4ed6-afed-6c8aa4bbb937",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5",
+    "website": "https://gravitoken.co.uk/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5/logo.png"
+  },
+  "name": "Gravitoken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GRV",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

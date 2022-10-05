@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Unmarshal is a Multi-chain DeFi network of indexers that provides seamless access to Blockchain data for DeFi applications. We provide rich, meaningful, and reliable access to data through our decentralized network nodes."
+  },
+  "id": "cbb53d5a-44ed-47d3-91dd-ad80bdae7555",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+    "website": "https://unmarshal.io/",
+    "github": "https://github.com/orgs/eucrypt",
+    "twitter": "https://twitter.com/unmarshal",
+    "telegram": "https://t.me/Unmarshal_Chat",
+    "blog": "https://blog.unmarshal.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256/logo.png"
+  },
+  "name": "UnmarshalToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARSH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

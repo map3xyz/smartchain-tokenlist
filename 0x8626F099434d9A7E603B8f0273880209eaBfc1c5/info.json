@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x8626F099434d9A7E603B8f0273880209eaBfc1c5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Berry swap exchange is a decentralized exchange platform built on the Binance smart chain BSC protocol, with an integrated seamless interoperability across all blockchain network and diverse contract systems."
+  },
+  "id": "9b8bc526-c371-41cc-acea-5c39231708c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8626F099434d9A7E603B8f0273880209eaBfc1c5",
+    "website": "https://berryswap.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8626F099434d9A7E603B8f0273880209eaBfc1c5/logo.png"
+  },
+  "name": "Berryswap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Berry",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

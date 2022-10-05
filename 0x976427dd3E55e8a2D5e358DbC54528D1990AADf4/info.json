@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x976427dd3E55e8a2D5e358DbC54528D1990AADf4",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "ARIX is both centralized and decentralized helping both new and experienced traders access a user friendly, scalable, safest and the cheapest way to trade assets anywhere in the world."
+  },
+  "id": "81b3f701-77ea-447b-bcb9-1859d8be1143",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x976427dd3e55e8a2d5e358dbc54528d1990aadf4",
+    "website": "https://arixcoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/logo.png"
+  },
+  "name": "ARIX Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARIX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x19D3A7c26a1271eeBB6f04bDb4565b7F2B7EFc30",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MetaAxis is a revolutionary token with an innovative Buy Back and Play to Earn scheme built on Binance Smart Chain"
+  },
+  "id": "ceb4d7cf-6391-4dbc-bc75-a5afd2dd970f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x19D3A7c26a1271eeBB6f04bDb4565b7F2B7EFc30",
+    "website": "https://metaaxiscoin.com/",
+    "twitter": "https://twitter.com/MetaAxisCoin",
+    "telegram": "https://t.me/MetaAxisToken",
+    "whitepaper": "https://metaaxiscoin.com/Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x19D3A7c26a1271eeBB6f04bDb4565b7F2B7EFc30/logo.png"
+  },
+  "name": "MetaAxis",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

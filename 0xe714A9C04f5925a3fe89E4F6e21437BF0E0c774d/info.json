@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe714A9C04f5925a3fe89E4F6e21437BF0E0c774d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GOLD FINCH CRYPTO CURRENCY (GFCC) is a cutting edge block chain Project, with the aim to develop a revolutionary decentralized platform for trading gold and other precious metals and for receiving gold and precious metals markets information."
+  },
+  "id": "c7c9290b-a605-4eb6-b2e7-d4fe62fabbb3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe714A9C04f5925a3fe89E4F6e21437BF0E0c774d",
+    "website": "https://goldfinch.global"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe714A9C04f5925a3fe89E4F6e21437BF0E0c774d/logo.png"
+  },
+  "name": "GOLD FINCH CRYPTO CURRENCY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GFCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

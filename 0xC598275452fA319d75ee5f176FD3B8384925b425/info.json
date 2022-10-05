@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC598275452fA319d75ee5f176FD3B8384925b425",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LiveView is to provide an all-in-one platform for viewers to be able to watch and choose whichever videos they want around the world."
+  },
+  "id": "43962290-1137-40b8-879d-58266378432d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC598275452fA319d75ee5f176FD3B8384925b425",
+    "website": "https://stream-coin.com/",
+    "twitter": "https://twitter.com/streamcoin_strm",
+    "github": "https://github.com/stream-coin-tech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC598275452fA319d75ee5f176FD3B8384925b425/logo.png"
+  },
+  "name": "Stream",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STRM",
+  "tags": [
+    "nft",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

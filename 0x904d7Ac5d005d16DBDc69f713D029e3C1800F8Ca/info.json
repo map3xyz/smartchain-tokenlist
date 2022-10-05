@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x904d7Ac5d005d16DBDc69f713D029e3C1800F8Ca",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Martian DAO is a fun, engaging, and community driven project combining the tried-and-true tokenomics of high-yield frictionless farming and the new concept of injections via the process of liquidity events."
+  },
+  "id": "b80f3ef8-4e47-45c3-9147-9a29ce083bc3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x904d7Ac5d005d16DBDc69f713D029e3C1800F8Ca",
+    "website": "https://www.martiandao.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x904d7Ac5d005d16DBDc69f713D029e3C1800F8Ca/logo.png"
+  },
+  "name": "Martian DAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MDAO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

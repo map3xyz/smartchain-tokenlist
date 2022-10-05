@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xa042d20aBE198E516d885Da52a633B6D44F339B9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Mustangtoken is a progressive auto-staking token that pays out rewards just for holding it within your wallet! Half of each fee is reflected back to holders, and the other half is added to the BNB/Snowge Liquidity Pool."
+  },
+  "id": "ee1a18a9-cb8c-4423-b00a-1fefa36d0426",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa042d20abe198e516d885da52a633b6d44f339b9",
+    "website": "https://mustangtoken.net",
+    "twitter": "https://twitter.com/Mustangtoken",
+    "telegram": "https://t.me/MustangToken",
+    "reddit": "https://reddit.com/r/Mustangtoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa042d20aBE198E516d885Da52a633B6D44F339B9/logo.png"
+  },
+  "name": "MustangToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MUST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

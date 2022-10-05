@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x18fF245c134D9DAA6fED977617654490ba4DA526",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MaskDoge is a deflationary, liquidity auto-growing and community-driven DeFi token. It is featured with anti-rugpull and anti-whale mechanisms. It also has a charity wallet which will be used to support charities around the globe."
+  },
+  "id": "bc3206d2-ad0b-4efd-b0b7-c6c43353d18d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x18ff245c134d9daa6fed977617654490ba4da526",
+    "website": "https://www.maskdogecoin.io",
+    "twitter": "https://twitter.com/TheMaskDogeCoin",
+    "telegram": "https://t.me/maskdogeofficial",
+    "discord": "https://discord.com/invite/SJrrUjCARN",
+    "reddit": "https://reddit.com/r/MaskDoge",
+    "coingecko": "https://coingecko.com/en/coins/maskdoge",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/maskdoge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x18fF245c134D9DAA6fED977617654490ba4DA526/logo.png"
+  },
+  "name": "MaskDoge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MASKDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xab287e6D370C61f105630e656B5468ACB4D00423",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BSR is is a BinStarter Launchpad Token"
+  },
+  "id": "6cdcdc50-fbd7-4cbf-8afa-49a7be1a8106",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xab287e6D370C61f105630e656B5468ACB4D00423",
+    "website": "https://binstarter.io",
+    "twitter": "https://twitter.com/BinStarterio",
+    "telegram": "https://t.me/BinstarterOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/binstarter/",
+    "coingecko": "https://coingecko.com/en/coins/binstarter/",
+    "medium": "https://medium.com/@binstarter",
+    "whitepaper": "https://binstarter.io/bsrdoc/BinStarter-Whitepaper-PDF.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xab287e6D370C61f105630e656B5468ACB4D00423/logo.png"
+  },
+  "name": "BinStarter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BSR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Jax.Network provides the technological infrastructure for a decentralized energy-standard monetary system. Our blockchain is anchored to the Bitcoin network and issues two digital currencies JAX and JXN. JAX is a stablecoin pegged to the energy spent on mining, while JXN is an asset coin representing the value of the whole network."
+  },
+  "id": "980fb4c6-44b5-47af-831e-877c0a2c874d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
+    "website": "https://jax.network",
+    "twitter": "https://twitter.com/CommunityJax",
+    "telegram": "https://t.me/jax_network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/jax-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6/logo.png"
+  },
+  "name": "Wrapped JAXNET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WJXN",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

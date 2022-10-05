@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x1D229B958D5DDFca92146585a8711aECbE56F095",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ZOO token is a utility token that was issued by ZOO - Crypto World. "
+  },
+  "id": "c6317d75-a44f-444e-8bad-2295213d4591",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1D229B958D5DDFca92146585a8711aECbE56F095",
+    "website": "https://zoogame.app/",
+    "twitter": "https://twitter.com/zoogamepro",
+    "whitepaper": "https://docs.zoogame.app/",
+    "telegram": "https://t.me/zoo_crypto_world"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1D229B958D5DDFca92146585a8711aECbE56F095/logo.png"
+  },
+  "name": "ZooToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Zoo",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

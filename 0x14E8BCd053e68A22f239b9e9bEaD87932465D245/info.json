@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x14E8BCd053e68A22f239b9e9bEaD87932465D245",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Value finance helps to empower new and existing project with infrastructures required for active blockchain participation"
+  },
+  "id": "dea9d784-7560-4ec4-b223-6b4152953f49",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x14e8bcd053e68a22f239b9e9bead87932465d245",
+    "website": "https://valuefinance.io",
+    "twitter": "https://twitter.com/valuefinance_",
+    "github": "https://github.com/valuefi",
+    "telegram": "https://t.me/ValueFichat",
+    "whitepaper": "https://valuefinance.io/whitepaper.pdf",
+    "medium": "https://medium.com/@ValueFi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/value-finance",
+    "coingecko": "https://coingecko.com/coins/value-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x14E8BCd053e68A22f239b9e9bEaD87932465D245/logo.png"
+  },
+  "name": "Value Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VFT",
+  "tags": [
+    "staking",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

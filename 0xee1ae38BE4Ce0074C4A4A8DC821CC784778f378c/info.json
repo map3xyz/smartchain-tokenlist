@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "VYNC is the governance token of VYNKSAFE: A Decentralized Crypto Bank. VYNK CHAIN is the Defi and Utility token. VYNK CHAIN and VYNKSAFE both are from VynkPay, which is a crypto payments application in the sectors of e-commerce, affiliate marketing, travel & bill payments."
+  },
+  "id": "aa822f52-5c72-4eaa-befd-75f19cda3b79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xee1ae38be4ce0074c4a4a8dc821cc784778f378c",
+    "website": "https://vynkchain.org/",
+    "twitter": "https://twitter.com/vynkgroup",
+    "github": "https://github.com/vynkchain",
+    "telegram": "https://t.me/VYNKCHAIN",
+    "discord": "https://discord.com/invite/RBCRGZVsQx",
+    "whitepaper": "https://vynkchain.org/assets/vc/vynkgroup-wp.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vynk-chain/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c/logo.png"
+  },
+  "name": "VYNK CHAIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VYNC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

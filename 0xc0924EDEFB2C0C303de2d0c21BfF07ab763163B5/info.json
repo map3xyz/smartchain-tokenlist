@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc0924EDEFB2C0C303de2d0c21BfF07ab763163B5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Canada's first Centralized and Decentralied Exchange"
+  },
+  "id": "4472dbd0-c2f0-4c04-a97b-1d564fd8b991",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc0924edefb2c0c303de2d0c21bff07ab763163b5",
+    "website": "https://steamexchange.ca",
+    "whitepaper": "https://docs.steamexchange.ca",
+    "telegram": "https://t.me/SteamXchangeOfficial",
+    "twitter": "https://twitter.com/Steam_Exchange",
+    "youtube": "https://youtube.com/channel/UC8xL6IB_C51G2GuvYLZJexw",
+    "facebook": "https://facebook.com/Steam-Exchange-142284624637992/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc0924EDEFB2C0C303de2d0c21BfF07ab763163B5/logo.png"
+  },
+  "name": "Steam Exchange",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SteamX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

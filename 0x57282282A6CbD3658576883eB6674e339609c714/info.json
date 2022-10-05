@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x57282282A6CbD3658576883eB6674e339609c714",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The World’s first Auto-Boost, Super Hyper Deflationary Coin is here! MiniDog is on a mission to help lost and horny animals find their way to the nearest animal shelter"
+  },
+  "id": "8f823a0b-2cf7-48c7-ac10-89a1e0abdcc7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57282282A6CbD3658576883eB6674e339609c714",
+    "website": "https://minidog.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x57282282A6CbD3658576883eB6674e339609c714/logo.png"
+  },
+  "name": "MINIDOG TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TINIDAWG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

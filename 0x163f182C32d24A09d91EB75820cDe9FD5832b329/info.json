@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x163f182C32d24A09d91EB75820cDe9FD5832b329",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "ElonDoge is a project that takes the mission to prepare society for the Mars colony seriously."
+  },
+  "id": "a5ac0f30-2686-4c31-905a-4b5375d830d2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x163f182c32d24a09d91eb75820cde9fd5832b329",
+    "website": "https://elondoge.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x163f182C32d24A09d91EB75820cDe9FD5832b329/logo.png"
+  },
+  "name": "ElonDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EDOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

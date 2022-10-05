@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xA176fa55bef56D18ab671251957aCB0Db630539b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Decentralized Token that created a Crypto EcoVERSE! SymBULL, RIDE, CHARGE, BullSwap, Innovative Reward System,and BullRUN NFT Game! All holders of SymBULL will earn 8% reward from every Buy/Sell Transaction in BUSD, which is automatically sent to your wallet by simply holding SymBULL."
+  },
+  "id": "bf428da0-3e86-4e97-831b-c4cf7233f2c1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA176fa55bef56D18ab671251957aCB0Db630539b",
+    "website": "https://symbull.com",
+    "twitter": "https://twitter.com/SymBULLCoin",
+    "telegram": "https://t.me/symbull",
+    "blog": "https://symbull.medium.com/",
+    "reddit": "https://reddit.com/r/symbull/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/symbull/",
+    "coingecko": "https://coingecko.com/en/coins/symbull",
+    "facebook": "https://facebook.com/SymBull",
+    "whitepaper": "https://secureservercdn.net/50.62.172.157/9h7.c40.myftpupload.com/wp-content/uploads/2021/10/SymBull-Whitepaper-1.pdf",
+    "github": "https://bscscan.com/address/0xa176fa55bef56d18ab671251957acb0db630539b#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA176fa55bef56D18ab671251957aCB0Db630539b/logo.png"
+  },
+  "name": "SymBULL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SYMBULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

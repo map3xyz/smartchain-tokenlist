@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa73dF9480e9408908c828be2e1A7345855501508",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyDogeZilla is the cutest and most badass meme in crypto! BabyDogeZilla is a deflationary token designed to become more scarce over time. All holders of BabyDogeZilla will earn more BabyDogeZilla by simply holding. Watch the amount of BabyDogeZilla grow in your wallet as BabyDogeZilla holders automatically receive a 3% fee from every transaction that happens on the BabyDogeZilla network."
+  },
+  "id": "f00b30bc-87d8-402c-9dfa-ece812577424",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa73dF9480e9408908c828be2e1A7345855501508",
+    "website": "https://babydogezilla.com/",
+    "telegram": "https://t.me/BabyDogeZillaBSC",
+    "twitter": "https://twitter.com/BabydogezillaA",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babydogezilla/",
+    "coingecko": "https://coingecko.com/en/coins/babydogezilla"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xa73dF9480e9408908c828be2e1A7345855501508/logo.png"
+  },
+  "name": "BabyDogeZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDZ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

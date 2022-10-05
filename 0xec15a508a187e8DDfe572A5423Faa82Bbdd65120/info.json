@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Babylons is the first community-governed game aggregator and NFT marketplace operating on BSC. Create, participate, collect and earn. Only on Babylons.."
+  },
+  "id": "68aa4f6c-b8b0-4d6e-9472-7f2a109005ee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
+    "website": "https://babylons.io",
+    "github": "https://github.com/Babylons-io",
+    "twitter": "https://twitter.com/BabylonsNFT",
+    "telegram": "https://t.me/babylonsnft",
+    "telegramNews": "https://t.me/babylonsNFT_Ann",
+    "blog": "https://blog.babylons.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/babylons/",
+    "coingecko": "https://coingecko.com/en/coins/babylons",
+    "whitepaper": "https://babylons.io/assets/litepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120/logo.png"
+  },
+  "name": "Babylons Governance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BABI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

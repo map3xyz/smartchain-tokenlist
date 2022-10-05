@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcCc2d670E801570247E9De1841480F52A62Eb6F3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MRST - Next generation marketplace for porn nfts"
+  },
+  "id": "b3f3269f-0e6f-4b05-a946-61c43d5caf94",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xccc2d670e801570247e9de1841480f52a62eb6f3",
+    "website": "https://marsturbate.me"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcCc2d670E801570247E9De1841480F52A62Eb6F3/logo.png"
+  },
+  "name": "Marsturbate",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MRST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Filecoin provides a blockchain-based marketplace that aims to revolutionize the global storage economy."
+  },
+  "id": "6c2d0776-9d1d-4e0b-aec8-9fe1c5ee4aa4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "research": "https://research.binance.com/en/projects/filecoin",
+    "website": "https://filecoin.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153/logo.png"
+  },
+  "name": "Binance-Peg Filecoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

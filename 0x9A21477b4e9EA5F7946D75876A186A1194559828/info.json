@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9A21477b4e9EA5F7946D75876A186A1194559828",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Token that has real-world usecases: FindShibby App & Shibby Snacks. Choose your own rewards! Earn rewards in different tokens like SHIBA Inu, BNB, USDT and many more."
+  },
+  "id": "a154ce4b-3651-4255-8ac0-3b7f81820c0c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9A21477b4e9EA5F7946D75876A186A1194559828",
+    "website": "https://findshibby.cash",
+    "telegram": "https://t.me/findshibby",
+    "twitter": "https://twitter.com/findshibby",
+    "youtube": "https://youtube.com/channel/UCnaZ_nwXn7UW66eHOwO505g",
+    "facebook": "https://facebook.com/findshibby"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9A21477b4e9EA5F7946D75876A186A1194559828/logo.png"
+  },
+  "name": "FindShibby",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FSHIBBY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

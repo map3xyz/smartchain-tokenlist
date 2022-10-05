@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "UPONLY Swap will be utilized as an IFO launchpad providing a safe and secure platform for Binance Smart Chain tokens to launch from. The UPONLY Launchpad will be via IFO (Initial Farm Offering). UPONLY will research/inspect/verify and launch each token via UPONLY's swap."
+  },
+  "id": "75c7ccb3-422c-45d2-9768-c25096da674b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27",
+    "website": "https://uponlydefi.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27/logo.png"
+  },
+  "name": "UPONLY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UPONLY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

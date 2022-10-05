@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BCOIN is the token used in the Bomb Crypto game"
+  },
+  "id": "48c032ed-5f53-4880-b5c4-c684698b249d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+    "website": "https://bombcrypto.io/",
+    "telegram": "https://t.me/BombCryptoChannel",
+    "twitter": "https://twitter.com/BombCryptoGame",
+    "facebook": "https://facebook.com/BombCryptoGame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bombcrypto/",
+    "coingecko": "https://coingecko.com/en/coins/bomber-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D/logo.png"
+  },
+  "name": "Bomber Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BCOIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

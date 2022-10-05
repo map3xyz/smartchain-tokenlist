@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x6397de0F9aEDc0F7A8Fa8B438DDE883B9c201010",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sin City is a metaverse multiplayer game built on blockchain. Your very own decentralized virtual world, centered around a social play-to-earn empire building model and housing multiple gaming & gambling applications for an immersive experience."
+  },
+  "id": "26421b93-e969-43a8-bc19-729209995b2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6397de0F9aEDc0F7A8Fa8B438DDE883B9c201010",
+    "website": "https://sin-city.io/",
+    "coingecko": "https://coingecko.com/en/coins/sin-city/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sincity-token/",
+    "twitter": "https://twitter.com/sincitytoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6397de0F9aEDc0F7A8Fa8B438DDE883B9c201010/logo.png"
+  },
+  "name": "SinCity Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

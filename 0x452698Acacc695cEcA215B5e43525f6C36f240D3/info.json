@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x452698Acacc695cEcA215B5e43525f6C36f240D3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Inspired by Mark Zuckerberg - CEO of Facebook and huge support from CryptoKitties' fans, we gather friends who are passionate about blockchain to found MaxGoat. Maxgoat is a form of an NFT marketplace that meets the standards of most people in the world when joining the cryptocurrency market."
+  },
+  "id": "f9221be2-8047-4b52-8ed2-d7f17f4a3d56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x452698Acacc695cEcA215B5e43525f6C36f240D3",
+    "website": "https://maxgoat.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x452698Acacc695cEcA215B5e43525f6C36f240D3/logo.png"
+  },
+  "name": "MaxGoat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MAGO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

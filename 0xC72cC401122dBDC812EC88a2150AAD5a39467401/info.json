@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xC72cC401122dBDC812EC88a2150AAD5a39467401",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Wallet Swap is a decentralized Binance Smartchain & Ethereum Web3 Mobile Wallet. The app works with several crypto tokens and blockchain wallets."
+  },
+  "id": "cd82e249-9c68-48d2-a0b2-2f346e19d555",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc72cc401122dbdc812ec88a2150aad5a39467401",
+    "website": "https://wswap.site/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC72cC401122dBDC812EC88a2150AAD5a39467401/logo.png"
+  },
+  "name": "Wallet Swap",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSWAP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

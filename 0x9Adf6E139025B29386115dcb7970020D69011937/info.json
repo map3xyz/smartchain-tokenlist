@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9Adf6E139025B29386115dcb7970020D69011937",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GIFT is a utility token for use with the GIFT platform. The token's utility is centered around crypto e-gifting."
+  },
+  "id": "a178addf-0224-4e45-949a-f8f57ae073bb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9adf6e139025b29386115dcb7970020d69011937",
+    "website": "https://www.gift-coin.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9Adf6E139025B29386115dcb7970020D69011937/logo.png"
+  },
+  "name": "GIFT Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GIFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

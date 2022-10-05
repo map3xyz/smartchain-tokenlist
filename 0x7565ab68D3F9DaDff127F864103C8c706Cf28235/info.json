@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7565ab68D3F9DaDff127F864103C8c706Cf28235",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TFI is the native token of TrustFi Network, a decentralized BaaS solution for DeFi market based on multichain environment."
+  },
+  "id": "33f1c6d7-83d5-4861-9a07-407a3f480103",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7565ab68D3F9DaDff127F864103C8c706Cf28235",
+    "website": "https://trustfi.org/",
+    "telegram": "https://t.me/trustfi_fans",
+    "twitter": "https://twitter.com/trustfiorg",
+    "blog": "https://medium.com/@trustfi",
+    "whitepaper": "https://docs.trustfi.org/",
+    "coingecko": "https://coingecko.com/en/coins/trustfi-network-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7565ab68D3F9DaDff127F864103C8c706Cf28235/logo.png"
+  },
+  "name": "TrustFi Network Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

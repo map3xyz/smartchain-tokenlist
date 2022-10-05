@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "GrandpaDoge is coming out of retirement to show the doge family how it's done!"
+  },
+  "id": "096e5025-9cd7-4432-87a1-00dbd01da0c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546",
+    "website": "https://www.grandpadoge.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x326E1d2D9e7F8F3a4Df13766Aa3B3AeF33546546/logo.png"
+  },
+  "name": "Grandpa Doge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GrandpaDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

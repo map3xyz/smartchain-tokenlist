@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xc732B6586A93b6B7CF5FeD3470808Bc74998224D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kryptomons are digital collectible monsters. Breed and take care of them and fight with other players. Every creature has a unique but mutable genetic code made up of different genotypes that will determine all the aspects - both physical and behavioural - of the creature."
+  },
+  "id": "3a9fc07e-56b2-41e8-bb4a-063b7ecbf758",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc732B6586A93b6B7CF5FeD3470808Bc74998224D",
+    "website": "https://kryptomon.co",
+    "twitter": "https://twitter.com/KryptomonTeam",
+    "telegram": "https://t.me/kryptomonofficial",
+    "medium": "https://medium.com/kryptomon",
+    "whitepaper": "https://kryptomon.co/white-paper",
+    "youtube": "https://youtube.com/c/KryptomonGame",
+    "facebook": "https://facebook.com/KryptomonTeam",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kryptomon/",
+    "coingecko": "https://coingecko.com/en/coins/kryptomon",
+    "discord": "https://discord.com/invite/hYRjSfsWXt",
+    "reddit": "https://reddit.com/r/Kryptomon/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc732B6586A93b6B7CF5FeD3470808Bc74998224D/logo.png"
+  },
+  "name": "KmonCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KMON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

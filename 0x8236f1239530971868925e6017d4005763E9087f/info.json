@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x8236f1239530971868925e6017d4005763E9087f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dexigas has been created to be the utility token within the Dexioprotocol gaming ecosystem."
+  },
+  "id": "ff2dd91d-5636-4cd0-a776-0b43f53f5412",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8236f1239530971868925e6017d4005763E9087f",
+    "website": "https://dexioprotocol.com/",
+    "github": "https://github.com/Dexioprotocol",
+    "twitter": "https://twitter.com/dexioprotocol",
+    "reddit": "https://reddit.com/r/dexioprotocoltoken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8236f1239530971868925e6017d4005763E9087f/logo.png"
+  },
+  "name": "Dexigas",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DXG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

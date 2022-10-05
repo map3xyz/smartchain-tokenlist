@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x46551803322db7bE94074e9773377f8B037E9D0e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby-Shark.finance project is to build an entertainment platform in NFT music field. There are many benefits for BBS holders such as: get profit sharing from BBS Entertainment Platform, get share of fee for every NFT sold on BBS NFT Marketplace, earn 2% passive income for each transaction. We also use 80% profit of AMM DEX to buy back BBS token, which leads to continuous increase in BBS price."
+  },
+  "id": "44607bca-5bdc-4561-8989-4161bf165904",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x46551803322db7bE94074e9773377f8B037E9D0e",
+    "website": "https://baby-shark.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x46551803322db7bE94074e9773377f8B037E9D0e/logo.png"
+  },
+  "name": "BabysharkFinance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

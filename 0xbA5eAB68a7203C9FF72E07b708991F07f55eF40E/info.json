@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kodi is a Binance Smart Chain based token that provides its users with multiple avenues of passive income. The ecosystem encompasses the CookieSale IDO platform and its Pitch advertising agency to give developers a one-stop shop to build their brands and launch their projects."
+  },
+  "id": "e7819c06-a869-438e-a3c5-639fee4ce444",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E",
+    "website": "https://kodicoin.com",
+    "twitter": "https://twitter.com/kodi_coin",
+    "telegram": "https://t.me/kodicoinofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kodicoin/",
+    "whitepaper": "https://kodi.gitbook.io/kodi-whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbA5eAB68a7203C9FF72E07b708991F07f55eF40E/logo.png"
+  },
+  "name": "KODI COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KODI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

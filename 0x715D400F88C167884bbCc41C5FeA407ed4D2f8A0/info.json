@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Axie Infinity Shard (AXS BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Axie Infinity Shard (AXS ERC20) at a ratio of 1:1."
+  },
+  "id": "79acc2d2-78ea-484e-848c-6c1f396f3c5d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+    "research": "https://research.binance.com/en/projects/axie-infinity",
+    "website": "https://axieinfinity.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0/logo.png"
+  },
+  "name": "Binance-Pegged Axie Infinity Shard",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AXS",
+  "tags": [
+    "binance-peg",
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

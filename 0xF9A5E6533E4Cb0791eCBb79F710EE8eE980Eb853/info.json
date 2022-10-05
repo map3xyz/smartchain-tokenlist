@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xF9A5E6533E4Cb0791eCBb79F710EE8eE980Eb853",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gold Bee Token is a platfrom for the future of funding that is built on top of the Smart Chain blockchain.It accelerates growth of start-up companies buy offering tools and services that save both time and resources GBE Token"
+  },
+  "id": "e0d50822-d245-4f9d-a863-2d8037086bd3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf9a5e6533e4cb0791ecbb79f710ee8ee980eb853",
+    "website": "http://goldbee.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF9A5E6533E4Cb0791eCBb79F710EE8eE980Eb853/logo.png"
+  },
+  "name": "Gold Bee",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GBE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

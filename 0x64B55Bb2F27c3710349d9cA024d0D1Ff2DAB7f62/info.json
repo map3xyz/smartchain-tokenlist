@@ -1,0 +1,30 @@
+{
+  "active": false,
+  "address": "0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BIGH BULL is a unique portal containing services & advanced tools for traders. It is the portal that has low transaction fees & a low-cost DMAT account opening than other portals. All types of market alerts are available through BIGHBULL. Our Copy & BOT Trading features enable you to take easy & quick actions. New traders or users can get to know easily about the trading"
+  },
+  "id": "80bd4332-7f38-4bba-9cb4-bb6c6e3f3f48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62",
+    "website": "https://bighbull.com",
+    "twitter": "https://twitter.com/BIGHBULL1",
+    "facebook": "https://facebook.com/people/BIGH-BULL/100070381083700/",
+    "github": "https://github.com/BighBullTech",
+    "youtube": "https://youtube.com/channel/UCt_MNyjP4Q0ZbuWUpGHWweA",
+    "sourceCode": "https://bscscan.com/address/0x64b55bb2f27c3710349d9ca024d0d1ff2dab7f62#code#L1"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62/logo.png"
+  },
+  "name": "BIGH BULL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIGB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

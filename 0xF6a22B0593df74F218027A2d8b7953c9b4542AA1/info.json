@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xF6a22B0593df74F218027A2d8b7953c9b4542AA1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "LinkSync aims to provide a safe trading environment to early crypto investors by designing an online platform that restricts access to scam projects while giving increased visibility and in- sights on promising projects. Our teams of experts will evaluate KYC, PoC, white papers, smart contracts and many more."
+  },
+  "id": "18bde632-ca75-417a-b7f1-7d1bc01fdd82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF6a22B0593df74F218027A2d8b7953c9b4542AA1",
+    "website": "https://linksync.tech",
+    "twitter": "https://twitter.com/LinkSync_Tech",
+    "telegram": "https://t.me/LinkSyncOfficial",
+    "discord": "https://discord.com/invite/vfZzUxr3sz",
+    "whitepaper": "https://linksync.tech/Whitepaper.pdf",
+    "github": "https://github.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/linksync/",
+    "coingecko": "https://coingecko.com/en/coins/linksync",
+    "medium": "https://medium.com/@LinkSync",
+    "facebook": "https://facebook.com/Linksyncofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF6a22B0593df74F218027A2d8b7953c9b4542AA1/logo.png"
+  },
+  "name": "LinkSync",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SYNC",
+  "tags": [
+    "deflationary",
+    "nft",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

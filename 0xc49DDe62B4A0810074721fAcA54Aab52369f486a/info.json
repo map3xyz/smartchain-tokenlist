@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Polker is the first blockchain online poker game that uses Unreal Engine 4 for immersive and powerful gameplay while utilizing a provably fair system for truly transparent gameplay."
+  },
+  "id": "edc13273-1839-4a50-867f-b9c1443d94c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc49DDe62B4A0810074721fAcA54Aab52369f486a",
+    "website": "https://www.polker.io",
+    "github": "https://github.com/polker-io",
+    "twitter": "https://twitter.com/POLKER_PKR",
+    "facebook": "https://facebook.com/PolkerPKR",
+    "medium": "https://polker-pkr.medium.com",
+    "telegram": "https://t.me/polkercrew",
+    "coingecko": "https://coingecko.com/en/coins/polker",
+    "whitepaper": "https://demo.polker.io/wp-content/uploads/2021/06/Polker-Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc49DDe62B4A0810074721fAcA54Aab52369f486a/logo.png"
+  },
+  "name": "Polker",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PKR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

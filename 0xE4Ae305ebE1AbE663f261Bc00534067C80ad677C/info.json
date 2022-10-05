@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A protocol for incentivised liquidity and synthetic assets on Binance Smart Chain."
+  },
+  "id": "0dd2a210-1e12-406b-903e-e67083bad6f0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+    "research": "https://research.binance.com/en/projects/spartan-protocol",
+    "website": "https://spartanprotocol.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C/logo.png"
+  },
+  "name": "Spartan Protocol Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPARTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

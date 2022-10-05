@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAd9787017e82f6368BbE4893b475CaadA2258564",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BTA is an asset that deserves to be valued the higher in the future and is worthy of long-term storage like bitcoin"
+  },
+  "id": "8948b820-79a0-402b-94e3-c66668e5c1c3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAd9787017e82f6368BbE4893b475CaadA2258564",
+    "website": "https://bitcoinasset.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAd9787017e82f6368BbE4893b475CaadA2258564/logo.png"
+  },
+  "name": "BitcoinAsset",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

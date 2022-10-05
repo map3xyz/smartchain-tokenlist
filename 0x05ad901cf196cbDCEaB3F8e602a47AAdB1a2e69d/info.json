@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frictionless Defi adoption through tools & education."
+  },
+  "id": "004bdd2f-8568-4c4a-a54b-7296570cc9a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d",
+    "website": "https://www.zoroinu.io/",
+    "twitter": "https://twitter.com/ZoroToken",
+    "github": "https://github.com/zoroinu",
+    "telegram": "https://t.me/Zoroinucommunity",
+    "whitepaper": "https://docs.zoroinu.io/",
+    "medium": "https://zoroinu.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zoro-inu/",
+    "coingecko": "https://coingecko.com/zoro-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d/logo.png"
+  },
+  "name": "Zoro Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZORO",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

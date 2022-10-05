@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x545f90dC35CA1e6129f1fEd354b3e2DF12034261",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NEWB Token is a native token by NewB.Farm, a global community driven yield farming aggregator on Binance Smart Chain."
+  },
+  "id": "7f535586-a55b-4fc0-8b59-12e61296cd45",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x545f90dc35ca1e6129f1fed354b3e2df12034261",
+    "website": "https://newb.farm"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x545f90dC35CA1e6129f1fEd354b3e2DF12034261/logo.png"
+  },
+  "name": "NEWB.Farm Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEWB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

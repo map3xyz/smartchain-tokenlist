@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4495e673eE53c61CE79c35D5e299733639362aEc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LQX is a multi-chain (X11 and BEP-20) cryptocurrency that enables anonymous and instant payments. Users can get rewards for the LQX masternode, thus benefiting the entire network that makes up the ecosystem."
+  },
+  "id": "fb7c6007-6e16-4c98-9400-e7f71f4500c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4495e673eE53c61CE79c35D5e299733639362aEc",
+    "website": "http://lqxcoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4495e673eE53c61CE79c35D5e299733639362aEc/logo.png"
+  },
+  "name": "Wrapped LQX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WLQX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

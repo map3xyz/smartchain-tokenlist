@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Shark Stake Finance smart contract generates of the stake amount daily and guarantees a final profit."
+  },
+  "id": "e087ce39-e882-4b27-b71b-e05571a1eb90",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1E6baC0b134259BFE91552954D86513bA2B6E9B9",
+    "website": "http://sharkstake.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1E6baC0b134259BFE91552954D86513bA2B6E9B9/logo.png"
+  },
+  "name": "Shark Stake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Shark",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

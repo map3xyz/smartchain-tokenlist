@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAF83F292fcED83032f52ced45ef7DBDdb586441a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Twinci - The first NFTs Social-Marketplace. Create, sell and collect digital items secured with blockchain"
+  },
+  "id": "9b0eba81-e610-4ab6-a181-307a791085b8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaf83f292fced83032f52ced45ef7dbddb586441a",
+    "website": "https://twinci.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAF83F292fcED83032f52ced45ef7DBDdb586441a/logo.png"
+  },
+  "name": "Twinci Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TWIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

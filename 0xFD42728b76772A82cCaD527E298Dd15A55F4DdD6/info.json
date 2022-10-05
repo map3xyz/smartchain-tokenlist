@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Karen Coin is a meme based token built on value driven tokenomics"
+  },
+  "id": "308a29ff-8bc5-479a-b4c8-aca9ca55c19d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+    "website": "https://www.karencointoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6/logo.png"
+  },
+  "name": "KarenCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KAREN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

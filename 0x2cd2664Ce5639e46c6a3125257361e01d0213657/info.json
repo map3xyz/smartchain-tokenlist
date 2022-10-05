@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x2cd2664Ce5639e46c6a3125257361e01d0213657",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Useless is the first token with an auto-stabilizing liquidity pool fueled by external revenue. Our vision is to bring mainstream accessibility to the crypto-space with easy-to-use mobile apps and dApps."
+  },
+  "id": "3360b1f7-1acb-41ef-8c4f-eef5c2d41bdb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2cd2664Ce5639e46c6a3125257361e01d0213657",
+    "website": "https://uselesscrypto.com",
+    "blog": "https://uselesscrypto.com/",
+    "twitter": "https://twitter.com/uselesscrypto",
+    "facebook": "https://facebook.com/uselesscrypto",
+    "whitepaper": "https://uselesscrypto.com/assets/litepaper/Useless_Litepaper_v6.pdf",
+    "telegram": "https://t.me/uselesscrypto"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2cd2664Ce5639e46c6a3125257361e01d0213657/logo.png"
+  },
+  "name": "Useless",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USELESS",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

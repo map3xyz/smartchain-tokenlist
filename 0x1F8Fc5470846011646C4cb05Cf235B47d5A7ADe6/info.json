@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$BULL aims to offer users a fully operational BSC project explorer platform. Bullet plans to leverage blockchain technology to ensure a seamless investment experience and wants to help customers find project gems as early as possible."
+  },
+  "id": "5bcde054-4256-4e4d-8b5d-9f9e75cb2605",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1f8fc5470846011646c4cb05cf235b47d5a7ade6",
+    "website": "https://bulletbsc.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6/logo.png"
+  },
+  "name": "Bullet Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BULL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DUET Protocol is a multi-chain synthetic assets ecosystem, enabling pegged assets from various markets – from individual stocks, to indexes, ETFs, and commodities."
+  },
+  "id": "9363c3ee-c05d-4c0e-9b78-d297f5e88968",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
+    "website": "https://duet.finance/",
+    "twitter": "https://twitter.com/duetprotocol",
+    "github": "https://github.com/duet-protocol",
+    "discord": "https://discord.com/invite/duetprotocol",
+    "youtube": "https://youtube.com/c/DuetProtocol",
+    "medium": "https://duetprotocol.medium.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B/logo.png"
+  },
+  "name": "DUET",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DUET",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

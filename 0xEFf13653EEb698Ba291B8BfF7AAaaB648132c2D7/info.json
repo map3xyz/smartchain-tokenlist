@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEFf13653EEb698Ba291B8BfF7AAaaB648132c2D7",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BNB Shinobi is the all encompassing BSC reward coin, blockchain arcade, & blockchain metaverse."
+  },
+  "id": "29890c43-e065-4537-80f4-2eabbc892d67",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeff13653eeb698ba291b8bff7aaaab648132c2d7",
+    "website": "https://bnbshinobi.com/",
+    "github": "https://github.com/Bnbshinobi/",
+    "twitter": "https://twitter.com/BnbShinobi",
+    "telegram": "https://t.me/bnbshinobi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xEFf13653EEb698Ba291B8BfF7AAaaB648132c2D7/logo.png"
+  },
+  "name": "BNB Shinobi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHAKRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

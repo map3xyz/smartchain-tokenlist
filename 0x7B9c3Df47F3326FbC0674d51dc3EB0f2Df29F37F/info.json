@@ -1,0 +1,28 @@
+{
+  "active": false,
+  "address": "0x7B9c3Df47F3326FbC0674d51dc3EB0f2Df29F37F",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Lightning is bringing Decentralised Venture Capital to Binance Smart Chain. $LIGHT holders gain exclusive presale access to the most exciting new #BSC projects via the Lightning Incubator and Launchpad, whilst also increasing their holdings thanks to Light's unique, deflationary, supply elasticity protocol."
+  },
+  "id": "73fa23a5-b10c-433c-94d7-233cfbaa5760",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7b9c3df47f3326fbc0674d51dc3eb0f2df29f37f",
+    "website": "https://lightningprotocol.finance/",
+    "twitter": "https://twitter.com/lightningDeFi",
+    "telegram": "https://t.me/LightningProtocol",
+    "discord": "https://discord.com/invite/CKf9ZDJq"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7B9c3Df47F3326FbC0674d51dc3EB0f2Df29F37F/logo.png"
+  },
+  "name": "Lightning",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIGHT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

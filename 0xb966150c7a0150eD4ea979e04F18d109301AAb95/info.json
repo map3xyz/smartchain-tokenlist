@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xb966150c7a0150eD4ea979e04F18d109301AAb95",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$STONKS is a community driven fair launched DeFi token. Reflection, Lp acquisition and Burn happens in every trade. It aims to launch a gaming exchange platform to build utility around the token."
+  },
+  "id": "2c49033b-498f-418a-8d74-b668f2487dc8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb966150c7a0150eD4ea979e04F18d109301AAb95",
+    "website": "https://www.stonkstoken.space/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb966150c7a0150eD4ea979e04F18d109301AAb95/logo.png"
+  },
+  "name": "Stonks Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$STONKS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

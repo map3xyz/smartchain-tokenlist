@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x238CC5438da55F1679E8509bddFaF267f2fAAF30",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "More Than A MEME An Ecosystem"
+  },
+  "id": "6f0e0759-f7ef-4a7f-b590-3c9322ebd57d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x238CC5438da55F1679E8509bddFaF267f2fAAF30",
+    "website": "https://jinchuriki.tech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x238CC5438da55F1679E8509bddFaF267f2fAAF30/logo.png"
+  },
+  "name": "Jinchuriki",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIJU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

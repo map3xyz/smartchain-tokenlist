@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x58d6f302aaF33DD30A7666E16909DB3C5C74021b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BST is a token utility used to change transaction fees and listing fees on bitsten exchange."
+  },
+  "id": "73e28d9b-1c52-45d3-89dd-c6b9c76e32d8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x58d6f302aaF33DD30A7666E16909DB3C5C74021b",
+    "website": "https://token.bitsten.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x58d6f302aaF33DD30A7666E16909DB3C5C74021b/logo.png"
+  },
+  "name": "Wraped BST",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WBST",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

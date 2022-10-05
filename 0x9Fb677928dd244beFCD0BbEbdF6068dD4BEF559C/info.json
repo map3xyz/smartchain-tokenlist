@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9Fb677928dd244beFCD0BbEbdF6068dD4BEF559C",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Bela Aqua token is a BEP20 token which helps users generate passive income through reflections and powers the Bela charting ecosystem."
+  },
+  "id": "a0eb926b-945c-487e-bed6-0a926a30ef6a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9Fb677928dd244beFCD0BbEbdF6068dD4BEF559C",
+    "website": "https://www.belatoken.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9Fb677928dd244beFCD0BbEbdF6068dD4BEF559C/logo.png"
+  },
+  "name": "BelaAqua",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Aqua",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cryptochrome is a community staking, liquidity mining platform and a place to build crypto passive income."
+  },
+  "id": "7e13968c-1440-4ce3-aafa-1c3d6e946d42",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+    "website": "https://www.cryptochrome.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x648bA66B2859192d117E8FFd8712B5E8E8114e53/logo.png"
+  },
+  "name": "Cryptochrome",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bCHM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

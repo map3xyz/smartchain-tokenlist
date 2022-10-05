@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Saito is a massively scaling layer one blockchain for application developers."
+  },
+  "id": "8b6fd0f9-acfb-4e5f-a8eb-177a8b812671",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
+    "website": "https://saito.io",
+    "twitter": "https://twitter.com/saitoofficial",
+    "github": "https://github.com/saitotech",
+    "telegram": "https://t.me/SaitoIO",
+    "telegramNews": "https://t.me/SaitoIOann",
+    "blog": "https://saito.tech/blog/",
+    "docs": "https://wiki.saito.io/",
+    "discord": "https://discord.com/HjTFh9Tfec",
+    "whitepaper": "https://saito.io/saito-whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA/logo.png"
+  },
+  "name": "Saito",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAITO",
+  "tags": [
+    "wrapped",
+    "deflationary",
+    "gamefi",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

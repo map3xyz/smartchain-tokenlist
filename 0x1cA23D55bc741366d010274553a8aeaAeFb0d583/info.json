@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1cA23D55bc741366d010274553a8aeaAeFb0d583",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The elites are ditching all cryptocurrencies in favour of the dog-meme coins. WE ARE REBELLION. CATGE is the community’s revenge against crypto manipulation. The CATGE army will kill Doge and all his corrupted friends."
+  },
+  "id": "68d1909b-2a4d-4005-ac2f-9c7ab69106d4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1cA23D55bc741366d010274553a8aeaAeFb0d583",
+    "website": "https://catgecoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1cA23D55bc741366d010274553a8aeaAeFb0d583/logo.png"
+  },
+  "name": "Catge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

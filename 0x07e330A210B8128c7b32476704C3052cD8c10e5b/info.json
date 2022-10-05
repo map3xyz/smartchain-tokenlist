@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x07e330A210B8128c7b32476704C3052cD8c10e5b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Reflectionary Social Justice Token"
+  },
+  "id": "72072b67-16ce-4b81-8254-da2ed9ce25bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x07e330A210B8128c7b32476704C3052cD8c10e5b",
+    "website": "https://www.burn1.today/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x07e330A210B8128c7b32476704C3052cD8c10e5b/logo.png"
+  },
+  "name": "Burn1",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BURN1",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

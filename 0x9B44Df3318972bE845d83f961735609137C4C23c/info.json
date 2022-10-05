@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PayRue is a financial platform that operates exchanges, wallets, and transfers with cryptocurrencies."
+  },
+  "id": "a8e105f7-e7ea-41a7-bd5e-bfff8a825b9e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9b44df3318972be845d83f961735609137c4c23c",
+    "website": "https://payrue.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9B44Df3318972bE845d83f961735609137C4C23c/logo.png"
+  },
+  "name": "Propel",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PROPEL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Baby Doge Coin has learned a few tricks and lessons from his meme father, Doge. A new crypto birthed by fans of the Doge Meme online community. He is Hyper-deflationary with static reflection that rewards holders, so more baby doge coins are being automatically added to your wallet each transaction. Simply Love, pet, and hold as 5% from each transaction is automatically redistributed to baby doge holders via smart contract."
+  },
+  "id": "1d05af6f-3414-43b6-97a6-cbc03068c46c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc748673057861a797275CD8A068AbB95A902e8de",
+    "website": "https://babydoge.com/",
+    "twitter": "https://twitter.com/babydogecoin",
+    "telegram": "https://t.me/babydogecoin",
+    "discord": "https://discord.com/invite/babydogecoin",
+    "facebook": "https://facebook.com/babydogecoin",
+    "reddit": "https://reddit.com/user/Baby_doge_coin",
+    "whitepaper": "https://cdn.filestackcontent.com/FNtpWVlfRGyCGhth5FMA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc748673057861a797275CD8A068AbB95A902e8de/logo.png"
+  },
+  "name": "Baby Doge Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyDoge",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

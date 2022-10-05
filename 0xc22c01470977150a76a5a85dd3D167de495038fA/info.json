@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc22c01470977150a76a5a85dd3D167de495038fA",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Space Dragon is a deflationary token created for the community. The focus of the project is to create a universe of dApps to support the BSC ecosystem."
+  },
+  "id": "2bb09496-6209-4a64-a65c-3982a22c09e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc22c01470977150a76a5a85dd3D167de495038fA",
+    "website": "https://spacedragon.io",
+    "twitter": "https://twitter.com/spacedragon_io",
+    "telegram": "https://t.me/spacedragon_io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc22c01470977150a76a5a85dd3D167de495038fA/logo.png"
+  },
+  "name": "Space Dragon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DRAGON",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xb626213cb1D52Caa1eD71e2a0e62c0113eD8d642",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "HUG HUG COIN PROJECT is launched to address the long-standing problem of the Japanese idol industry. HUG HUG COIN PROJECT operates to realize the idea of content protection by utilizing new technologies such as blockchain and NFT."
+  },
+  "id": "54660bb5-db54-4763-9807-cb375333f457",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb626213cb1D52Caa1eD71e2a0e62c0113eD8d642",
+    "website": "https://hughug.io",
+    "twitter": "https://twitter.com/HUGHUG_coin",
+    "telegram": "https://t.me/HUGHUG_coin",
+    "medium": "https://medium.com/@hughugcoin",
+    "whitepaper": "https://hughug.io/pdf/hughug_wp.pdf?0827",
+    "facebook": "https://facebook.com/HUGHUG_coin-101160302224040",
+    "github": "https://github.com/Rock-n-Block/AUDIT/blob/main/HGHG"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xb626213cb1D52Caa1eD71e2a0e62c0113eD8d642/logo.png"
+  },
+  "name": "HUGHUG",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HGHG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

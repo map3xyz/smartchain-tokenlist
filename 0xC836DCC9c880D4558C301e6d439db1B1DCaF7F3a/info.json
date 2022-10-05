@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xC836DCC9c880D4558C301e6d439db1B1DCaF7F3a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BNBGOLD is the governance token for the BNBGOLD Ecosystem."
+  },
+  "id": "d7bb9fb6-64f7-4fd0-a663-9656d509ed79",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC836DCC9c880D4558C301e6d439db1B1DCaF7F3a",
+    "website": "https://bnbgold.network/",
+    "twitter": "https://twitter.com/BNB_GOLD",
+    "telegram": "https://t.me/bnbgoldtoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC836DCC9c880D4558C301e6d439db1B1DCaF7F3a/logo.png"
+  },
+  "name": "BNB Gold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNB GOLD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

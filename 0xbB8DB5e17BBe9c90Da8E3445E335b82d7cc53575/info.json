@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "c0e807e0-b65a-431d-b69c-a64c01c603e4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+    "website": "https://beergarden.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575/logo.png"
+  },
+  "name": "Beer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Beer",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

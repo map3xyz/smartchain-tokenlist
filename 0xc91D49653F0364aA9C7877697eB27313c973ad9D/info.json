@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc91D49653F0364aA9C7877697eB27313c973ad9D",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The fair launch token built for sustainable gains. Featuring the worlds first yielding NFTs, auto-liquidity injections & more."
+  },
+  "id": "1a593978-b689-49a6-99ea-6505acbb0bb4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc91d49653f0364aa9c7877697eb27313c973ad9d",
+    "website": "https://catnip.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc91D49653F0364aA9C7877697eB27313c973ad9D/logo.png"
+  },
+  "name": "Catnip Money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATNIP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

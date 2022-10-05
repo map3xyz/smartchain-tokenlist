@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Atlantis is a decentralized money market that enables users to borrow and supply digital assets to the protocol within a non-custodial environment"
+  },
+  "id": "9eab6687-c0a8-44d3-8931-400698fbe20e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271",
+    "website": "https://atlantis.loans"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271/logo.png"
+  },
+  "name": "Atlantis Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ATL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

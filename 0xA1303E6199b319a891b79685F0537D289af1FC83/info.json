@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value of the DeFi, create diversified investment, and become the future of financial services."
+  },
+  "id": "2245ed80-1eb7-498e-bdb1-86e5d97a623e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83",
+    "website": "https://narwhalswap.org",
+    "twitter": "https://twitter.com/narwhalswap",
+    "telegram": "https://t.me/narwhalswap",
+    "medium": "https://medium.com/narwhalswap",
+    "docs": "https://docs.narwhalswap.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA1303E6199b319a891b79685F0537D289af1FC83/logo.png"
+  },
+  "name": "NAR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NAR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

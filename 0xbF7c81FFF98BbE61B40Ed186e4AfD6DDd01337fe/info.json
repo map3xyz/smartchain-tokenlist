@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Binance-Peg Elrond (EGLD BEP20) is a token issued by Binance on Smart Chain; its price is pegged to Elrond (EGLD) at a ratio of 1:1."
+  },
+  "id": "0302936e-520f-42ea-96ae-518cc9797617",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    "research": "https://messari.io/asset/elrond/profile",
+    "website": "https://elrond.com",
+    "github": "https://github.com/ElrondNetwork",
+    "twitter": "https://twitter.com/ElrondNetwork",
+    "telegram": "https://t.me/ElrondNetwork",
+    "blog": "https://elrond.com/blog/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe/logo.png"
+  },
+  "name": "Binance-Peg Elrond",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EGLD",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

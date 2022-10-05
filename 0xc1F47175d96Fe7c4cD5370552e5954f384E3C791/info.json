@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xc1F47175d96Fe7c4cD5370552e5954f384E3C791",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "043ecaaa-78e0-4eee-a3a0-263191684053",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc1F47175d96Fe7c4cD5370552e5954f384E3C791",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc1F47175d96Fe7c4cD5370552e5954f384E3C791/logo.png"
+  },
+  "name": "USD Coin (Portal from Avalanche)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDCav",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

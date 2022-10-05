@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xd399359683c1cD5267f611261eDE08F22cE9729F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Utility token to pay Independent Musicians as a Distributed Ledger Performance Rights Organization."
+  },
+  "id": "b6e71564-1754-4442-8e1d-f675fdcf8b02",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd399359683c1cd5267f611261ede08f22ce9729f",
+    "website": "https://mftu.net",
+    "github": "https://github.com/CyberFM/",
+    "twitter": "https://twitter.com/Mainstream For The Underground",
+    "telegram": "https://t.me/mftudotnet"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xd399359683c1cD5267f611261eDE08F22cE9729F/logo.png"
+  },
+  "name": "Mainstream For The Underground",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MFTU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7983c8E6D09da2156Ec7E56fddDa91a517561781",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The SafeFinance protocol is a community driven, fair launched Defi Token. We've implemented multiple mechanisms to reward every holders during each trade."
+  },
+  "id": "dbb753de-2cce-4bc7-9d66-479aead80bec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7983c8e6d09da2156ec7e56fddda91a517561781",
+    "website": "https://safefinance.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7983c8E6D09da2156Ec7E56fddDa91a517561781/logo.png"
+  },
+  "name": "SafeFinance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SFE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x63221d19c4B512a6F4792F2Da0a2083eA28c38c1",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Call to Combat is the world's first multiplayer online role-playing game universe that exists inside the MetaVerse world where real players connect and earn."
+  },
+  "id": "2f8ffe40-e9b4-4145-97b0-7546670e5c91",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x63221d19c4b512a6f4792f2da0a2083ea28c38c1",
+    "website": "https://calltocombat.com",
+    "twitter": "https://twitter.com/calltocombat",
+    "github": "https://github.com/calltocombat",
+    "telegram": "https://t.me/calltocombat",
+    "telegramNews": "https://t.me/calltocombatnews",
+    "blog": "https://medium.com/@calltocombat",
+    "docs": "https://docs.calltocombat.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x63221d19c4B512a6F4792F2Da0a2083eA28c38c1/logo.png"
+  },
+  "name": "CalltoCombat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTC",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

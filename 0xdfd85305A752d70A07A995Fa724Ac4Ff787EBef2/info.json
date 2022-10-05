@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xdfd85305A752d70A07A995Fa724Ac4Ff787EBef2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Xenon Pay is a deflationary, high-yield, frictionless & decentralized token on the Binance Smart Chain. The simple way to grow your money like the world’s most sophisticated investors. While existing solutions offer to solve just one problem at a time, our team is up to build secure, useful, & easy to use payment solutions for multiple problems. It includes easy cryptocurrency payment systems integration."
+  },
+  "id": "3af7f36a-a12b-4a2c-b9f2-109fb3c846e3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xdfd85305a752d70a07a995fa724ac4ff787ebef2",
+    "website": "https://xenonpay.org",
+    "twitter": "https://twitter.com/PayX2P",
+    "whitepaper": "https://assets.website-files.com/610aef4e2da61c281db06172/6116c6bdb929435fbc897923_Whitepaper_X2P_Official.pdf",
+    "telegram": "https://t.me/x2pofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xdfd85305A752d70A07A995Fa724Ac4Ff787EBef2/logo.png"
+  },
+  "name": "Xenon Pay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "X2P",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

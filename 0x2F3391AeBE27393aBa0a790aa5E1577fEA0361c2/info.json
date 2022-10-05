@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2F3391AeBE27393aBa0a790aa5E1577fEA0361c2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TakoDefi is a community-driven innovative and ingenious Yield farming platform"
+  },
+  "id": "38ffad7c-8adc-4aa9-ab1b-78c63825c88d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2F3391AeBE27393aBa0a790aa5E1577fEA0361c2",
+    "website": "https://takodefi.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2F3391AeBE27393aBa0a790aa5E1577fEA0361c2/logo.png"
+  },
+  "name": "Tako Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TAKO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

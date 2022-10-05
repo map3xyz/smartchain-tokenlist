@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Chain signatures, secret chain transactions and hashed wallet addresses are used to hide sender-recipient addresses and transaction amounts. Chain signatures are defined as digital contracts that can be signed by all users belonging to a group, who have the key."
+  },
+  "id": "d13eaa80-bde9-4fd8-98fe-31274ed795b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD0f4afA85a667d27837e9c07c81169869c16Dd16",
+    "website": "https://privapp.network/",
+    "twitter": "https://twitter.com/PrivappNetwork",
+    "github": "https://github.com/PrivappNetwork",
+    "telegram": "https://t.me/PrivappNetworkGlobal",
+    "telegramNews": "https://t.me/PrivappNetwork",
+    "reddit": "https://reddit.com/r/Privapp_Network/",
+    "whitepaper": "https://privapp.network/themes/documents/privapp-network-whitepaper.pdf",
+    "medium": "https://medium.com/@privappnetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/privapp-network/",
+    "coingecko": "https://coingecko.com/en/coins/privapp-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD0f4afA85a667d27837e9c07c81169869c16Dd16/logo.png"
+  },
+  "name": "bPRIVA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bPRIVA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

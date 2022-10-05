@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x375483CfA7Fc18F6b455E005D835A8335FbdbB1f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Eclipse is a multi-utility token to be used on Eclipse platforms."
+  },
+  "id": "be10745d-96a6-40de-b110-ba5d831c0276",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
+    "website": "https://eclipsetoken.org",
+    "twitter": "https://twitter.com/token_eclipse",
+    "telegram": "https://t.me/eclipsetokenofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x375483CfA7Fc18F6b455E005D835A8335FbdbB1f/logo.png"
+  },
+  "name": "Eclipse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ECP",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

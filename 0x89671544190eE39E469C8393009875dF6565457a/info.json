@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x89671544190eE39E469C8393009875dF6565457a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SpaceGrime is the intergalactic crypto of the future"
+  },
+  "id": "3aa1adcd-5477-4e72-b04b-0dd457cfce52",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x89671544190ee39e469c8393009875df6565457a",
+    "website": "https://spacegrime.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x89671544190eE39E469C8393009875dF6565457a/logo.png"
+  },
+  "name": "SpaceGrime",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GRIMEX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

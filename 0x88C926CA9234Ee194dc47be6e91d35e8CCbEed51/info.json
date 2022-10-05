@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x88C926CA9234Ee194dc47be6e91d35e8CCbEed51",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Wen moo? A deflationary DeFi token/cow that wants to take you to the moon."
+  },
+  "id": "9e263e6f-1459-4ea7-aa61-ebeefab6274a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x88C926CA9234Ee194dc47be6e91d35e8CCbEed51",
+    "website": "https://moocow.me",
+    "github": "https://github.com/moocowtoken/MooCow/",
+    "twitter": "https://twitter.com/moocowtoken",
+    "telegram": "https://t.me/moocowtoken",
+    "discord": "https://discord.com/invite/Num2J4WzP2",
+    "reddit": "https://reddit.com/r/MooCowToken/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x88C926CA9234Ee194dc47be6e91d35e8CCbEed51/logo.png"
+  },
+  "name": "MooCow",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MOO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

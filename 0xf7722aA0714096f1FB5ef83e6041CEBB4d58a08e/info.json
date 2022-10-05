@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e",
+  "color": null,
+  "decimals": 12,
+  "description": {
+    "en": "The Ruby Play Network is a gaming rewards platform. We aim to drive adoption of the blockchain to mainstream players by providing them simple ways to earn cryptocurrency."
+  },
+  "id": "31909c1f-34ea-4d02-a54f-e59e482f6ae3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e",
+    "website": "https://rubyplaynet.com",
+    "twitter": "https://twitter.com/RubyPlayNetwork",
+    "telegram": "https://t.me/joinchat/axBVv4-VeiQ0MzBh",
+    "reddit": "https://reddit.com/r/RubyPlayNetwork/",
+    "medium": "https://medium.com/@Ruby_Play",
+    "facebook": "https://facebook.com/rubyplaynetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e/logo.png"
+  },
+  "name": "RUBY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RUBY",
+  "tags": [
+    "staking",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xbbf33a3c83Cf86D0965A66E108669D272DFE4214",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "EIFI, Eifi finance, eifi yield farming, eifi amm dex, dex platform, eifi staking, yield farming."
+  },
+  "id": "e8a851c2-0cc6-40f7-8e7e-c6b5ec19bc39",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbbf33a3c83Cf86D0965A66E108669D272DFE4214",
+    "website": "https://eifi.com",
+    "blog": "https://eififinance.medium.com/",
+    "twitter": "https://twitter.com/EifiFinance",
+    "whitepaper": "https://eifi.com/whitepaper/eifi_whitepaper_en.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/eifi-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbbf33a3c83Cf86D0965A66E108669D272DFE4214/logo.png"
+  },
+  "name": "Eifi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EiFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

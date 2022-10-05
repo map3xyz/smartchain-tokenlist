@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SAUNA FINANCE aims to build various Dapps and create ideal sauna facilities to satisfy sauna users all over the world. By the votes of $ SAUNA (SAUNA FINANCE TOKEN) holders, we realize the best settings in every country / region, design of the facility, sauna room temperature, water bath temperature, etc., and create the most relaxed and happiest community."
+  },
+  "id": "4ceab55e-1d40-4b3d-b68b-f2a0e7ed3107",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0",
+    "website": "https://sauna.finance/",
+    "telegram": "https://t.me/Saunafinance",
+    "twitter": "https://twitter.com/sauna_finance",
+    "blog": "https://sauna-finance.medium.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x06b889a7a7fa15D8cC7CFf147962C4232cCE7CF0/logo.png"
+  },
+  "name": "SaunaFinance Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAUNA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

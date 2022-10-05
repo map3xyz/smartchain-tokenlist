@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xf8418D0a7f30BB899639B232f9748c0f1fA87870",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Collective is one of the first decentralized freelancer marketplace on the BSC network."
+  },
+  "id": "1e02a4fb-c12c-4e4b-bb9b-c7251d3df400",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf8418D0a7f30BB899639B232f9748c0f1fA87870",
+    "website": "https://www.thecollectivecoin.co"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xf8418D0a7f30BB899639B232f9748c0f1fA87870/logo.png"
+  },
+  "name": "TheCollectiveCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

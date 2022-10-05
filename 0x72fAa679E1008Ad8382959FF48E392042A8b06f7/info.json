@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AllianceBlock is establishing the world’s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock’s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent."
+  },
+  "id": "7de774ee-021e-4804-a5c1-46de99b4a558",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
+    "website": "https://allianceblock.io",
+    "github": "https://github.com/Stichting-AllianceBlock-Foundation/AllianceBlock-Contracts",
+    "twitter": "https://twitter.com/allianceblock",
+    "telegram": "https://t.me/allianceblock",
+    "discord": "https://discord.com/invite/hF7AGgt",
+    "reddit": "https://reddit.com/r/Allianceblock/",
+    "medium": "https://medium.com/@allianceblock",
+    "whitepaper": "https://www.allianceblock.io/AllianceBlock_WhitePaper_n47oEn0Aa.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x72fAa679E1008Ad8382959FF48E392042A8b06f7/logo.png"
+  },
+  "name": "AllianceBlock Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bALBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

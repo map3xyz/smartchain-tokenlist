@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xc74cD0042c837Ce59210857504eBb0859E06aA22",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects."
+  },
+  "id": "2ac5f5bf-81f8-4b5a-b0e6-2cec87d9e5ee",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc74cD0042c837Ce59210857504eBb0859E06aA22",
+    "website": "https://safuyield.com",
+    "twitter": "https://twitter.com/safuyield",
+    "github": "https://github.com/safuyield",
+    "telegram": "https://t.me/safuyield",
+    "telegramNews": "https://t.me/safuyield_news",
+    "medium": "https://safuyield.medium.com",
+    "discord": "https://discord.com/invite/h57WyJuqEp",
+    "reddit": "https://reddit.com/r/SafuYield",
+    "whitepaper": "https://safu.net/SafuYield-Protocol-litepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/safuyield-protocol",
+    "coingecko": "https://coingecko.com/en/coins/safuyield-protocol",
+    "facebook": "https://facebook.com/safu.net"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc74cD0042c837Ce59210857504eBb0859E06aA22/logo.png"
+  },
+  "name": "SafuYield",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAFUYIELD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

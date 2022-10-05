@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cartesi Takes Smart Contracts to the Next Level."
+  },
+  "id": "f1b165c4-e41a-46b6-8b88-a318669930e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+    "research": "https://research.binance.com/en/projects/cartesi",
+    "website": "https://cartesi.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8dA443F84fEA710266C8eB6bC34B71702d033EF2/logo.png"
+  },
+  "name": "Cartesi Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTSI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

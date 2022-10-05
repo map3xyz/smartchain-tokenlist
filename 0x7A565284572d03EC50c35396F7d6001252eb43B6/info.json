@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x7A565284572d03EC50c35396F7d6001252eb43B6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DogeZilla is a community-driven project. We are a Memecoin + Utility in the crypto sphere. And we declared to disrupt the space with our DogeZilla Vault – Security to make crypto space safer for millions."
+  },
+  "id": "d18d8ee6-380c-48f3-9d31-5e7fde3cbbef",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7a565284572d03ec50c35396f7d6001252eb43b6",
+    "website": "https://dogezillacoin.com",
+    "twitter": "https://twitter.com/dogezillacoin",
+    "telegram": "https://t.me/DogeZillaPortal"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7A565284572d03EC50c35396F7d6001252eb43B6/logo.png"
+  },
+  "name": "DogeZilla",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DogeZilla",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

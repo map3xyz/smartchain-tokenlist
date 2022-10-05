@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x43a0EE2e4c005277195F409E77919D1b1a5c9c1f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Believer is a cryptocurrency token meant to be an independent digital currency for the utilization as well as widely acceptable payment gateway among several platforms in partnership on the Believer Network. Believer provides high-end security on transactions while working with partnered merchants."
+  },
+  "id": "3ac29a42-50ff-42c5-bdf6-20a4186f6cb4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x43a0ee2e4c005277195f409e77919d1b1a5c9c1f",
+    "website": "https://believercards.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x43a0EE2e4c005277195F409E77919D1b1a5c9c1f/logo.png"
+  },
+  "name": "BLVR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BLVR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

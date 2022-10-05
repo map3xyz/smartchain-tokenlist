@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first local Indonesian Crypto Asset Project to offer a unique hybrid token model."
+  },
+  "id": "2019e008-5e01-4427-9eae-eb67263e7223",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+    "website": "http://www.tokocrypto.com/ ",
+    "telegram": "https://t.me/tkogroupofficial",
+    "twitter": "https://twitter.com/tkobytokocrypto",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tokocrypto/",
+    "coingecko": "https://coingecko.com/en/coins/tokocrypto/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9f589e3eabe42ebC94A44727b3f3531C0c877809/logo.png"
+  },
+  "name": "Tokocrypto Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TKO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

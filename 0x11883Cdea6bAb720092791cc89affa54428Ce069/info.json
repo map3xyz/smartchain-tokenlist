@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x11883Cdea6bAb720092791cc89affa54428Ce069",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "C.R.E.A.M. bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. C.R.E.A.M. has launched on Ethereum and Binance Smart Chain."
+  },
+  "id": "ebc5d313-6889-4425-836a-065f9a5c22e8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x11883Cdea6bAb720092791cc89affa54428Ce069",
+    "research": "https://docs.cream.finance",
+    "website": "https://app.cream.finance",
+    "github": "https://github.com/CreamFi",
+    "twitter": "https://twitter.com/CreamdotFinance",
+    "telegram": "https://t.me/creamfinance",
+    "discord": "https://discord.com/invite/8Ms25mV",
+    "medium": "https://medium.com/@CreamdotFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x11883Cdea6bAb720092791cc89affa54428Ce069/logo.png"
+  },
+  "name": "Cream BTCB Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "crBTCB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

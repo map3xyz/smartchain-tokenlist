@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6Fb05b156788E88c8ad1e057e729362ff8c39d93",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Airсоins is a mobile app where players can collect digital assets in AR based on geolocation. Using a proof of effort algorithm players are rewarded for their effort while staying active and maintaining a healthy lifestyle."
+  },
+  "id": "012675b1-9850-41d7-994a-e334dc798558",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6fb05b156788e88c8ad1e057e729362ff8c39d93",
+    "website": "https://www.aircoins.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6Fb05b156788E88c8ad1e057e729362ff8c39d93/logo.png"
+  },
+  "name": "Aircoins",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AIRx",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

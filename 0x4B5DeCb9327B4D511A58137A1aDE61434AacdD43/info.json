@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pokmi is a social platform to share uncensored creativity with advanced user protection thanks to the Poken wallet"
+  },
+  "id": "598199e5-8afd-4db6-8b34-6cc4a020ff3f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43",
+    "website": "https://pokmi.com/",
+    "twitter": "https://twitter.com/PokmiHQ",
+    "telegram": "https://t.me/RarePorn_Fr"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4B5DeCb9327B4D511A58137A1aDE61434AacdD43/logo.png"
+  },
+  "name": "Pokmi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PKN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

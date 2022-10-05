@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9D7c580e0bc4eA441Db96eebc7e1440d264bcE51",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MoonLift is a community driven passive income generation protocol running on Binancesmartchain"
+  },
+  "id": "fbc61793-db1a-4f45-9b38-e555f2cce73d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9d7c580e0bc4ea441db96eebc7e1440d264bce51",
+    "website": "https://moonlift.io",
+    "github": "https://github.com/moonlift/moonlift",
+    "twitter": "https://twitter.com/MoonliftI",
+    "reddit": "https://reddit.com/r/MoonliftProtocol_/",
+    "telegram": "https://t.me/MoonLift"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9D7c580e0bc4eA441Db96eebc7e1440d264bcE51/logo.png"
+  },
+  "name": "MTLPX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MLTPX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

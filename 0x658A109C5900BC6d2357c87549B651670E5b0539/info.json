@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FOR is the ecological token of ForTube. ForTube transfers the power of community autonomy to FOR holders as much as possible through FOR to promote the realization of decentralized governance."
+  },
+  "id": "15327e47-e5d7-451c-baf8-31ee65aaad0b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x658a109c5900bc6d2357c87549b651670e5b0539",
+    "website": "https://for.tube/",
+    "github": "https://github.com/thefortube",
+    "twitter": "https://twitter.com/ForTubeFi",
+    "reddit": "https://reddit.com/r/The_Force_Protocol/",
+    "telegram": "https://t.me/ForTubeFi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x658A109C5900BC6d2357c87549B651670E5b0539/logo.png"
+  },
+  "name": "The Force Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

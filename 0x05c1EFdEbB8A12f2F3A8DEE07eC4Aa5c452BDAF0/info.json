@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped CAKE"
+  },
+  "id": "c1d630ac-6892-4f67-ac35-2c1ee2c1300e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x05c1EFdEbB8A12f2F3A8DEE07eC4Aa5c452BDAF0/logo.png"
+  },
+  "name": "FEG Wrapped CAKE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

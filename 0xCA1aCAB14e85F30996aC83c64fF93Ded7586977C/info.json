@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xCA1aCAB14e85F30996aC83c64fF93Ded7586977C",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "AntEx provides an ever-growing suite of decentralized services. The objective is to bring value to the DeFi space as a whole by delivering disruptive, flexible and audited technology. Strengthen your project and reward your communities using our services."
+  },
+  "id": "9233fb25-35f2-4625-b600-12606e3721b3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xca1acab14e85f30996ac83c64ff93ded7586977c",
+    "website": "https://antex.org",
+    "telegram": "https://t.me/AntExChat",
+    "twitter": "https://twitter.com/Antex_Official",
+    "facebook": "https://facebook.com/antexannoucement",
+    "youtube": "https://youtube.com/c/antexofficial",
+    "discord": "https://discord.com/invite/nC7eRbtfrM"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCA1aCAB14e85F30996aC83c64fF93Ded7586977C/logo.png"
+  },
+  "name": "Antex",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANTEX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

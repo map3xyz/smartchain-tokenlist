@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x156df0dd6300C73ac692D805720967cf4464776e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "AstroSpaces.io is building the biggest web3 integrated social network!"
+  },
+  "id": "edd2c8f2-3c75-4cab-bc1e-09a755a74690",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x156df0dd6300C73ac692D805720967cf4464776e",
+    "website": "https://astrospaces.io/token",
+    "github": "https://github.com/jonathanstoker/astrospacesio",
+    "twitter": "https://twitter.com/astrospacesio",
+    "telegram": "https://t.me/astrospacesio"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x156df0dd6300C73ac692D805720967cf4464776e/logo.png"
+  },
+  "name": "AstroSpaces.io",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SPACES",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

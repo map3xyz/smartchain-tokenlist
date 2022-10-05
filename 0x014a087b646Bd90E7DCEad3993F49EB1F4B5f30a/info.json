@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gulf, A gem rising to the surface of the fourth industrial revolution. Today, we are living through an industrial and a technological revolution going at a pace that will fundamentally alter the way we live."
+  },
+  "id": "647b3f78-c886-40bd-bbba-6ebc7e2266a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a",
+    "website": "https://gulfofficial.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gulf-coin/",
+    "twitter": "https://twitter.com/GulfCoin_",
+    "telegram": "https://t.me/GulfCoinOfficial",
+    "whitepaper": "https://gulfofficial.com/pdf/gulfcoin-white-paper.pdf",
+    "coingecko": "https://coingecko.com/coins/gulfcoin-2/",
+    "github": "https://github.com/enterchain/gulf-dev/blob/main/gulf.sol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a/logo.png"
+  },
+  "name": "Gulf Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GULF",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

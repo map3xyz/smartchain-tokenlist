@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xAb301DaE71f5B386C566f484e636Aee60318F12F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "https://research.binance.com/en/projects/cocos-bcx"
+  },
+  "id": "6dae2e42-aed1-49ec-8f80-aa1029664170",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xab301dae71f5b386c566f484e636aee60318f12f",
+    "website": "http://www.cocosbcx.io/en/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAb301DaE71f5B386C566f484e636Aee60318F12F/logo.png"
+  },
+  "name": "CocosTokenV2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COCOS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x31DE61D9a39CB9f479570Bd3dC3AC93BC0402CDB",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "NFTPunk Finance is a NFT Piexel Art Meme and NFT Defi. NFTPunk Finance operates as a deflationary automated liquidity-locking and self-staking direct distribution protocol, providing safe, secure and hassle-free transactions and yield-generation for all holders."
+  },
+  "id": "0fb8beef-8964-40ae-b98a-109fba5698d9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31DE61D9a39CB9f479570Bd3dC3AC93BC0402CDB",
+    "website": "https://www.nft-punk.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x31DE61D9a39CB9f479570Bd3dC3AC93BC0402CDB/logo.png"
+  },
+  "name": "NFTPunk.Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTPUNK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

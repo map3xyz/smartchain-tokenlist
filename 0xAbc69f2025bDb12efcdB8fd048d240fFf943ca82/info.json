@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "$VNY is the first token ever released on any blockchain to provide Custom Wallet Addresses for Bitcoin, Ethereum, Binance Smart Chain, Litecoin and Dogecoin Chains."
+  },
+  "id": "09b7a0ed-8654-4f7f-b549-da288af5df68",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82",
+    "website": "https://vanitytoken.net",
+    "twitter": "https://twitter.com/vanitytoken",
+    "github": "https://github.com/VanityTokenOfficial",
+    "telegram": "https://t.me/vanitytokenofficial",
+    "discord": "https://discord.com/invite/rxr4Xc8KnS",
+    "reddit": "https://reddit.com/r/vanitytokenofficial",
+    "whitepaper": "https://vanitytoken.net/litepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/vanity/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vanity/",
+    "sourceCode": "https://raw.githubusercontent.com/VanityTokenOfficial/VANITY/main/Contract/VANITY.sol",
+    "youtube": "https://youtube.com/channel/UClJFNLaXDLy2OeMDYhvgmfg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82/logo.png"
+  },
+  "name": "Vanity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

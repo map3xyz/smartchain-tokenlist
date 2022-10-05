@@ -1,0 +1,25 @@
+{
+  "active": false,
+  "address": "0x5B2b5BD1e5C53870fE135Fb7b289D686f762858d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Leading the world in blockchain advertisement."
+  },
+  "id": "37923a0a-4b2c-445b-ad23-22c48b6755ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5b2b5bd1e5c53870fe135fb7b289d686f762858d",
+    "website": "https://pixl.one/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x5B2b5BD1e5C53870fE135Fb7b289D686f762858d/logo.png"
+  },
+  "name": "PIXL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PXL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

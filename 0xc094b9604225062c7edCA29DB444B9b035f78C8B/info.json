@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xc094b9604225062c7edCA29DB444B9b035f78C8B",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A meme token that focuses on real use case and utility with developments"
+  },
+  "id": "359df6bc-5b7c-415e-8562-1a1b6a6199d6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc094b9604225062c7edca29db444b9b035f78c8b",
+    "website": "https://rakucoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc094b9604225062c7edCA29DB444B9b035f78C8B/logo.png"
+  },
+  "name": "Raku Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RAKUC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

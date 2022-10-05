@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "FastMoon is extremely fast autonomous yield and liquidity generation protocol."
+  },
+  "id": "9d7c95e2-e957-49d7-a975-d8abf17c087a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6",
+    "website": "https://fastmoon.finance",
+    "github": "https://github.com/fastmoonfinance",
+    "twitter": "https://twitter.com/FastMoon Finance",
+    "telegram": "https://t.me/FastMoonFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6/logo.png"
+  },
+  "name": "FastMoon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FASTMOON",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

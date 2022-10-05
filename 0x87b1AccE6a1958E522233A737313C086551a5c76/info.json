@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x87b1AccE6a1958E522233A737313C086551a5c76",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FEG Wrapped BNB"
+  },
+  "id": "39448a2c-cb33-41f2-8d6d-8c74c1885a2e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x87b1acce6a1958e522233a737313c086551a5c76",
+    "website": "https://fegtoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x87b1AccE6a1958E522233A737313C086551a5c76/logo.png"
+  },
+  "name": "FEG Wrapped BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "fBNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

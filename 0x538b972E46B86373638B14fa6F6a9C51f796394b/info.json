@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x538b972E46B86373638B14fa6F6a9C51f796394b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ADToken is dedicated to the tokennation of advertising impressions and realizes the circulation of advertising value through DeFi."
+  },
+  "id": "3196322b-fe4f-4267-82fb-a8146718dbdd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x538b972E46B86373638B14fa6F6a9C51f796394b",
+    "website": "https://www.adtoken.net/",
+    "twitter": "https://twitter.com/AdTokenOfficial",
+    "telegram": "https://t.me/adtoken_official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x538b972E46B86373638B14fa6F6a9C51f796394b/logo.png"
+  },
+  "name": "AD Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

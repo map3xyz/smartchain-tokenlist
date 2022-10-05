@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cashaa is a global banking solution for the crypto industry. It’s the world’s first banking platform that enables the seamless transaction of both fiat and crypto from the one account dashboard."
+  },
+  "id": "c71c0094-1f68-4f31-8df2-654db5707add",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c",
+    "website": "https://cashaa.com",
+    "twitter": "https://twitter.com/yourcashaa",
+    "telegram": "https://t.me/cashaaltd",
+    "medium": "https://medium.com/cashaa/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c/logo.png"
+  },
+  "name": "Cashaa Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

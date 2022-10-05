@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xcc9b175E4b88a22543C44F1cC65B73f63b0D4EfE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BabyShark is a token designed to help clean the ocean by using decentralized fundraising. With it's unique tokenomics, BabyShark aims to be the first charity token with zero selling pressure from donations."
+  },
+  "id": "5bf5ef76-330a-4b45-bed3-25ee49eaacd0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcc9b175E4b88a22543C44F1cC65B73f63b0D4EfE",
+    "website": "https://babysharktoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xcc9b175E4b88a22543C44F1cC65B73f63b0D4EfE/logo.png"
+  },
+  "name": "BabyShark",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHARK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7060d3F1CC70A07f4768560B9D9B692ac29244dE",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A community token, yeetin' out of orbit."
+  },
+  "id": "ff7c2f1b-bbd7-4332-8c3a-846f5578223e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7060d3F1CC70A07f4768560B9D9B692ac29244dE",
+    "website": "https://www.yeettoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7060d3F1CC70A07f4768560B9D9B692ac29244dE/logo.png"
+  },
+  "name": "YeetToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Yeet",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

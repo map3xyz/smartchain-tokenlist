@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Decentralized United aims to unite the Defi space with its unique utilities and games, which makes it a one stop shop with our Trade to Earn Smart Swap, Anon Bridge and Root Layer Yielding utilities."
+  },
+  "id": "f093a2ea-3f96-42e7-bae0-76f832880f10",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5",
+    "website": "https://dcu.finance/",
+    "twitter": "https://twitter.com/DCUsmartswap",
+    "telegram": "https://t.me/DecentralizedUnited",
+    "discord": "https://discord.com/X4Q83ppwkZ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/decentralizedunited/",
+    "facebook": "https://facebook.com/groups/391197236447689"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5/logo.png"
+  },
+  "name": "DecentralizedUnited",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DCU",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

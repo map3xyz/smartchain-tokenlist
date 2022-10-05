@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "NFTLaunch is a launchpad for NFT projects"
+  },
+  "id": "aa637778-07d4-4c3a-88ad-d938b03d7a7d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
+    "website": "https://nftlaunch.network/",
+    "twitter": "https://twitter.com/NFT_LAUNCH",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nftlaunch/",
+    "coingecko": "https://coingecko.com/nftlaunch"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD/logo.png"
+  },
+  "name": "NFTLaunch.network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NFTL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

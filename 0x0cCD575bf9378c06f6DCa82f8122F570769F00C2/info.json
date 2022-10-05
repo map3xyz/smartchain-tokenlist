@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0cCD575bf9378c06f6DCa82f8122F570769F00C2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cryptoblades Kingdoms is a play to earn game built on the Binance Smart Chain blockchain platform. Players will be able to put their character to a battle arena to earn KING tokens."
+  },
+  "id": "f13aa681-5bfd-489d-86fa-6d3684478aff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0cCD575bf9378c06f6DCa82f8122F570769F00C2",
+    "website": "https://cryptobladeskingdoms.io/",
+    "twitter": "https://twitter.com/BladesCrypto",
+    "reddit": "https://reddit.com/r/CryptoBlades/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cryptoblades-kingdoms/",
+    "telegram": "https://t.me/CryptoBladesKingdoms",
+    "discord": "https://discord.com/invite/cryptoblades",
+    "coingecko": "https://coingecko.com/en/coins/cryptoblades-kingdoms"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0cCD575bf9378c06f6DCa82f8122F570769F00C2/logo.png"
+  },
+  "name": "CryptoBlades KING Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KING",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

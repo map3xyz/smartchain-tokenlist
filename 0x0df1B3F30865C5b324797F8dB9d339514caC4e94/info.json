@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x0df1B3F30865C5b324797F8dB9d339514caC4e94",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sports, esports and crypto betting platform, secured by smart contracts and powered by the BETU token. BetU Fantasy is a separate play to earn game. Players make fantasy bets on real sport and esport events to earn crypto rewards every week."
+  },
+  "id": "4ca78117-c342-487a-97ac-c4c2ae60b2cd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0df1B3F30865C5b324797F8dB9d339514caC4e94",
+    "website": "https://betu.io",
+    "twitter": "https://twitter.com/betuglobal",
+    "telegram": "https://t.me/betucommunity",
+    "youtube": "https://youtube.com/betuglobal",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/betu/",
+    "coingecko": "https://coingecko.com/en/coins/betu",
+    "blog": "https://www.betu.io/blog",
+    "whitepaper": "https://www.betu.io/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0df1B3F30865C5b324797F8dB9d339514caC4e94/logo.png"
+  },
+  "name": "BetU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BETU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

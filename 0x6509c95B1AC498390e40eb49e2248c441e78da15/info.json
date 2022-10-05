@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x6509c95B1AC498390e40eb49e2248c441e78da15",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "An experimental liquidity-based DeFi token."
+  },
+  "id": "913b3ecf-ee53-4735-9064-18c4cfc77783",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6509c95B1AC498390e40eb49e2248c441e78da15",
+    "website": "https://bnbgold.fund"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x6509c95B1AC498390e40eb49e2248c441e78da15/logo.png"
+  },
+  "name": "BNB Gold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

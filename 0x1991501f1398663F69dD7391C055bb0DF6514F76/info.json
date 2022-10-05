@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1991501f1398663F69dD7391C055bb0DF6514F76",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "HotDoge is a community-driven token wiith a reflection mechanism and various DeFi features"
+  },
+  "id": "b14e4d26-9161-49ea-b64f-8f3d18d9bfbc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1991501f1398663f69dd7391c055bb0df6514f76",
+    "website": "https://www.hotdogetoken.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1991501f1398663F69dD7391C055bb0DF6514F76/logo.png"
+  },
+  "name": "HotDoge Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HotDoge",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

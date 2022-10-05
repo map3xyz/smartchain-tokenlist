@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "USDX is a decentralized and crypto-backed stablecoin issued by the Kava DeFi platform."
+  },
+  "id": "0e81fc70-c6f1-4835-92dd-f3e3239e2652",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1203355742e76875154c0d13eb81dcd7711dc7d9",
+    "website": "https://kava.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x1203355742e76875154C0D13eB81DCD7711dC7d9/logo.png"
+  },
+  "name": "USDX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

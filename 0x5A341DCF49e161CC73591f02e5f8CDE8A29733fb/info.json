@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Multi-reward token with utilities that generate profits for holders."
+  },
+  "id": "cc202ca9-65ea-4956-92be-0d457833ef85",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb",
+    "website": "https://reflecto.finance",
+    "whitepaper": "https://reflecto.finance/assets/docs/reflecto-v2-whitepaper.pdf",
+    "twitter": "https://twitter.com/reflectocoin",
+    "telegram": "https://t.me/reflectocoin",
+    "discord": "https://discord.com/invite/jsqp2chuPY",
+    "facebook": "https://facebook.com/reflectocoin",
+    "reddit": "https://reddit.com/r/Reflecto/",
+    "youtube": "https://youtube.com/reflectocoin",
+    "blog": "https://reflecto.finance/blog",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/reflecto/",
+    "coingecko": "https://coingecko.com/coins/reflecto"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb/logo.png"
+  },
+  "name": "Reflecto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RTO",
+  "tags": [
+    "defi",
+    "gamefi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

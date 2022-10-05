@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "META is a community meme and rewards token. All holders of META are automatically rewarded SHIB. Hold META, and watch your SHIB grow passively."
+  },
+  "id": "abdcbedc-d52a-4eab-8445-0ec84aaafeea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
+    "website": "https://metabsc.app",
+    "telegram": "https://t.me/meta_token_bsc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/meta-/",
+    "twitter": "https://twitter.com/META_Shiba"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344/logo.png"
+  },
+  "name": "META",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "$META",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

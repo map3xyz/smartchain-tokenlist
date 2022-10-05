@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top."
+  },
+  "id": "b3c5e361-e26f-4487-a478-8b454f3cda09",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0864c156b3C5F69824564dEC60c629aE6401bf2a",
+    "website": "https://streamr.network",
+    "twitter": "https://twitter.com/streamr",
+    "github": "https://github.com/streamr-dev",
+    "whitepaper": "https://streamr.network/network-whitepaper",
+    "telegram": "https://t.me/streamrdata",
+    "docs": "https://streamr.network/docs",
+    "coingecko": "https://coingecko.com/en/coins/streamr",
+    "blog": "https://blog.streamr.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0864c156b3C5F69824564dEC60c629aE6401bf2a/logo.png"
+  },
+  "name": "Streamr",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DATA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

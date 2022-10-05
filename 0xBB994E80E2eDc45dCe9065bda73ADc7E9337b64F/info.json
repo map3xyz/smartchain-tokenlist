@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "O1T is a single BEP20 token shared by its holders"
+  },
+  "id": "3dd958d5-ce36-4fcc-8db9-b50e8b4c1dd5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F",
+    "website": "https://only1token.com",
+    "telegram": "https://t.me/only1token",
+    "twitter": "https://twitter.com/OnlyOneToken",
+    "medium": "https://only1token.medium.com",
+    "youtube": "https://youtube.com/c/Only1Token",
+    "whitepaper": "https://only1token.medium.com/o1t-lightpaper-8729898a392e",
+    "facebook": "https://facebook.com/only1token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F/logo.png"
+  },
+  "name": "Only 1 Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "O1T",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

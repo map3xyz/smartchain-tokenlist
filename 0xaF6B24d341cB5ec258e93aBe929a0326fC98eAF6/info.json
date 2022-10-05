@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xaF6B24d341cB5ec258e93aBe929a0326fC98eAF6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "The profit (dividends) are accrued to your account on a daily basis and in real-time. You can withdraw the dividends at any time."
+  },
+  "id": "5aad29fb-1958-4afe-8232-bd66d0981b68",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaF6B24d341cB5ec258e93aBe929a0326fC98eAF6",
+    "website": "https://eloncity.dev/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xaF6B24d341cB5ec258e93aBe929a0326fC98eAF6/logo.png"
+  },
+  "name": "ElonCity",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Elons",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

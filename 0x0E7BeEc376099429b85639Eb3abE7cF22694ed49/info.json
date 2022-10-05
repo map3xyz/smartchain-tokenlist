@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bunicorn DEX - Revolutionize yield farming by leveraging NFT gamification"
+  },
+  "id": "4117f416-9d00-498d-bf99-a360f3258372",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0e7beec376099429b85639eb3abe7cf22694ed49",
+    "website": "https://bunicorn.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E7BeEc376099429b85639Eb3abE7cF22694ed49/logo.png"
+  },
+  "name": "Bunicorn Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUNI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

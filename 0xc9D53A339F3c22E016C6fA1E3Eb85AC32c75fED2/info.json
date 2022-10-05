@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HPS is a deflationary token and booster for BillionHappiness project to support liquidity, buyback, build the ecosystem, and Develop NFT marketplace. To create, buy, or collect digital items secured with BSC blockchain."
+  },
+  "id": "d5ce3e13-e0e3-4d0d-8139-1f3903d85f9a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc9d53a339f3c22e016c6fa1e3eb85ac32c75fed2",
+    "website": "https://billionhappiness.finance/",
+    "twitter": "https://twitter.com/BHC_Happiness",
+    "github": "https://github.com/HPSOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc9D53A339F3c22E016C6fA1E3Eb85AC32c75fED2/logo.png"
+  },
+  "name": "Happiness Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HPS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "EverGrow Coin is a hyper deflationary token that rewards holders in BUSD"
+  },
+  "id": "56e8c650-2f3a-47f4-a10f-9b8a74b6b32e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
+    "website": "https://evergrowegc.com/",
+    "github": "https://github.com/Evergrowcoin/Evergrowcoin",
+    "twitter": "https://twitter.com/evergrowcoinEGC",
+    "telegram": "https://t.me/evergrowcoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xC001BBe2B87079294C63EcE98BdD0a88D761434e/logo.png"
+  },
+  "name": "EverGrow",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EGC",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

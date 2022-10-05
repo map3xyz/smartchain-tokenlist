@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xDc49d53330317cBc6924fA53042e0C9bCa0A8d63",
+  "color": null,
+  "decimals": 12,
+  "description": {
+    "en": "DOGEDI ($DOGEDI or DOGEDI) is a collateralized cryptocurrency that grants investors holding DOGEDI instant BNB rewards on all transactions with AUTOCLAIM"
+  },
+  "id": "9de0a196-7c30-4d45-9786-f8a33256fb2d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDc49d53330317cBc6924fA53042e0C9bCa0A8d63",
+    "website": "https://dogedi.com",
+    "twitter": "https://twitter.com/DogediToken",
+    "telegram": "https://t.me/dogeditokenofficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dogedi/",
+    "coingecko": "https://coingecko.com/coins/dogedi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDc49d53330317cBc6924fA53042e0C9bCa0A8d63/logo.png"
+  },
+  "name": "DOGEDI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGEDI",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

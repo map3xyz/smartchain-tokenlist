@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xBBe899c61198D1826a43e20ea19efC46E50c2B00",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Safe Energy, or $ENERGYX is a community-driven deflationary token (cryptocurrency), with future projects to reduce our carbon footprint by making renewable energy sources more accessible."
+  },
+  "id": "6b01bc72-fe3a-4c78-8248-9366be232490",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBBe899c61198D1826a43e20ea19efC46E50c2B00",
+    "website": "https://safeenergyx.io",
+    "twitter": "https://twitter.com/OfficialEnergyX",
+    "telegram": "https://t.me/OfficialSafeEnergyX",
+    "whitepaper": "https://safeenergyx.io/whitepaper.html",
+    "facebook": "https://facebook.com/SafeEnergyX",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/safe-energy/",
+    "coingecko": "https://coingecko.com/en/coins/safe-energy"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xBBe899c61198D1826a43e20ea19efC46E50c2B00/logo.png"
+  },
+  "name": "Safe Energy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EnergyX",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

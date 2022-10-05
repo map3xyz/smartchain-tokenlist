@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8D2b2e3dcF0BcaD65765D256390c5154D3Ba19cF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zoe Cash Decentralised multipurpose system integrating finance, online training, certifications, jobs, encrypted social interaction and monetisation of goals, stored and validated on a proprietary blockchain."
+  },
+  "id": "ad6fad84-e0ca-4051-a139-833f59a3155b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8D2b2e3dcF0BcaD65765D256390c5154D3Ba19cF",
+    "website": "https://zoe.cash",
+    "twitter": "https://twitter.com/zoecashoficial",
+    "telegram": "https://t.me/zoecash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8D2b2e3dcF0BcaD65765D256390c5154D3Ba19cF/logo.png"
+  },
+  "name": "ZOE CASH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

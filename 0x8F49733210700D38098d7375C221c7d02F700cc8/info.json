@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x8F49733210700D38098d7375C221c7d02F700cc8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite."
+  },
+  "id": "98e6beaa-2a65-49a0-a0c3-38c3ba78914d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8F49733210700D38098d7375C221c7d02F700cc8",
+    "website": "https://www.pallapay.com",
+    "twitter": "https://twitter.com/pallapay_com",
+    "telegram": "https://t.me/pallapay_channel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pallapay",
+    "coingecko": "https://coingecko.com/coins/pallapay"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x8F49733210700D38098d7375C221c7d02F700cc8/logo.png"
+  },
+  "name": "Pallapay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PALLA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x3e07a8a8f260edeeca24139B6767A073918E8674",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "CATGE is the cat coin, a semi-deflationary token and the utility token for the Startup Token Launchpad exchange."
+  },
+  "id": "690644d9-51be-49bc-ad7e-29462a3e9839",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3e07a8a8f260edeeca24139B6767A073918E8674",
+    "website": "https://catgecoin.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x3e07a8a8f260edeeca24139B6767A073918E8674/logo.png"
+  },
+  "name": "Catge V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

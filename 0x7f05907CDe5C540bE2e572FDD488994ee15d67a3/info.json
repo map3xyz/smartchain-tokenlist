@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x7f05907CDe5C540bE2e572FDD488994ee15d67a3",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "IRONY MAN"
+  },
+  "id": "3346efc9-678f-4996-9463-1698d05ddf7c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7f05907cde5c540be2e572fdd488994ee15d67a3",
+    "website": "https://ironyman.cc/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7f05907CDe5C540bE2e572FDD488994ee15d67a3/logo.png"
+  },
+  "name": "IRONY MAN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "IRONY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

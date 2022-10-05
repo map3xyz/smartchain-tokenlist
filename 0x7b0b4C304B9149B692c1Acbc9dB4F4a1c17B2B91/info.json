@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x7b0b4C304B9149B692c1Acbc9dB4F4a1c17B2B91",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A token launched for the NFT community, with the spirit of predecessor Pig Token."
+  },
+  "id": "cbe01c21-8637-4e81-9fb8-bf785b445334",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7b0b4C304B9149B692c1Acbc9dB4F4a1c17B2B91",
+    "website": "https://www.babypig.org",
+    "twitter": "https://twitter.com/BabyPigToken/status/1402976455219310602?s=24",
+    "telegram": "https://t.me/joinchat/QQRxmiTXZZ8wNTdl"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7b0b4C304B9149B692c1Acbc9dB4F4a1c17B2B91/logo.png"
+  },
+  "name": "Baby Pig Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BabyPig",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

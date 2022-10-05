@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x31353E2826Cc4402735E55a175a75CE2569B4226",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "WOW is the World‘s first charity-based NFT marketplace!"
+  },
+  "id": "1af00a6d-05d0-483b-8e28-d59b1cea9efc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x31353E2826Cc4402735E55a175a75CE2569B4226",
+    "website": "https://wow.surf",
+    "twitter": "https://twitter.com/World_Of_Waves",
+    "telegram": "https://t.me/world_of_waves",
+    "youtube": "https://youtube.com/channel/UCQ_IhegDFNM6ZnwJ3fsg3Ig",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/world-of-waves"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x31353E2826Cc4402735E55a175a75CE2569B4226/logo.png"
+  },
+  "name": "World of Waves",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WOW",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

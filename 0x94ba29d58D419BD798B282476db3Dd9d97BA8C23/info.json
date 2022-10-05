@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x94ba29d58D419BD798B282476db3Dd9d97BA8C23",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frosted Cake is a deflationary passive income token, strategically developed for long term Investments, pushing Smart Contract Capabilities to its fullest potential. Frosted Cake is a real Incentive & Community token."
+  },
+  "id": "6c6ff5fa-90d2-441a-8e7f-7d75fe096449",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x94ba29d58d419bd798b282476db3dd9d97ba8c23",
+    "website": "https://frostedcaketoken.com/",
+    "telegram": "https://t.me/frostedcaketoken",
+    "twitter": "https://twitter.com/FrostedCakeBSC",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frostedcake/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x94ba29d58D419BD798B282476db3Dd9d97BA8C23/logo.png"
+  },
+  "name": "Frosted Cake",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FROSTEDCAKE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

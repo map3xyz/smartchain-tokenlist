@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "SpaceCorgi leverages memenomics with real-world token utility."
+  },
+  "id": "8dfaef4c-8336-45ab-995e-6d92d7a5a5b1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565",
+    "website": "https://spacecorgi.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565/logo.png"
+  },
+  "name": "SpaceCorgi",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SCORGI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

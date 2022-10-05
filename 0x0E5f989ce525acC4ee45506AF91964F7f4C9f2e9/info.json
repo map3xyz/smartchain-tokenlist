@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0E5f989ce525acC4ee45506AF91964F7f4C9f2e9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Ryoshi is a deflationary, community driven meme token that came to take over the meme game. With 10% burn from every transaction that decreases the supply and increases the demand you can kick back and watch your RYOSHI value grow."
+  },
+  "id": "bbe44cb2-314e-40e5-ad90-5b4ed7aa7b4a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0E5f989ce525acC4ee45506AF91964F7f4C9f2e9",
+    "website": "https://www.ryoshitoken.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0E5f989ce525acC4ee45506AF91964F7f4C9f2e9/logo.png"
+  },
+  "name": "RYOSHI TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RYOSHI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

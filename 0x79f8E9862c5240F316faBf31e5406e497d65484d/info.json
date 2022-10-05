@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x79f8E9862c5240F316faBf31e5406e497d65484d",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BITCOIN INTERNATIONAL is a non-inflationary Stake , Farm ,DeFi and NFT ecosystem aiming to provide yield generating investments strategies to long-term BTCI holders."
+  },
+  "id": "a4c5fc63-77f4-44a7-92cd-7738f9b26c2e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x79f8E9862c5240F316faBf31e5406e497d65484d",
+    "website": "https://btci.finance",
+    "twitter": "https://twitter.com/btc_btci",
+    "telegram": "https://t.me/btc_btci",
+    "youtube": "https://youtube.com/channel/UC_Vf9yZiz4JJw2zJlv-RnBw",
+    "reddit": "https://reddit.com/r/btcint"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x79f8E9862c5240F316faBf31e5406e497d65484d/logo.png"
+  },
+  "name": "BITCOIN INTERNATIONAL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTCI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "84fbc056-ca90-4864-a41a-5e1221f3b8c6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0/logo.png"
+  },
+  "name": "USD Coin (Portal from Solana)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "USDCso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

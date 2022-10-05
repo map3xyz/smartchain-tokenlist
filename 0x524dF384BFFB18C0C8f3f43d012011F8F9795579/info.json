@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x524dF384BFFB18C0C8f3f43d012011F8F9795579",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "YAY Games is an innovative GameFi project, game publisher and developer of a wide range of games focused on Play-2-earn, NFTs, and DeFi."
+  },
+  "id": "d6652784-bc3f-4628-a561-5dd12e3aefc6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x524dF384BFFB18C0C8f3f43d012011F8F9795579",
+    "website": "https://www.yay.games/",
+    "twitter": "https://twitter.com/yayprotocol/",
+    "medium": "https://yay-games.medium.com/",
+    "telegram": "https://t.me/YAYgame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yay-games/",
+    "coingecko": "https://coingecko.com/en/coins/yay-games",
+    "whitepaper": "https://www.yay.games/docs/YAY_deck.pdf",
+    "docs": "https://docs.yay.games/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x524dF384BFFB18C0C8f3f43d012011F8F9795579/logo.png"
+  },
+  "name": "YAY Games",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "YAY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x10051147418C42218986CeDD0aDC266441F8a14f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "DYOR Project's motto is Educate, Equip, Empower. DYOR Project strives to teach investors how to find reputable crypto projects while avoiding scams."
+  },
+  "id": "0fa7e77f-6696-4f8d-90c6-61ae731fac34",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x10051147418C42218986CeDD0aDC266441F8a14f",
+    "website": "https://dyorpro.com",
+    "facebook": "https://facebook.com/dyorproject",
+    "twitter": "https://twitter.com/DYORToken_BSC",
+    "discord": "https://discord.com/channels/910012412671955014/914013645535608832",
+    "telegram": "https://t.me/DYORTokenBSC",
+    "youtube": "https://youtube.com/c/DYORMediaNetwork",
+    "blog": "https://dyorpro.blog",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dyor-token/",
+    "coingecko": "https://coingecko.com/en/coins/dyor"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x10051147418C42218986CeDD0aDC266441F8a14f/logo.png"
+  },
+  "name": "DYOR Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DYOR",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

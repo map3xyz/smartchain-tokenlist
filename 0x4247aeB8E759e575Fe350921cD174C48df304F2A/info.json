@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x4247aeB8E759e575Fe350921cD174C48df304F2A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AEDART is a community-driven project which has a deflationary mechanism."
+  },
+  "id": "b5137814-a872-49d5-a9b5-787bdf9808cf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4247aeB8E759e575Fe350921cD174C48df304F2A",
+    "website": "https://aedart.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x4247aeB8E759e575Fe350921cD174C48df304F2A/logo.png"
+  },
+  "name": "AEDART Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AEDART",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

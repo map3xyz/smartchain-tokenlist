@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xbBBcB350C64Fe974e5C42A55c7070644191823f3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks "
+  },
+  "id": "ff2f8ce9-2009-4851-a841-18481c998da0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbBBcB350C64Fe974e5C42A55c7070644191823f3",
+    "website": "https://cheersland.org/",
+    "telegram": "https://t.me/cheersland_news",
+    "twitter": "https://twitter.com/cheers_land",
+    "blog": "https://medium.com/cheersland",
+    "whitepaper": "https://docs.cheersland.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbBBcB350C64Fe974e5C42A55c7070644191823f3/logo.png"
+  },
+  "name": "CheersLand Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHEERS",
+  "tags": [
+    "gamefi",
+    "staking",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

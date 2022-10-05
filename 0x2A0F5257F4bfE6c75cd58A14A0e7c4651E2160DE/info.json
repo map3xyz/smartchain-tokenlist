@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "A Deflationary Cryptocurrency on Binance Smart Chain."
+  },
+  "id": "f81d5c3a-cdd1-434b-a284-94ec52ad4288",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
+    "website": "https://moonkoala.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE/logo.png"
+  },
+  "name": "Koala Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MKOALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

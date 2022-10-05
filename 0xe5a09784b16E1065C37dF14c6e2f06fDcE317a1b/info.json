@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Kai Inu is a deflationary token running on the BSC network joining the ranks of the master pups."
+  },
+  "id": "0f7ae1f0-38ce-4e68-a22b-f381073b5fd1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe5a09784b16e1065c37df14c6e2f06fdce317a1b",
+    "website": "https://kaiinu.io/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b/logo.png"
+  },
+  "name": "Kai Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KaiInu",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9FBbcAa3162c74b24751f7c4b9CFB4af0811a622",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "He Defi Profect With Tranparent Longterm Protocols of User Retention and Growth."
+  },
+  "id": "5b224d51-0f55-46e5-8104-ad274202cac7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9FBbcAa3162c74b24751f7c4b9CFB4af0811a622",
+    "website": "https://geek.holdings"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9FBbcAa3162c74b24751f7c4b9CFB4af0811a622/logo.png"
+  },
+  "name": "GeekHoldings",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Geek",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

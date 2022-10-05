@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xAD86d0E9764ba90DDD68747D64BFfBd79879a238",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "PAID Network is a comprehensive business toolkit for business transaction needs."
+  },
+  "id": "5a64f5a8-c507-4cc4-a46a-ec4b7aff251d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+    "website": "https://paidnetwork.com/#token",
+    "twitter": "https://twitter.com/paid_network",
+    "medium": "https://paidnetwork.medium.com",
+    "github": "https://github.com/PAIDNetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xAD86d0E9764ba90DDD68747D64BFfBd79879a238/logo.png"
+  },
+  "name": "PAID Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PAID",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x447Ad4EF9293067E9FCbBBcd794BBD0FA6D6c470",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ICO Crypto is a platform for the future of funding that powering defi for the new equity blockchain"
+  },
+  "id": "7e9c1f9e-168c-41c2-83be-2ef67271ef1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x447ad4ef9293067e9fcbbbcd794bbd0fa6d6c470",
+    "website": "https://icocrypto.xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x447Ad4EF9293067E9FCbBBcd794BBD0FA6D6c470/logo.png"
+  },
+  "name": "Ico Crypto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ICC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

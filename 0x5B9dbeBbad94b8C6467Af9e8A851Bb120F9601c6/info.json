@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Slothi is a Deflationary token 13% slipp (5% holder 4% Burn 4%LP Fee)we are a community token, which was created by a strong community. We are pulling the project with voting in the community! here it is not the team that decides, but the investors."
+  },
+  "id": "8a7fbce7-f8d6-4244-a7d4-b2ca1b0cf277",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6",
+    "website": "https://slothi.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6/logo.png"
+  },
+  "name": "SLOTHI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLTH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x0110fF9e7E4028a5337F07841437B92d5bf53762",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "The Butter token is the second token released as part of the Milk and Butter token ecosystem. The Butter token has auto-liquidity, deflationary, and staking reward mechanics. The Butter Token is the governance token of the Milk and Butter token ecosystem. Butter token automatically collect fees on every transaction that are used to donate to charities based on the votes cast by Butter Token holders."
+  },
+  "id": "a9c3ba93-3e01-4b40-9ef2-4905fae3ee82",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0110fF9e7E4028a5337F07841437B92d5bf53762",
+    "website": "https://www.milktoken.net/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0110fF9e7E4028a5337F07841437B92d5bf53762/logo.png"
+  },
+  "name": "Butter",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BUTTER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

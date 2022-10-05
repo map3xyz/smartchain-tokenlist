@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xbc81ea817b579eC0334BcA8E65E436b7cB540147",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Metaverse Complex, Tunneling Between People on Earth and Blockchain-Based Technologies"
+  },
+  "id": "1af691d8-de6e-4a7e-ae84-99ee130d36f3",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbc81ea817b579eC0334BcA8E65E436b7cB540147",
+    "website": "https://laqira.io/index.php",
+    "github": "https://github.com/laqiraprotocol/",
+    "twitter": "https://twitter.com/laqiraprotocol/",
+    "telegram": "https://t.me/LaqiraProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xbc81ea817b579eC0334BcA8E65E436b7cB540147/logo.png"
+  },
+  "name": "Laqira Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LQR",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

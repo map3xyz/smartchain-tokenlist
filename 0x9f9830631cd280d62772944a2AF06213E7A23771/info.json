@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x9f9830631cd280d62772944a2AF06213E7A23771",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kryptobellion is a fast-paced NFT battle game, where users build a strategic deck from thousands of fighters from hundreds of clans."
+  },
+  "id": "43a3e4f9-aaec-4c0f-874f-fd3443a037c8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9f9830631cd280d62772944a2af06213e7a23771",
+    "website": "https://kryptobellion.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9f9830631cd280d62772944a2AF06213E7A23771/logo.png"
+  },
+  "name": "Kryptobellion.com",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KRYPTO",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

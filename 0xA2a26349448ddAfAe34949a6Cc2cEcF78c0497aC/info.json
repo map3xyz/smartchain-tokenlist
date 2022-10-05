@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "TrusterCoin is a utility token for business tokenization platform at a time when entrepreneurs through blockchain technology."
+  },
+  "id": "dbb8b25d-a924-4cf2-a572-35b11807df31",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
+    "website": "https://trustercoin.com",
+    "telegram": "https://t.me/joinchat/9chNb2ktauczY2Nh",
+    "facebook": "https://facebook.com/trustercoin",
+    "youtube": "https://youtube.com/channel/UC7kAc4_H2GqebP163LoNvwQlkm,"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC/logo.png"
+  },
+  "name": "TrusterCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TSC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x46CBE14F4Ab4C665e084a0a868c49098f0Ce7704",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WAVE is the token of the Great Wave off Kanagawa cyber community. Tokens are only issued by airdrop, anyone who is willing to spend a small amount of miner fees can get it for free. Relying on the surpports of the huge community members of the Great Wave off Kanagawa cyber community, accelerate the expansion of the influence of the cryptocurrency and blockchain industry."
+  },
+  "id": "96bc2232-20dc-4c91-b34e-42b74c377b90",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x46cbe14f4ab4c665e084a0a868c49098f0ce7704",
+    "website": "https://wave.cash/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x46CBE14F4Ab4C665e084a0a868c49098f0Ce7704/logo.png"
+  },
+  "name": "The Great Wave",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WAVE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9910f48EF7bd0291bC050CF900D732C24b39Ec31",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MARS INU is a decentralized cryptocurrency token built on Binance Smart Chain network. It was created with the community and investor in mind."
+  },
+  "id": "b6483162-4a56-4ce8-8942-e94b7983e8ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9910f48EF7bd0291bC050CF900D732C24b39Ec31",
+    "website": "https://marsinu.com/",
+    "twitter": "https://twitter.com/MarsInuBsc",
+    "telegram": "https://t.me/MarsInuBsc",
+    "telegramNews": "https://t.me/MarsInuNews",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mars-inu/",
+    "coingecko": "https://coingecko.com/en/coins/mars-inu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x9910f48EF7bd0291bC050CF900D732C24b39Ec31/logo.png"
+  },
+  "name": "Mars Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MARSINU",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

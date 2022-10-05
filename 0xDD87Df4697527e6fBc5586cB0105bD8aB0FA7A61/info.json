@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GME - Yield Farm on BSC with its own game shop. Usecase for GME to buy games on all gaming platforms (pc, psn, xbox, nintendo) at gamemarket."
+  },
+  "id": "849cc906-9295-4a0d-9f4d-e4cd2788bd96",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61",
+    "website": "https://gametoken.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61/logo.png"
+  },
+  "name": "Game Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GMEv3",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

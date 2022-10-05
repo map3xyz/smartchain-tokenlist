@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The FREE coin is the ideal start-to-crypto coin : large community, many exchangess and wallets, available on Ethereum, Binance and Tron."
+  },
+  "id": "a028a157-f970-45d7-84e5-4d7db1fe536e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
+    "website": "https://FREEcoin.technology"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x12e34cDf6A031a10FE241864c32fB03a4FDaD739/logo.png"
+  },
+  "name": "FREE coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FREE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xDB79c12d1d0670988A39B0E48b96e955eF922d24",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A one-stop full-featured decentralized exchange."
+  },
+  "id": "9eb719de-1499-4866-b1ca-1ae7167e5f4d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xDB79c12d1d0670988A39B0E48b96e955eF922d24",
+    "website": "https://teddydoge.finance",
+    "twitter": "https://twitter.com/Teddydoge1",
+    "github": "https://github.com/Teddydogev2/TeddydogeV2",
+    "telegram": "https://t.me/TeddyDoge_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/teddydoge/",
+    "whitepaper": "https://teddydoge.finance/Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xDB79c12d1d0670988A39B0E48b96e955eF922d24/logo.png"
+  },
+  "name": "Teddy Doge V2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Teddy V2",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

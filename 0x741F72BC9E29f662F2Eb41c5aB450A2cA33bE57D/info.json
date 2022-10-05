@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DEEZNUTS is based on the popular “deeznuts” Internet meme but represents itself as a charity coin. DEEZNUTS Coin was created to raise awareness and funds for cancer research, while also leveraging the viral and humorous aspect of the meme. The coin is now trending and supported by a list of celebrities and billionaires from around the world that are helping to promote the charitable cause."
+  },
+  "id": "db73b32b-d073-4fba-a3ef-25d90f34b99a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D",
+    "website": "https://www.deeznutscoin.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x741F72BC9E29f662F2Eb41c5aB450A2cA33bE57D/logo.png"
+  },
+  "name": "Deez Nuts",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEEZNUTS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

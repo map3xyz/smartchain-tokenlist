@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xF700D4c708C2be1463E355F337603183D20E0808",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Galactic Quadrant is a utility token for the Outer Ring video game that allows making in-game and off-games purchases."
+  },
+  "id": "be5f7638-bd01-4076-8406-a5721bf61000",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF700D4c708C2be1463E355F337603183D20E0808",
+    "website": "https://outerringmmo.com/",
+    "twitter": "https://twitter.com/OuterRingMMO",
+    "github": "https://github.com/OuterRingMMO",
+    "telegram": "https://t.me/outerringofficialeng",
+    "blog": "https://outerringmmo.com/news/",
+    "docs": "https://outerringmmo.com/faqs/",
+    "whitepaper": "https://outerringmmo.com/whitepaper",
+    "facebook": "https://facebook.com/OuterRingMMO/",
+    "coingecko": "https://coingecko.com/en/coins/outer-ring",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/outer-ring-mmo-gq/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xF700D4c708C2be1463E355F337603183D20E0808/logo.png"
+  },
+  "name": "Galactic Quadrant",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GQ",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

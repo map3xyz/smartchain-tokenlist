@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
+  "color": null,
+  "decimals": 10,
+  "description": {
+    "en": "Rose Finance is a payment protocol for social network designed to be accessible and lightweight, with a focus on reducing transaction fees based on Binance Smart Chain"
+  },
+  "id": "288790a4-cd9d-4d41-aaf8-66bf1d8a8c5b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
+    "website": "https://www.roseflower.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF/logo.png"
+  },
+  "name": "Rose Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ROF",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

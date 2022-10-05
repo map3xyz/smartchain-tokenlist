@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x0fA9651a0ecC19906843C13c60443300B9d37355",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "XMINE is DeFi, miner with ASIC and rewards to holders."
+  },
+  "id": "b6680f14-a8d4-43ce-9f1f-a7fc288cebc7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0fA9651a0ecC19906843C13c60443300B9d37355",
+    "website": "https://www.xmine.one",
+    "reddit": "https://reddit.com/r/XMINE",
+    "twitter": "https://twitter.com/xmineofficial",
+    "facebook": "https://facebook.com/xmineofficial",
+    "discord": "https://discord.com/ufUdcdDM",
+    "telegram": "https://t.me/xmineofficial",
+    "whitepaper": "https://drive.google.com/file/d/12-weGeyl_ljp25LWNFU3-6LgbNV_NCKb/view",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xmine/",
+    "coingecko": "https://coingecko.com/pt/moedas/xmine"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x0fA9651a0ecC19906843C13c60443300B9d37355/logo.png"
+  },
+  "name": "XMINE Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XMINE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

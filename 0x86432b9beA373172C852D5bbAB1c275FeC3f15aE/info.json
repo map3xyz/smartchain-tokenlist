@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x86432b9beA373172C852D5bbAB1c275FeC3f15aE",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Sleepy Sloth, frictionless yield and NFT Auction place."
+  },
+  "id": "300247f1-430a-415a-aed9-ec3e69059996",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86432b9beA373172C852D5bbAB1c275FeC3f15aE",
+    "website": "https://sleepysloth.finance/",
+    "twitter": "https://twitter.com/SleepySlothBsc",
+    "telegram": "https://t.me/sleepyslothfinance",
+    "reddit": "https://reddit.com/user/SleepySlothFinance",
+    "medium": "https://medium.com/@SleepySlothFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x86432b9beA373172C852D5bbAB1c275FeC3f15aE/logo.png"
+  },
+  "name": "Sleepy Sloth",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SLEEPY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

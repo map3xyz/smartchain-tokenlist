@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xCC5667333F5e997aC9F0C26d41b7ddA65b2b675a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Building a secure DeFi ecosystem to help bring creative ideas to life and protect early investors' funds."
+  },
+  "id": "0e3bd804-8bd7-4b0c-98e0-a1ce6c860c74",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCC5667333F5e997aC9F0C26d41b7ddA65b2b675a",
+    "website": "https://glorydogecoin.com",
+    "twitter": "https://twitter.com/GloryDogeCoin",
+    "telegram": "https://t.me/GloryDogeCoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/glorydoge",
+    "coingecko": "https://coingecko.com/en/coins/glorydoge"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xCC5667333F5e997aC9F0C26d41b7ddA65b2b675a/logo.png"
+  },
+  "name": "GloryDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GLORYD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

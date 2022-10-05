@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xe2604C9561D490624AA35e156e65e590eB749519",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GoldMiner is a play-to-earn Third-person shooter gold-playing game.$GM is the world's first token that combines GameFi DeFi, and automatic BUYBACK deflation mechanism"
+  },
+  "id": "f3a07a65-18f0-417f-b17d-fc31e0f2330d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe2604c9561d490624aa35e156e65e590eb749519",
+    "website": "https://goldminer.games/",
+    "twitter": "https://twitter.com/DeFiGoldMiner",
+    "telegram": "https://t.me/GoldMiner_Game",
+    "medium": "https://medium.com/@DeFiGoldMiner",
+    "whitepaper": "https://goldminer.gitbook.io/goldminer-whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/goldminer/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe2604C9561D490624AA35e156e65e590eB749519/logo.png"
+  },
+  "name": "GoldMiner",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

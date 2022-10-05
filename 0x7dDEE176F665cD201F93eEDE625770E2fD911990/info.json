@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x7dDEE176F665cD201F93eEDE625770E2fD911990",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gala Games is dedicated to decentralizing the multi-billion dollar gaming industry by giving players access to their in-game items."
+  },
+  "id": "32e19780-df8a-4e0c-8b2c-997def5d9f73",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7dDEE176F665cD201F93eEDE625770E2fD911990",
+    "website": "https://gala.games/",
+    "telegram": "https://t.me/GoGalaGames",
+    "twitter": "https://twitter.com/GoGalaGames",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gala/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7dDEE176F665cD201F93eEDE625770E2fD911990/logo.png"
+  },
+  "name": "pTokens GALA",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GALA",
+  "tags": [
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

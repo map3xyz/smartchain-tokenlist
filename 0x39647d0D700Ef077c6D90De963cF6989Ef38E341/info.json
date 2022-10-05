@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x39647d0D700Ef077c6D90De963cF6989Ef38E341",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tianyu Loop is a decentralized crypto-asset trading and management platform that integrates Loop, a group of like-minds and Swap, decentralized trading, enabling share of trust and benefits on the basis of transfer in/between individualized crypto-asset. Tianyu Loop features a rich array of financial derivatives including liquidity mining, banking and crypto-asset hedging."
+  },
+  "id": "44ad639e-928e-4781-91e0-4c4c513c7129",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x39647d0D700Ef077c6D90De963cF6989Ef38E341",
+    "website": "https://www.tianyu.network/home/",
+    "twitter": "https://twitter.com/Tianyu_Finance",
+    "whitepaper": "https://www.tianyu.network/home/assets/images/TIANYU%20LOOP%20V1.3.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tianyu-finance/",
+    "coingecko": "https://coingecko.com/en/coins/tianyu-finance",
+    "telegram": "https://t.me/Tianyu_Finance",
+    "github": "https://bscscan.com/address/0x39647d0d700ef077c6d90de963cf6989ef38e341"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x39647d0D700Ef077c6D90De963cF6989Ef38E341/logo.png"
+  },
+  "name": "TianYu Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TYC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

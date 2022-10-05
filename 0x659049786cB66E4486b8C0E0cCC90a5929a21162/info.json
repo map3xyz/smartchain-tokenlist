@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x659049786cB66E4486b8C0E0cCC90a5929a21162",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "More than 2 million users with TTcoin Football Club, TTcoin brands and more projects."
+  },
+  "id": "abeb660d-5899-4660-bf4d-cc6802647b9a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162",
+    "website": "https://ttcoin.info",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ttcoin/",
+    "coingecko": "https://coingecko.com/coins/ttcoin",
+    "twitter": "https://twitter.com/ttcoinofficial",
+    "github": "https://github.com/TTCOIN-TC/tc",
+    "telegram": "https://t.me/ttcoinworld",
+    "telegramNews": "https://t.me/ttcoinofficial",
+    "blog": "https://ttcoin.info/blog",
+    "youtube": "https://youtube.com/channel/UCw4ctJY-VD12hwHuHl1D9kw",
+    "facebook": "https://facebook.com/ttcoinofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x659049786cB66E4486b8C0E0cCC90a5929a21162/logo.png"
+  },
+  "name": "TTcoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

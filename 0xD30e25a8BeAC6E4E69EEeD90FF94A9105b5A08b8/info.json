@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "UniCat Yield Farm"
+  },
+  "id": "e10589b5-6823-4f94-a16b-067ed56ecafb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+    "website": "https://unicat.finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8/logo.png"
+  },
+  "name": "UNICAT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UCAT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

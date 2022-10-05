@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Polkadot is a blockchain project that aims to connect blockchains, to enable the transfer of value and logic across chains."
+  },
+  "id": "2a79cb53-db45-4f82-a922-2b8cb647b9ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "research": "https://research.binance.com/en/projects/polkadot",
+    "website": "https://polkadot.network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png"
+  },
+  "name": "Binance-Peg Polkadot Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7",
+  "color": null,
+  "decimals": 0,
+  "description": {
+    "en": "Project Joule is decenteralized way of Energy sharing."
+  },
+  "id": "52a9723c-d955-486e-bb85-7c2a01eeb2da",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7",
+    "website": "http://projectjoule.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xe7Cbd29769F33e371DDbF040F2aC23Af0923C3f7/logo.png"
+  },
+  "name": "Project Joule",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JOL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
