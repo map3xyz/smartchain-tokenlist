@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GG Token - Created in 2022 in cooperation with GG International Ltd, GG World Lottery, and White Lotto - The most efficient software and technology provider for the entertainment and crypto industry, since 2009. GGTKN is a Native token for multiple Gaming, E-Commerce, and Networking platform projects."
+  },
+  "id": "129b573e-a385-48f5-b3e4-e341fbb43e58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F",
+    "website": "https://ggtkn.com/",
+    "twitter": "https://twitter.com/gg_tkn",
+    "facebook": "https://facebook.com/ggtoken",
+    "telegram": "https://t.me/ggtokenofficial",
+    "whitepaper": "https://ggtkn.com/ggtkn_whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gg-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F/logo.png"
+  },
+  "name": "GG TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GGTKN",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

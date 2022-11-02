@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x6a731582f6189477c379A8da7d26Dcec3F0a0919",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "King of Legends is a metaverse platform built specifically for the GameFi project."
+  },
+  "id": "81179531-3178-45ef-8ab6-7308803e2c4f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6a731582f6189477c379A8da7d26Dcec3F0a0919",
+    "website": "http://kingoflegends.net",
+    "github": "https://github.com/King0fLegends",
+    "twitter": "https://twitter.com/kingofIegends",
+    "facebook": "https://facebook.com/kingoflegends.net",
+    "whitepaper": "https://kingoflegends.net/whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UCbnEsUX-GpUdX-xlSQOdzqw",
+    "telegram": "https://t.me/KingofLegends_Global",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/king-of-legends-2",
+    "coingecko": "https://coingecko.com/coins/king-of-legends"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6a731582f6189477c379A8da7d26Dcec3F0a0919/logo.png"
+  },
+  "name": "King of Legends",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KOL",
+  "tags": [
+    "staking-native",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

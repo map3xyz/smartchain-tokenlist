@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "address": "0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bit Hotel is a social-first pixel-art gaming metaverse, in which users can hang out, compete for leaderboard rewards and earn income. All in-game items, such as characters, rooms and furniture are on-chain NFTs and all have their own unique perks and advantages."
+  },
+  "id": "ea23eaad-0218-4a75-9d94-47582a971a58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+    "website": "https://bithotel.io",
+    "twitter": "https://twitter.com/playbithotel",
+    "github": "https://github.com/BitHotelOrg",
+    "telegram": "https://t.me/bithotelcommunity",
+    "telegramNews": "https://t.me/bithotel",
+    "blog": "https://bithotel.io/blog",
+    "discord": "https://discord.com/invite/RFFZNwxY9n",
+    "whitepaper": "https://bit-hotel.gitbook.io/",
+    "medium": "https://medium.com/@bithotelnftgame",
+    "reddit": "https://reddit.com/r/bithotelcommunity/",
+    "youtube": "https://youtube.com/c/BitHotel",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bit-hotel/",
+    "coingecko": "https://coingecko.com/coins/bit-hotel"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54/logo.png"
+  },
+  "name": "Bit Hotel Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTH",
+  "tags": [
+    "staking",
+    "governance",
+    "nft",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
