@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "LNR is the community currency and utility token that powers the Lunar Ecosystem."
+  },
+  "id": "a9196f2f-5830-4425-b0ea-974de2b6c0bf",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc1a59a17f87ba6651eb8e8f707db7672647c45bd",
+    "website": "https://lunar.io/",
+    "twitter": "https://twitter.com/lnr",
+    "telegram": "https://t.me/lnrdefi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lunar-v2/",
+    "coingecko": "https://coingecko.com/coins/lunar",
+    "facebook": "https://facebook.com/lnrdefi"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD/logo.png"
+  },
+  "name": "Lunar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LNR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

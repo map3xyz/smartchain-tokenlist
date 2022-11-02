@@ -1,6 +1,6 @@
 {
   "name": "@Map3/smartchain-tokenlist",
-  "timestamp": "2022-10-05T13:58:31.927Z",
+  "timestamp": "2022-11-02T10:01:23.023Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -1280,6 +1280,15 @@
       ]
     },
     {
+      "address": "0x10b9dd394467f2CFbc769e07E88dC7e2c41B0965",
+      "name": "Renewable Energy Token",
+      "decimals": 9,
+      "symbol": "RET",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x10cb66ce2969d8c8193707A9dCD559D2243B8b37",
       "name": "Crypto Legions Bloodstone",
       "decimals": 18,
@@ -2319,6 +2328,15 @@
       "tags": []
     },
     {
+      "address": "0x1F7e8fe01AEbA6fDAEA85161746f4D53DC9bdA4F",
+      "name": "GG TOKEN",
+      "decimals": 18,
+      "symbol": "GGTKN",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
       "name": "Donkey King",
       "decimals": 9,
@@ -2493,6 +2511,15 @@
       "decimals": 18,
       "symbol": "CORGIB",
       "tags": []
+    },
+    {
+      "address": "0x1d507f58e4B7CDdE877CA96A727608d5E1187E55",
+      "name": "RTC_Plus",
+      "decimals": 9,
+      "symbol": "RTC+",
+      "tags": [
+        "staking"
+      ]
     },
     {
       "address": "0x1d64327C74d6519afeF54E58730aD6fc797f05Ba",
@@ -3358,6 +3385,15 @@
       "tags": []
     },
     {
+      "address": "0x29745314B4D294B7C77cDB411B8AAa95923aae38",
+      "name": "PALM",
+      "decimals": 18,
+      "symbol": "PALM",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x29A1e54DE0fCE58E1018535d30aF77A9d2D940c4",
       "name": "HeroCatToken",
       "decimals": 18,
@@ -3654,6 +3690,15 @@
       "tags": []
     },
     {
+      "address": "0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD",
+      "name": "FRZ Swapping",
+      "decimals": 18,
+      "symbol": "FRZW",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x2a5eB92f6a410AC0BB38D92C13DA934bD68EF24E",
       "name": "Tiny Titans V3",
       "decimals": 18,
@@ -3894,6 +3939,15 @@
       "decimals": 8,
       "symbol": "vSXP",
       "tags": []
+    },
+    {
+      "address": "0x2fa6ee42BacF983F050210A1ca42f88686327FC9",
+      "name": "W3C",
+      "decimals": 18,
+      "symbol": "W3C",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0x2fd6c9B869Dea106730269E13113361b684f843a",
@@ -5852,6 +5906,15 @@
       "tags": []
     },
     {
+      "address": "0x49954Ad438fa9e27C21AeCd35078dD52cDDd96be",
+      "name": "ZOMBIE SKRAT",
+      "decimals": 9,
+      "symbol": "ZSKRAT",
+      "tags": [
+        "memes"
+      ]
+    },
+    {
       "address": "0x49BA054B9664e99ac335667a917c63bB94332E84",
       "name": "FTX Token (Portal)",
       "decimals": 18,
@@ -6275,6 +6338,17 @@
       "decimals": 9,
       "symbol": "MBT",
       "tags": []
+    },
+    {
+      "address": "0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45",
+      "name": "DAO Maker",
+      "decimals": 18,
+      "symbol": "DAO",
+      "tags": [
+        "deflationary",
+        "governance",
+        "staking"
+      ]
     },
     {
       "address": "0x4d4CC29b9C4E413CFe5f898E16280f11db57E186",
@@ -6920,6 +6994,18 @@
         "defi",
         "gamefi",
         "staking"
+      ]
+    },
+    {
+      "address": "0x57Bc18F6177cDafFb34aCE048745bc913a1B1b54",
+      "name": "Bit Hotel Token",
+      "decimals": 18,
+      "symbol": "BTH",
+      "tags": [
+        "staking",
+        "governance",
+        "nft",
+        "gamefi"
       ]
     },
     {
@@ -8284,6 +8370,16 @@
       "tags": []
     },
     {
+      "address": "0x6A684b3578f5B07c0Aa02fAFc33ED248AE0c2dB2",
+      "name": "Tech Trees Coin",
+      "decimals": 18,
+      "symbol": "TTC",
+      "tags": [
+        "staking",
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x6A79E08db6c08b8F88703794bF1a47f5a01eB9dC",
       "name": "WINLAMBO",
       "decimals": 9,
@@ -8400,6 +8496,15 @@
       "tags": []
     },
     {
+      "address": "0x6Dd60AFB2586D31Bf390450aDf5E6A9659d48c4A",
+      "name": "Mafagafo NFT Game",
+      "decimals": 18,
+      "symbol": "MAFA",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x6E0fB6B19941FAf58982F09b33A9dceDa4377155",
       "name": "Nero Finance",
       "decimals": 0,
@@ -8463,6 +8568,16 @@
       "tags": [
         "defi",
         "staking"
+      ]
+    },
+    {
+      "address": "0x6a731582f6189477c379A8da7d26Dcec3F0a0919",
+      "name": "King of Legends",
+      "decimals": 18,
+      "symbol": "KOL",
+      "tags": [
+        "staking-native",
+        "gamefi"
       ]
     },
     {
@@ -11180,6 +11295,17 @@
       "tags": []
     },
     {
+      "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+      "name": "Legion Network",
+      "decimals": 18,
+      "symbol": "LGX",
+      "tags": [
+        "nft",
+        "defi",
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
       "name": "Streamity",
       "decimals": 18,
@@ -12922,6 +13048,15 @@
       "tags": []
     },
     {
+      "address": "0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71",
+      "name": "Ellipsis X",
+      "decimals": 18,
+      "symbol": "EPX",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c",
       "name": "MaticVerse",
       "decimals": 18,
@@ -14453,6 +14588,16 @@
       "decimals": 9,
       "symbol": "FLUNAR",
       "tags": []
+    },
+    {
+      "address": "0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef",
+      "name": "Offshore Plan",
+      "decimals": 18,
+      "symbol": "OPC",
+      "tags": [
+        "defi",
+        "staking"
+      ]
     },
     {
       "address": "0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61",
@@ -16878,6 +17023,15 @@
       "tags": []
     },
     {
+      "address": "0xc1A59a17F87ba6651Eb8E8F707db7672647c45bD",
+      "name": "Lunar",
+      "decimals": 18,
+      "symbol": "LNR",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xc1D99537392084Cc02D3F52386729b79d01035ce",
       "name": "StaysBASE",
       "decimals": 9,
@@ -18366,6 +18520,15 @@
       "decimals": 9,
       "symbol": "ALTRUCOIN",
       "tags": []
+    },
+    {
+      "address": "0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
+      "name": "vEmpire DDAO",
+      "decimals": 18,
+      "symbol": "VEMP",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D",

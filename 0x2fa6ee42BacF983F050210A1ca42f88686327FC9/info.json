@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x2fa6ee42BacF983F050210A1ca42f88686327FC9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "W3C is used as a liquidity token and can be obtained by staking or through the secondary market."
+  },
+  "id": "e7d1d065-9ecc-47c1-b479-c2efe7e0275a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2fa6ee42BacF983F050210A1ca42f88686327FC9",
+    "website": "https://w3dao.finance",
+    "telegram": "https://t.me/+151I1-uPRDs2Yzg9",
+    "twitter": "https://twitter.com/w3dao_bsc?s=11"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/smartchain/assets/smartchain-tokenlist/0x2fa6ee42BacF983F050210A1ca42f88686327FC9/logo.png"
+  },
+  "name": "W3C",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "W3C",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
