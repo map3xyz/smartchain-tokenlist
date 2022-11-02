@@ -7,6 +7,9 @@
     "en": "O1T is a single BEP20 token shared by its holders"
   },
   "id": "3dd958d5-ce36-4fcc-8db9-b50e8b4c1dd5",
+  "identifiers": {
+    "coinmarketcap": 11123
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F",
     "website": "https://only1token.com",

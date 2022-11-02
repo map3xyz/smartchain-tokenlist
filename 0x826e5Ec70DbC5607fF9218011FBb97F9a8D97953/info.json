@@ -7,6 +7,9 @@
     "en": "TRAVEL is the reward token of the Travel Care platform."
   },
   "id": "cffc5b36-c1cf-4177-b187-215f54c892df",
+  "identifiers": {
+    "coinmarketcap": 18597
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x826e5ec70dbc5607ff9218011fbb97f9a8d97953",
     "website": "https://travelcare.io/",

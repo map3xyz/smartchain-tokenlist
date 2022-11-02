@@ -7,6 +7,9 @@
     "en": "Infinity Rocket is a multi-purpose platform that allows you to simplify the launch and promotion of any projects on the blockchain."
   },
   "id": "bcd4aa99-e542-49d8-a734-e37e9a78a06e",
+  "identifiers": {
+    "coinmarketcap": 14820
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCBE5BcA571628894A38836b0baE833ff012f71D8",
     "website": "https://irocket.pro/",

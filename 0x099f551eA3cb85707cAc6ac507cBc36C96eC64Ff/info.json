@@ -7,6 +7,9 @@
     "en": "Safe Earn is the first mover of double-reflection tokens. Safe Earn acts as an earning platform by rewarding SafeMoon tokens to holders at a rate of 8.5%, which are then eligible to benefit from the SafeMoon standard reflections of 5%."
   },
   "id": "80ded88a-0999-40fb-a78b-587448e7f2ba",
+  "identifiers": {
+    "coinmarketcap": 10988
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff",
     "website": "https://safearn.app",

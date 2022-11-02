@@ -7,6 +7,9 @@
     "en": "EShib rewards its holders with 5%, another 5% goes to donations in case of natural disasters, educate, care for and improve the environment, reforest and classify said lands as a protected area, train companies in the world of cryptocurrency."
   },
   "id": "7308bdd7-7d58-4eb7-9a44-4dc3054fadcb",
+  "identifiers": {
+    "coinmarketcap": 15428
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFfaA85705aE216363e4e843B67fF3C238Fcf0de2",
     "website": "https://www.eshib.es/",

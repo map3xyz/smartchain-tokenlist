@@ -7,6 +7,9 @@
     "en": "Sportemon-Go the NFT Gaming Revolution."
   },
   "id": "1c7b4df7-affa-4fbd-b4c4-d1c05a6e6714",
+  "identifiers": {
+    "coinmarketcap": 10751
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe5D46cC0Fd592804B36F9dc6D2ed7D4D149EBd6F",
     "website": "https://sportemongo.com"

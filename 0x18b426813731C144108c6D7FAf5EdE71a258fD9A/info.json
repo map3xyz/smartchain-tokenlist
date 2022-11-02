@@ -7,6 +7,9 @@
     "en": "A buyback token worthy of the gods from the creators of BogTools, Gabe, and Bingus."
   },
   "id": "e94293f4-6498-4a7d-a67c-335cd449d719",
+  "identifiers": {
+    "coinmarketcap": 10764
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x18b426813731c144108c6d7faf5ede71a258fd9a",
     "website": "https://olympustoken.io/"

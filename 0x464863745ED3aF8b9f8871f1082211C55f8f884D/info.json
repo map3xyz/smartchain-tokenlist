@@ -7,6 +7,9 @@
     "en": "CryptoTycoon is a gaming platform based on BSC.."
   },
   "id": "5d30f1f8-7823-443c-8016-cedcda3aa06f",
+  "identifiers": {
+    "coinmarketcap": 9503
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x464863745ed3af8b9f8871f1082211c55f8f884d",
     "website": "http://cryptotycoon.finance"

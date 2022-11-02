@@ -7,6 +7,9 @@
     "en": "The spacemap focuses on the development of the technology, operations infrastructure, new partnerships, and marketing initiatives."
   },
   "id": "c79fcd31-cf7d-49e1-824d-384769f535e0",
+  "identifiers": {
+    "coinmarketcap": 15266
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7CD8c22D3F4b66230F73D7FfCB48576233c3fe33",
     "website": "https://metagalaxyland.com",

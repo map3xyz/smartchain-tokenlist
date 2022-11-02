@@ -7,6 +7,9 @@
     "en": "A community of people who loves cryptocurrencies and blockchain, with a high level of expertise they can share with others"
   },
   "id": "ee5d0ac7-7b5c-440a-a454-a75c81df81f9",
+  "identifiers": {
+    "coinmarketcap": 10689
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc14df1e2fff3708816495e7364ff274aceecad91",
     "website": "https://www.n1ce.community/"

@@ -7,6 +7,9 @@
     "en": "Tianyu Loop is a decentralized crypto-asset trading and management platform that integrates Loop, a group of like-minds and Swap, decentralized trading, enabling share of trust and benefits on the basis of transfer in/between individualized crypto-asset. Tianyu Loop features a rich array of financial derivatives including liquidity mining, banking and crypto-asset hedging."
   },
   "id": "44ad639e-928e-4781-91e0-4c4c513c7129",
+  "identifiers": {
+    "coinmarketcap": 11159
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x39647d0D700Ef077c6D90De963cF6989Ef38E341",
     "website": "https://www.tianyu.network/home/",

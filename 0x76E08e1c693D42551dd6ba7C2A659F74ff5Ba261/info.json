@@ -7,6 +7,9 @@
     "en": "SHAK ($Shak) is a fun, community-focused cryptocurrency with a game in development and unique tokenomics to fuel it’s growth."
   },
   "id": "9b2a7971-9fbb-4433-8db0-f37b22d83df1",
+  "identifiers": {
+    "coinmarketcap": 12710
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261",
     "website": "https://www.shakitainu.com/",

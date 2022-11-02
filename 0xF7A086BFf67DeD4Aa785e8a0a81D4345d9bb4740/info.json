@@ -7,6 +7,9 @@
     "en": "The first BEP20 Token that will make it possible for you to buy land on the moon."
   },
   "id": "e31c1921-7c52-4325-92d1-5645ca79cf77",
+  "identifiers": {
+    "coinmarketcap": 15204
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF7A086BFf67DeD4Aa785e8a0a81D4345d9bb4740",
     "website": "https://metasafemoon.net",

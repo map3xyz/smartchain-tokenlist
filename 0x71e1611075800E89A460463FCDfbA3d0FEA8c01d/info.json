@@ -7,6 +7,9 @@
     "en": "Great ideas start in a small shed! This is the first giveaway-centered, meme-based, reflective crypto token to be launching on the Binance Smart Chain."
   },
   "id": "9b907dae-ce7e-4ecd-b456-aa86d39af1f7",
+  "identifiers": {
+    "coinmarketcap": 10100
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x71e1611075800e89a460463fcdfba3d0fea8c01d",
     "website": "https://aerotynetoken.com/"

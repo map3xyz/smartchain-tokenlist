@@ -7,6 +7,9 @@
     "en": "ElonBank is a financial protocol that includes mechanisms for auto-staking, auto-compounding, and auto-liquidity."
   },
   "id": "8a51a9c7-5dd2-4056-b41e-b637a990192e",
+  "identifiers": {
+    "coinmarketcap": 19190
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD5f363F83b36E10e8a823166b992c0bDc3deDE2C",
     "website": "https://elonbank.io",

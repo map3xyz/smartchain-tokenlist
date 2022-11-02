@@ -7,6 +7,9 @@
     "en": "WIFEDOGE,DOGE'S WIFE,BABYDOGE'S MOTHER,Doge needs Wife, If you like doge, please hold wifedoge. Every Jack has his Jill"
   },
   "id": "d59aca24-fec2-424a-9bb3-81451291c0f8",
+  "identifiers": {
+    "coinmarketcap": 11486
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x07b36f2549291d320132712a1e64d3826b1fb4d7",
     "website": "https://wifedoge.com"

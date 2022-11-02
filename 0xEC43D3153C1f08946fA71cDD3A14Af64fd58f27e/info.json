@@ -7,6 +7,9 @@
     "en": "NFT borrowing and lending made easy at your fingertips"
   },
   "id": "85d3ecdf-649d-4c78-966b-eca5195f48d4",
+  "identifiers": {
+    "coinmarketcap": 14061
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEC43D3153C1f08946fA71cDD3A14Af64fd58f27e",
     "website": "http://pawnmynft.online/",

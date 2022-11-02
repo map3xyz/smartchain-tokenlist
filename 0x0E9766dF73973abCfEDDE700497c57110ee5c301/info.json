@@ -7,6 +7,9 @@
     "en": "Passive Income Made Easy."
   },
   "id": "d65a46b7-28bb-45b1-99d3-87bb699d141b",
+  "identifiers": {
+    "coinmarketcap": 9900
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0E9766dF73973abCfEDDE700497c57110ee5c301",
     "website": "https://www.HODLtoken.net",

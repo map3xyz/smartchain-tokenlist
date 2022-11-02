@@ -7,6 +7,9 @@
     "en": "Idle Cyber is a P2E model idle game with a new kind of frontier defence and RPG heroes collection mixed with blockchain technology."
   },
   "id": "cb304176-e16d-46da-bca4-6ea24b0d6dfc",
+  "identifiers": {
+    "coinmarketcap": 13446
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbA0B46F556633Bd742546E4F37D66D416753003B",
     "website": "https://www.idlecyber.com/",

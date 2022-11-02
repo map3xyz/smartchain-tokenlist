@@ -7,6 +7,9 @@
     "en": "Binapet ecosystem is the perfect combination of NFT gaming and DeFi that enables users to have fun and earn profit simultaneously."
   },
   "id": "e9c221cb-dd96-4135-b5c0-f91e8dbd03e9",
+  "identifiers": {
+    "coinmarketcap": 11263
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x24D787e9B88Cb62D74e961C1C1d78E4ee47618E5",
     "website": "https://binapet.com",

@@ -7,6 +7,9 @@
     "en": "An innovative crypto investment project combining the growth potential of blockchain technology with oceanic conservatory operations."
   },
   "id": "8482ab92-1804-4888-ba73-2406b43b7eca",
+  "identifiers": {
+    "coinmarketcap": 16217
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5E19266e4a17521d65EFF608517fA0c82CA24813",
     "website": "https://cleanocean.io/",

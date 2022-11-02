@@ -7,6 +7,9 @@
     "en": "Building A Full-Stack DEFI with NFT Auction On Binance Smart Chain"
   },
   "id": "039269c4-4df9-425e-9543-1f7800ee3fae",
+  "identifiers": {
+    "coinmarketcap": 9345
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbcb24AFb019BE7E93EA9C43B7E22Bb55D5B7f45D",
     "website": "https://bscstation.org/"

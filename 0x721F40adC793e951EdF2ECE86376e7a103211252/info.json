@@ -7,6 +7,9 @@
     "en": "The world's first 24-hour crypto currency news and analysis network."
   },
   "id": "08f3e54e-6539-4d8f-8472-c136755717b9",
+  "identifiers": {
+    "coinmarketcap": 20131
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x721F40adC793e951EdF2ECE86376e7a103211252",
     "website": "https://ccnnetwork.co/",

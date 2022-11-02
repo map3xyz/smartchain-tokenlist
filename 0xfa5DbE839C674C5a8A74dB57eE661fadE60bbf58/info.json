@@ -7,6 +7,9 @@
     "en": "Dog Owner is the ultimate #MEME token that is community focussed but has the main use case being NFT's and NFT Farming."
   },
   "id": "22494dd9-a3c1-401b-93d4-2e58660ab4e0",
+  "identifiers": {
+    "coinmarketcap": 10248
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfa5DbE839C674C5a8A74dB57eE661fadE60bbf58",
     "website": "https://www.dogownertoken.com"

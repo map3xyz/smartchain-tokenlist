@@ -7,6 +7,9 @@
     "en": "BSocial is a social network specialized for Cryptocurrency and MMO (making money online) communities."
   },
   "id": "7efa3af1-c4f7-4e98-a95d-a85fd100b24c",
+  "identifiers": {
+    "coinmarketcap": 11608
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x822DC83fA4dc997fFf24D0BC0A66fCB2954a6156",
     "website": "https://bsocial.pro",

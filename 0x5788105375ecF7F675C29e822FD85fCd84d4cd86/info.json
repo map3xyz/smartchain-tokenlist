@@ -7,6 +7,9 @@
     "en": "HODL is a community driven DeFi project built on Binance Smart Chain. HODL brings the most revolutionary mechanism to BSC ecosystem. "
   },
   "id": "d84ea2d3-8a9f-4569-bbbd-9ed090f685db",
+  "identifiers": {
+    "coinmarketcap": 11167
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5788105375ecf7f675c29e822fd85fcd84d4cd86",
     "website": "https://hodltoken.net",

@@ -7,6 +7,9 @@
     "en": "X Doge is the next evolutionary Decentralized Finance cryptocurrency that strives to provide wide ranging DeFi services from premier charting solutions."
   },
   "id": "3c4ebfbc-d111-420e-bf68-63b3211b344d",
+  "identifiers": {
+    "coinmarketcap": 20273
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd",
     "website": "https://xdoge.app",

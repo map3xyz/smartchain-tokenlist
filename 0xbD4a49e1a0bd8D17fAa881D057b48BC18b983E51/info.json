@@ -7,6 +7,9 @@
     "en": "$DOGEBULL is part of DOGECOLA project. Same family, same community, same devs. Hold $DOGEBULL and you'll receive DOGECOLA automatically in your wallet."
   },
   "id": "f092e361-07d6-497d-b411-9456658a8c13",
+  "identifiers": {
+    "coinmarketcap": 12625
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51",
     "website": "https://dogecola.finance",

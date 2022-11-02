@@ -7,6 +7,9 @@
     "en": "Introducing Baby CatCoin, featuring an ever increasing price floor and simple yet effective rewarding system giving ALL holders a massive 3% BUSD rewards. Utility, Nfts, Dapp."
   },
   "id": "5005f07d-2514-4933-8503-320e819a7ccb",
+  "identifiers": {
+    "coinmarketcap": 18381
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1Bd5ddCD740F2D13b2255fc325c02509da35C4e4",
     "website": "https://babycatcoin.net/ ",

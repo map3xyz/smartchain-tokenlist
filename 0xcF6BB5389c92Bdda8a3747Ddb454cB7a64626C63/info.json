@@ -7,6 +7,9 @@
     "en": "Venus is an algorithmic money market and synthetic stablecoin decentralized finance protocol."
   },
   "id": "cd15d96c-63b5-40dd-b3fc-0dde0ae7e459",
+  "identifiers": {
+    "coinmarketcap": 7288
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
     "research": "https://research.binance.com/en/projects/venus",

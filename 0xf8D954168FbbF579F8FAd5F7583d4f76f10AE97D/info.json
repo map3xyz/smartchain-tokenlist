@@ -7,6 +7,9 @@
     "en": "Native token of NFT Alley Protocol(Multi-chain NFT Marketplace)"
   },
   "id": "17b82e26-721d-49be-b616-a8210aeced2c",
+  "identifiers": {
+    "coinmarketcap": 9527
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf8D954168FbbF579F8FAd5F7583d4f76f10AE97D",
     "website": "https://nftalley.io"

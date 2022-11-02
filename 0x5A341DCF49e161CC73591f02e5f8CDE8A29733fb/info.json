@@ -7,6 +7,9 @@
     "en": "Multi-reward token with utilities that generate profits for holders."
   },
   "id": "cc202ca9-65ea-4956-92be-0d457833ef85",
+  "identifiers": {
+    "coinmarketcap": 14660
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5A341DCF49e161CC73591f02e5f8CDE8A29733fb",
     "website": "https://reflecto.finance",

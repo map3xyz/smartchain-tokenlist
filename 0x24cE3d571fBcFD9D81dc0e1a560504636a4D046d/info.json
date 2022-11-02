@@ -7,6 +7,9 @@
     "en": "Own your pets in the metaverse"
   },
   "id": "3dfcf4d4-7b49-461e-b5d9-c0c76299d821",
+  "identifiers": {
+    "coinmarketcap": 14911
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x24cE3d571fBcFD9D81dc0e1a560504636a4D046d",
     "website": "https://metapetscoin.com",

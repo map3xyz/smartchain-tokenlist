@@ -7,6 +7,9 @@
     "en": "TORO is a cryptocurrency for us, providing a decentralized power of internet finance to the community, who will truly decide with our horns when the run ends."
   },
   "id": "a04c8633-94c5-47dd-be0a-69c49d200765",
+  "identifiers": {
+    "coinmarketcap": 10662
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2e18D97bB92Bcb9EFb029C7Ee72f18108Ec36C2C",
     "website": "https://torobullrun.io"

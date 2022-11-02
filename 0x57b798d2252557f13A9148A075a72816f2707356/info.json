@@ -7,6 +7,9 @@
     "en": "RatsCoin is now completely owned and run by its amazing community."
   },
   "id": "39e2798d-86eb-41dc-a572-a68796f1cdf6",
+  "identifiers": {
+    "coinmarketcap": 19107
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x57b798d2252557f13A9148A075a72816f2707356",
     "website": "https://www.ratscoin.com/",

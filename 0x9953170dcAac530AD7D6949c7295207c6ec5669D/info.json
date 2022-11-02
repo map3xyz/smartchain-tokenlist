@@ -7,6 +7,9 @@
     "en": "MetaDoge is a community-driven project. It is a Memecoin and utility token in the crypto sphere."
   },
   "id": "e044f3d7-c5cb-4665-907a-962a0554fc0e",
+  "identifiers": {
+    "coinmarketcap": 13994
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9953170dcAac530AD7D6949c7295207c6ec5669D",
     "website": "https://www.metadoge.live",

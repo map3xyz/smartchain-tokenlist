@@ -7,6 +7,9 @@
     "en": "FRZW is native token of FRZSwap which is a decentralized exchange (DEX) and belongs to FRZSS ecosystem"
   },
   "id": "3e6fc83e-1429-4fa7-9357-6abc1314fecd",
+  "identifiers": {
+    "coinmarketcap": 22131
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD",
     "website": "https://frzswap.com/",

@@ -7,6 +7,9 @@
     "en": "The lucrative NFT fantasy-themed RPG Game on BSC and Polygon"
   },
   "id": "97776279-3617-4891-8509-33c5d1662c31",
+  "identifiers": {
+    "coinmarketcap": 11067
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
     "website": "https://stephero.io/",

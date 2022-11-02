@@ -7,6 +7,9 @@
     "en": "BabyXrp is a deflationary token on BSc chain. BabyXrp rewards the long term holders with XRP every week."
   },
   "id": "0e8b2693-8242-4b15-8ea8-1697c118958a",
+  "identifiers": {
+    "coinmarketcap": 10872
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8beAbaa4f025D00B4699d56a683758d692d17F20",
     "website": "https://www.babyxrp.org/",

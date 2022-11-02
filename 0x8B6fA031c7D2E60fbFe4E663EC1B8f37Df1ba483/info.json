@@ -7,6 +7,9 @@
     "en": "CashCow is a fairly launched, low supply and highly deflationary DeFi Token that includes NFT and Play2Earn features"
   },
   "id": "eaa4cc45-c953-4144-8140-e8cc11af3c6e",
+  "identifiers": {
+    "coinmarketcap": 13439
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8B6fA031c7D2E60fbFe4E663EC1B8f37Df1ba483",
     "website": "https://cashcowprotocol.com",

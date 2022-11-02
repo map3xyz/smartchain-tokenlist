@@ -7,6 +7,9 @@
     "en": "Hamster is MemeToken"
   },
   "id": "73897b49-648f-4730-846c-a4687daa2965",
+  "identifiers": {
+    "coinmarketcap": 10336
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
     "website": "https://www.coinhamster.io/"

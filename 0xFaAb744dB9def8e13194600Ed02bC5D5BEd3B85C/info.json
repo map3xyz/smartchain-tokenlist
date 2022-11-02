@@ -7,6 +7,9 @@
     "en": "NEFTiPEDiA is NEFTiPEDiA is a marketplace that will fulfil the niche of much required decentralized venue for selling not only the pieces of art or other intangible valuables but also will allow trading is jewelry, fashion and even vehicles and property"
   },
   "id": "afea76a7-ceaf-4598-a512-d8ee5b0cb5e2",
+  "identifiers": {
+    "coinmarketcap": 10829
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFaAb744dB9def8e13194600Ed02bC5D5BEd3B85C",
     "website": "https://neftipedia.com/"

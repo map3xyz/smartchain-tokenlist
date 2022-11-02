@@ -7,6 +7,9 @@
     "en": "Bird Finance is a DeFi platform focusing on smart pool and lending by its governance token BIRD. Bird Finance seeks the best the reward mining pool by strategy and automatically compounds it for maximal profit."
   },
   "id": "12cd1b9d-19a7-4684-b972-5881a91a6341",
+  "identifiers": {
+    "coinmarketcap": 9739
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7f1296e5aA692a98d86EaAe3ac1CD7723E74878d",
     "website": "https://birdswap.com/#/",

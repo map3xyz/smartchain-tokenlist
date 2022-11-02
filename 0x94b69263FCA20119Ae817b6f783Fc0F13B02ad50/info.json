@@ -7,6 +7,9 @@
     "en": "Free-To-Play & Play-To-Earn NFT MOBA GameFi in Binance Smart Chain"
   },
   "id": "e35a30e8-418f-4337-8a18-ac4bc6334060",
+  "identifiers": {
+    "coinmarketcap": 15870
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
     "website": "https://leagueofancients.com/",

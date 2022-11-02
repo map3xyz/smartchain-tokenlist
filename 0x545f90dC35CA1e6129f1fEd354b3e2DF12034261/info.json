@@ -7,6 +7,9 @@
     "en": "NEWB Token is a native token by NewB.Farm, a global community driven yield farming aggregator on Binance Smart Chain."
   },
   "id": "7f535586-a55b-4fc0-8b59-12e61296cd45",
+  "identifiers": {
+    "coinmarketcap": 10888
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x545f90dc35ca1e6129f1fed354b3e2df12034261",
     "website": "https://newb.farm"

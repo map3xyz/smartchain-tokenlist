@@ -7,6 +7,9 @@
     "en": "Introducing what will be the fastest growing cryptocurrency, made just for cat supporters. A truly connected global community for cat fans powered by a limited supply coin, CatzCoin"
   },
   "id": "a4a09947-ce21-4606-a2c5-f91550b84e64",
+  "identifiers": {
+    "coinmarketcap": 9692
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbfbee3dac982148ac793161f7362344925506903",
     "website": "https://www.catzcoin.io/"

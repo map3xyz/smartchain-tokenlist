@@ -7,6 +7,9 @@
     "en": "MetaMatrix is a cryptocurrency built on Binance Smart Chain (BEP20). MetaMatrix is also a community NFT Marketplace connected with an NFT Launchpad platform."
   },
   "id": "2473bd36-c53e-48c7-803e-3201ec94fca3",
+  "identifiers": {
+    "coinmarketcap": 15791
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD1A6eFF20958403F9fa137760e62dfDE4516a0b1",
     "website": "https://www.metamatrix.network",

@@ -7,6 +7,9 @@
     "en": "PRYZ is a new community driven protocol, offering holders rewards with a difference."
   },
   "id": "530ae5aa-e0be-4615-89e3-d85aeb3ccfb8",
+  "identifiers": {
+    "coinmarketcap": 10107
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
     "website": "https://pryz.io"

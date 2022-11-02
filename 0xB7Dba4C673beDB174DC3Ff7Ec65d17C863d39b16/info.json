@@ -7,6 +7,9 @@
     "en": "Fat Cake Token is your investment position into F.A.T.E. (Financial Assets & Tokenized Ecosystem). Holders of the token become investors into the business and earn dividends from the profits of the ecosystem. Gaming, Social Media, Payment Processing, OmniDex, Launchpad, and much more."
   },
   "id": "ed640b29-4635-4c17-bd08-e303714ec33a",
+  "identifiers": {
+    "coinmarketcap": 13280
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB7Dba4C673beDB174DC3Ff7Ec65d17C863d39b16",
     "website": "https://www.fatecosystem.com",

@@ -7,6 +7,9 @@
     "en": "SHIBZILLA is a METAVERSE token which rewards you with $SHIB"
   },
   "id": "77e086f6-2bb8-4c71-a45f-54204ddfed74",
+  "identifiers": {
+    "coinmarketcap": 13536
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD00A7EdD637B776eC5a6461F5e7ac055F14a0C1E",
     "website": "https://shibazillatoken.com",

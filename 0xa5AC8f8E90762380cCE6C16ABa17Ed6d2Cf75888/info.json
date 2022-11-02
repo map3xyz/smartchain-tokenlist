@@ -7,6 +7,9 @@
     "en": "Strike the moon, shoot at the stars."
   },
   "id": "3e358d25-f891-4441-9d29-c1aeb1898fd4",
+  "identifiers": {
+    "coinmarketcap": 10268
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
     "website": "https://www.pepemoon.com"

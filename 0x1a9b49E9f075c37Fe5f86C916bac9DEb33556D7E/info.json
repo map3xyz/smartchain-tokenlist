@@ -7,6 +7,9 @@
     "en": "ASPO is expected as a game universe backed by a strong and talented Vietnamese team with the hope of turning P2E games into the future of digital assets. ASPO is currently developing its very first project called ASPO World, a tactics-based game allowing people to interact with one another in the virtual world we create. ASPO World is expected to compete with all existing NFTs games on the world right now."
   },
   "id": "da20b852-7df5-49c5-b2cc-ec4e181ce1e2",
+  "identifiers": {
+    "coinmarketcap": 12599
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E",
     "website": "https://aspo.world",

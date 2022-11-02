@@ -7,6 +7,9 @@
     "en": "Revolutionizing Privacy Throughout The Blockchain"
   },
   "id": "a41eec61-f2e7-48ca-b01e-498a0873f726",
+  "identifiers": {
+    "coinmarketcap": 13204
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8690Cb98496EF0f8c6417D78b5e0E29907668808",
     "website": "https://wraithprotocol.io/",

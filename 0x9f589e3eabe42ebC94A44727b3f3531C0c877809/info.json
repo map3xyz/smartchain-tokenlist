@@ -7,6 +7,9 @@
     "en": "The first local Indonesian Crypto Asset Project to offer a unique hybrid token model."
   },
   "id": "2019e008-5e01-4427-9eae-eb67263e7223",
+  "identifiers": {
+    "coinmarketcap": 9020
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
     "website": "http://www.tokocrypto.com/ ",

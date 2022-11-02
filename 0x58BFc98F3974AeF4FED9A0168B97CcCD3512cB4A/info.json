@@ -7,6 +7,9 @@
     "en": "Bubblegum is a sweet, auto-yield token + dapp for asset tracking."
   },
   "id": "996a2fe7-5728-46a8-a2ed-0eafceac858d",
+  "identifiers": {
+    "coinmarketcap": 11196
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x58BFc98F3974AeF4FED9A0168B97CcCD3512cB4A",
     "website": "https://www.bubblegum.life/"

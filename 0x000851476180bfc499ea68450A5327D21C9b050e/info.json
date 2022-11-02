@@ -7,6 +7,9 @@
     "en": "SLAM aims to create an ecosystem of products ranging from casino platforms to innovative NFT collections and applications. SLAM holders get dividends."
   },
   "id": "21059158-0be3-4d03-a738-32d6741d5d1e",
+  "identifiers": {
+    "coinmarketcap": 19985
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x000851476180bfc499ea68450A5327D21C9b050e",
     "website": "https://slamtoken.com",

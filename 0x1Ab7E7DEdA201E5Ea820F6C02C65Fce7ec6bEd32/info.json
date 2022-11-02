@@ -7,6 +7,9 @@
     "en": "BOT is a token issued by Botplanet Ltd"
   },
   "id": "12081eb7-15e4-425a-aa99-aab4ed4b92d6",
+  "identifiers": {
+    "coinmarketcap": 16238
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
     "website": "https://www.botpla.net/",

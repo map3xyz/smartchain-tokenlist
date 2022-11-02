@@ -7,6 +7,9 @@
     "en": "MiniFootball is a new crypto that combines the greatest fans from Football and Doge, creating the greatest community in the world!"
   },
   "id": "00b75cd9-2c65-4c6f-a4fe-f8de7047d2b4",
+  "identifiers": {
+    "coinmarketcap": 11254
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b",
     "website": "https://minifootballtoken.com",

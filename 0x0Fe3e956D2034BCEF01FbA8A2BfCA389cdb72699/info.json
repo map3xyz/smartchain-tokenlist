@@ -7,6 +7,9 @@
     "en": "Please update logo and info"
   },
   "id": "c469a4e8-f37a-4876-afa8-5c3b32c7df0a",
+  "identifiers": {
+    "coinmarketcap": 9600
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
     "website": "https://securabyte.io/"

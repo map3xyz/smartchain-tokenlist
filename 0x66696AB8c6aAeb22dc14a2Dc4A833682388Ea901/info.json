@@ -7,6 +7,9 @@
     "en": "Token to fight for Worldwide Hemp Legalization."
   },
   "id": "12fb1d47-093d-4684-b7b5-85b35e52762e",
+  "identifiers": {
+    "coinmarketcap": 10306
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x66696ab8c6aaeb22dc14a2dc4a833682388ea901",
     "website": "https://bongweed.info/"

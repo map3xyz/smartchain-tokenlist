@@ -7,6 +7,9 @@
     "en": "Value finance helps to empower new and existing project with infrastructures required for active blockchain participation"
   },
   "id": "dea9d784-7560-4ec4-b223-6b4152953f49",
+  "identifiers": {
+    "coinmarketcap": 17819
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x14e8bcd053e68a22f239b9e9bead87932465d245",
     "website": "https://valuefinance.io",

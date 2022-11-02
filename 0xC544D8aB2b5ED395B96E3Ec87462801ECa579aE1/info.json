@@ -7,6 +7,9 @@
     "en": "Starfish OS is a starfish-style institution consensus collaboration system."
   },
   "id": "fc1123cc-02d2-467c-950d-83372e35fae1",
+  "identifiers": {
+    "coinmarketcap": 20610
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc544d8ab2b5ed395b96e3ec87462801eca579ae1",
     "website": "https://www.sfos.io",

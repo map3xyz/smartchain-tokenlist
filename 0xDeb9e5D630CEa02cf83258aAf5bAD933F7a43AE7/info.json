@@ -7,6 +7,9 @@
     "en": "BabyBitcoin aims to provide continuous benefits for all project investors and token holders."
   },
   "id": "74ddee8b-403e-48a5-aaf2-9afa33db508a",
+  "identifiers": {
+    "coinmarketcap": 11032
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdeb9e5d630cea02cf83258aaf5bad933f7a43ae7",
     "website": "https://babybitcoin.app",

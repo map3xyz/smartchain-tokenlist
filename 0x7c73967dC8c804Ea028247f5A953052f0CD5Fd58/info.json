@@ -7,6 +7,9 @@
     "en": "CyBloc Battery Token is CyBall's primary Play-to-Earn reward and utility token with no fixed supply."
   },
   "id": "505b9833-39cb-43bf-8766-6f59af1d399a",
+  "identifiers": {
+    "coinmarketcap": 18659
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
     "website": "https://cyball.com",

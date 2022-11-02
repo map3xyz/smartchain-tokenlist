@@ -7,6 +7,9 @@
     "en": "BAFI is a utility token for bafi decentralized exchange ans IDO platform."
   },
   "id": "76343851-9e2f-4402-9996-ac048b6e7310",
+  "identifiers": {
+    "coinmarketcap": 9075
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28",
     "website": "https://bafi.finance"

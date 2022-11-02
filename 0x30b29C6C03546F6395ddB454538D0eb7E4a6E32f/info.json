@@ -7,6 +7,9 @@
     "en": "RooCoin is a ‘charity-oriented’ token that's helping to support community causes across the world."
   },
   "id": "42d8f0dc-3dea-4d23-a486-cfbd1577ab81",
+  "identifiers": {
+    "coinmarketcap": 10574
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
     "website": "https://roocoin.com"

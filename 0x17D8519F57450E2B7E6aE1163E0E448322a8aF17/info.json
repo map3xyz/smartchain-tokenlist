@@ -7,6 +7,9 @@
     "en": "Connecting creators and investors in a virtual space!"
   },
   "id": "bcc97667-0a84-4303-a069-837e4d11a73f",
+  "identifiers": {
+    "coinmarketcap": 12281
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17D8519F57450E2B7E6aE1163E0E448322a8aF17",
     "website": "https://lofi-defi.com/",

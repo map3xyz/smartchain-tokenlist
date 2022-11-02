@@ -7,6 +7,9 @@
     "en": "A token with its own digital ecosystem, that reinvests in both the platform and the community with each transaction."
   },
   "id": "7e12bea5-baa4-4970-ab99-033477016bdf",
+  "identifiers": {
+    "coinmarketcap": 9787
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd50787a5f21bcc10c1a738e7de33001786c5fc24",
     "research": "https://smartworth.org",

@@ -7,6 +7,9 @@
     "en": "TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage investors."
   },
   "id": "7c045da2-05ad-45a8-92ab-f5772451caf0",
+  "identifiers": {
+    "coinmarketcap": 9613
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c",
     "website": "https://trustpad.io/",

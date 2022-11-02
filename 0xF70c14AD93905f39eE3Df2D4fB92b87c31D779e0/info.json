@@ -7,6 +7,9 @@
     "en": "The first and biggest Cardano ADA reflection token with auto-claim feature."
   },
   "id": "4fce2c67-481b-4cbc-9d42-3f4b81886081",
+  "identifiers": {
+    "coinmarketcap": 11536
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0",
     "website": "https://minicardano.finance/",

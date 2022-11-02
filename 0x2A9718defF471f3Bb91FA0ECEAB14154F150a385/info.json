@@ -7,6 +7,9 @@
     "en": "$ElonGate is a deflationary cryptocurrency on the Binance Smart Chain, using the power of memes to make huge impacts for charity."
   },
   "id": "1af7e2e5-2eaa-4a5f-8709-bd7d458a4e1f",
+  "identifiers": {
+    "coinmarketcap": 9178
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
     "website": "https://elongate.cc"

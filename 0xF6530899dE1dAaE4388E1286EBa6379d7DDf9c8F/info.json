@@ -7,6 +7,9 @@
     "en": "Aurora Finance (AURO) is a new project that provides automated rewards to users who hold the token."
   },
   "id": "1a26d68f-f0df-4063-b282-2f3c0026b9e1",
+  "identifiers": {
+    "coinmarketcap": 9744
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF6530899dE1dAaE4388E1286EBa6379d7DDf9c8F",
     "website": "https://auro.finance/"

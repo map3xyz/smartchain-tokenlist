@@ -7,6 +7,9 @@
     "en": "Kryptobellion is a fast-paced NFT battle game, where users build a strategic deck from thousands of fighters from hundreds of clans."
   },
   "id": "43a3e4f9-aaec-4c0f-874f-fd3443a037c8",
+  "identifiers": {
+    "coinmarketcap": 9501
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9f9830631cd280d62772944a2af06213e7a23771",
     "website": "https://kryptobellion.com/"

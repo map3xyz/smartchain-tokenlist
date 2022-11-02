@@ -7,6 +7,9 @@
     "en": "Flokinomics is the first ever token on the BSC smartchain to combine rebase tokenomics with Doge rewards. Hold $FLOKIN and receive $DOGE directly to your BEP-20 wallet as a reward for holding"
   },
   "id": "0088d191-61aa-46aa-af75-473f330fc6c6",
+  "identifiers": {
+    "coinmarketcap": 12276
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x97ea5efdcb5961a99ba5c96123042507c0210ec1",
     "website": "https://www.flokinomics.com/",

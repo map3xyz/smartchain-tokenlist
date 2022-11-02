@@ -7,6 +7,9 @@
     "en": "AgeOfGods is an AFKArena inspired game that uses the fundamentals of the 6.6 million‼️ player game combining it with Token economy and Play-to-Earn."
   },
   "id": "cde598e3-06a2-4236-9e75-32e6db4cf552",
+  "identifiers": {
+    "coinmarketcap": 16679
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
     "website": "https://ageofgods.net",

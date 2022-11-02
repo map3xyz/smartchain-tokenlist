@@ -7,6 +7,9 @@
     "en": "7 colors. 7 features. 7% tax."
   },
   "id": "60e9ae76-7e31-4c96-8837-72dd5125b5e5",
+  "identifiers": {
+    "coinmarketcap": 12180
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36",
     "website": "https://rainbowtoken.finance/",

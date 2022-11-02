@@ -7,6 +7,9 @@
     "en": "GoldMiner is a play-to-earn Third-person shooter gold-playing game.$GM is the world's first token that combines GameFi DeFi, and automatic BUYBACK deflation mechanism"
   },
   "id": "f3a07a65-18f0-417f-b17d-fc31e0f2330d",
+  "identifiers": {
+    "coinmarketcap": 12967
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe2604c9561d490624aa35e156e65e590eb749519",
     "website": "https://goldminer.games/",

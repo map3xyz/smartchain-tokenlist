@@ -7,6 +7,9 @@
     "en": "A Diamond In The Rough!"
   },
   "id": "ef0d0270-02e7-474e-a226-427641f69ac3",
+  "identifiers": {
+    "coinmarketcap": 10924
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x37c4bcf0b8fC6f074be933Af7fb9D1DDe55f979C",
     "website": "https://blackdiamond.gold",

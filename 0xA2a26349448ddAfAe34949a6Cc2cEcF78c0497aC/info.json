@@ -7,6 +7,9 @@
     "en": "TrusterCoin is a utility token for business tokenization platform at a time when entrepreneurs through blockchain technology."
   },
   "id": "dbb8b25d-a924-4cf2-a572-35b11807df31",
+  "identifiers": {
+    "coinmarketcap": 11205
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA2a26349448ddAfAe34949a6Cc2cEcF78c0497aC",
     "website": "https://trustercoin.com",

@@ -7,6 +7,9 @@
     "en": "SpaceVikings is a Danish DeFi Crypto project with real life use cases"
   },
   "id": "eb7f846e-3349-4763-9268-b70d801e9a76",
+  "identifiers": {
+    "coinmarketcap": 12361
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7BA3cD00229C1beCC95a4B056fF15C123DcB456D",
     "website": "https://SpaceVikings.finance"

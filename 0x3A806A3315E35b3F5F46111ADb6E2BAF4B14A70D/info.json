@@ -7,6 +7,9 @@
     "en": "LIBERA FINANCIAL is a Triple passive income & Hyper Deflationary token that is listed on CEXes."
   },
   "id": "28cd0f4d-75df-4b57-9ecc-48d8bef2db12",
+  "identifiers": {
+    "coinmarketcap": 20791
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3A806A3315E35b3F5F46111ADb6E2BAF4B14A70D",
     "website": "https://libera.financial/",

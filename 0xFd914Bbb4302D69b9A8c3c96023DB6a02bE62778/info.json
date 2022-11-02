@@ -7,6 +7,9 @@
     "en": "Ken Inu ($KENU) is a decentralized, peer-to-peer, MEME digital currency, developing a community-driven ecosystem based on it’s native BSC token."
   },
   "id": "32b92463-b82f-46e6-a98c-6097bad94219",
+  "identifiers": {
+    "coinmarketcap": 10635
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFd914Bbb4302D69b9A8c3c96023DB6a02bE62778",
     "website": "https://keninu.com/"

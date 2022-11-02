@@ -7,6 +7,9 @@
     "en": "The SafeNebula Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn."
   },
   "id": "29087c88-d5df-4f84-b1a2-7583720dc66a",
+  "identifiers": {
+    "coinmarketcap": 9036
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa1fd60c51c0bdac1ff5bb6067a24d61441e39569",
     "website": "https://safenebula.com",

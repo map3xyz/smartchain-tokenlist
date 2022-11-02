@@ -7,6 +7,9 @@
     "en": "Muu Inu is a unique utility token on the BSC chain. It has a total supply of 1 Trillion and is listed on pancakeswap. The utility we aim to bring to this project and holders includes: Play2Earn game, Staking, NFTs"
   },
   "id": "495a0a94-55d2-42ab-9679-c3cb4898f042",
+  "identifiers": {
+    "coinmarketcap": 20172
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEA5E9F39F4B4Bc2684e49A0E43127F7f6F6be3b8",
     "website": "https://muuinu.com",

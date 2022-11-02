@@ -7,6 +7,9 @@
     "en": "A new deflationary token with 5% fees are distributed and 5% fees are added to liquidity pool."
   },
   "id": "d98ff82c-8a3a-4bf8-b157-985b37cd06fc",
+  "identifiers": {
+    "coinmarketcap": 9732
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3d29aa78fb558f84112bbc48a84f371147a920c9",
     "website": "https://dogefather.space/",

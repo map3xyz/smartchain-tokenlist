@@ -7,6 +7,9 @@
     "en": "CBD + NFT = A brand new way to categorize CBD on the blockchain via Strains.Finance"
   },
   "id": "7b3ffcb9-3273-4b73-8e44-80eaa44cca59",
+  "identifiers": {
+    "coinmarketcap": 9845
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdca8a5bb74ec9536d13511c51f6a68821bf6a1a6",
     "website": "https://strains.finance",

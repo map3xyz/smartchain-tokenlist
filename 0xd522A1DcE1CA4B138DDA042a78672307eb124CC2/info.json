@@ -7,6 +7,9 @@
     "en": "Swapz is the native currency of Swapz DEX"
   },
   "id": "8a56b7cd-841a-45a2-865e-daf83e48a2b7",
+  "identifiers": {
+    "coinmarketcap": 10557
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd522A1DcE1CA4B138DDA042a78672307eb124CC2",
     "website": "https://www.swapz.app/",

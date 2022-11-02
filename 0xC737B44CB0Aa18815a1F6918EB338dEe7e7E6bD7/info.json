@@ -7,6 +7,9 @@
     "en": "ComfyToken has created a distinctive DeFi ecosystem, designed to facilitate a comfy global transition to cryptocurrency."
   },
   "id": "307287e1-8c27-4186-82a4-0a8a262c7fdb",
+  "identifiers": {
+    "coinmarketcap": 9627
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC737B44CB0Aa18815a1F6918EB338dEe7e7E6bD7",
     "website": "https://www.comfytoken.com/"

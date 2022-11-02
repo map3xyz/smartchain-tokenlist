@@ -7,6 +7,9 @@
     "en": "TeslaSafe is a frictionless, high-yield, auto deflationary crypto that rewards holders."
   },
   "id": "8325ffed-361f-4eee-873a-3c5feea3636c",
+  "identifiers": {
+    "coinmarketcap": 11019
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3504de9e61fdff2fc70f5cc8a6d1ee493434c1aa",
     "website": "https://teslasafe.finance"

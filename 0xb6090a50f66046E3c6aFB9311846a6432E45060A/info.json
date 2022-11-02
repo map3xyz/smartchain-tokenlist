@@ -7,6 +7,9 @@
     "en": "The next frontier in community driven value - Auto locking LP to enable contract driven passive rewards. Simply hold the token to join the journey and reap the rewards."
   },
   "id": "6ac97952-b005-4b46-9919-b0ff46df0be4",
+  "identifiers": {
+    "coinmarketcap": 9596
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb6090a50f66046E3c6aFB9311846a6432E45060A",
     "website": "https://www.pinkmoon.finance/",

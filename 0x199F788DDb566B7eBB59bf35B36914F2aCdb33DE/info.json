@@ -7,6 +7,9 @@
     "en": "Floki, Meet DeFido! This brand new token was born merely moments after a top 3 exchange tweeted their dog named “DeFido” at Elon Musk. & this French Bulldog is ready for lift off!"
   },
   "id": "f8f9dd4f-b9a1-4543-8757-d29b04d4933c",
+  "identifiers": {
+    "coinmarketcap": 12510
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x199F788DDb566B7eBB59bf35B36914F2aCdb33DE",
     "website": "https://defidotoken.com",

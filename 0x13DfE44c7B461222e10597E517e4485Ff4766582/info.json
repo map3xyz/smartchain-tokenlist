@@ -7,6 +7,9 @@
     "en": "Utility token to play and inGame economy of Moon Nation Game."
   },
   "id": "799d3f58-138a-4ef8-b82d-e015e6c00e30",
+  "identifiers": {
+    "coinmarketcap": 10456
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x13DfE44c7B461222e10597E517e4485Ff4766582",
     "website": "https://moonnation.org/",

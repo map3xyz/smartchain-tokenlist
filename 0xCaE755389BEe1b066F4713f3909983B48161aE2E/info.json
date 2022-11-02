@@ -7,6 +7,9 @@
     "en": "NanoDOGE is a community based token with automatic buy-backs and reflections to all holders"
   },
   "id": "b1a1fde6-3918-4590-9049-1addeacc2bef",
+  "identifiers": {
+    "coinmarketcap": 10916
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCaE755389BEe1b066F4713f3909983B48161aE2E",
     "website": "https://nanodoge.io"

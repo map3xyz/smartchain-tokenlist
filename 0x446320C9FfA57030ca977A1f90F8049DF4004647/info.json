@@ -7,6 +7,9 @@
     "en": "Bulldogswap is a foundational layer in decentralized finance, enabling safe, and customizable transactions for the global crypto."
   },
   "id": "954bf40a-6400-48b4-ad97-8b019d519ecb",
+  "identifiers": {
+    "coinmarketcap": 12223
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x446320C9FfA57030ca977A1f90F8049DF4004647",
     "website": "https://bulldogswap.com",

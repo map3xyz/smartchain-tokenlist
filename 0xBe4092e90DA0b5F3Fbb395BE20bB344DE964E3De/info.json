@@ -7,6 +7,9 @@
     "en": "SephirothInu is a Charity Token that aims to help less fortunate animals."
   },
   "id": "20460426-4e98-40f6-bfc1-e00d703cffa1",
+  "identifiers": {
+    "coinmarketcap": 10758
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBe4092e90DA0b5F3Fbb395BE20bB344DE964E3De",
     "website": "https://www.sephirothinu.com"

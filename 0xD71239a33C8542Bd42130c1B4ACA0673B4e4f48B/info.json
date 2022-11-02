@@ -7,6 +7,9 @@
     "en": "By the time you get into our journey, you will find out that Legend of Fantasy War (LFW) is not just any ordinary game, it contains its own ecosystem and the most unique concept of many different universes within one world, we call it the Legendary Fantasy World."
   },
   "id": "ddf7b339-450e-4d7f-92e6-59a38db73784",
+  "identifiers": {
+    "coinmarketcap": 12892
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD71239a33C8542Bd42130c1B4ACA0673B4e4f48B",
     "website": "https://legendfantasywar.com",

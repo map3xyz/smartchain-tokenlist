@@ -7,6 +7,9 @@
     "en": "Vacay is a new Defi token on the Binance Smart Chain with the objective of making cryptocurrency payments a mainstream option for international travelers and the broader hostitality industry."
   },
   "id": "bc118d78-b906-4d54-8df6-797c41109052",
+  "identifiers": {
+    "coinmarketcap": 10815
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa3424fb48b9fa2ff8d3366ed91f36b4cda7cadd8",
     "website": "https://vacay.finance"

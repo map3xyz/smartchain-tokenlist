@@ -7,6 +7,9 @@
     "en": "DELOT is the decentralized lottery game for token holders. DELOT token is the utility token that is used in the Lottery game."
   },
   "id": "371356dd-de22-4d4b-a5d3-043353ff5106",
+  "identifiers": {
+    "coinmarketcap": 20115
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
     "website": "https://delot.io",

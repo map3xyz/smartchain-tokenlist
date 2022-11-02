@@ -7,6 +7,9 @@
     "en": "The best of blockchain in one super app."
   },
   "id": "1db5d4d7-1a58-48b6-87a6-3842a9e1241a",
+  "identifiers": {
+    "coinmarketcap": 12308
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9096b4309224d751fcb43d7eb178dcffc122ad15",
     "website": "https://legionnetwork.io",

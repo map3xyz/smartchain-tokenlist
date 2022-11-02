@@ -7,6 +7,9 @@
     "en": "GMT is the governance token of STEPN, which is a Web3 lifestyle app with fun social elements and gamification design."
   },
   "id": "318e5de7-e761-4a8a-b0b8-186294031848",
+  "identifiers": {
+    "coinmarketcap": 18069
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
     "website": "https://www.stepn.com",

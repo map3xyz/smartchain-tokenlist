@@ -7,6 +7,9 @@
     "en": "Swinate is the auto-generating liquidity protocol with static farming by holding on Binance Smart Chain."
   },
   "id": "8af10391-b309-4e14-9372-6e6360f1c8aa",
+  "identifiers": {
+    "coinmarketcap": 9517
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8592fb0E6724A90CE45f05F31B85BddD45931560",
     "website": "https://www.swinate.io",

@@ -7,6 +7,9 @@
     "en": "The PocMon Gaming NFT Ecosystem is designed to meet all kinds of decentralised gaming requests: from NFTs discovery, minting and trading to game currencies exchange, lootboxes and blockchain games store."
   },
   "id": "467cba4f-9476-46ad-9446-188a3e254555",
+  "identifiers": {
+    "coinmarketcap": 12791
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8888818f35BbeD1C632364bf1b15446FAD088888",
     "website": "https://pocmons.com/",

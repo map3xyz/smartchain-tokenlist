@@ -7,6 +7,9 @@
     "en": "VAI is the world’s first decentralized stablecoin, enabled by Venus, built on Binance Smart Chain."
   },
   "id": "fb7dc529-bf68-44e3-a3f4-ee1f091dc1e5",
+  "identifiers": {
+    "coinmarketcap": 7824
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
     "website": "http://venus.io"

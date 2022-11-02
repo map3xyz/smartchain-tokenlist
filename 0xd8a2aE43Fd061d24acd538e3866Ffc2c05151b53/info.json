@@ -7,6 +7,9 @@
     "en": "AIR is to mock the madness of the cryptocurrency market. AIR is everywhere, after buying AirCoin you get nothing but AIR."
   },
   "id": "c897c95c-9daa-4282-bc84-32d63f209728",
+  "identifiers": {
+    "coinmarketcap": 10715
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd8a2aE43Fd061d24acd538e3866Ffc2c05151b53",
     "website": "https://aircoin.cool",

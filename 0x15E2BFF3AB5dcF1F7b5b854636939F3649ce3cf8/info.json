@@ -7,6 +7,9 @@
     "en": "DogeFather is a community owned Meme token, which aims to build a completely decentralised ecosystem. It aims to develop dGames dChart dSwap dPad."
   },
   "id": "6c5b609f-25c4-45f2-9537-59fb456245c9",
+  "identifiers": {
+    "coinmarketcap": 18132
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x15e2bff3ab5dcf1f7b5b854636939f3649ce3cf8",
     "website": "https://dogefat.com",

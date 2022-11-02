@@ -7,6 +7,9 @@
     "en": "Sparklab is a next generation portfolio tracker with tons of unique features to make your token management safer and easier. "
   },
   "id": "fe917c82-b281-4b02-9b38-46470517c3bf",
+  "identifiers": {
+    "coinmarketcap": 13884
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x683b383E9D6Cc523F4C9764daceBB5752892fc53",
     "website": "https://thesparklab.io",

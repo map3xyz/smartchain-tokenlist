@@ -7,6 +7,9 @@
     "en": "Ecochain Token is a decentralized deflationary token which aims to bring multiple aspects together to create stability in the ecosystem and economy"
   },
   "id": "01b87272-210d-4fb7-a523-736de323c365",
+  "identifiers": {
+    "coinmarketcap": 11894
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6bfd4ca8ec078d613ed6a5248eb2c7a0d5c38b7b",
     "website": "https://ecochaintoken.finance",

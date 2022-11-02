@@ -7,6 +7,9 @@
     "en": "World's Best Community Driven Coin"
   },
   "id": "fc9d0cca-94e3-4dfc-a748-c31f0c556d6f",
+  "identifiers": {
+    "coinmarketcap": 17318
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2f0c6e147974BfbF7Da557b88643D74C324053A2",
     "website": "https://www.catcoincrypto.me/",

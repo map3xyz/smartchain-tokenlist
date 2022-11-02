@@ -7,6 +7,9 @@
     "en": "Fortress is an algorithmic money market, and synthetic stable coin protocol designed to bring secure and trustless credit and lending to users on Binance Smart Chain."
   },
   "id": "825fd311-0b53-43e0-9679-c273f1e2d307",
+  "identifiers": {
+    "coinmarketcap": 9592
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4437743ac02957068995c48E08465E0EE1769fBE",
     "research": "https://docs.fortress.loans/",

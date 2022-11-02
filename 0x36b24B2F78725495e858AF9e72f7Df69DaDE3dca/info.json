@@ -7,6 +7,9 @@
     "en": "SeaChain is a decentralised, community-driven ecosystem funding trash barriers in the most polluted rivers."
   },
   "id": "bebcff72-56ef-4472-bdcd-473460c16513",
+  "identifiers": {
+    "coinmarketcap": 11970
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x36b24B2F78725495e858AF9e72f7Df69DaDE3dca",
     "website": "https://www.seachaintoken.com/",

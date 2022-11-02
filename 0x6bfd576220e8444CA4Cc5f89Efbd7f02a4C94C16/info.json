@@ -7,6 +7,9 @@
     "en": "NFT Marketplace token to buy and sell NFT digital assets."
   },
   "id": "522d1eea-2c73-482d-b110-b3d065201aa9",
+  "identifiers": {
+    "coinmarketcap": 9491
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6bfd576220e8444CA4Cc5f89Efbd7f02a4C94C16",
     "website": "https://www.smaugs.com/",

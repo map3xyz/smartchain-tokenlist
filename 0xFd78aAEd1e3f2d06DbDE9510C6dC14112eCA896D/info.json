@@ -7,6 +7,9 @@
     "en": "We are Anonymous (ANON)"
   },
   "id": "4400656d-b30c-4754-b69c-4c880a5b319f",
+  "identifiers": {
+    "coinmarketcap": 10162
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
     "website": "https://4n0nym0u5.com"

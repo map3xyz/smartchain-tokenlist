@@ -7,6 +7,9 @@
     "en": "Greenheart CBD Token - A Cryptocurrency for Hemp Farmers."
   },
   "id": "f12ed6f8-9f6d-4b40-b7ed-568e1c8141c6",
+  "identifiers": {
+    "coinmarketcap": 10098
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0E2b41eA957624A314108cc4E33703e9d78f4b3C",
     "website": "https://greenheartcbd.io/",

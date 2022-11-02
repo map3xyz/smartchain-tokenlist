@@ -7,6 +7,9 @@
     "en": "$LOF is a High-Yield, Deflationary, and Frictionless Farming Token on the Binance Smart Chain. We support content creators & always reward our holders. At $LOF, we care and have made it one of our top goals to donate to charities preventing human trafficking. We’re proud to say that within 24 hours of launch $LOF reached a historical figure $29 million market cap with a record amount of holders. We are humbled & grateful for those who believed in our project from day one."
   },
   "id": "00027aa9-d8a5-451b-988f-e49b325f22e1",
+  "identifiers": {
+    "coinmarketcap": 10012
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96",
     "website": "https://lofcrypto.com/",

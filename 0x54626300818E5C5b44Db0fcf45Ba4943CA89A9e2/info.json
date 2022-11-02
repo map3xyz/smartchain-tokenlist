@@ -7,6 +7,9 @@
     "en": "A community token who reward you in BNB every hour. "
   },
   "id": "df6004d1-04d5-42c3-a5b1-5bbd9c2d7c55",
+  "identifiers": {
+    "coinmarketcap": 11161
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
     "website": "https://launch.checoin.finance/",

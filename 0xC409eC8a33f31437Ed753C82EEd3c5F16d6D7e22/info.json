@@ -7,6 +7,9 @@
     "en": "In short, the distance between you and your favorite idol is only one NFT, on TOKAU!"
   },
   "id": "f84868fe-ffe1-461a-bce8-3d3a3a2428b9",
+  "identifiers": {
+    "coinmarketcap": 10951
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC409eC8a33f31437Ed753C82EEd3c5F16d6D7e22",
     "website": "https://tokau.io/",

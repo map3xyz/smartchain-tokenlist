@@ -7,6 +7,9 @@
     "en": "Doge Yellow Coin DOGEY Doge Yellow Coin is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk"
   },
   "id": "c7ad8f99-9462-4a9d-a76f-2ac6b031ea2c",
+  "identifiers": {
+    "coinmarketcap": 14038
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6f373cD69c329B1DA2e00b861Ad950e59454aa18",
     "website": "https://dogeyellow.com",

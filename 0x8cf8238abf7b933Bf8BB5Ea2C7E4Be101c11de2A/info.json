@@ -7,6 +7,9 @@
     "en": "XP.network is the first blockchain-agnostic NFT ecosystem"
   },
   "id": "b13672ba-189a-44ba-b621-51e792db8ab0",
+  "identifiers": {
+    "coinmarketcap": 11752
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8cf8238abf7b933Bf8BB5Ea2C7E4Be101c11de2A",
     "website": "https://xp.network",

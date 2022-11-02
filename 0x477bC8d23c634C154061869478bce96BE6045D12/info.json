@@ -7,6 +7,9 @@
     "en": "A Blockchain Innovation Ecosystem, with a Seed Stage Fund, Decentralized Incubator, and Launchpad"
   },
   "id": "0a408e2e-3f87-4934-a2d7-f6caf9fd3a5e",
+  "identifiers": {
+    "coinmarketcap": 8972
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x477bC8d23c634C154061869478bce96BE6045D12",
     "website": "https://seedify.fund"

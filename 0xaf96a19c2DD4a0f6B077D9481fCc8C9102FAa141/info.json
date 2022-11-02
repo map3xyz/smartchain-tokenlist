@@ -7,6 +7,9 @@
     "en": "Moonarch provides powerful and original tools to BSC traders"
   },
   "id": "fcd78f62-f512-4d2d-9dea-12f923dbfae3",
+  "identifiers": {
+    "coinmarketcap": 10117
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaf96a19c2DD4a0f6B077D9481fCc8C9102FAa141",
     "website": "https://moonarch.app"

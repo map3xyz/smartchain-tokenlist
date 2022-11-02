@@ -7,6 +7,9 @@
     "en": "TakoDefi is a community-driven innovative and ingenious Yield farming platform"
   },
   "id": "38ffad7c-8adc-4aa9-ab1b-78c63825c88d",
+  "identifiers": {
+    "coinmarketcap": 9369
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2F3391AeBE27393aBa0a790aa5E1577fEA0361c2",
     "website": "https://takodefi.com/"

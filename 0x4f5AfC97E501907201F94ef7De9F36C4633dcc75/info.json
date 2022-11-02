@@ -7,6 +7,9 @@
     "en": " Safecom is a token made for the community on the BSC Scan."
   },
   "id": "44bab1ff-629a-4b47-8a9a-a31db5d0b072",
+  "identifiers": {
+    "coinmarketcap": 9379
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4f5AfC97E501907201F94ef7De9F36C4633dcc75",
     "website": "https://www.safecomtoken.io"

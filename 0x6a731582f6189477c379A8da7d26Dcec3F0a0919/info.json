@@ -7,6 +7,9 @@
     "en": "King of Legends is a metaverse platform built specifically for the GameFi project."
   },
   "id": "81179531-3178-45ef-8ab6-7308803e2c4f",
+  "identifiers": {
+    "coinmarketcap": 22300
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6a731582f6189477c379A8da7d26Dcec3F0a0919",
     "website": "http://kingoflegends.net",

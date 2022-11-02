@@ -7,6 +7,9 @@
     "en": "AQUA is a utility based cryptocurrency designed to accrue value & govern the planets."
   },
   "id": "35cb833d-09d5-4dd0-8c28-6b6eb2fd5b68",
+  "identifiers": {
+    "coinmarketcap": 10023
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x72B7D61E8fC8cF971960DD9cfA59B8C829D91991",
     "website": "https://planetfinance.io/",

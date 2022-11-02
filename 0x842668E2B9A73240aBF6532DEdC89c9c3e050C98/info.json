@@ -7,6 +7,9 @@
     "en": "With Light DeFi, the currency will not depend so much on buying strength and selling strength. There will be external liquidity that will provide an automatic valuation of the asset."
   },
   "id": "0a05efef-562e-49f4-82c5-9892a563147a",
+  "identifiers": {
+    "coinmarketcap": 12058
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
     "website": "https://lightdefi.org/",

@@ -7,6 +7,9 @@
     "en": "Game Coin aims to allow any athlete in the world the ability to create their own sports token."
   },
   "id": "479cbc7d-a7ea-4bef-ba74-4c4f115d079f",
+  "identifiers": {
+    "coinmarketcap": 13938
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE9d78BF51ae04c7E1263A76ED89a65537B9cA903",
     "website": "https://www.thegamecoin.net",

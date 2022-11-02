@@ -7,6 +7,9 @@
     "en": "API Inu provide a traditional API service to smart contracts in a decentralized way."
   },
   "id": "f307185a-2338-4e84-8f74-11632fb44ab3",
+  "identifiers": {
+    "coinmarketcap": 19833
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa1943bc4a417ffd2e9e11a97383fa3f9548291c3",
     "website": "https://www.apiinu.com/",

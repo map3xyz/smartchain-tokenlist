@@ -7,6 +7,9 @@
     "en": "Autonomus Yield & Liquidity Generation Protocol"
   },
   "id": "1dedcd8d-8b5a-473a-8632-80220248217e",
+  "identifiers": {
+    "coinmarketcap": 9448
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0dA292E241096140Ce2b3d39e5699acC2eCa68fa",
     "website": "https://safeorbit.io/"

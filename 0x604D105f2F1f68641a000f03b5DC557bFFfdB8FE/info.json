@@ -7,6 +7,9 @@
     "en": "SoupSwap Is Multi-Ecosystems Decentralized Finance Platform"
   },
   "id": "c3336222-b2fc-4550-a3ed-7ec3f8a314ec",
+  "identifiers": {
+    "coinmarketcap": 11402
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x604D105f2F1f68641a000f03b5DC557bFFfdB8FE",
     "website": "https://soupsswap.io/"

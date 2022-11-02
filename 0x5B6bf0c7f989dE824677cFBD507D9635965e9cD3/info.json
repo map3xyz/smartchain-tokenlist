@@ -7,6 +7,9 @@
     "en": "GMM is the governance and medium of exchange token of Gamium"
   },
   "id": "4861d986-9a0b-441f-a5e9-3d56b927e871",
+  "identifiers": {
+    "coinmarketcap": 14304
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3",
     "website": "https://gamium.world",

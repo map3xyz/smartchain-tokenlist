@@ -7,6 +7,9 @@
     "en": "SAFEWIN is a utility token created for the SafeWin app."
   },
   "id": "b800a6ed-94f5-4159-9213-38b68dd60567",
+  "identifiers": {
+    "coinmarketcap": 10536
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFeCD05B947471b5E51645E2d8326445cC266477a",
     "website": "https://safewin.org"

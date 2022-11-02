@@ -7,6 +7,9 @@
     "en": "Baby CateCoin is a meme token that will have utility (e.g. Baby Cate Coin Swap, NFT Marketplace, Merch Shop, Wallet and P2E). It has a very strong community and a very hard working team that has a sole goal to make this successful."
   },
   "id": "16d10580-0186-4bf3-950a-0d2c01cd97d2",
+  "identifiers": {
+    "coinmarketcap": 14568
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1529642Cd0075d3DA049aA43005fdfaBCa54a070",
     "website": "https://babycatecoin.net/",

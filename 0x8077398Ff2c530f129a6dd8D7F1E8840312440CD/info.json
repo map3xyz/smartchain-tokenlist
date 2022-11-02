@@ -7,6 +7,9 @@
     "en": "CLOAK will be the second token within our Milo Inu ecosystem. In our animated series CLOAK will be an indispensable partner of MILO. CLOAK and MILO will work together to maintain our entire ecosystem."
   },
   "id": "2bb6f823-c0c1-46d9-b23e-41634981e999",
+  "identifiers": {
+    "coinmarketcap": 21953
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8077398ff2c530f129a6dd8d7f1e8840312440cd",
     "website": "https://milotoken.io",

@@ -7,6 +7,9 @@
     "en": "EverGrow Coin is a hyper deflationary token that rewards holders in BUSD"
   },
   "id": "56e8c650-2f3a-47f4-a10f-9b8a74b6b32e",
+  "identifiers": {
+    "coinmarketcap": 12448
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC001BBe2B87079294C63EcE98BdD0a88D761434e",
     "website": "https://evergrowegc.com/",

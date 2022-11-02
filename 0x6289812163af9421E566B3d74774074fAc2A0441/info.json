@@ -7,6 +7,9 @@
     "en": "Crusaders of Crypto is a classic-style Roguelike game paired with the Binance Smart Chain! Players are able to repeatedly enter randomly generated dungeons, battle monsters, and fight difficult and scripted bosses, all named after Crypto-Related tragedies (Like FlashLoanius!). Holders of CRUSADER will be able to enhance this experience by being able to do the same during competition events, which can reward BNB and in-game NFTs!"
   },
   "id": "3aacd6a3-d49c-4ea0-b385-29f2d120a7a5",
+  "identifiers": {
+    "coinmarketcap": 10976
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6289812163af9421E566B3d74774074fAc2A0441",
     "website": "https://crusadersofcrypto.com",

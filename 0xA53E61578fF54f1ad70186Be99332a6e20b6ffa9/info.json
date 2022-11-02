@@ -7,6 +7,9 @@
     "en": "Golden Doge (GDOGE) is a community token that has a special Golden Vault which gets filled by 5% of every GDOGE transaction on Pancakeswap and rewards the GDOGE community in BNB."
   },
   "id": "fe126db5-d8eb-4836-bbc4-486ef1607fbc",
+  "identifiers": {
+    "coinmarketcap": 11056
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9",
     "website": "https://goldendoge.finance",

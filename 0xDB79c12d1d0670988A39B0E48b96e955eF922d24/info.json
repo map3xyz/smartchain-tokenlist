@@ -7,6 +7,9 @@
     "en": "A one-stop full-featured decentralized exchange."
   },
   "id": "9eb719de-1499-4866-b1ca-1ae7167e5f4d",
+  "identifiers": {
+    "coinmarketcap": 17859
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xDB79c12d1d0670988A39B0E48b96e955eF922d24",
     "website": "https://teddydoge.finance",

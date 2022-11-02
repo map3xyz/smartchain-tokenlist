@@ -7,6 +7,9 @@
     "en": "CUE Protocol is a deflationary asset with actual use cases through dapps."
   },
   "id": "3d98f7a3-6621-4f36-a957-ccf8a225f1b2",
+  "identifiers": {
+    "coinmarketcap": 9121
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9b9D617D3445f0147Ece2322BaCe8db2768D2770",
     "website": "https://cuep.io/",

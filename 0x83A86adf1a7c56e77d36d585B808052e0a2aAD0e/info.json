@@ -7,6 +7,9 @@
     "en": "The $SYA DeFi experiment is a new type of deflationary currency applying autonomous yield and liquidity generation."
   },
   "id": "0368cb0b-067d-4f38-bb57-ad8330b1255a",
+  "identifiers": {
+    "coinmarketcap": 9635
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x83A86adf1a7c56e77d36d585B808052e0a2aAD0e",
     "website": "https://sya.today/"

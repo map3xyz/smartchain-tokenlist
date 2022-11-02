@@ -7,6 +7,9 @@
     "en": "TBCC token is a utility token that was issued by TBCC development team."
   },
   "id": "2c14e359-4f82-462a-baf1-16c111ae6d94",
+  "identifiers": {
+    "coinmarketcap": 8487
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf29480344d8e21EFeAB7Fde39F8D8299056A7FEA",
     "website": "https://www.tbcc.com/footer/token",

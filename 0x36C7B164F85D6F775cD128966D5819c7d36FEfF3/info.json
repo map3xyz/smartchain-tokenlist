@@ -7,6 +7,9 @@
     "en": "OPENLIVE NFT is a decentralized marketplace where users can generate, store, buy & sell NFTs."
   },
   "id": "0b882354-8cff-45e7-ba92-9005e1cf7e13",
+  "identifiers": {
+    "coinmarketcap": 16254
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x36C7B164F85D6F775cD128966D5819c7d36FEfF3",
     "website": "https://openlivenft.com/",

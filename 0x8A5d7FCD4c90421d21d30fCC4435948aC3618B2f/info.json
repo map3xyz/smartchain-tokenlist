@@ -7,6 +7,9 @@
     "en": "Cake Monster is a Hyper-Deflationary and Dividend-Yielding asset on BNB Chain that introduces a new form of monetary policy."
   },
   "id": "74b54648-c586-4b81-8e68-26117571e20d",
+  "identifiers": {
+    "coinmarketcap": 10366
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
     "website": "https://cake.monster",

@@ -7,6 +7,9 @@
     "en": "1TRONIC Network is Payment Platform for Daily Necessities using Crypto and or Fiat Currencies"
   },
   "id": "f5b32f54-b14d-4153-bac9-5990503d9294",
+  "identifiers": {
+    "coinmarketcap": 10955
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x97300A4f628701672096460B5469C41a8d3ECb1A",
     "website": "https://www.1tronic.io/"

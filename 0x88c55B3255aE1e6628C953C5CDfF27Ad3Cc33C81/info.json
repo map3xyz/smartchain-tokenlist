@@ -7,6 +7,9 @@
     "en": "My Defi Legends is a complete metaverse of Digital Heroes that live on the Binance Smart Chain (BSC), which allows millions of people to join the NFT & blockchain-based gaming world in an easy, creative and fun way."
   },
   "id": "e67021af-a8f0-4c71-ae17-9a5e104d5bfa",
+  "identifiers": {
+    "coinmarketcap": 11459
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x88c55B3255aE1e6628C953C5CDfF27Ad3Cc33C81",
     "website": "https://mydefilegends.com",

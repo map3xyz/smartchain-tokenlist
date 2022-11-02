@@ -7,6 +7,9 @@
     "en": "DYNASTY is a Play to Earn NFT Role-Playing Game , Launchpad platform , wallet Dynasty"
   },
   "id": "c043dfc7-4e47-4e6b-9faf-b76c452fc057",
+  "identifiers": {
+    "coinmarketcap": 14357
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
     "website": "https://www.thedynasty.app/",

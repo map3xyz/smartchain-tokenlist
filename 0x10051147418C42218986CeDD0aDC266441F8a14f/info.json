@@ -7,6 +7,9 @@
     "en": "DYOR Project's motto is Educate, Equip, Empower. DYOR Project strives to teach investors how to find reputable crypto projects while avoiding scams."
   },
   "id": "0fa7e77f-6696-4f8d-90c6-61ae731fac34",
+  "identifiers": {
+    "coinmarketcap": 13987
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10051147418C42218986CeDD0aDC266441F8a14f",
     "website": "https://dyorpro.com",

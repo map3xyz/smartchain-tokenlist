@@ -7,6 +7,9 @@
     "en": "WSBDApp gives users access to stocks, staking and crypto portfolios."
   },
   "id": "dec8fd53-e005-491d-a71a-200fd6e6596f",
+  "identifiers": {
+    "coinmarketcap": 9749
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x22168882276e5D5e1da694343b41DD7726eeb288",
     "website": "https://wsbdapp.com",

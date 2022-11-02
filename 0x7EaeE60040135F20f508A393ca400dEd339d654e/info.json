@@ -7,6 +7,9 @@
     "en": "Revival is a BEP-20 Token that gives 11% reflections paid in BNB so you do not have to tap into your RVL holdings to use your reflections!"
   },
   "id": "3cdaef35-de24-400b-8f25-bd7f26a5af83",
+  "identifiers": {
+    "coinmarketcap": 12161
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7EaeE60040135F20f508A393ca400dEd339d654e",
     "website": "https://revivaldefi.com",

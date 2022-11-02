@@ -7,6 +7,9 @@
     "en": "MAMADOGE is the creator and birth mother of the #1 meme coin out there: DOGE Coin."
   },
   "id": "5d45833b-34ee-4af0-807e-cac9a8ab71ef",
+  "identifiers": {
+    "coinmarketcap": 10835
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7819806b6eA4b5582c5aE3825a521b4067B5C7fE",
     "website": "https://www.mamadogecoin.com/"

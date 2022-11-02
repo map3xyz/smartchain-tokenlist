@@ -7,6 +7,9 @@
     "en": "Safe Energy, or $ENERGYX is a community-driven deflationary token (cryptocurrency), with future projects to reduce our carbon footprint by making renewable energy sources more accessible."
   },
   "id": "6b01bc72-fe3a-4c78-8248-9366be232490",
+  "identifiers": {
+    "coinmarketcap": 10325
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBBe899c61198D1826a43e20ea19efC46E50c2B00",
     "website": "https://safeenergyx.io",

@@ -7,6 +7,9 @@
     "en": "COXSWAP - Decentralized Exchange – DEX. Trade, farming, staking, earn more token ."
   },
   "id": "d8ebb2b6-e2f2-4bf2-a747-7036f923d72f",
+  "identifiers": {
+    "coinmarketcap": 15538
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17FEa92CA2e7570d07b63ecD6B698e01386555A4",
     "website": "https://coxswap.com/",

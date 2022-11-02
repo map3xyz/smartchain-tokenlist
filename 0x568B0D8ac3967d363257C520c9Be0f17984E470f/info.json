@@ -7,6 +7,9 @@
     "en": "In-house developed NFT in-app token"
   },
   "id": "e6c82cc0-2c82-4d2d-b4f6-1a5ea129e26d",
+  "identifiers": {
+    "coinmarketcap": 9677
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x568B0D8ac3967d363257C520c9Be0f17984E470f",
     "website": "https://nadeshikocoin.com/"

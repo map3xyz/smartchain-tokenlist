@@ -7,6 +7,9 @@
     "en": "BFG is the internal token of BetFury platform launched on BSC."
   },
   "id": "50228463-0665-456d-9b71-fc821988fb96",
+  "identifiers": {
+    "coinmarketcap": 11038
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
     "website": "https://betfury.io/",

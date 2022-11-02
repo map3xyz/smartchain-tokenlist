@@ -7,6 +7,9 @@
     "en": "SHIBBY is the worlds first DAO combined with Safemoon Tokenomics on BSC"
   },
   "id": "25ba670e-0b8d-4ad9-8a3a-f56274a92a27",
+  "identifiers": {
+    "coinmarketcap": 10616
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB1035523a844371C2877f8a3b2F2f8d337403b6F",
     "website": "https://shibby.finance"

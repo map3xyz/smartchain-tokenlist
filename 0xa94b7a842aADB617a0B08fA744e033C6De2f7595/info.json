@@ -7,6 +7,9 @@
     "en": "FlashX Ultra is the second DApp and governance token of FlashX Coin Project. It has a total supply of 200M tokens. $FSXU as Bep20 token running on Binance Smart Chain (BSC)."
   },
   "id": "03f56b99-2775-4817-992c-8001a076b574",
+  "identifiers": {
+    "coinmarketcap": 8811
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa94b7a842aadb617a0b08fa744e033c6de2f7595",
     "website": "https://www.flashxultra.com/",

@@ -7,6 +7,9 @@
     "en": "SafeBull plans to develop a non-fungible token (NFT) exchange, as well as charity projects and crypto educational apps."
   },
   "id": "f66adf52-61e4-4d07-b049-a4857bb0af75",
+  "identifiers": {
+    "coinmarketcap": 10644
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFA344C08C93066A4d6266063C6Ebc63925a18467",
     "website": "https://safe-bull.com"

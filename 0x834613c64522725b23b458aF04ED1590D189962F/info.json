@@ -7,6 +7,9 @@
     "en": "DKKS is project to makes the lives of all those who believe in the project always lucky in life, enrich spiritually ,materially and help people in the world."
   },
   "id": "f8adf4ca-a5bd-49b8-b41c-21ecb9c4f093",
+  "identifiers": {
+    "coinmarketcap": 12571
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x834613c64522725b23b458aF04ED1590D189962F",
     "website": "https://daikokuten.finance/",

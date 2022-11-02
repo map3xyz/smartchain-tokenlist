@@ -7,6 +7,9 @@
     "en": "Yetucoin is the governance token of the Pan-Afrikan decentralized exchange YetuSwap."
   },
   "id": "3745d488-eb38-4526-ac75-612b7995da69",
+  "identifiers": {
+    "coinmarketcap": 9139
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b",
     "website": "https://yetubit.com/",

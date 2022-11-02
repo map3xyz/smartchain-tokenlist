@@ -7,6 +7,9 @@
     "en": "CORGIB Finance is a fully decentralized, the first NFT MarketPlace for Meme tokens, powered by PolkaBridge"
   },
   "id": "8f769c89-4abb-4bac-87ce-7c08ab07a26e",
+  "identifiers": {
+    "coinmarketcap": 10251
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1cfd6813a59d7b90c41dd5990ed99c3bf2eb8f55",
     "website": "https://corgib.polkabridge.org/"

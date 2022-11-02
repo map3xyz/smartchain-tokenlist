@@ -7,6 +7,9 @@
     "en": "BabySwap is the best AMM+NFT decentralized exchange for newborn projects on Binance Smart Chain."
   },
   "id": "3ba1921a-04ad-4c9a-b444-986bf8377464",
+  "identifiers": {
+    "coinmarketcap": 10334
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
     "website": "https://babyswap.finance"

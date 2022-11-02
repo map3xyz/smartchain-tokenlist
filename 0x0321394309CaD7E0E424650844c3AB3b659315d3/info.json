@@ -7,6 +7,9 @@
     "en": "XBN Community is a community-driven, fair-launched DeFi project built on Binance Smart Chain #BSC. Three functions occur during each trade: Reflection, LP Acquisition, and Burn."
   },
   "id": "2e78b8e5-3cf7-42df-90f6-a3802042327b",
+  "identifiers": {
+    "coinmarketcap": 9585
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0321394309cad7e0e424650844c3ab3b659315d3",
     "website": "https://xbc.xbn.finance",

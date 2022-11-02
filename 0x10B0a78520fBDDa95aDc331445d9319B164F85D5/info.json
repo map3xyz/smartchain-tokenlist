@@ -7,6 +7,9 @@
     "en": "AnpanSwap is a DeFi protocol, with AMM & Yield Farm, launched products: Swap, Liquidity, Analytics, Farms, & Stake. Prediction in Nov, Lottery in Dec, NFT in Jan, & Vote in Feb, and Derivative in Mar 2022."
   },
   "id": "6487fad3-e15d-4ed0-94b2-22457b049ee3",
+  "identifiers": {
+    "coinmarketcap": 14465
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10B0a78520fBDDa95aDc331445d9319B164F85D5",
     "website": "https://anpanswap.finance/",

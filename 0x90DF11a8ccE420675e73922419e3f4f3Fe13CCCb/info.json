@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "2e705952-8bab-4c7a-897b-99ccd1b07b31",
+  "identifiers": {
+    "coinmarketcap": 5046
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
     "website": "https://streamity.org"

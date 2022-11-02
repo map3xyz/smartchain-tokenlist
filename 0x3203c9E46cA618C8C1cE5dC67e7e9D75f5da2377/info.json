@@ -7,6 +7,9 @@
     "en": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain"
   },
   "id": "d6c10a1d-85d8-4545-84d9-d89ddf17b3f8",
+  "identifiers": {
+    "coinmarketcap": 9175
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
     "website": "https://mobox.io"

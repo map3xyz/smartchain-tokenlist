@@ -7,6 +7,9 @@
     "en": "EverEarn Coin (EARN), is a BSC blockchain platform designed to DISTRIBUTE WEALTH to the people, by providing the HIGHEST BUSD REWARDS ratio on the planet."
   },
   "id": "9e3cb13a-8d4b-4781-81e7-12cdb0c11483",
+  "identifiers": {
+    "coinmarketcap": 17781
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x47d42E0e864ceFf8C4270F7b6E1f6F91Da45882C",
     "website": "https://everearn.net",

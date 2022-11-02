@@ -7,6 +7,9 @@
     "en": "PeacockCoin is a deflationary yield token on the Binance Smart Chain with Multi-dimensional NFT's"
   },
   "id": "9dda52a1-a278-400e-9e6a-715fa7846f0d",
+  "identifiers": {
+    "coinmarketcap": 9899
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x050787de0cf5da03d9387b344334d51cae5dd0fd",
     "website": "https://peacockcoin.finance/",

@@ -7,6 +7,9 @@
     "en": "Buy, Sell, Trade, or use our Trade and Grade service for Pokémon, Yu-Gi-Oh, Magic The Gathering, and other TCG Cards or any Sports Memorabilia and NFT’s through the TCG Trading platform and pay with our own cryptocurrency TCGCoin"
   },
   "id": "1d716ead-f9c2-4733-a2c9-3578f7c7a7b6",
+  "identifiers": {
+    "coinmarketcap": 9971
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC070C8Ae94977f78d04553D33449DEf944F24254",
     "website": "https://www.tcgcoin.tech"

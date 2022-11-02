@@ -7,6 +7,9 @@
     "en": "SON aims to build a sustainable, long term token bringing innovative ideas into the crypto space."
   },
   "id": "13d741e2-258f-4ae5-a81b-1bfbe5761f02",
+  "identifiers": {
+    "coinmarketcap": 14254
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x413eca30181f7ed78de38da95f44fc53f664157a",
     "website": "https://www.sonofshib.com/",

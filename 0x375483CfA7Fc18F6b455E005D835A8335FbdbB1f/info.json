@@ -7,6 +7,9 @@
     "en": "Eclipse is a multi-utility token to be used on Eclipse platforms."
   },
   "id": "be10745d-96a6-40de-b110-ba5d831c0276",
+  "identifiers": {
+    "coinmarketcap": 9378
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
     "website": "https://eclipsetoken.org",

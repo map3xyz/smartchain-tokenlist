@@ -7,6 +7,9 @@
     "en": "MELONx - We can beat breast cancer. Together!"
   },
   "id": "119991aa-b1e0-4599-a55c-94b8b6c08201",
+  "identifiers": {
+    "coinmarketcap": 14191
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF28709f1daa6CEE2847C5B9526ceba457331742b",
     "website": "https://melontokenbsc.com/",

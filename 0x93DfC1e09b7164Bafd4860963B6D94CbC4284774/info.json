@@ -7,6 +7,9 @@
     "en": "A deflationary, community-oriented coin that provides rewards for holders through redistribution of coins"
   },
   "id": "3fa438ea-2a4c-4dcb-bb34-6201c7e13519",
+  "identifiers": {
+    "coinmarketcap": 9728
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x93DfC1e09b7164Bafd4860963B6D94CbC4284774",
     "website": "https://www.nocapcoin.net/"

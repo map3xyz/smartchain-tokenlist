@@ -7,6 +7,9 @@
     "en": "GMR: The decentralised gaming token and social GameFi platform. Create. Empower. Game."
   },
   "id": "01c13e55-da21-4d69-96d2-21f37c1880bb",
+  "identifiers": {
+    "coinmarketcap": 15830
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
     "website": "https://gmr.center",

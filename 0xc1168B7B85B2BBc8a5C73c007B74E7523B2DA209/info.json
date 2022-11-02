@@ -7,6 +7,9 @@
     "en": "BABYBNB is an ecosystem supported by holders who, while they hold partake in the benefits and profits from several use cases, mentioned below. BABYBNB aims to revolutionize mass adoption in the space providing secure and smart projects for the masses that have partnered with the BABYBNB platform"
   },
   "id": "86671187-1d6e-4295-b360-58e185e295f7",
+  "identifiers": {
+    "coinmarketcap": 10698
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
     "website": "https://babybnb.org"

@@ -7,6 +7,9 @@
     "en": "We Are First Online Qris Platform In Indonesia. Qrkita Provides The Latest Technology For Online And Offline Merchant To Boost Their Sales."
   },
   "id": "9131c901-9937-498b-97e7-681e7711763a",
+  "identifiers": {
+    "coinmarketcap": 12501
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x921d3a6ed8223AFb6358410F717e2FB13cbae700",
     "website": "https://www.qrkita.exchange",

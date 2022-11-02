@@ -7,6 +7,9 @@
     "en": "BSR is is a BinStarter Launchpad Token"
   },
   "id": "6cdcdc50-fbd7-4cbf-8afa-49a7be1a8106",
+  "identifiers": {
+    "coinmarketcap": 11275
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xab287e6D370C61f105630e656B5468ACB4D00423",
     "website": "https://binstarter.io",

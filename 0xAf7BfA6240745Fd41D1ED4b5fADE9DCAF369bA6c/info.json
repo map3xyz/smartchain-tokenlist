@@ -7,6 +7,9 @@
     "en": "MATICVERSE is your gateway to the Baby Vengers multiverse!"
   },
   "id": "43849c58-333c-4835-9bf9-9bd775bda033",
+  "identifiers": {
+    "coinmarketcap": 11062
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAf7BfA6240745Fd41D1ED4b5fADE9DCAF369bA6c",
     "website": "https://maticverse.io/",

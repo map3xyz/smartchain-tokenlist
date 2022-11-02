@@ -7,6 +7,9 @@
     "en": "τDogecoin is a synthetic Dogecoin supported by some of the largest miners in the world. Implementing the τ protocol, τDogecoin shows superior capital efficiency and composability for DeFi uses."
   },
   "id": "f45a93a8-d704-48dd-ae19-1838d538beec",
+  "identifiers": {
+    "coinmarketcap": 10181
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
     "website": "https://btcst.finance/"

@@ -7,6 +7,9 @@
     "en": "A Worldwide Carbon Sequestration Cryptocurrency Project dedicated to developing sustainable programs aiming to combat Global Warming and Climate Change."
   },
   "id": "f8c8af34-c192-46ce-bc00-392cf43a527b",
+  "identifiers": {
+    "coinmarketcap": 13827
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4ac81e3631DcDa62109e3117c4CAE7bf70BbbbD2",
     "website": "https://saveplanetearth.io/",

@@ -7,6 +7,9 @@
     "en": "Mustangtoken is a progressive auto-staking token that pays out rewards just for holding it within your wallet! Half of each fee is reflected back to holders, and the other half is added to the BNB/Snowge Liquidity Pool."
   },
   "id": "ee1a18a9-cb8c-4423-b00a-1fefa36d0426",
+  "identifiers": {
+    "coinmarketcap": 9328
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa042d20abe198e516d885da52a633b6d44f339b9",
     "website": "https://mustangtoken.net",

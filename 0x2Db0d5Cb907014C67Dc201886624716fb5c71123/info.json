@@ -7,6 +7,9 @@
     "en": "AINU Token is an all-new BEP20 token on the Binance Smart Chain that is an automatic liquidity-providing protocol that gives out static rewards to HODLers."
   },
   "id": "fc11b26c-9bba-4140-af5d-34684d6b1304",
+  "identifiers": {
+    "coinmarketcap": 10877
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2Db0d5Cb907014C67Dc201886624716fb5c71123",
     "website": "https://www.ainutoken.net"

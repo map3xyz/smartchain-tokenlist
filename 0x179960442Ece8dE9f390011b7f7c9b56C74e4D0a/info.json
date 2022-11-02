@@ -7,6 +7,9 @@
     "en": "Xeta is a Serverless Layer-1 Blockchain Ecosystem for Metaverse, Gaming, and NFT Applications."
   },
   "id": "e00f0099-3fc2-4b42-b041-eed945d4867b",
+  "identifiers": {
+    "coinmarketcap": 12620
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x179960442Ece8dE9f390011b7f7c9b56C74e4D0a",
     "website": "https://xetareality.com",

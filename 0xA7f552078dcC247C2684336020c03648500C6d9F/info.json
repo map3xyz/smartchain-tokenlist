@@ -7,6 +7,9 @@
     "en": "Ellipsis Finance aims to offer secure low-slippage stable swapping."
   },
   "id": "0ec9089d-323a-43f9-a459-ce04e6ea0d38",
+  "identifiers": {
+    "coinmarketcap": 8938
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA7f552078dcC247C2684336020c03648500C6d9F",
     "website": "https://ellipsis.finance/",

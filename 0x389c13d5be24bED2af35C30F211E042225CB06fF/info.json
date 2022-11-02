@@ -7,6 +7,9 @@
     "en": "A CYBORG SHIBA INU DOG FROM PLANET SHIBAMOON X1000. A DECENTRALIZED MEME TOKEN"
   },
   "id": "0ac9de4d-6860-43e8-8989-edd6f43f47d5",
+  "identifiers": {
+    "coinmarketcap": 13634
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x389c13d5be24bed2af35c30f211e042225cb06ff",
     "website": "https://shiborgtoken.com/",

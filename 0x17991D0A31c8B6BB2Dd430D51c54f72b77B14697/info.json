@@ -7,6 +7,9 @@
     "en": "Second token in the Chihua Token Ecosystem. Chimom is the female version of Chihua and is needed for successfull breeding of Puppies"
   },
   "id": "8c689a83-6929-438b-b795-e041296523c2",
+  "identifiers": {
+    "coinmarketcap": 10175
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17991D0A31c8B6BB2Dd430D51c54f72b77B14697",
     "website": "https://chihuatoken.com"

@@ -7,6 +7,9 @@
     "en": "Hugo is a DeFi Token on the Binance Smart Chain which will be used on a Decentralized Platform where holders votes matter to shape the future of the platform."
   },
   "id": "cb67c8a4-b293-48b1-b47f-064af97f2db2",
+  "identifiers": {
+    "coinmarketcap": 9282
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xce195c777e1ce96c30ebec54c91d20417a068706",
     "website": "https://www.hugo.finance/"

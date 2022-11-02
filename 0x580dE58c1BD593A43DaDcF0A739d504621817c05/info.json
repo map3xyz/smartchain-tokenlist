@@ -7,6 +7,9 @@
     "en": "World First Liquidity Mining Coin with Static Rewards."
   },
   "id": "1103716d-81fa-4093-b437-9daff844ad30",
+  "identifiers": {
+    "coinmarketcap": 10787
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x580dE58c1BD593A43DaDcF0A739d504621817c05",
     "website": "https://thoreum.finance/"

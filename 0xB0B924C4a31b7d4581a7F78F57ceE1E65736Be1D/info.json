@@ -7,6 +7,9 @@
     "en": "HappyCoin is a BEP20 charity-oriented token that is helping to fight mental illness across the world."
   },
   "id": "9aaf2853-6e64-49d6-a7aa-3abdcc4d17ed",
+  "identifiers": {
+    "coinmarketcap": 9824
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d",
     "website": "https://thehappycoin.co",

@@ -7,6 +7,9 @@
     "en": "Crypto Legions is a cutting edge Play-To-Earn NFT game on the BSC network, with a genius Omni-Balanced Oracle system for a sustainable game economy. By just playing a few minutes each day, you can earn Bloodstone tokens (BLST), which can be converted into any currency you want."
   },
   "id": "a4ca56ca-d3c7-4d4c-bd15-82f94a1f384f",
+  "identifiers": {
+    "coinmarketcap": 20630
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10cb66ce2969d8c8193707A9dCD559D2243B8b37",
     "website": "https://cryptolegions.app",

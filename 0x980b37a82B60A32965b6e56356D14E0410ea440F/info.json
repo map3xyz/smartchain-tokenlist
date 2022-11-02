@@ -7,6 +7,9 @@
     "en": "Token issued by Ronin Gamez studio as a transactional token for the future game launchpad"
   },
   "id": "f78c5dfe-4b52-45b0-9bcb-69000ce769cf",
+  "identifiers": {
+    "coinmarketcap": 12207
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x980b37a82B60A32965b6e56356D14E0410ea440F",
     "website": "https://roningamez.io/",

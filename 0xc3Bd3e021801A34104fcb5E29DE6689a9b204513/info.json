@@ -7,6 +7,9 @@
     "en": "LevelUP your one stop P2E Blockchain Gaming Platform built for both players and game developers."
   },
   "id": "34676cf3-b404-41cc-9081-27976200ed65",
+  "identifiers": {
+    "coinmarketcap": 13952
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc3Bd3e021801A34104fcb5E29DE6689a9b204513",
     "website": "https://www.level-up.game",

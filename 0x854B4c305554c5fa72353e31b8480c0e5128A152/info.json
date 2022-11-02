@@ -7,6 +7,9 @@
     "en": "Dear Trust Wallet Team. According to the meeting, We have collaboration with the BSC team at the suggestion of the Sea Binance Team (telegram user @bibiapac @Jessbinance, @BrettBinance, @BinanceBrokerTeam). So We would like to submit our Logo to Trust Wallet for more business collaboration."
   },
   "id": "b22306eb-b72e-4549-9639-782b22d805c5",
+  "identifiers": {
+    "coinmarketcap": 12328
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x854B4c305554c5fa72353e31b8480c0e5128A152",
     "website": "https://welnance.com",

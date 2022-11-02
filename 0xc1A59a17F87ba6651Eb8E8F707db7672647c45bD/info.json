@@ -7,6 +7,9 @@
     "en": "LNR is the community currency and utility token that powers the Lunar Ecosystem."
   },
   "id": "738121d5-fe0d-4067-85fe-9468d04d2353",
+  "identifiers": {
+    "coinmarketcap": 22103
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc1a59a17f87ba6651eb8e8f707db7672647c45bd",
     "website": "https://lunar.io/",

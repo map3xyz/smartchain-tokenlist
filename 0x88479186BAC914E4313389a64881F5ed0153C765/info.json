@@ -7,6 +7,9 @@
     "en": "SquidGrow is the next big meme utility token in the cryptocurrency space! Created by the biggest Shiba Inu whale, SquidGrow has the building blocks to get to the highest level. With our owner being one of the biggest investors in the world, the possibilities and connections for SquidGrow are endless!"
   },
   "id": "1ee61f65-f7d5-42d0-90a2-1300c2023fc6",
+  "identifiers": {
+    "coinmarketcap": 21134
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x88479186BAC914E4313389a64881F5ed0153C765",
     "website": "https://squidgrow.wtf",

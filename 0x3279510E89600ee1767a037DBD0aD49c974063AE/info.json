@@ -7,6 +7,9 @@
     "en": "NFTBooks envisions to transform the world of book-readings, making it become more affordable and more accessible to many people."
   },
   "id": "490c0d48-071d-4901-98b4-b91c531d459c",
+  "identifiers": {
+    "coinmarketcap": 11042
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3279510E89600ee1767a037DBD0aD49c974063AE",
     "website": "https://nftbooks.info",

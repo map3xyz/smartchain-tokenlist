@@ -7,6 +7,9 @@
     "en": "The CAKEBANK protocol is a community inspired DeFi experiment built on Binance. every buy/sell is taken and redistributed to all holders. Hold CAKEBANK tokens, earn CAKE."
   },
   "id": "da93d4de-416e-4503-9ae1-2558d5828c84",
+  "identifiers": {
+    "coinmarketcap": 11376
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78",
     "website": "https://cakebank.finance",

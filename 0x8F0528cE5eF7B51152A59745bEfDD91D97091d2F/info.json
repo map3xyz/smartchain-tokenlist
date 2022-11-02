@@ -7,6 +7,9 @@
     "en": "ALPACA is the token that powers Alpaca Finance, the 1st leveraged yield farming protocol on Binance Smart Chain."
   },
   "id": "f9d02b95-28a5-410f-a965-511b32dcdb8c",
+  "identifiers": {
+    "coinmarketcap": 8707
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
     "website": "https://www.alpacafinance.org"

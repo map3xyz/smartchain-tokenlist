@@ -7,6 +7,9 @@
     "en": "Fox Trading is an automated trading service managed by our success Forex bots that will try to get the most from your investment. Powered by FOXT token."
   },
   "id": "c2c9e62b-7013-4457-ae3d-b0849b2b96b1",
+  "identifiers": {
+    "coinmarketcap": 2966
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x50ea9c9f88aeab9f554b8ffb4d7a1017957e866a",
     "website": "https://foxtrading.io"

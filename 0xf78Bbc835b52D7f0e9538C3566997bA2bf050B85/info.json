@@ -7,6 +7,9 @@
     "en": "SkyBorn created and continues to grow a cryptocurrency community comprised of members to trade and create shareable community content. The SkyBorn project plans to incorporate NFTs for the upcoming release of Binance's release of NFT Marketplace on June 24th, 2021. Additionally, SkyBorn plans to design a mobile application (game) where all microtransactions will be used towards marketing of the token."
   },
   "id": "dc83aacd-6656-4fcb-807a-f6ce05fda6e2",
+  "identifiers": {
+    "coinmarketcap": 10184
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf78Bbc835b52D7f0e9538C3566997bA2bf050B85",
     "website": "https://www.skybornbsc.com/"

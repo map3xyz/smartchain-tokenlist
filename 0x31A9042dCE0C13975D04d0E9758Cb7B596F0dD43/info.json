@@ -7,6 +7,9 @@
     "en": "Burn1 Coin is the foundation of an ecosystem of cannabis centric crypto products while simultaneously supporting Cannabis reform & advocacy. "
   },
   "id": "bbaeedbd-bd5d-45d6-9f13-1b983f922ea9",
+  "identifiers": {
+    "coinmarketcap": 9952
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x31A9042dCE0C13975D04d0E9758Cb7B596F0dD43",
     "website": "https://burn1.today",

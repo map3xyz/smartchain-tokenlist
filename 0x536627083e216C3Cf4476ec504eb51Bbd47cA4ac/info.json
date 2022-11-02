@@ -7,6 +7,9 @@
     "en": "GamingDoge is the ultimate companion and only wants to make Doge community and Gamers proud. "
   },
   "id": "a3720356-4779-4e47-b8b3-1a53db03c058",
+  "identifiers": {
+    "coinmarketcap": 13718
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x536627083e216c3cf4476ec504eb51bbd47ca4ac",
     "website": "https://www.gamingdoge.com/",

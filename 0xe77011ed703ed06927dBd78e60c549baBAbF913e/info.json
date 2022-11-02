@@ -7,6 +7,9 @@
     "en": "The Micro Bitcoin mBTC is frictionless mining generation mBTC hard-coded on its smart contract to use as future store of value currency."
   },
   "id": "96b19000-5c3c-4174-aa29-228898bf6fd2",
+  "identifiers": {
+    "coinmarketcap": 10245
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe77011ed703ed06927dBd78e60c549baBAbF913e",
     "website": "https://mbitcoin.finance/"

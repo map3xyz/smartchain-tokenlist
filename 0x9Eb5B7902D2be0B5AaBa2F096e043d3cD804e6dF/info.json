@@ -7,6 +7,9 @@
     "en": "MyPetSocial is a social network for NFTs gaming on Binance Smart Chain, where you can generate more profit from your NFTs. By making the most of NFTs usage, MyPetSocial promises to bring about the best users experience of the crypto world."
   },
   "id": "a66e441f-9ad2-4fac-a4ad-015429e89c6a",
+  "identifiers": {
+    "coinmarketcap": 11382
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9Eb5B7902D2be0B5AaBa2F096e043d3cD804e6dF",
     "website": "https://mypetsocial.org/",

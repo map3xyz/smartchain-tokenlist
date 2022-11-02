@@ -7,6 +7,9 @@
     "en": "Vodka Token — collectible play-to-earn NFT game based on DeFi."
   },
   "id": "968f0382-d9f2-43cc-9ae1-7f7330054614",
+  "identifiers": {
+    "coinmarketcap": 15147
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x66dA5cc445feC38A9475Ae7941f89110b9d256b9",
     "website": "https://vodkatoken.com/",

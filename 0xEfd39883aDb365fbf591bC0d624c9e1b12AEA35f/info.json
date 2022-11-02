@@ -7,6 +7,9 @@
     "en": "DinkDoink is a cryptocurrency bridging the gap between entertainment and crypto!"
   },
   "id": "c8b8a2da-3938-4c68-bd9c-3c3d98fbfd91",
+  "identifiers": {
+    "coinmarketcap": 10710
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
     "website": "https://dinkdoink.net"

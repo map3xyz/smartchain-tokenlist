@@ -7,6 +7,9 @@
     "en": "A decentralized reserve currency protocol with the aim of mitigating volatility of traditional cryptocurrencies while not being pegged to any fiat currencies."
   },
   "id": "cd231914-c1fb-4fb4-a7b0-fb582d436dfb",
+  "identifiers": {
+    "coinmarketcap": 12703
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1B239ABe619e74232c827FBE5E49a4C072bD869D",
     "website": "https://gyro.money/",

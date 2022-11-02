@@ -7,6 +7,9 @@
     "en": "BEM is a token issued by BEMIL MT INTERNATIONAL DOO"
   },
   "id": "c4376f48-a59d-4609-901c-430524474c42",
+  "identifiers": {
+    "coinmarketcap": 12878
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7B86b0836f3454e50C6F6a190cd692bB17da1928",
     "website": "https://bemil.io/",

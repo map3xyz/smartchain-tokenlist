@@ -7,6 +7,9 @@
     "en": "CryptoMines Reborn is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $CRUX, this mineral allows them to live another day and make some profits along the way."
   },
   "id": "d4819420-c107-47f4-b319-0ad2b26b918a",
+  "identifiers": {
+    "coinmarketcap": 19003
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995",
     "website": "https://cryptomines.app/",

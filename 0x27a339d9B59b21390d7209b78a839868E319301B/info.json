@@ -7,6 +7,9 @@
     "en": "OpenWorld works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow."
   },
   "id": "fc90d2a9-1764-43e2-8785-2a68fb7b7d8d",
+  "identifiers": {
+    "coinmarketcap": 13206
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x27a339d9B59b21390d7209b78a839868E319301B",
     "website": "https://openworld.vision/",

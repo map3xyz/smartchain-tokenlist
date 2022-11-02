@@ -7,6 +7,9 @@
     "en": "Foliowatch is the first smart Defi Dashboard with LP management on the Binance Smartchain. It is Portfolio and liquidity pool performance watch plus yield farming, Fully decentralized."
   },
   "id": "0ed9fa07-2dde-4574-9973-40a5181fcc20",
+  "identifiers": {
+    "coinmarketcap": 10151
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5CdCB6C1A30F59D59393D1629172634056E0461C",
     "website": "https://foliowatch.net"

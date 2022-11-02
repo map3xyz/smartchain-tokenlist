@@ -7,6 +7,9 @@
     "en": "BALA is the platform token of Shambala metaverse"
   },
   "id": "9624f94f-3c72-4ff9-94f5-7062d781888a",
+  "identifiers": {
+    "coinmarketcap": 11713
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x34bA3af693d6c776d73C7fa67e2B2e79be8ef4ED",
     "website": "https://shambala.finance/",

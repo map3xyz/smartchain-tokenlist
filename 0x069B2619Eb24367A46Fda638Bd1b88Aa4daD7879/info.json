@@ -7,6 +7,9 @@
     "en": "Every trade contributes toward automatically generating liquidity locked inside Pancakeswap LP."
   },
   "id": "9ca6497d-27c2-4a95-8cac-ebd061ed6d0d",
+  "identifiers": {
+    "coinmarketcap": 9006
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x069b2619eb24367a46fda638bd1b88aa4dad7879",
     "website": "https://moondao.finance",

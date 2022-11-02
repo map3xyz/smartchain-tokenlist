@@ -7,6 +7,9 @@
     "en": "First Blockchain Based E-commerce System And Farming Bsc Token."
   },
   "id": "e543390a-58e7-4ebc-a3d6-56e0d27e843c",
+  "identifiers": {
+    "coinmarketcap": 10321
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9986aa69545dC44B66fc85Ba505Fd66FEAE0d6A5",
     "website": "https://bidcommerce.app/"

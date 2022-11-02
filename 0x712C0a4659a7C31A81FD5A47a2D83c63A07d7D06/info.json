@@ -7,6 +7,9 @@
     "en": "LIMON.GROUP system generates NFT Tokens based on Binance Smart Chain. LIMON NFT Tokens are interconnected to digital products and commercial physical products (EAN - European Article Number) distribute this between B2B or B2P. Our upcoming DEX exchange (P2P) owns an automatic market maker (AMM) for exchanging BEP-20 tokens. Liquidity pools and locks, farming and staking functionalities will be included."
   },
   "id": "a6bcb052-39e1-432f-ac41-4fad5ec581ad",
+  "identifiers": {
+    "coinmarketcap": 10141
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x712C0a4659a7C31A81FD5A47a2D83c63A07d7D06",
     "website": "https://limon.group/"

@@ -7,6 +7,9 @@
     "en": "Rijent Coin is a revolutionary utility token and crypto education platform designed to connect worldwide cryptocurrency users."
   },
   "id": "7a28e056-9673-49e2-b2bb-27bd45c2e2d9",
+  "identifiers": {
+    "coinmarketcap": 12713
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x913aFbBA462d6ae230344209d0Bd11CE3CE92Ed1",
     "website": "https://rijentcoin.com/",

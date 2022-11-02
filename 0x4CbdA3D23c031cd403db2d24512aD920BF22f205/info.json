@@ -7,6 +7,9 @@
     "en": "SUBX FINANCE LAB is a blockchain-as-a-service provider for businesses to integrate web3 technologies into their products and services."
   },
   "id": "f4fe6142-0cba-4ffd-ad4b-c58f450d197c",
+  "identifiers": {
+    "coinmarketcap": 14882
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4CbdA3D23c031cd403db2d24512aD920BF22f205",
     "website": "https://subx.finance",

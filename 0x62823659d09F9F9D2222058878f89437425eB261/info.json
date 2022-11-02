@@ -7,6 +7,9 @@
     "en": "The ERTHA token is the primary utility token used to facilitate sustainable DAO design for the game's metaverse ecosystem as a whole."
   },
   "id": "b799994a-aeb9-4760-bc27-fb023df03c02",
+  "identifiers": {
+    "coinmarketcap": 12294
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x62823659d09F9F9D2222058878f89437425eB261",
     "website": "https://ertha.io/",

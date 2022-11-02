@@ -7,6 +7,9 @@
     "en": "Tacocat is a community coin that builds up public involvement to establish a first of its' kind crypto lifestyle brand. Tacocat brings the energy and ideas of the crypto community to the global audience with a unique style of cross-platform engagement."
   },
   "id": "7416680e-7db1-4aa0-bcb7-bd4be271937d",
+  "identifiers": {
+    "coinmarketcap": 9717
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa8fcee78b782ef97380326e90df80d72f025f020",
     "website": "https://tacocat.life",

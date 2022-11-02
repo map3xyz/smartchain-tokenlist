@@ -7,6 +7,9 @@
     "en": "Elonomics is a Rebase and BUSD Rewards token in the BSC network."
   },
   "id": "1797e1ba-5e52-404d-85cb-564294f7767d",
+  "identifiers": {
+    "coinmarketcap": 13362
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd3ecc6a4ce1a9faec1aa5e30b55f8a1a4b84f938",
     "website": "https://Elonomicstoken.com",

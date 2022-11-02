@@ -7,6 +7,9 @@
     "en": "Safemoon Cash is – in short – a rug proof, ownership renounced community driven project that will bring rivalry to Safemoon with positive vibes only."
   },
   "id": "1d9b7cdb-af53-45fc-ae6a-e7343936290d",
+  "identifiers": {
+    "coinmarketcap": 10081
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877",
     "website": "https://safemooncash.org",

@@ -7,6 +7,9 @@
     "en": "Nafty is the token for the adult industry, aimed to empower content creators and reward content consumers across the Nafty Network"
   },
   "id": "cfbfaa6c-06d6-4fe6-b8b9-bf0cf5a7ee10",
+  "identifiers": {
+    "coinmarketcap": 10864
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2EED4682197834708c0ea8D11D683440Bbe104d1",
     "website": "https://naftytoken.com",

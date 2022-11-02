@@ -7,6 +7,9 @@
     "en": "Utility token to increase adoption of cryptocurrency."
   },
   "id": "70627185-7c9e-4c43-9d0d-cf5aae3baec3",
+  "identifiers": {
+    "coinmarketcap": 5964
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "research": "https://research.binance.com/en/projects/trustwallet",

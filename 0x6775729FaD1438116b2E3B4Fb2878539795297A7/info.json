@@ -7,6 +7,9 @@
     "en": "CoinAlpha is community based coin listing and voting platform."
   },
   "id": "c4856c50-550d-4ac5-8706-a6eb2ef4cf04",
+  "identifiers": {
+    "coinmarketcap": 12360
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6775729FaD1438116b2E3B4Fb2878539795297A7",
     "website": "https://coinalpha.app/",

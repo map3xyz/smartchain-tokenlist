@@ -7,6 +7,9 @@
     "en": "The most advanced 3D NFT Metaverse MMORPG On Blockchain | #BNBChain"
   },
   "id": "867060dd-f7c9-4fbd-a0e5-fcc044b8d169",
+  "identifiers": {
+    "coinmarketcap": 15002
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89",
     "website": "https://kryxivia.io/",

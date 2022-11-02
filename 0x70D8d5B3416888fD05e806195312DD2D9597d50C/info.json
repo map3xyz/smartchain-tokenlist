@@ -7,6 +7,9 @@
     "en": "MEXI is the governance token of the Metaxiz system. Users can use MEXI for their NFT’s transactions on the Metaxiz marketplace, join the play-and-earn games in Metaxiz Metaverse and enjoy various functionalities of the Metaxiz ecosystem in the future."
   },
   "id": "1df09cd7-5bcd-41f2-be56-df09e925df4a",
+  "identifiers": {
+    "coinmarketcap": 15963
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x70d8d5b3416888fd05e806195312dd2d9597d50c",
     "website": "https://metaxiz.com",

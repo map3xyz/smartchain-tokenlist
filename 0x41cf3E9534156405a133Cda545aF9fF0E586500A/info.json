@@ -7,6 +7,9 @@
     "en": "The modern technology and contemporary ambient that the internet created can not be imagined to function as a whole without crypto-currency."
   },
   "id": "80a66e13-70ad-4a06-b950-6970a44b9a9c",
+  "identifiers": {
+    "coinmarketcap": 15323
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x41cf3E9534156405a133Cda545aF9fF0E586500A",
     "website": "https://www.gamingshibaofficial.com",

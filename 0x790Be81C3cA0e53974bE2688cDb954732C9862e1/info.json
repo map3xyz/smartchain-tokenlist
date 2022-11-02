@@ -7,6 +7,9 @@
     "en": "CafeSwap is a revolutionary yield farming and staking platform on Binance Smart Chain"
   },
   "id": "c480b6d8-0552-4068-9d87-d4dd474c8216",
+  "identifiers": {
+    "coinmarketcap": 8481
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x790Be81C3cA0e53974bE2688cDb954732C9862e1",
     "research": "https://docs.cafeswap.finance/",

@@ -7,6 +7,9 @@
     "en": "Moonshot is a deflationary, frictionless yield and liquidity generation protocol featuring MoonBoxes.io and MoonSea.io"
   },
   "id": "289dadf4-3e55-4beb-baa2-2815c6e26a1f",
+  "identifiers": {
+    "coinmarketcap": 9140
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5298AD82dD7C83eEaA31DDa9DEB4307664C60534",
     "website": "https://project-moonshot.me",

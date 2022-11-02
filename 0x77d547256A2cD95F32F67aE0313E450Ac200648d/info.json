@@ -7,6 +7,9 @@
     "en": "BEP-20 utility token for S.S. Lazio"
   },
   "id": "5955f845-a295-4e6e-8dd2-fe5c7f1260e7",
+  "identifiers": {
+    "coinmarketcap": 12687
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x77d547256A2cD95F32F67aE0313E450Ac200648d",
     "website": "https://www.binance.com/en/fan-token/team-profile/lazio",

@@ -7,6 +7,9 @@
     "en": "Powering a new NFT/DeFi platform for all types of content."
   },
   "id": "382df7e6-ad5d-47e1-8ed1-4742f62d1721",
+  "identifiers": {
+    "coinmarketcap": 9299
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf7844cb890f4c339c497aeab599abdc3c874b67a",
     "website": "https://nft-art.finance/"

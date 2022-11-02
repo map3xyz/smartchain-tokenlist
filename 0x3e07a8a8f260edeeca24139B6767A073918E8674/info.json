@@ -7,6 +7,9 @@
     "en": "CATGE is the cat coin, a semi-deflationary token and the utility token for the Startup Token Launchpad exchange."
   },
   "id": "690644d9-51be-49bc-ad7e-29462a3e9839",
+  "identifiers": {
+    "coinmarketcap": 10274
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3e07a8a8f260edeeca24139B6767A073918E8674",
     "website": "https://catgecoin.com/"

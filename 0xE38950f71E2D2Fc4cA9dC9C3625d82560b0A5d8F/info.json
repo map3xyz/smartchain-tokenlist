@@ -7,6 +7,9 @@
     "en": "NELO is a protocol and infrastructure that is leveraging the Proof-of-Stake consensus algorithm to help developers deploy their games and Metaverse projects."
   },
   "id": "6f5f9824-f87b-49dc-a887-f23915097ccb",
+  "identifiers": {
+    "coinmarketcap": 13940
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE38950f71E2D2Fc4cA9dC9C3625d82560b0A5d8F",
     "website": "https://nelo.network/",

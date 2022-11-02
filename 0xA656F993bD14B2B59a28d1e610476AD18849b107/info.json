@@ -7,6 +7,9 @@
     "en": "SAFERMOON is an audited, vetted, and trusted RFI static reward token that benefits investors who hold. 10% trade fees provide a combination of rewards to token holders and liquidity, which increases SAFERMOON's price floor."
   },
   "id": "76f92bcf-48ef-482b-aee9-2e2653691d3a",
+  "identifiers": {
+    "coinmarketcap": 9761
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA656F993bD14B2B59a28d1e610476AD18849b107",
     "website": "https://safermoon.net/"

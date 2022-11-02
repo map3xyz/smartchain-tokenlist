@@ -7,6 +7,9 @@
     "en": "SHIBX is the first Rebase token which passively rewards Binance Pegged $SHIB INU for holding the token. This Rebase tokens also known as elastic supply is a new contract function that has has taken the BSC network by storm."
   },
   "id": "70d3fbc6-27bc-4edd-a1df-3e0c959aec61",
+  "identifiers": {
+    "coinmarketcap": 12586
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
     "website": "https://shibxbsc.com/",

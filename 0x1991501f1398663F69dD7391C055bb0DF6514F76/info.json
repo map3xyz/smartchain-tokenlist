@@ -7,6 +7,9 @@
     "en": "HotDoge is a community-driven token wiith a reflection mechanism and various DeFi features"
   },
   "id": "b14e4d26-9161-49ea-b64f-8f3d18d9bfbc",
+  "identifiers": {
+    "coinmarketcap": 9961
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1991501f1398663f69dd7391c055bb0df6514f76",
     "website": "https://www.hotdogetoken.com/"

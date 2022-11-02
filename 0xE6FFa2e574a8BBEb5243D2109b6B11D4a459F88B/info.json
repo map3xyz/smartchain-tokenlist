@@ -7,6 +7,9 @@
     "en": "Hippo (HIP) is a visionary decentralized community initiative, created by the Cycan community. Our vision is to build a Decentralized Autonomous Organization(DAO) driven and governed entirely by the community."
   },
   "id": "fb2b857e-3e52-4ce7-9e81-61651daa0f93",
+  "identifiers": {
+    "coinmarketcap": 10297
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
     "website": "https://hippo.cycan.network/"

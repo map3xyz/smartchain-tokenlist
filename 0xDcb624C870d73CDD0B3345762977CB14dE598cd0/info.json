@@ -7,6 +7,9 @@
     "en": "YFIH2 is the first token of H2.Finance which mission is to help energy companies by lending money for their green energy investments."
   },
   "id": "90278002-43f3-4248-9f86-0ce5f6668ba5",
+  "identifiers": {
+    "coinmarketcap": 10545
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
     "website": "https://h2finance.io"

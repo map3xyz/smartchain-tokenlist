@@ -7,6 +7,9 @@
     "en": "The future of the arcade is here! ChainCade is developing its one-of-a-kind blockchain arcade ecosystem to benefit players, creators, and investors together. Join the arcade revolution."
   },
   "id": "c8c77a0c-e750-42a8-8b79-b2744355004a",
+  "identifiers": {
+    "coinmarketcap": 10875
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
     "website": "https://www.chaincade.com",

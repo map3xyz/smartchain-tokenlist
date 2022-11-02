@@ -7,6 +7,9 @@
     "en": "The Greed Ecosystem combines the First Crypto Music Label, NFTs, the Metaverse, Swaps, Farms & Staking on multiple blockchains."
   },
   "id": "25bdd5e8-53e9-4f6f-af60-5149bc731657",
+  "identifiers": {
+    "coinmarketcap": 13235
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5905df3D03E29a22e22462D3257E6AC731E22C15",
     "website": "https://greedtoken.com/",

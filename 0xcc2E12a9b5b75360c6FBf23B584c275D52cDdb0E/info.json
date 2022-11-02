@@ -7,6 +7,9 @@
     "en": "CrowFinance an Evolution Yield Farming and Yield Optimizer on Binance Smart Chain with daytime and nighttime burn mechanism system."
   },
   "id": "0fe2bbc6-8167-41cb-a76e-49802593642b",
+  "identifiers": {
+    "coinmarketcap": 8533
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcc2E12a9b5b75360c6FBf23B584c275D52cDdb0E",
     "website": "https://crowfinance.net/",

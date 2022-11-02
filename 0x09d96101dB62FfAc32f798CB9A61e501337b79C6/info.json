@@ -7,6 +7,9 @@
     "en": "WEB3 Game building a Game Studio, Metaverse, DeFi and Web3.0. An unique play-to-earn game that strives to return ownership back to the gamers"
   },
   "id": "5d55539b-108f-4f2a-843a-165ce2b56692",
+  "identifiers": {
+    "coinmarketcap": 19569
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x09d96101db62ffac32f798cb9a61e501337b79c6",
     "website": "https://web3game.tech",

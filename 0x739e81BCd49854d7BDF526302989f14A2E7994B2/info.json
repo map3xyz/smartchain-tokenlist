@@ -7,6 +7,9 @@
     "en": "Centcex is designed to build blockchain apps "
   },
   "id": "0a5ec4cd-64a3-4172-81f6-a94118a88342",
+  "identifiers": {
+    "coinmarketcap": 14849
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x739e81bcd49854d7bdf526302989f14a2e7994b2",
     "website": "https://centcex.com",

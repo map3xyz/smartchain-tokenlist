@@ -7,6 +7,9 @@
     "en": "UnderMineGold project will become a platform, which includes NFT, De-Fi and game."
   },
   "id": "b2e33f43-08c8-439d-99d8-03b764a137b8",
+  "identifiers": {
+    "coinmarketcap": 11555
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA73505453F58E367c80F16685079dAD6f4EA6b18",
     "website": "https://www.underminegold.com",

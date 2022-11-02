@@ -7,6 +7,9 @@
     "en": "BCOIN is the token used in the Bomb Crypto game"
   },
   "id": "48c032ed-5f53-4880-b5c4-c684698b249d",
+  "identifiers": {
+    "coinmarketcap": 12252
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
     "website": "https://bombcrypto.io/",

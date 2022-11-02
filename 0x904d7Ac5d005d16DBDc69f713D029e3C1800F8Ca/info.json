@@ -7,6 +7,9 @@
     "en": "Martian DAO is a fun, engaging, and community driven project combining the tried-and-true tokenomics of high-yield frictionless farming and the new concept of injections via the process of liquidity events."
   },
   "id": "b80f3ef8-4e47-45c3-9147-9a29ce083bc3",
+  "identifiers": {
+    "coinmarketcap": 9228
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x904d7Ac5d005d16DBDc69f713D029e3C1800F8Ca",
     "website": "https://www.martiandao.net/"

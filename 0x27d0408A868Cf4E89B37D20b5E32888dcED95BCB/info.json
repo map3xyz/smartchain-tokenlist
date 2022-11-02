@@ -7,6 +7,9 @@
     "en": "BERNARD is a meme coin and the first pillar of the growing bernard.finance ecosystem."
   },
   "id": "bff4255b-ad13-44a7-ac75-d2e50386fafa",
+  "identifiers": {
+    "coinmarketcap": 10737
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x27d0408A868Cf4E89B37D20b5E32888dcED95BCB",
     "website": "https://bernard.finance/"

@@ -7,6 +7,9 @@
     "en": "Libero Finance is transforming DeFi with the Libero Autostaking Protocol (LAP) that delivers the industry’s fixed APY, compounding rewards every 30 minutes, and a simple buy-hold-earn system that grows Investors' portfolio in their wallet fast with fixed interest of 2.02% per day or 158,893.59% a year without having to do anything"
   },
   "id": "822f7baf-54d1-444e-8dc9-31fb84cfe0cc",
+  "identifiers": {
+    "coinmarketcap": 17776
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
     "website": "https://libero.financial/",

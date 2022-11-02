@@ -7,6 +7,9 @@
     "en": "Give your shot at one of the most lucrative lottery game on BSC! Our team are developing an online casino with lottery concepts for those investing on our token. Our project will develop the concept with low-tax contract, with up to 1000% possible winning!"
   },
   "id": "14530b25-178f-4fd1-ac5f-d9757ac05884",
+  "identifiers": {
+    "coinmarketcap": 13327
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x52cF099D7C891951eAce3E99ABC580BDa26912fC",
     "website": "https://nevada.casino/",

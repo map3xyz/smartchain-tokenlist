@@ -7,6 +7,9 @@
     "en": "0xzx.com is a content-based incentive platform based on the decentralized economy that continually motivates new news content."
   },
   "id": "aaeda63f-d676-46d2-a2c1-4916afcc410d",
+  "identifiers": {
+    "coinmarketcap": 15854
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b",
     "website": "https://0xzx.com"

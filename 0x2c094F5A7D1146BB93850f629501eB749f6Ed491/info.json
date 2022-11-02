@@ -7,6 +7,9 @@
     "en": "CroxSwap is a fully decentralized cross-chain dex with AMM and yield farming protocol."
   },
   "id": "fb68ca97-2487-4c74-801c-3a5f1df28b04",
+  "identifiers": {
+    "coinmarketcap": 9548
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2c094f5a7d1146bb93850f629501eb749f6ed491",
     "website": "https://croxswap.com"

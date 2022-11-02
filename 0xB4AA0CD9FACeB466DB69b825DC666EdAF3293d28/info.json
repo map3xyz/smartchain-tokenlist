@@ -7,6 +7,9 @@
     "en": "DAMN Connecting the World through Blockchain Innovations."
   },
   "id": "01ae152c-dcd6-4551-83fd-c6b5461c0733",
+  "identifiers": {
+    "coinmarketcap": 13372
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28",
     "website": "https://damncool.io/",

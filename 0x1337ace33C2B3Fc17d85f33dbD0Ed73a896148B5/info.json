@@ -7,6 +7,9 @@
     "en": "Gravitoken is the first elastic supply token on BSC with Auto LP, token buyback and marketing provision"
   },
   "id": "fe05b33b-3168-4ed6-afed-6c8aa4bbb937",
+  "identifiers": {
+    "coinmarketcap": 11892
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5",
     "website": "https://gravitoken.co.uk/"

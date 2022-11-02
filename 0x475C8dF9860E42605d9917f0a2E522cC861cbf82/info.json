@@ -7,6 +7,9 @@
     "en": "Scorpion Finance is one of the newest and forward-looking innovation projects in cryptocurrency platforms. Scorpion-finance aims to interconnect Blockchain services like Defi, NFT, Gaming, Payment and Marketplace under one seamless, responsive, and easy-to-use ecosystem."
   },
   "id": "cba65ed1-742e-4f8c-b348-a6eead1fd5ee",
+  "identifiers": {
+    "coinmarketcap": 13907
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x475C8dF9860E42605d9917f0a2E522cC861cbf82",
     "website": "https://www.scorpion-finance.com/",

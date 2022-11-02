@@ -7,6 +7,9 @@
     "en": "Deflationary meme coin with products like NFT Market+ Mobile wallet"
   },
   "id": "fc34952d-49d8-4708-8eea-32a9fbe94832",
+  "identifiers": {
+    "coinmarketcap": 11037
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9105F25A9D6B3d289cC7315b0b4e0b91F3806fB1",
     "website": "https://shibamask.org",

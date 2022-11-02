@@ -7,6 +7,9 @@
     "en": "LESLAR Metaverse aims to empower people to the future and create an ecosystem for people to connect, trade, learn, and play the immersive world of Web 3.0 with rewards."
   },
   "id": "b8ca095a-94ee-4aab-9d34-0af0abf2dec3",
+  "identifiers": {
+    "coinmarketcap": 20194
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x39bca4d597062378b5669cd31a3bbfeccdd36b3c",
     "website": "https://www.leslarmetaverse.com",

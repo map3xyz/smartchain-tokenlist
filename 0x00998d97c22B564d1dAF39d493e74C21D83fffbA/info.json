@@ -7,6 +7,9 @@
     "en": "Web2 Inu is a community driven token, the project rejects any form of centralization and limits."
   },
   "id": "78aed188-fc21-4ebc-881f-e4a27f987b28",
+  "identifiers": {
+    "coinmarketcap": 19965
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x00998d97c22B564d1dAF39d493e74C21D83fffbA",
     "website": "https://www.web2inu.com",

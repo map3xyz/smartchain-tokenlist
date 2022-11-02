@@ -7,6 +7,9 @@
     "en": "HeroVerse is the first Match-3 Puzzle and RPG Strategy Game on Binance Smart Chain."
   },
   "id": "7fc113c4-1784-4de5-8f8e-325f8f7cf007",
+  "identifiers": {
+    "coinmarketcap": 11947
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6B9F6f911384886b2e622e406327085238F8A3C5",
     "website": "https://heroverse.io",

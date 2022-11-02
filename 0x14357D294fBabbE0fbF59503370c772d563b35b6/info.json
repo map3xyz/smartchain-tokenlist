@@ -7,6 +7,9 @@
     "en": "Hummingbird Finance contract is designed to apply 3% tax to every transaction. 1.5% is distributed to the current holders and 1.5 % is burned forever which decreases supply of HMNG. "
   },
   "id": "1d1de3bf-a3eb-45b3-8897-7c725aa5fae4",
+  "identifiers": {
+    "coinmarketcap": 9737
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x14357d294fbabbe0fbf59503370c772d563b35b6",
     "website": "https://www.hummingbirdbsc.org/"

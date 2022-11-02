@@ -7,6 +7,9 @@
     "en": "Dexioprotocol provides the world with a new way of engagement to the world of blockchain and cryptocurrency."
   },
   "id": "cc1eae80-aedc-43bb-ac85-0a3a856b3ef0",
+  "identifiers": {
+    "coinmarketcap": 9830
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x29b1E39A529d3B3cacEA55989594F71813e998Bb",
     "website": "https://www.dexioprotocol.com/",

@@ -7,6 +7,9 @@
     "en": "BleuFi Marketplace is a next generation marketplace where artists and collectors can create, sell and collect digital items secured with blockchain."
   },
   "id": "ba68b061-cf8b-4abf-b60c-749cf06c0c4d",
+  "identifiers": {
+    "coinmarketcap": 17245
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfFdC00285DDe1f5b5c65C6a963357b4C55d8f601",
     "website": "https://app.bleufi.com/",

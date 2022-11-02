@@ -7,6 +7,9 @@
     "en": "DARC is the main token for Konstellation network, a blockchain ecosystem for the global financial services industry."
   },
   "id": "f5939a4a-84c7-4647-abbc-09d31b8eece4",
+  "identifiers": {
+    "coinmarketcap": 18051
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8ebC361536094fD5B4FFB8521E31900614C9F55D",
     "website": "https://konstellation.tech/",

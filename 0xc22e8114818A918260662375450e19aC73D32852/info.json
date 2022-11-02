@@ -7,6 +7,9 @@
     "en": "KittyCake is an evolution of a yield-generating contract on the Binance Smart Chain (BSC): you get rewarded in CAKE instead of tokens."
   },
   "id": "ce7d27a3-06d1-4966-a3f5-5b34743281d7",
+  "identifiers": {
+    "coinmarketcap": 11190
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc22e8114818A918260662375450e19aC73D32852",
     "website": "https://kittycake.app",

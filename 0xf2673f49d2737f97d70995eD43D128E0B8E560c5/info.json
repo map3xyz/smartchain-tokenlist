@@ -7,6 +7,9 @@
     "en": "Buff Shiba Inu, a community-driven token that empowers small and non-private investors to build stronger portfolios."
   },
   "id": "8bf03699-7efc-43a9-b643-0572e9001b38",
+  "identifiers": {
+    "coinmarketcap": 14085
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf2673f49d2737f97d70995eD43D128E0B8E560c5",
     "website": "https://buffshibainu.io",

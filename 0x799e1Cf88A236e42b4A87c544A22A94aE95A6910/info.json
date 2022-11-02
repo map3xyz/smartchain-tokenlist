@@ -7,6 +7,9 @@
     "en": "MContent is introducing the world’s first digital content market place that aims to build a collaborative content ecosystem with the core purpose of seed funding, incubating and curating film makers and content producers around the World."
   },
   "id": "b32ac36f-b3ff-4710-8dd2-92b2252774cc",
+  "identifiers": {
+    "coinmarketcap": 10954
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x799e1cf88a236e42b4a87c544a22a94ae95a6910",
     "website": "https://mcontent.net/",

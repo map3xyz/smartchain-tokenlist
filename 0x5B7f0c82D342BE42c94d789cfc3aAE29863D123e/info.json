@@ -7,6 +7,9 @@
     "en": "Beeuda is a unique cryptocurrency project, focussing on Building Eco-friendly and Road safe Trucks. This is inspired by the EU's target to cut truck CO2 and boost zero-emission truck sales."
   },
   "id": "64827b26-d626-49e4-baf1-7a6c4e8e7abf",
+  "identifiers": {
+    "coinmarketcap": 13845
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5B7f0c82D342BE42c94d789cfc3aAE29863D123e",
     "website": "https://beeuda.com"

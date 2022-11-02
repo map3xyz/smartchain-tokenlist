@@ -7,6 +7,9 @@
     "en": "RABBIT token is a governance token of the Rabbit Finance. It will also capture the economic benefits of the protocol."
   },
   "id": "b3bdf21f-5271-4cd3-a761-8a8bc4025742",
+  "identifiers": {
+    "coinmarketcap": 10178
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
     "website": "https://rabbitfinance.io",

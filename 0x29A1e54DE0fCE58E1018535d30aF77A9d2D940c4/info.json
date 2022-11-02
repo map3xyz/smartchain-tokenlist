@@ -7,6 +7,9 @@
     "en": "Hero Cat game is a Metaverse about cat heros. It bringing new gamefi playand earn experience for its players. Players can use Hero Cat crypto to fight, develop, upgrade, and join battles. Players will earn crypto by playing or contributing to the community."
   },
   "id": "487e194a-3802-414c-8ee5-2441ccea4786",
+  "identifiers": {
+    "coinmarketcap": 14509
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x29A1e54DE0fCE58E1018535d30aF77A9d2D940c4",
     "website": "https://herocat.io",

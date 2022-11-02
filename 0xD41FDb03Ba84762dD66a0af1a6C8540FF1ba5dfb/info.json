@@ -7,6 +7,9 @@
     "en": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto asset management platform."
   },
   "id": "45c90341-fa58-4310-81a4-6cb5a559db43",
+  "identifiers": {
+    "coinmarketcap": 8119
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
     "research": "https://research.binance.com/en/projects/safepal",

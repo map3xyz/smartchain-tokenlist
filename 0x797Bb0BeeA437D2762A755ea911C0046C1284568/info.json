@@ -7,6 +7,9 @@
     "en": "Vulkania offers customizable Blockchain Dashboards, one stop solutions for gathering data of crypto projects while saving time."
   },
   "id": "d581fabc-8ebf-4bce-97a9-9a7b2b154061",
+  "identifiers": {
+    "coinmarketcap": 9576
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x797bb0beea437d2762a755ea911c0046c1284568",
     "website": "https://vulkania.io",

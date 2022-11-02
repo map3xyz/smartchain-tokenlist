@@ -7,6 +7,9 @@
     "en": "GEMG is a GemGuardian NFT Game Token"
   },
   "id": "10fb0f2f-01cc-4ded-a3d7-0421022af8ce",
+  "identifiers": {
+    "coinmarketcap": 12074
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014",
     "website": "https://gemguardian.io",

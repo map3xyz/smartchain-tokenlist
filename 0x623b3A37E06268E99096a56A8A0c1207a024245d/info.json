@@ -7,6 +7,9 @@
     "en": "Hyper Burn & Liquidity Generation Protocol"
   },
   "id": "ff1de42a-4b28-4f88-b743-5c71e206eda4",
+  "identifiers": {
+    "coinmarketcap": 10573
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x623b3A37E06268E99096a56A8A0c1207a024245d",
     "website": "https://www.toastfinance.com/"

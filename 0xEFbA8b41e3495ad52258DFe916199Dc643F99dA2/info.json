@@ -7,6 +7,9 @@
     "en": "SWASS is a revolutionary tokenomics access token for DApp's, web services, and more."
   },
   "id": "d1b7234b-bbb6-4885-bc0b-a4b8ef11c510",
+  "identifiers": {
+    "coinmarketcap": 10194
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xefba8b41e3495ad52258dfe916199dc643f99da2",
     "website": "https://swass.finance"

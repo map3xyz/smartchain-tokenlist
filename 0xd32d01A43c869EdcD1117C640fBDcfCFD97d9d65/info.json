@@ -7,6 +7,9 @@
     "en": "NMX is the first decentralized exchange token with automatic market making (AMM) functionality."
   },
   "id": "b1edec28-1b5c-4b9c-9bd7-979c0e541b7d",
+  "identifiers": {
+    "coinmarketcap": 9438
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd32d01A43c869EdcD1117C640fBDcfCFD97d9d65",
     "website": "https://nominex.io/",

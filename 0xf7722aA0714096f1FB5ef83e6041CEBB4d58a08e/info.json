@@ -7,6 +7,9 @@
     "en": "The Ruby Play Network is a gaming rewards platform. We aim to drive adoption of the blockchain to mainstream players by providing them simple ways to earn cryptocurrency."
   },
   "id": "31909c1f-34ea-4d02-a54f-e59e482f6ae3",
+  "identifiers": {
+    "coinmarketcap": 18109
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e",
     "website": "https://rubyplaynet.com",

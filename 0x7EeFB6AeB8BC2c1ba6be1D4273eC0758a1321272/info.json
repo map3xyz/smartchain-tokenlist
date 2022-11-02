@@ -7,6 +7,9 @@
     "en": "ENG is the main key to the Endless Board Game gaming platform for different P2E games."
   },
   "id": "5971951d-9c3c-4a4c-9ad8-b9e2c45bb480",
+  "identifiers": {
+    "coinmarketcap": 6585
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272",
     "website": "https://endlessboardgame.com",

@@ -7,6 +7,9 @@
     "en": "SpacePort is a revolutionary retro style arcade game where players can PLAY TO EARN in SPC. Game is completely free to play for all users!"
   },
   "id": "ba57c000-7c9c-4513-9387-6bad04a05874",
+  "identifiers": {
+    "coinmarketcap": 11269
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x21EA8618b9168Eb8936c3e02F0809BBE901282ac",
     "website": "https://spaceport.to/",

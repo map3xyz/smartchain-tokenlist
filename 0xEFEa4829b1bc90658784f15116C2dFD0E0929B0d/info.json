@@ -7,6 +7,9 @@
     "en": "BabyDeFido is a memecoin based on Coinbase's Dog mascot DeFido, a french dogge. BabyDeFido is a low tax coin with reflections in native tokens, with staking and an Ethereum bridge along the road."
   },
   "id": "7398cf2b-048e-4eeb-bbf6-b583a31abf20",
+  "identifiers": {
+    "coinmarketcap": 12857
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
     "website": "https://www.babydefido.finance/",

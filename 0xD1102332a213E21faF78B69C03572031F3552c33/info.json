@@ -7,6 +7,9 @@
     "en": "Bolt Dollar - previously Bat True Dollar - is a community owned and driven algorithmic stable coin project established on BSC"
   },
   "id": "26cec3ea-c968-4edf-ad62-2d7843622138",
+  "identifiers": {
+    "coinmarketcap": 8204
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD1102332a213E21faF78B69C03572031F3552c33",
     "website": "https://boltdollar.finance/"

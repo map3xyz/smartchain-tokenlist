@@ -7,6 +7,9 @@
     "en": "META is a community meme and rewards token. All holders of META are automatically rewarded SHIB. Hold META, and watch your SHIB grow passively."
   },
   "id": "abdcbedc-d52a-4eab-8445-0ec84aaafeea",
+  "identifiers": {
+    "coinmarketcap": 14378
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x26165a5a3Dd21FA528bECf3Ff7F114D00a517344",
     "website": "https://metabsc.app",

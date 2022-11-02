@@ -7,6 +7,9 @@
     "en": "A democratized AMM on Binance Smart Chain."
   },
   "id": "a409617d-5636-45f6-96a2-7759f725578d",
+  "identifiers": {
+    "coinmarketcap": 7158
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "research": "https://research.binance.com/en/projects/burger-swap",

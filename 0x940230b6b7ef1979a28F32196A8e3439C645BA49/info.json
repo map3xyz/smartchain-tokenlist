@@ -7,6 +7,9 @@
     "en": "SHIBARMY is a trendy project that pays you a huge chunk of SHIBA INU as dividend for holding. SHIBARMY is here to follow SHIBA INU’s footsteps."
   },
   "id": "4e54aa20-e92c-4493-a6f3-729d77bf339d",
+  "identifiers": {
+    "coinmarketcap": 13760
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x940230b6b7ef1979a28F32196A8e3439C645BA49",
     "website": "https://shibarmybsc.com",

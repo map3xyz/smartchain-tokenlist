@@ -7,6 +7,9 @@
     "en": "Mammon (MMON) based on bsc blockchain to pay to trade on coffee industry import and export from Central America El Salvador, Honduras, Guatemala, Costa Rica and Panamá."
   },
   "id": "2d3f91f3-4511-4824-91db-83f46ba3ef84",
+  "identifiers": {
+    "coinmarketcap": 10480
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa9F179C99567D6D671c3AC5eDf206F5fc647483f",
     "website": "https://mammon.money"

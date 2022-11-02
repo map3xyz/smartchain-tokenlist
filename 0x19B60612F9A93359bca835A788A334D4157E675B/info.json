@@ -7,6 +7,9 @@
     "en": "PAWGcoin is disrupting the viral meme coin market by providing a cryptocurrency that powers transactions between content creators and content enthusiasts of tasteful noods."
   },
   "id": "35c28c33-2384-46a3-8232-d095a544702b",
+  "identifiers": {
+    "coinmarketcap": 10538
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x19B60612F9A93359bca835A788A334D4157E675B",
     "website": "https://www.pawgcoin.io"

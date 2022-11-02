@@ -7,6 +7,9 @@
     "en": "Mommy Doge is fully decentralized, environmental friendly and on a mission to support the Women's rights movement and gender equality initiatives"
   },
   "id": "fe116186-fcf6-48e0-9413-1db5a9a78aee",
+  "identifiers": {
+    "coinmarketcap": 10876
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x989b8f0219eb7aa0bed22e24f053eb2b155f4394",
     "website": "https://mommydoge.com",

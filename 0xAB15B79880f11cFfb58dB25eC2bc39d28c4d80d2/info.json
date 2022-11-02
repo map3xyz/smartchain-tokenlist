@@ -7,6 +7,9 @@
     "en": "Starmon Metaverse builds a virtual world: Andres Land. There are many creatures with superpowers called Starmon."
   },
   "id": "b5e414a7-ee4b-477c-945d-30e773f1d547",
+  "identifiers": {
+    "coinmarketcap": 11523
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAB15B79880f11cFfb58dB25eC2bc39d28c4d80d2",
     "website": "https://starmon.io",

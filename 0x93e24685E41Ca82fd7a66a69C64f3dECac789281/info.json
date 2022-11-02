@@ -7,6 +7,9 @@
     "en": "CHEECOIN is the 1st Hollywood NFT marketplace that also donates and supports animal healthcare and rescue."
   },
   "id": "f444c97f-185e-492e-8ad7-84d690ef2394",
+  "identifiers": {
+    "coinmarketcap": 10010
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x93e24685e41ca82fd7a66a69c64f3decac789281",
     "website": "https://www.cheecoin.com"

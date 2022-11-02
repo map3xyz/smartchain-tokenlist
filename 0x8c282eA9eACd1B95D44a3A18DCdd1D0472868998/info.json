@@ -7,6 +7,9 @@
     "en": "Ancient Kingdom is the 1st ancient martial arts game on the blockchain platform, pioneering the realization of real-time games on the blockchain platform."
   },
   "id": "d8a6a72e-9c50-4d76-8fd7-48ba04a3a9f5",
+  "identifiers": {
+    "coinmarketcap": 16516
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8c282eA9eACd1B95D44a3A18DCdd1D0472868998",
     "website": "https://acdom.io",

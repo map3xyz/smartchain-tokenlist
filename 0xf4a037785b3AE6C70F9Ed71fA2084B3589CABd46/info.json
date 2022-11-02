@@ -7,6 +7,9 @@
     "en": "The first multi-chain DEX for MEME tokens with an entire ecosystem around meme tokens."
   },
   "id": "c0f0b8c5-2697-4232-a31f-5ae256e90ea7",
+  "identifiers": {
+    "coinmarketcap": 10363
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
     "website": "https://memex.exchange"

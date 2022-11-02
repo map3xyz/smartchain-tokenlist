@@ -7,6 +7,9 @@
     "en": "RisingSun powers the greatest play to earn NFT card game ecosystem on the Binance Smart Chain. Over 4 billion collectable samurai battle cards make for one of the most unique gaming experiences on blockchain. The novel NFT card game is coming soon — SamuraiRising."
   },
   "id": "dbc97005-2877-4409-9302-bd39b52332c2",
+  "identifiers": {
+    "coinmarketcap": 11004
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x917841c010b3d86ED886F36F2C9807E07a2e3093",
     "website": "https://risingsun.finance/",

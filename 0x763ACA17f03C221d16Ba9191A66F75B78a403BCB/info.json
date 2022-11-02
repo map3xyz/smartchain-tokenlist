@@ -7,6 +7,9 @@
     "en": "Axienomics is the first rebase token which rewards you with AxieInfinity (AXS)"
   },
   "id": "41b73cb5-cf3a-457d-a947-603a547295dd",
+  "identifiers": {
+    "coinmarketcap": 13032
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x763ACA17f03C221d16Ba9191A66F75B78a403BCB",
     "website": "https://axintoken.com",

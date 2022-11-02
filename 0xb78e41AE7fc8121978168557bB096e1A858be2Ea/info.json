@@ -7,6 +7,9 @@
     "en": "MicroSHIBA is a brand new token from a very experienced team that has implemented a manual buy back system to help protect investors maintain a steady market price in the event of a whale dump or continuous market sells."
   },
   "id": "dc57cf9d-9ddf-424a-bab1-3efc7a5b6c54",
+  "identifiers": {
+    "coinmarketcap": 11162
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
     "website": "https://www.microshiba.net/",

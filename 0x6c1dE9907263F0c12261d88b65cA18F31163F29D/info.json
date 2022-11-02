@@ -7,6 +7,9 @@
     "en": "Welcome to OCTION! Trade options through CeDeFi, with no middlemen, no centralized organization, lower fees, more option types and zero data or market manipulation. OCTION allows for options trading through a democratic framework on the Blockchain, specifically the Binance Smart Chain."
   },
   "id": "8f5969a1-d245-402f-9ce8-1dc028eea755",
+  "identifiers": {
+    "coinmarketcap": 9117
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6c1dE9907263F0c12261d88b65cA18F31163F29D",
     "website": "https://oction.io/",

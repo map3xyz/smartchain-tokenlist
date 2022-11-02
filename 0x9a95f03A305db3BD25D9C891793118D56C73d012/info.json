@@ -7,6 +7,9 @@
     "en": "Shiba Monk's purpose is to create a platform devoted to teaching people mindfulness. By teaching people to take care of their minds, we can improve their mental health and create a better world for everyone."
   },
   "id": "126d7c67-efdd-498e-acff-6ee7c24080ef",
+  "identifiers": {
+    "coinmarketcap": 14457
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9a95f03A305db3BD25D9C891793118D56C73d012",
     "website": "https://shibamonk.com/",

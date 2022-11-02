@@ -7,6 +7,9 @@
     "en": "PocMon ($PMON) is a decentralized community experiment in Binance Smart Chain, with prospects of becoming the #1 Gaming NFT Ecosystem. All that honouring the Pocket Monsters we all know and love."
   },
   "id": "4a593362-e5b8-4264-84f3-73560483f3b2",
+  "identifiers": {
+    "coinmarketcap": 9821
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xeB22C12429ff03688dD15a34824d736741605ca0",
     "website": "https://pocmon.org"

@@ -7,6 +7,9 @@
     "en": "Space Soldier is the first deflationary token for veterans. Two functions occur during each trade: Reflection & LP Acquisition"
   },
   "id": "2908c214-5d7e-4310-915f-5c63fd54dcf3",
+  "identifiers": {
+    "coinmarketcap": 10067
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
     "website": "https://www.spacesoldier.finance/"

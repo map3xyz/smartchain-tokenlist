@@ -7,6 +7,9 @@
     "en": "The First DEX on BSC network with a three-type referral system"
   },
   "id": "45a348f1-eb98-4564-98fd-11c37ec24de8",
+  "identifiers": {
+    "coinmarketcap": 10746
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x965f527d9159dce6288a2219db51fc6eef120dd1",
     "website": "https://biswap.org",

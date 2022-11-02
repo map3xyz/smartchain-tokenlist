@@ -7,6 +7,9 @@
     "en": "Have FUN playing Mafagafo, COLLECT Genesis NFTs and PROFIT from MafaCoins."
   },
   "id": "909d4b65-4d1e-4a06-b0bc-2ca4190f93a9",
+  "identifiers": {
+    "coinmarketcap": 16792
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6Dd60AFB2586D31Bf390450aDf5E6A9659d48c4A",
     "website": "https://www.mafagafo.com/",

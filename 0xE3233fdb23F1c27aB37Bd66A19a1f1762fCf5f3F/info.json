@@ -7,6 +7,9 @@
     "en": "Elemon is a NFTs game based on blockchain technology with the purposes and missions to deliver sustainable values to all users and investors in the Cryptocurrency field. More specifically, Elemon is constructed with a comprehensive ecosystem and hosted on the BSC platform with ERC-721 standard."
   },
   "id": "3095382d-94be-4578-8eca-9adaed001fe8",
+  "identifiers": {
+    "coinmarketcap": 11663
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE3233fdb23F1c27aB37Bd66A19a1f1762fCf5f3F",
     "website": "https://elemon.io/",

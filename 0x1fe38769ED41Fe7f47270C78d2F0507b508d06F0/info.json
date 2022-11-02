@@ -7,6 +7,9 @@
     "en": "First generation deflationary auto-yield token with evolutive fee, making it more rewarding as time passes"
   },
   "id": "c28bfc10-07cc-4afc-9258-8f682f8471c2",
+  "identifiers": {
+    "coinmarketcap": 9699
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
     "website": "https://hypermeteor.net"

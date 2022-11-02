@@ -7,6 +7,9 @@
     "en": "A rebase token, born to be unleashed and destined to reign in the ZillaMatrix."
   },
   "id": "97696bec-e010-4312-834f-f1ca362db1f9",
+  "identifiers": {
+    "coinmarketcap": 14427
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd05a0c5c68acba9aa9952fa65189038840752977",
     "website": "https://zillamatrix.com/",

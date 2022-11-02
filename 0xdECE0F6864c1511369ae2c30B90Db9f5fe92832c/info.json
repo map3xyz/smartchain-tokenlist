@@ -7,6 +7,9 @@
     "en": "The first blockchain to create verified personal profiles based on academic and professional achievements."
   },
   "id": "e7994f78-751b-4dac-ba04-ba20bfa5b9bf",
+  "identifiers": {
+    "coinmarketcap": 3761
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c",
     "website": "https://disciplina.io",

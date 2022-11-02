@@ -7,6 +7,9 @@
     "en": "PNIX token is a next-generation reflective deflationary protocol built on Binance Smart Chain."
   },
   "id": "ee52aec5-09b0-416f-8090-73f019d9580b",
+  "identifiers": {
+    "coinmarketcap": 9138
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc25d94fc3f8d7bd1d88f89802fe075338f71dec7",
     "research": "https://phoenixdefi.Finance",

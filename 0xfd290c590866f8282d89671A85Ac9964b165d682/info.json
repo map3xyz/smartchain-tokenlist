@@ -7,6 +7,9 @@
     "en": "Subme is the world's first platform focused on subscribing to both physical products and services."
   },
   "id": "85ab2a38-6ce3-4237-977d-7a7e6ed067b9",
+  "identifiers": {
+    "coinmarketcap": 11932
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfd290c590866f8282d89671A85Ac9964b165d682",
     "website": "http://subme.cash",

@@ -7,6 +7,9 @@
     "en": "Track fitness activity, earn crypto, and be the best version of you. Same effort, more results."
   },
   "id": "9cf8ab05-c745-40c7-a61a-6465fe344497",
+  "identifiers": {
+    "coinmarketcap": 17010
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x465707181ACba42Ed01268A33f0507e320a154bD",
     "website": "https://walkwithstep.io/",

@@ -7,6 +7,9 @@
     "en": "A sustainable economic model with Vaults, Hold and Earn, and Black Hole design."
   },
   "id": "a06f9b73-db91-4a02-a119-48415aaec725",
+  "identifiers": {
+    "coinmarketcap": 11717
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xce262761df57c72999146b7a6a752da03835db4a",
     "website": "https://www.mucoin.us",

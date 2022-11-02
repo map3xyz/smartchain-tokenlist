@@ -7,6 +7,9 @@
     "en": "RX is a charity coin that donates 2% of every transaction directly to the Binance charity wallet."
   },
   "id": "b15a478a-c3a3-439a-bb49-d37a2b088428",
+  "identifiers": {
+    "coinmarketcap": 9227
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8891de345808E77228677f0eFb56125DB1E93a49",
     "research": "https://ravenx.finance/",

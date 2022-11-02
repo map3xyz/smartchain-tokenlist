@@ -7,6 +7,9 @@
     "en": "Bridge Oracle System is a technology through which external data can be injected."
   },
   "id": "09985fda-dc28-4aed-be8b-b7194375c251",
+  "identifiers": {
+    "coinmarketcap": 7096
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
     "website": "https://bridge.link",

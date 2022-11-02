@@ -7,6 +7,9 @@
     "en": "A fun & easy AMM DEX on Binance Smart Chain."
   },
   "id": "3bdc0c09-a576-4c35-b753-647e3457b335",
+  "identifiers": {
+    "coinmarketcap": 10709
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9a7B87651C6C93cedb831B2B3b5549142a813Cfe",
     "website": "https://kokomoswap.io"

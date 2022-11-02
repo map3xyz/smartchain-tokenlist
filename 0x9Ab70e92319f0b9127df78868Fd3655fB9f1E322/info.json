@@ -7,6 +7,9 @@
     "en": "Best Solutions for the best web 3.0 social relations."
   },
   "id": "45d9c395-9d5e-40d3-b306-b34410244e4a",
+  "identifiers": {
+    "coinmarketcap": 17047
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
     "website": "https://weway.io/",

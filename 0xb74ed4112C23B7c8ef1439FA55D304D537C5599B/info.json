@@ -7,6 +7,9 @@
     "en": "CTRFI is a fork of Safe Moon. Programmed to reward holders while increasing liquidity and value"
   },
   "id": "fe83bced-b3fa-4bcd-b4bd-e65210cabb55",
+  "identifiers": {
+    "coinmarketcap": 10038
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb74ed4112c23b7c8ef1439fa55d304d537c5599b",
     "website": "https://chesterfinance.info/"

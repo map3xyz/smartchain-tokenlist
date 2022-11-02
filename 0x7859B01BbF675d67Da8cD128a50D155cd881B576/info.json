@@ -7,6 +7,9 @@
     "en": "Builds the central bank and reserve currency for DeFi."
   },
   "id": "1ea7ea69-279f-4b91-aff6-3e7041e33ad3",
+  "identifiers": {
+    "coinmarketcap": 10030
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7859B01BbF675d67Da8cD128a50D155cd881B576",
     "website": "https://marsecosystem.com/",

@@ -7,6 +7,9 @@
     "en": "Bunicorn DEX - Revolutionize yield farming by leveraging NFT gamification"
   },
   "id": "4117f416-9d00-498d-bf99-a360f3258372",
+  "identifiers": {
+    "coinmarketcap": 9906
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0e7beec376099429b85639eb3abe7cf22694ed49",
     "website": "https://bunicorn.finance"

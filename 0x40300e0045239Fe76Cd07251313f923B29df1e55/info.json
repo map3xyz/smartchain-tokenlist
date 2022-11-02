@@ -7,6 +7,9 @@
     "en": "A Proprietary, Hyper Deflationary Token! RON token holders are not only rewarded through static rewards but also through true automatic burns every trade from within the liquidity pool!."
   },
   "id": "e667dfed-80bd-4092-bb14-c232b9887de2",
+  "identifiers": {
+    "coinmarketcap": 10921
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x40300e0045239fe76cd07251313f923b29df1e55",
     "website": "https://www.riseofnebula.com/"

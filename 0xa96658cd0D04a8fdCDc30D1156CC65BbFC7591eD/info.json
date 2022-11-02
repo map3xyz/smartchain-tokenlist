@@ -7,6 +7,9 @@
     "en": "Sushiba is the first fully-decentralized and deflationary token that unites food lovers with dog lovers. It is also a future looking token aimed at establishing an AI-Based decentralized Marketplace built around its uniquely themed decentralized applications."
   },
   "id": "8ceda09a-3c25-4249-b69c-a7e4fd053095",
+  "identifiers": {
+    "coinmarketcap": 10308
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa96658cd0d04a8fdcdc30d1156cc65bbfc7591ed",
     "website": "https://www.sushibatoken.com"

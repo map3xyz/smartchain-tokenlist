@@ -7,6 +7,9 @@
     "en": "Autonomous yield and liquidity generation protocol on BSC"
   },
   "id": "0f5d338a-2786-4306-b247-6933dcee9098",
+  "identifiers": {
+    "coinmarketcap": 8966
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
     "website": "https://www.safemarscrypto.com",

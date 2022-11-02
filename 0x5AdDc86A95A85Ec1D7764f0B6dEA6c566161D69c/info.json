@@ -7,6 +7,9 @@
     "en": "Decentralized Cat To All Human Being"
   },
   "id": "b652635e-20ce-4e0c-90af-0fd178546f3f",
+  "identifiers": {
+    "coinmarketcap": 9964
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5addc86a95a85ec1d7764f0b6dea6c566161d69c",
     "website": "https://gingercat.io"

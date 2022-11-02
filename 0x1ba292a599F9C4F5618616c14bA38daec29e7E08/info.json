@@ -7,6 +7,9 @@
     "en": "JBPToken is 100% community driven audited deflationary token "
   },
   "id": "4e59526e-087c-4908-8fa2-5394dec3bc4c",
+  "identifiers": {
+    "coinmarketcap": 9777
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
     "website": "https://jbprotocol.com/"

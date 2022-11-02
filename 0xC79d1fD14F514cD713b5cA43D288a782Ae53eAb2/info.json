@@ -7,6 +7,9 @@
     "en": "XcelDefi is native token of XcelLab ecosystem and is the governance token for XcelSwap, a decentralised exchange built to power the future of finance by the XcelLab ecosystem. Users can vote by holding and staking XcelDefi and propose changes in the mechanics of XcelSwap."
   },
   "id": "c239f793-eea2-4495-9819-1230ba7f7506",
+  "identifiers": {
+    "coinmarketcap": 12071
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
     "website": "https://www.xceldefi.com",

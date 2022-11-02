@@ -7,6 +7,9 @@
     "en": "We allow access to different odds slips, sell likely winnable odds, P2P betting and the creation of your bet event with our WSC token."
   },
   "id": "298edd74-d333-40c8-b189-d8d79fd67297",
+  "identifiers": {
+    "coinmarketcap": 14229
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB7DAcf54a54bFea818F21472d3E71a89287841A7",
     "website": "https://www.wealthsecrets.io",

@@ -7,6 +7,9 @@
     "en": "SUPERDOGE is a deflationary meme coin that donates 2% of every transaction to multiple charities."
   },
   "id": "b4f32a2e-c047-4f48-ab9b-d0c095c9ae07",
+  "identifiers": {
+    "coinmarketcap": 14290
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x622a1297057ea233287ce77bdbf2ab4e63609f23",
     "research": "https://superdoge.io/",

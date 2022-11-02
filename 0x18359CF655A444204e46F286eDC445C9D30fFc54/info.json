@@ -7,6 +7,9 @@
     "en": "Dogemoon is a charity project built on Binance Smart Chain featuring auto burns to a locked liquidity, auto staking mechanism, and 6% tax is imposed on transactions for charity and marketing."
   },
   "id": "29d31bed-6ec0-4671-8d46-bc28bda4c521",
+  "identifiers": {
+    "coinmarketcap": 9618
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x18359CF655A444204e46F286eDC445C9D30fFc54",
     "website": "https://dogemoon.me/",

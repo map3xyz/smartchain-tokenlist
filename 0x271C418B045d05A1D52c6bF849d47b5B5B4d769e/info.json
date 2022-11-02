@@ -7,6 +7,9 @@
     "en": "Fully Dex protocol, staking and more on Binance Smart Chain. #Defi #BSC"
   },
   "id": "6e27df73-d494-4415-a6c2-df1a04bb41dc",
+  "identifiers": {
+    "coinmarketcap": 8763
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x271c418b045d05a1d52c6bf849d47b5b5b4d769e",
     "website": "https://veraswap.org",

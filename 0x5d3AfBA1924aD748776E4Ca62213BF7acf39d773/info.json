@@ -7,6 +7,9 @@
     "en": "KGO is the Token of Kiwigo."
   },
   "id": "a797b33b-a18b-4327-8c7b-388672053819",
+  "identifiers": {
+    "coinmarketcap": 8877
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773",
     "research": "https://www.kiwigo.app/kgo-kiwigo-crypto-currency/",

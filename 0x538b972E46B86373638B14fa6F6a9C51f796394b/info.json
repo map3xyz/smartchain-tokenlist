@@ -7,6 +7,9 @@
     "en": "ADToken is dedicated to the tokennation of advertising impressions and realizes the circulation of advertising value through DeFi."
   },
   "id": "3196322b-fe4f-4267-82fb-a8146718dbdd",
+  "identifiers": {
+    "coinmarketcap": 14172
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x538b972E46B86373638B14fa6F6a9C51f796394b",
     "website": "https://www.adtoken.net/",

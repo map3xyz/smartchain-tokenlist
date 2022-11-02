@@ -7,6 +7,9 @@
     "en": "Cross Chain Portal Bridged Token"
   },
   "id": "73048651-8b48-491b-ba64-3c7c2a384cc5",
+  "identifiers": {
+    "coinmarketcap": 11367
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF5a367b7809e5683538C93Ce638B9258A0B88271",
     "website": "https://aurory.io/"

@@ -7,6 +7,9 @@
     "en": "Roseon Finance is a mobile yield aggregator that manages your crypto + NFT portfolio and optimizes yield across DeFi and CeFi networks."
   },
   "id": "e55be26e-913c-4448-b4e9-17577163980c",
+  "identifiers": {
+    "coinmarketcap": 9783
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b",
     "website": "https://roseon.finance/"

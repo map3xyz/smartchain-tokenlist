@@ -7,6 +7,9 @@
     "en": "Building a Blockchain 4.0 Charity Community"
   },
   "id": "d7291b9f-6239-499d-83c0-770507c810f4",
+  "identifiers": {
+    "coinmarketcap": 15241
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x136BFcdec5DB31b565052451AD806014ab9F2b38",
     "website": "https://candylad.net/",

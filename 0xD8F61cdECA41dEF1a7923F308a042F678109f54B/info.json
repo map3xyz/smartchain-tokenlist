@@ -7,6 +7,9 @@
     "en": "BuffedShiba is a community driven token inspired by the commonly known Buff Doge meme."
   },
   "id": "34047411-6393-4d8d-a2c6-9e7c586ed861",
+  "identifiers": {
+    "coinmarketcap": 13788
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD8F61cdECA41dEF1a7923F308a042F678109f54B",
     "website": "https://www.buffedshiba.com/",

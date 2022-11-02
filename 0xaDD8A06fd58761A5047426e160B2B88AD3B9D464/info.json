@@ -7,6 +7,9 @@
     "en": "CheeseSwap is A Decentralized Finance & Entertainment Project."
   },
   "id": "7458725f-e291-4cc0-9bc2-9ee3c582d5c8",
+  "identifiers": {
+    "coinmarketcap": 8217
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaDD8A06fd58761A5047426e160B2B88AD3B9D464",
     "website": "https://cheeseswap.app/",

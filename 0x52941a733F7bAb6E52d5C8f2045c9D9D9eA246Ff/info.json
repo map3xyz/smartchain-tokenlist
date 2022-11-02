@@ -7,6 +7,9 @@
     "en": "Shiba Watch is a multifunctional coin listing platform that checks for how safe tokens are, includes NFT marketplace, staking and lending and Play to Earn games. By becoming a Shiba Watch holder, investors will also be passively rewarded with BUSD."
   },
   "id": "f0b2fb2d-5171-4cb9-bbfe-d174eb449b7c",
+  "identifiers": {
+    "coinmarketcap": 13579
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x52941a733F7bAb6E52d5C8f2045c9D9D9eA246Ff",
     "website": "https://www.shibawatch.net",

@@ -7,6 +7,9 @@
     "en": "XMINE is DeFi, miner with ASIC and rewards to holders."
   },
   "id": "b6680f14-a8d4-43ce-9f1f-a7fc288cebc7",
+  "identifiers": {
+    "coinmarketcap": 12264
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0fA9651a0ecC19906843C13c60443300B9d37355",
     "website": "https://www.xmine.one",

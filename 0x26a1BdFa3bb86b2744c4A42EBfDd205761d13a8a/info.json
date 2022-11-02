@@ -7,6 +7,9 @@
     "en": "KAKA is a token issued by KAKA NFT World."
   },
   "id": "c24af607-862c-49c9-9a06-4e3512d941ba",
+  "identifiers": {
+    "coinmarketcap": 10768
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x26a1BdFa3bb86b2744c4A42EBfDd205761d13a8a",
     "website": "https://kakanft.com/",

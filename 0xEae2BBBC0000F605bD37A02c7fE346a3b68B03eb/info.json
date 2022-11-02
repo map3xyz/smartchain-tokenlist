@@ -7,6 +7,9 @@
     "en": "A Fast & Secure Cryptocurrency and Multi chain DEX."
   },
   "id": "14697a0a-e1f1-4c1a-a661-d53608ab8a86",
+  "identifiers": {
+    "coinmarketcap": 12096
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xeae2bbbc0000f605bd37a02c7fe346a3b68b03eb",
     "website": "https://www.crirmsh.com",

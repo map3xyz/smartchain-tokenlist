@@ -7,6 +7,9 @@
     "en": "1st Brazilian DeFi token of compound interest and expansionary liquidity"
   },
   "id": "0ecb5419-ee02-4f29-8a8a-eaf0a1953cb5",
+  "identifiers": {
+    "coinmarketcap": 9413
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4c79b8c9cB0BD62B047880603a9DEcf36dE28344",
     "website": "https://viralata.finance/"

@@ -7,6 +7,9 @@
     "en": "Andromeda M31, we value honesty and transparency. We work hard for our investments and YOUR investments. We also strive to make a lasting impact in decentralized finance."
   },
   "id": "89d72edc-0c41-47d1-a81a-0242012b3dc7",
+  "identifiers": {
+    "coinmarketcap": 15553
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB46aCB1f8D0fF6369C2f00146897aeA1dFCf2414",
     "website": "https://orbitlaunch.io",

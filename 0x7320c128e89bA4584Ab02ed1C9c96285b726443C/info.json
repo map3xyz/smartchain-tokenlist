@@ -7,6 +7,9 @@
     "en": "Kokoswap is a unique decentralised platform that is transforming the world of crypto, NFTs & Game-Fi."
   },
   "id": "5e35ad3c-4272-48f1-92d7-3c53e49021b9",
+  "identifiers": {
+    "coinmarketcap": 11375
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7320c128e89bA4584Ab02ed1C9c96285b726443C",
     "website": "https://kokoswap.org",

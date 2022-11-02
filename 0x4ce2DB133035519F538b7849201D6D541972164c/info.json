@@ -7,6 +7,9 @@
     "en": "MagicBox is committed to the ecological exploration of the metaverse and building an independent frictionless production liquidity survival agreement."
   },
   "id": "922812aa-6580-4ea8-9a4d-d9a99b870fec",
+  "identifiers": {
+    "coinmarketcap": 14317
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4ce2DB133035519F538b7849201D6D541972164c",
     "website": "https://magicbox.game",

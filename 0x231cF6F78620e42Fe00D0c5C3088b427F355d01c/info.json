@@ -7,6 +7,9 @@
     "en": "AI-driven platform to lower the entry barrier on BSC, fueled by the MOVE token. Visit marketmove.ai to learn more."
   },
   "id": "6be661cb-8017-430f-abe9-4a5ec16d5532",
+  "identifiers": {
+    "coinmarketcap": 11603
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
     "website": "https://marketmove.ai",

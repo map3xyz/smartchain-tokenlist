@@ -7,6 +7,9 @@
     "en": "Baby YooShi is a token on Binance Smart Chain boasting various features. BabyYooShi name and image are inspired by a dinosaur in Super Mario, whose name is Yoshi."
   },
   "id": "20c8143c-03a3-463f-b2e1-cb13b0982014",
+  "identifiers": {
+    "coinmarketcap": 14858
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x12b83d77a606d8f5c4ce29dffdb592c523364995",
     "website": "https://www.babyyooshi.com/",

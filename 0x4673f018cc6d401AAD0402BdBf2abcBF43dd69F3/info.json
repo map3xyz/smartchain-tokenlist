@@ -7,6 +7,9 @@
     "en": "A Credit Card and Crypto payment gateway allowing crypto transaction on e-commerces and apps while rewarding the holders with a 5% automated dividend paid in BNB every 24 hours. "
   },
   "id": "40c16857-24f9-434d-b5f8-b0d417279c7a",
+  "identifiers": {
+    "coinmarketcap": 12780
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4673f018cc6d401AAD0402BdBf2abcBF43dd69F3",
     "website": "https://www.frenchconnection.finance",

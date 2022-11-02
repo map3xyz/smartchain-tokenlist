@@ -7,6 +7,9 @@
     "en": "DABB DOGE is a decentralized peer-to-peer digital currency that enables instant transactions to anyone anywhere in the world without any transaction fees"
   },
   "id": "f6497361-9abc-4b9f-81d1-d017e63f4845",
+  "identifiers": {
+    "coinmarketcap": 19293
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC638a73969C0F7442Ba8F5Ffda9968434891034B",
     "website": "https://www.dabbdoge.com/",

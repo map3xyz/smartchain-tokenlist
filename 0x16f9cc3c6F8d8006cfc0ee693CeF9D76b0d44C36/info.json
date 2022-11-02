@@ -7,6 +7,9 @@
     "en": "We are the first token to combine these 5 super elements at once."
   },
   "id": "b06fec6b-f2cb-4c56-88de-256954361b25",
+  "identifiers": {
+    "coinmarketcap": 15231
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x16f9cc3c6F8d8006cfc0ee693CeF9D76b0d44C36",
     "website": "https://babybalibsc.com",

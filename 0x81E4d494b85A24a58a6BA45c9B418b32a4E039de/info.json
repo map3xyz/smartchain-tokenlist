@@ -7,6 +7,9 @@
     "en": "We keep it simple, We Moon. Rugproof. Audited. Community Owned #MoonToken."
   },
   "id": "eb821943-c86c-40b0-9340-3373a152601c",
+  "identifiers": {
+    "coinmarketcap": 9399
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x81E4d494b85A24a58a6BA45c9B418b32a4E039de",
     "website": "https://www.moontoken.xyz/",

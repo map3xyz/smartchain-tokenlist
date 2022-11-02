@@ -7,6 +7,9 @@
     "en": "Safeswap.finance (SWAP) is a DeFi (DEX) based decentralized trading protocol that allows different types of cryptocurrencies to be swapped & exchanged, SWAP token issued by safeswap.online protocol."
   },
   "id": "9bae06ce-d90b-48e1-8e43-af7689abf970",
+  "identifiers": {
+    "coinmarketcap": 12639
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe56a473043EaAB7947c0a2408cEA623074500EE3",
     "website": "https://info.safeswap.online",

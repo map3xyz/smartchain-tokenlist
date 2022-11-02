@@ -7,6 +7,9 @@
     "en": "AirNFTs is NFT marketplace built on Binance Smart Chain where you can Create, Buy and Sell NFTs"
   },
   "id": "dd603fe7-cb4f-4bcb-89df-deccdd0892aa",
+  "identifiers": {
+    "coinmarketcap": 10905
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x016cf83732f1468150d87dcc5bdf67730b3934d3",
     "website": "http://airnfts.com"

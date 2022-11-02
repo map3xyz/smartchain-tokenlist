@@ -7,6 +7,9 @@
     "en": "A scalable GameFi Metaverse Aggregator where anyone can monetize their gaming experiences and social networks "
   },
   "id": "ff2f8ce9-2009-4851-a841-18481c998da0",
+  "identifiers": {
+    "coinmarketcap": 15236
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbBBcB350C64Fe974e5C42A55c7070644191823f3",
     "website": "https://cheersland.org/",

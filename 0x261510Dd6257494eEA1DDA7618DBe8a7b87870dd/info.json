@@ -7,6 +7,9 @@
     "en": "DeHero is a decentralized GameFi application based on BSC."
   },
   "id": "a097e005-7b83-4771-abc4-ee069bc8b0fc",
+  "identifiers": {
+    "coinmarketcap": 11474
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x261510Dd6257494eEA1DDA7618DBe8a7b87870dd",
     "website": "https://dehero.co/",

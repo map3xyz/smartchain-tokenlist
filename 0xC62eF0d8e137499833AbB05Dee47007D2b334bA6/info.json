@@ -7,6 +7,9 @@
     "en": "GAMEX is a project with goal of creating a gaming ecosystem revolving around the benefits of the players."
   },
   "id": "a1891622-818f-474b-9cca-45ef1acf5d7e",
+  "identifiers": {
+    "coinmarketcap": 11047
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc62ef0d8e137499833abb05dee47007d2b334ba6",
     "website": "https://www.game-x.co",

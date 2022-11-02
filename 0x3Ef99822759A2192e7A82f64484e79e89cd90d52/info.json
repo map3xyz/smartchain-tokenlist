@@ -7,6 +7,9 @@
     "en": "TKB is a platform that integrates NFT games and decentralized yield farm applications."
   },
   "id": "79ae92e2-fc62-4b44-9c08-dd701472fd32",
+  "identifiers": {
+    "coinmarketcap": 11416
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3Ef99822759A2192e7A82f64484e79e89cd90d52",
     "website": "https://tkbgame.app/",

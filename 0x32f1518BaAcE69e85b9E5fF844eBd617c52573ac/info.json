@@ -7,6 +7,9 @@
     "en": "Dexsport — Revolutionizing Decentralized Betting"
   },
   "id": "5100cc7d-1181-4afd-a708-0a453a2ca625",
+  "identifiers": {
+    "coinmarketcap": 12814
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x32f1518BaAcE69e85b9E5fF844eBd617c52573ac",
     "website": "https://dexsport.io",

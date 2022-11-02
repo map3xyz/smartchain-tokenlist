@@ -7,6 +7,9 @@
     "en": "Welcome to the hamster army! The time has come when it is worth rewriting history."
   },
   "id": "496487f0-fafe-424e-82fb-e7fc3110ae84",
+  "identifiers": {
+    "coinmarketcap": 10060
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa016F295A5957cB80D03d8E5464A429007555124",
     "website": "https://safehamsters.io"

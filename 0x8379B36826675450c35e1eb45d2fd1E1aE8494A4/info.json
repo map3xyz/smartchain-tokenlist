@@ -7,6 +7,9 @@
     "en": "Alpha Kombat is a global blockchain tournament game with NFTs rewards, a platform created to reward your leisure and provide passive income through several token utilities and platform utilities."
   },
   "id": "c267f0fe-33ce-488c-b210-d1a28034a847",
+  "identifiers": {
+    "coinmarketcap": 11201
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8379B36826675450c35e1eb45d2fd1E1aE8494A4",
     "website": "https://alphakombat.com/",

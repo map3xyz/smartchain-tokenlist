@@ -7,6 +7,9 @@
     "en": "The KingDoge is a community-driven DeFi. We love doges and we know what they can do. We will do much better."
   },
   "id": "643cc87c-dfa3-4209-906f-2a21b080f4b4",
+  "identifiers": {
+    "coinmarketcap": 10261
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
     "website": "https://kingdoge.io/"

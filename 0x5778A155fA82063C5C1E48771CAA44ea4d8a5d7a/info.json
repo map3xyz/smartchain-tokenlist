@@ -7,6 +7,9 @@
     "en": "Tezilla, this is the action game you have been waiting for!"
   },
   "id": "82a681f6-3c4a-4387-aa7a-3a34719f5b2e",
+  "identifiers": {
+    "coinmarketcap": 14377
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a",
     "website": "https://tezilla.finance/",

@@ -7,6 +7,9 @@
     "en": "Green Chart provides a secure platform for yield farming for it's holders via staking rewards with a fixed APY compounding. "
   },
   "id": "c2368247-0411-4bd1-a997-834b3954dcfa",
+  "identifiers": {
+    "coinmarketcap": 16649
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0",
     "website": "https://green-chart.com/ ",

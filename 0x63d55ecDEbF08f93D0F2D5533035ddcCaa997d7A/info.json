@@ -7,6 +7,9 @@
     "en": "ETHVault is a complementing token in the VaultDEFI Ecosystem, the first 26.8% auto-reimbursing, SurgeETH & SafeVAULT Rewarding Token. It's Hyper-Deflationary & Self-Sustaining. The Vault team is proud to bring an unprecedented vision to the DeFi space."
   },
   "id": "259d2f38-27e0-40c5-a93f-4c751e6a1f9c",
+  "identifiers": {
+    "coinmarketcap": 12092
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x63d55ecdebf08f93d0f2d5533035ddccaa997d7a",
     "website": "https://vaultdefi.com",

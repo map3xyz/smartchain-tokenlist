@@ -7,6 +7,9 @@
     "en": "OMNI Estate Group and Passive Income are pioneers in the region's real estate market and blockchain technology. With a stronghold of 22.000 properties in our database and counting, we are at the forefront of the market as the most trusted real estate agent, tech partner and feature among the top-agencies for the world's most innovative agencies."
   },
   "id": "7b69e28b-204b-4a75-a6a4-cb70fb189830",
+  "identifiers": {
+    "coinmarketcap": 10756
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1d64327c74d6519afef54e58730ad6fc797f05ba",
     "website": "https://omni-psi.com/"

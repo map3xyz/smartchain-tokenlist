@@ -7,6 +7,9 @@
     "en": "Self generating liquidity token - Reflection paid back to holders."
   },
   "id": "fc40a4b6-343a-4a55-ab3a-fd6811742af9",
+  "identifiers": {
+    "coinmarketcap": 9367
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7bb362962F2a4E2089466C79566572B37CFc5D78",
     "website": "https://bafe.io",

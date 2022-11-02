@@ -7,6 +7,9 @@
     "en": "Alongside our limited edition NFT’s, Floki Rocket is a low tax reward token which has been designed to generously reward you in $BNB simply for holding!"
   },
   "id": "a7ec3c2e-6089-4d22-b210-664ff6309800",
+  "identifiers": {
+    "coinmarketcap": 14380
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1476e96FAdb37668d7680921297e2ab98Ec36c2F",
     "website": "https://flokirocket.finance/",

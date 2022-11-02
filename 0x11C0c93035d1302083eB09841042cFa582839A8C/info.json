@@ -7,6 +7,9 @@
     "en": "Kaiken Shiba is not only hyper-deflationary with a built-in smart betting system to reward holders, but also helps save dogs that are in need."
   },
   "id": "0f246faa-19e5-475e-b66e-cd4fd4715d40",
+  "identifiers": {
+    "coinmarketcap": 11397
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x11C0c93035d1302083eB09841042cFa582839A8C",
     "website": "https://kaikenshiba.com/",

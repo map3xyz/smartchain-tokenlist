@@ -7,6 +7,9 @@
     "en": "A Metaverse Complex, Tunneling Between People on Earth and Blockchain-Based Technologies"
   },
   "id": "1af691d8-de6e-4a7e-ae84-99ee130d36f3",
+  "identifiers": {
+    "coinmarketcap": 14446
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbc81ea817b579eC0334BcA8E65E436b7cB540147",
     "website": "https://laqira.io/index.php",

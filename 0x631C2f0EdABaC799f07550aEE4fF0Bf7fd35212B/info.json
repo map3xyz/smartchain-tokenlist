@@ -7,6 +7,9 @@
     "en": "Smart contract on the blockchain network for non-centralized management of a global social lottery pool"
   },
   "id": "446f9fa7-b646-4cf8-833b-fbe612033f51",
+  "identifiers": {
+    "coinmarketcap": 15921
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
     "website": "https://www.poollotto.finance/"

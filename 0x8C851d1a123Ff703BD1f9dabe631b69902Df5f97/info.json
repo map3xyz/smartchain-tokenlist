@@ -7,6 +7,9 @@
     "en": "BinaryX is a decentralized derivatives contract based on BSC. Users can trade binary options via BinaryX which adopts an improved AMM model."
   },
   "id": "59b4fd4e-0938-4f0e-9e1e-7233aee8532f",
+  "identifiers": {
+    "coinmarketcap": 9891
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
     "website": "https://www.binaryx.pro/",

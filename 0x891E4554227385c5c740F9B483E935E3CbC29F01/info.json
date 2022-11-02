@@ -7,6 +7,9 @@
     "en": "Robust Token (RBT) is an original concept token on the Binance Smart Chain with a limited supply of 100 000 RBT and a 1% burn per transaction that gets converted into Robust Reward (RBW)."
   },
   "id": "4efd3488-6613-4f8d-803b-793db22765e9",
+  "identifiers": {
+    "coinmarketcap": 10822
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x891E4554227385c5c740F9B483E935E3CbC29F01",
     "website": "https://robustprotocol.fi",

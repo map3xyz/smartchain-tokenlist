@@ -7,6 +7,9 @@
     "en": "BakerySwap, an AMM Dex on Binance Smart Chain."
   },
   "id": "3aacb063-1b87-4d13-9b77-c403d26c6b44",
+  "identifiers": {
+    "coinmarketcap": 7064
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
     "research": "https://research.binance.com/en/projects/bakerytoken",

@@ -7,6 +7,9 @@
     "en": "WIZARD is a first-of-a-kind fantasy token and NFT marketplace which brings a magical experience to all who behold it, combining crypto with games for multiplied rewards."
   },
   "id": "7e5b9f63-91cc-45aa-b31a-dc6736b1f444",
+  "identifiers": {
+    "coinmarketcap": 10960
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18",
     "website": "https://wizard.financial",

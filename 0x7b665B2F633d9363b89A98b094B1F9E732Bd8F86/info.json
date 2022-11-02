@@ -7,6 +7,9 @@
     "en": "AMAZY is a crypto fitness app with two main courses: to Move and to Earn by equipping NFT sneakers, uniting the ideas of a healthy lifestyle and profiting simultaneously. The project focuses on becoming the ecosystem, called the AMAZY Realverse, focusing on a healthy lifestyle."
   },
   "id": "9ffb48a0-c630-4c3d-ac09-ecead659a20d",
+  "identifiers": {
+    "coinmarketcap": 20896
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7b665b2f633d9363b89a98b094b1f9e732bd8f86",
     "website": "https://amazy.io",

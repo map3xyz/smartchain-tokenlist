@@ -7,6 +7,9 @@
     "en": "Baby Boxer is a community-driven, deflationary token on the Binance Smart Chain with a mission to help malnourished babies around the world."
   },
   "id": "ad68e55c-955e-4eeb-8752-da72e1806b8c",
+  "identifiers": {
+    "coinmarketcap": 14648
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xeD7ed82D5A0f1B363309223975f899E7BEd5Fea6",
     "website": "https://babyboxer.io/",

@@ -7,6 +7,9 @@
     "en": "Self generating liquidity token with 15% reflection back to holders. Valhalla awaits."
   },
   "id": "8b5c3fd4-10be-4f46-8751-c7ad6cbbcdd9",
+  "identifiers": {
+    "coinmarketcap": 9734
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x862827E70221C3A0BA27aB608DDfE4d5D3Fe27C2",
     "website": "https://saferune.com"

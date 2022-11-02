@@ -7,6 +7,9 @@
     "en": "Monsta Infinite is a decentralized game universe where anyone can earn tokens through playing the game competitively or for leisure.‌"
   },
   "id": "4a3a1fb1-32b5-4976-9943-8d3736bed377",
+  "identifiers": {
+    "coinmarketcap": 11925
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
     "website": "https://monstainfinite.com/",

@@ -7,6 +7,9 @@
     "en": "Nafter is an online marketplace for creators and fans to buy, sell, mint & collect content NFTs - all in one app."
   },
   "id": "a4cf8b13-b36e-497e-9915-088fbbc702f0",
+  "identifiers": {
+    "coinmarketcap": 9828
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD7730681B1DC8f6F969166B29D8A5EA8568616a3",
     "website": "https://nafter.io"

@@ -7,6 +7,9 @@
     "en": "ICEBRK token is the governance and utility token for the IceBreak-R Network, a social media driven NFT-marketplace and DeFi ecosystem"
   },
   "id": "2b0cbea2-83ff-47dd-8497-e68f9be2ccc6",
+  "identifiers": {
+    "coinmarketcap": 10304
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x82b4b883c813dF83623Dc7894c1895305680fec2",
     "website": "https://icebreak-r.com"

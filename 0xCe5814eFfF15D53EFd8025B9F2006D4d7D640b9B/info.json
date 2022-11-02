@@ -7,6 +7,9 @@
     "en": "MOONSTAR is a stealth launched, community driven, DeFi Token programmed to reward holders through its frictionless yield and liquidity generation protocol."
   },
   "id": "a61a428c-f550-4c50-bfba-50def58997a3",
+  "identifiers": {
+    "coinmarketcap": 9214
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xce5814efff15d53efd8025b9f2006d4d7d640b9b",
     "website": "https://moonstartoken.com/",

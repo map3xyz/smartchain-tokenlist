@@ -7,6 +7,9 @@
     "en": "The first rebase project pegged to crypto, stocks and gold markets, built on Binance Smart Chain."
   },
   "id": "d3fed15b-2dff-4215-ba79-2b14b310f50b",
+  "identifiers": {
+    "coinmarketcap": 8283
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc1d99537392084cc02d3f52386729b79d01035ce",
     "website": "https://staysbase.org",

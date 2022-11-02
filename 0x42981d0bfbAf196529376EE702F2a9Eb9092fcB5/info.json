@@ -7,6 +7,9 @@
     "en": "SafeMoon is a cryptocurrency token created in March 2021 on the Binance Smart Chain blockchain."
   },
   "id": "fcb4f82f-2e11-4dbb-b066-35578378dd64",
+  "identifiers": {
+    "coinmarketcap": 16162
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
     "website": "https://safemoon.net/",

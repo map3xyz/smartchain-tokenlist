@@ -7,6 +7,9 @@
     "en": "DeFireX provides an opportunity to earn in DeFi with minimum risks. Its DeFi service works directly with Venus and offers profitable and reliable yield farming in BUSD, USDT, BNB, DAI, DFX, ETH and other tokens."
   },
   "id": "2046c758-bc2d-476d-b762-790eb4203da1",
+  "identifiers": {
+    "coinmarketcap": 7797
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
     "website": "https://defirex.org"

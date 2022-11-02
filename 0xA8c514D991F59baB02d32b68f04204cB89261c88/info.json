@@ -7,6 +7,9 @@
     "en": "First Blockchain Socio-Political Media Platform"
   },
   "id": "f80d537e-6dc5-43f4-ba9d-a5adfc6a84d3",
+  "identifiers": {
+    "coinmarketcap": 9266
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA8c514D991F59baB02d32b68f04204cB89261c88",
     "website": "https://safeprotocol.io"

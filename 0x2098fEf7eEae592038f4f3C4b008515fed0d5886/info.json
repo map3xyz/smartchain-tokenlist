@@ -7,6 +7,9 @@
     "en": "The governance token and in-game currency of Rune, an epic dark fantasy universe"
   },
   "id": "d584f5cf-d5bd-4e41-bf20-d6653cdbc462",
+  "identifiers": {
+    "coinmarketcap": 13870
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2098fEf7eEae592038f4f3C4b008515fed0d5886",
     "website": "https://rune.game/",

@@ -7,6 +7,9 @@
     "en": "Put your idle crypto-asset to work towards enhancing"
   },
   "id": "64fb923e-6e44-4c5a-b58d-5a98ef7ec3a2",
+  "identifiers": {
+    "coinmarketcap": 21388
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x58f0C2fd4B7B0fBaC97c9cC71A5Eb810627734C8",
     "website": "https://wetux.com/",

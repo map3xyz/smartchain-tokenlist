@@ -7,6 +7,9 @@
     "en": "Mini Hollywood Doge is BEP20 Token based on a fun meme, but at its heart is a serious mission to contribute to charitable organisations as voted by its community of holders, and to enable a launchpad for future meme token projects."
   },
   "id": "a4ec68a5-3874-4b50-979f-894e98772957",
+  "identifiers": {
+    "coinmarketcap": 10938
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x96aC1E773677FA02726B5A670CA96a7aDf7F8523",
     "website": "https://www.minihollywooddoge.com",

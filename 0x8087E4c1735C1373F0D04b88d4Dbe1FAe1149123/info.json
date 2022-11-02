@@ -7,6 +7,9 @@
     "en": "MoonJuice, The Block-Chain Powered Energy Drink; Bridging the gap between retail and crypto"
   },
   "id": "f0029821-35cc-40e3-b84e-ac273412af68",
+  "identifiers": {
+    "coinmarketcap": 9832
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8087E4c1735C1373F0D04b88d4Dbe1FAe1149123",
     "website": "https://www.moonjuice.app"

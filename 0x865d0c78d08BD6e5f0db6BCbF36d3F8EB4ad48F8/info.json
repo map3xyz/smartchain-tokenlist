@@ -7,6 +7,9 @@
     "en": "BSC Fully deflationary lottery token with original lottery process."
   },
   "id": "a7242c6b-290b-42e7-b62b-3ad2d8b72968",
+  "identifiers": {
+    "coinmarketcap": 9320
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8",
     "website": "https://kilimanjaro.finance/"

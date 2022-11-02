@@ -7,6 +7,9 @@
     "en": "RIP Gabe, forever in our hearts."
   },
   "id": "3f1825de-6ae6-4df1-8364-38f9447b7047",
+  "identifiers": {
+    "coinmarketcap": 10926
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c",
     "website": "https://gabecoin.io"

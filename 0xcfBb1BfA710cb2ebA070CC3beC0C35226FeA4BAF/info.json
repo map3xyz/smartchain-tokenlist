@@ -7,6 +7,9 @@
     "en": "HeroFi is a mobile aRPG game in which players can earn tokens through PvP/PvE battles between Heroes. 100,000 $HEROEGG will hatch a special character NFT called Genesis Hero that has a gender (either male or female) and a star rating (from three to six)."
   },
   "id": "367efa89-350e-44cf-9c56-cb2c585c3f87",
+  "identifiers": {
+    "coinmarketcap": 11605
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcfBb1BfA710cb2ebA070CC3beC0C35226FeA4BAF",
     "website": "https://www.herofi.io/",

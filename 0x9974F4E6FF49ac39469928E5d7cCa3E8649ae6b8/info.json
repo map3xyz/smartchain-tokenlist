@@ -7,6 +7,9 @@
     "en": "The first pre-auditing self-sustained launchpad https://github.com/trustwallet/assets/pull/8804"
   },
   "id": "561347bd-2356-40ee-b9dd-270b068c7563",
+  "identifiers": {
+    "coinmarketcap": 9878
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
     "website": "https://pathfund.net",

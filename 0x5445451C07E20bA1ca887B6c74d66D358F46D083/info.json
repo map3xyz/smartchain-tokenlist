@@ -7,6 +7,9 @@
     "en": "Zombie World Z is upgraded and developed based on Zombie Idle Defense – a successful and established game in the market. Currently, the publisher has transformed the upgrade by applying blockchain technology and metaverse to game mining in a new aspect with a game economy tied to Tokens and blockchain on the Binance Smartchain platform."
   },
   "id": "242d3dce-7d0e-40fd-a7ec-67553d01d70c",
+  "identifiers": {
+    "coinmarketcap": 15816
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5445451C07E20bA1ca887B6c74d66D358F46D083",
     "website": "https://zombieworldz.io",

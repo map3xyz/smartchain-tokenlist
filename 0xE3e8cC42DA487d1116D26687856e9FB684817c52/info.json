@@ -7,6 +7,9 @@
     "en": "A Community Oriented Project, with Rastafarian Ideology, deployed on the Binance Smart Chain. "
   },
   "id": "145532f2-b99a-41f7-983c-8b3e6b9b9c2a",
+  "identifiers": {
+    "coinmarketcap": 9558
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE3e8cC42DA487d1116D26687856e9FB684817c52",
     "website": "https://rasta.finance"

@@ -7,6 +7,9 @@
     "en": "Aeterna is a unique de-fi eco-system that offers a variety of ways to generate wealth and navigate your way through a confusing decentralized world."
   },
   "id": "d21603e4-e4ba-4bdb-ba42-1c0c130a3b39",
+  "identifiers": {
+    "coinmarketcap": 19970
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe75BF67Df2388183d9b7714231996C937d4a855A",
     "website": "https://www.aeterna.eco/",

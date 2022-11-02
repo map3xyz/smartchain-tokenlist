@@ -7,6 +7,9 @@
     "en": "TFI is the native token of TrustFi Network, a decentralized BaaS solution for DeFi market based on multichain environment."
   },
   "id": "33f1c6d7-83d5-4861-9a07-407a3f480103",
+  "identifiers": {
+    "coinmarketcap": 10585
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7565ab68D3F9DaDff127F864103C8c706Cf28235",
     "website": "https://trustfi.org/",

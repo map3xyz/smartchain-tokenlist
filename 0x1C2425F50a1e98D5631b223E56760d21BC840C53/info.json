@@ -7,6 +7,9 @@
     "en": "The $tream token contributes to the streamers community, e-sports and game itens"
   },
   "id": "f9b7f1b8-b93e-4f8b-b797-4bd302803ecf",
+  "identifiers": {
+    "coinmarketcap": 11006
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1C2425F50a1e98D5631b223E56760d21BC840C53",
     "website": "https://www.worldstreamfinance.com"

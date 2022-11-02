@@ -7,6 +7,9 @@
     "en": "Cex / Dex Multi-Chain IDO Launchpad. CoinxPad is where you get access to the best new tokens before they list on other centralized or decentralized exchanges."
   },
   "id": "8f78c2f3-1b19-466f-a75e-fca31eb14ff1",
+  "identifiers": {
+    "coinmarketcap": 12167
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe90d1567ecEF9282CC1AB348D9e9E2ac95659B99",
     "website": "https://coinxpad.io/",

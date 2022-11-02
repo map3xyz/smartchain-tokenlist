@@ -7,6 +7,9 @@
     "en": "REFI expanded opportunities by decentralizing lending and leading processes, leading to better security, accountability and transparency of the financial system.."
   },
   "id": "bb4f3cf3-ef1f-4b29-ba8d-9cf3066436f0",
+  "identifiers": {
+    "coinmarketcap": 9065
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x641a6dc991a49f7be9fe3c72c5d0fbb223edb12f",
     "website": "https://realfinance.network",

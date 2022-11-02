@@ -7,6 +7,9 @@
     "en": "StarSharks is a community-driven shark metaverse where players, developers and investors could define the value evolution of underlying NFTs in a sustainable ecosystem. This project aims to cultivate and share value of content with the community, and to disrupt the current GameFi world where assets are isolated in one game. StarSharks is powered with dual-token system: SSS, governance token; and SEA, game token."
   },
   "id": "294daf27-f770-4117-a6c2-77f6e9f69655",
+  "identifiers": {
+    "coinmarketcap": 12432
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x26193C7fa4354AE49eC53eA2cEBC513dc39A10aa",
     "website": "https://starsharks.com/",

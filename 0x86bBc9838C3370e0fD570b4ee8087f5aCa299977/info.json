@@ -7,6 +7,9 @@
     "en": "BlackBerry token is an innovative Binance Smart Chain token that is designed for maximizing profits in the DeFI yield generation."
   },
   "id": "f993da98-ab08-4e97-a344-79b1152569cd",
+  "identifiers": {
+    "coinmarketcap": 9376
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
     "website": "https://www.blackberrytoken.com/"

@@ -7,6 +7,9 @@
     "en": "EverETH is a native utility token that is used for recieving dividends in Ethereum."
   },
   "id": "b8298a03-0d93-499c-a110-997694ecd1ff",
+  "identifiers": {
+    "coinmarketcap": 11770
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x16dCc0eC78E91e868DCa64bE86aeC62bf7C61037",
     "website": "https://evereth.net",

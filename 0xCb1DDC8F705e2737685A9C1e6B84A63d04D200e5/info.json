@@ -7,6 +7,9 @@
     "en": "Decentralized United aims to unite the Defi space with its unique utilities and games, which makes it a one stop shop with our Trade to Earn Smart Swap, Anon Bridge and Root Layer Yielding utilities."
   },
   "id": "f093a2ea-3f96-42e7-bae0-76f832880f10",
+  "identifiers": {
+    "coinmarketcap": 21503
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCb1DDC8F705e2737685A9C1e6B84A63d04D200e5",
     "website": "https://dcu.finance/",

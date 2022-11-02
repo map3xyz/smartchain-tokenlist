@@ -7,6 +7,9 @@
     "en": "CheckDot is designed to be the ultimate blockchain technology tool for end-users and developers, offering a various range of services that can help, simplify and innovates customers experience on cryptocurrency and blockchain world."
   },
   "id": "70e336e6-2c83-4d81-a62c-e84b31ad201e",
+  "identifiers": {
+    "coinmarketcap": 14489
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
     "website": "https://checkdot.io",

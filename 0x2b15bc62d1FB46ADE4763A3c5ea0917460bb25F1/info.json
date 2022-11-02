@@ -7,6 +7,9 @@
     "en": "Fully Decentralized Protocol for Private Transactions on Binance Smart Chain"
   },
   "id": "f6faa8a5-561b-4b00-a32f-ec18064daa8a",
+  "identifiers": {
+    "coinmarketcap": 9408
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
     "website": "https://morphose.cash"

@@ -7,6 +7,9 @@
     "en": "Passive rewards, autoliquidity, community token, charity."
   },
   "id": "1b178d5f-4e10-495f-8202-d56706dcf900",
+  "identifiers": {
+    "coinmarketcap": 9359
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x557dd6700e66818af340cce17fd4508ced81fbc1",
     "website": "https://www.papeltoken.net/"

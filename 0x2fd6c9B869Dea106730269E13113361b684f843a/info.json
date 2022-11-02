@@ -7,6 +7,9 @@
     "en": "Chihuahua aims to spread animal adoption awareness. Part of the taxes applied to every transaction is donated to animal shelters worldwide."
   },
   "id": "d1b8d019-b95c-4e89-a84c-43448fb48c25",
+  "identifiers": {
+    "coinmarketcap": 21334
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2fd6c9B869Dea106730269E13113361b684f843a",
     "website": "https://chihuahuabsc.io/",

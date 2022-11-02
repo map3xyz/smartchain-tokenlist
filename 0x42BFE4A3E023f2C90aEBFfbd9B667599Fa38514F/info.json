@@ -7,6 +7,9 @@
     "en": "Ulti Arena - NFT Marketplace for Game Assets with Proof of Gaming and Trading Card Game."
   },
   "id": "70e929e2-ce6f-4dbc-af1e-11647e6754a1",
+  "identifiers": {
+    "coinmarketcap": 11868
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F",
     "website": "https://ultiarena.com/",

@@ -7,6 +7,9 @@
     "en": "FEG Wrapped USDT"
   },
   "id": "af50b939-fc00-4734-8273-db47838814b2",
+  "identifiers": {
+    "coinmarketcap": 18030
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xef11ab854b475bd0c5db37f6bffab443219d656d",
     "website": "https://fegtoken.com"

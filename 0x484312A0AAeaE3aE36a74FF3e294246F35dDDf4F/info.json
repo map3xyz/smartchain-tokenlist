@@ -7,6 +7,9 @@
     "en": "Elon Tweets, we all eat"
   },
   "id": "033883b7-7178-4f62-93cd-52bcf2711ab0",
+  "identifiers": {
+    "coinmarketcap": 15446
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F",
     "website": "https://Bashtank.com/"

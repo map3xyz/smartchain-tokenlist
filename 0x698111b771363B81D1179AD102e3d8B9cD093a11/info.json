@@ -7,6 +7,9 @@
     "en": "Uka Doge is an adventure game being built on a BSC and Ethereum, Polygon network"
   },
   "id": "76d09c45-0112-4c81-8577-8ce6e1fbc5fe",
+  "identifiers": {
+    "coinmarketcap": 20043
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x698111b771363b81d1179ad102e3d8b9cd093a11",
     "website": "https://ukadoge.com/",

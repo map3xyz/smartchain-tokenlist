@@ -7,6 +7,9 @@
     "en": "Quam Network is an Advanced Multi-chain Defi Protocol which provides various Defi-Investment methods with the best trading experience over Binance Smart Chain."
   },
   "id": "65306904-4f6c-41eb-93d4-f4af90ad40ac",
+  "identifiers": {
+    "coinmarketcap": 8864
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1AdE17B4B38B472B5259BbC938618226dF7b5Ca8",
     "website": "https://quamnetwork.com/",

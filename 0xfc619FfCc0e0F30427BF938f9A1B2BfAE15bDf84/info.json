@@ -7,6 +7,9 @@
     "en": "Anji sets a new precedent with the worlds first smart contract dividends protocol. Growth powered by the community and ecosystem."
   },
   "id": "6ce983b3-dda6-491f-a53d-10a4dd8063ff",
+  "identifiers": {
+    "coinmarketcap": 14074
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfc619FfCc0e0F30427BF938f9A1B2BfAE15bDf84",
     "website": "https://www.anji.eco/",

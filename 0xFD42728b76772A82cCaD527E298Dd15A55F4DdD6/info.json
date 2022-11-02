@@ -7,6 +7,9 @@
     "en": "Karen Coin is a meme based token built on value driven tokenomics"
   },
   "id": "308a29ff-8bc5-479a-b4c8-aca9ca55c19d",
+  "identifiers": {
+    "coinmarketcap": 10378
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
     "website": "https://www.karencointoken.com/"

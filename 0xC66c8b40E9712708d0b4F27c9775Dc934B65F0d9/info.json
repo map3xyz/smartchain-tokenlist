@@ -7,6 +7,9 @@
     "en": "ElonTech is Binance Smart Chain Token developed for building the first decentralized Tech Valley."
   },
   "id": "bbf51c71-4378-4e78-a624-d99b415bf7f4",
+  "identifiers": {
+    "coinmarketcap": 9742
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC66c8b40E9712708d0b4F27c9775Dc934B65F0d9",
     "website": "https://elontech.finance/"

@@ -7,6 +7,9 @@
     "en": "The KALM tokens is the one fueling the ecosystem of products built on Kalmar and being used as incentive for participation in our financial products to scale adoption."
   },
   "id": "80b0296e-06d1-447a-9804-ff3eed5aad4f",
+  "identifiers": {
+    "coinmarketcap": 10099
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4BA0057f784858a48fe351445C672FF2a3d43515",
     "website": "https://kalmar.io/"

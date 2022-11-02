@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "e660b96d-8407-41f6-9090-c8192318d41d",
+  "identifiers": {
+    "coinmarketcap": 8915
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4d4e595d643dc61EA7FCbF12e4b1AAA39f9975B8",
     "website": "http://battlepets.finance/"

@@ -7,6 +7,9 @@
     "en": "Life Token v2 is a charity orientated token on the Binance Smart Chain aiming to aid suicide prevention charities all over the world, to help save lives."
   },
   "id": "16f1d613-d4be-4bba-b4ec-73d9a32ab363",
+  "identifiers": {
+    "coinmarketcap": 14726
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x167e5455E4C978883B414E7f02c0147eec9a18e9",
     "website": "https://www.thelifetoken.com",

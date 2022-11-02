@@ -7,6 +7,9 @@
     "en": "Quidax is an Africa-focused and globally accessible crypto exchange and the global home of BEP20 tokens."
   },
   "id": "88640862-36c5-44f3-97ca-fd3e74de7e2a",
+  "identifiers": {
+    "coinmarketcap": 10079
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9e3a9F1612028eeE48F85cA85f8Bed2f37d76848",
     "website": "https://quidax.com"

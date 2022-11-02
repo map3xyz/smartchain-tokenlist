@@ -7,6 +7,9 @@
     "en": "GoldMoney is a a protocol that unifies leading BSC protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty."
   },
   "id": "12302bb6-cb28-4549-a90c-b94e4ac385af",
+  "identifiers": {
+    "coinmarketcap": 13513
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9fdb6a13bdcf1188fbafe5cd435a8b92a327d92e",
     "website": "https://goldmoney.network/",

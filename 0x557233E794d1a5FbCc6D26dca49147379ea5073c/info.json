@@ -7,6 +7,9 @@
     "en": "Alita is the ultimate reward token for global trading platforms."
   },
   "id": "e402bb15-ead8-45d1-a13e-c42bec7d3161",
+  "identifiers": {
+    "coinmarketcap": 11599
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x557233E794d1a5FbCc6D26dca49147379ea5073c",
     "website": "https://alita.finance",

@@ -7,6 +7,9 @@
     "en": "Revolotto is a Deflationary token; four-dimensional, 80% to buyer, 9% to LP, 5% burns & 6% distribution."
   },
   "id": "89576697-3791-4631-8699-eeeff480305d",
+  "identifiers": {
+    "coinmarketcap": 12739
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
     "website": "https://revolotto.org",

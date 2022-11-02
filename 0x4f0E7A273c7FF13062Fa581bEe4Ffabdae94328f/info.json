@@ -7,6 +7,9 @@
     "en": "Wild Ride is a Binance Smart Chain community-driven meme token with a utility purpose."
   },
   "id": "deca8535-db92-4c69-9e0f-6a1d96e50b7f",
+  "identifiers": {
+    "coinmarketcap": 9916
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4f0E7A273c7FF13062Fa581bEe4Ffabdae94328f",
     "website": "https://www.wildride.club/"

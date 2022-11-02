@@ -7,6 +7,9 @@
     "en": "WhenLambo is a fully decentralized reflection & automated liquidity token with CAKE rewards for token holders and a unique chance to win big in our special draw system!"
   },
   "id": "4df3bc7c-132d-49cd-bbeb-d1266b146eff",
+  "identifiers": {
+    "coinmarketcap": 11200
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE03495fCa9e644d55B65c30ed9fdC3321C260126",
     "website": "https://whenlambo.vip/",

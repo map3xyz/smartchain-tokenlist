@@ -7,6 +7,9 @@
     "en": "$RFX, our native token, is a hyper deflationary reflection token hosted on the Binance Smart Chain. It is based on an innovative liquidity generating protocol with additional staking opportunities."
   },
   "id": "ac6eadf9-67ad-495e-a357-99d63b3d8cd1",
+  "identifiers": {
+    "coinmarketcap": 17882
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2f499c6DA2C84063BB7e0CB1C478687210cDB615",
     "website": "https://reflexfinance.com/",

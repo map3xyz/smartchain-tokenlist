@@ -7,6 +7,9 @@
     "en": "Decentralised MEME Platform with NFT Market"
   },
   "id": "4cd4e33f-fa76-4b1e-a561-46142d85eb1e",
+  "identifiers": {
+    "coinmarketcap": 9656
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE4FAE3Faa8300810C835970b9187c268f55D998F",
     "website": "http://catecoin.club"

@@ -7,6 +7,9 @@
     "en": "Dexigas has been created to be the utility token within the Dexioprotocol gaming ecosystem."
   },
   "id": "ff2dd91d-5636-4cd0-a776-0b43f53f5412",
+  "identifiers": {
+    "coinmarketcap": 13269
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8236f1239530971868925e6017d4005763E9087f",
     "website": "https://dexioprotocol.com/",

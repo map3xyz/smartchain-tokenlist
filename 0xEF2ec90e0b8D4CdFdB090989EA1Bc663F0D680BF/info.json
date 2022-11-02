@@ -7,6 +7,9 @@
     "en": "Orfano is a charity focused token on the Binance Smart Chain."
   },
   "id": "b8dc962d-6733-44b8-a4a9-8a37a905c67f",
+  "identifiers": {
+    "coinmarketcap": 9463
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEF2ec90e0b8D4CdFdB090989EA1Bc663F0D680BF",
     "website": "https://orfano.io",

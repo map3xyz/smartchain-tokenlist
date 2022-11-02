@@ -7,6 +7,9 @@
     "en": "Self generating liquidity token - Reflection paid back to holders."
   },
   "id": "65b811b0-5670-455a-90a8-79e24d2626ca",
+  "identifiers": {
+    "coinmarketcap": 9300
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD",
     "website": "https://zeppelindao.com/"

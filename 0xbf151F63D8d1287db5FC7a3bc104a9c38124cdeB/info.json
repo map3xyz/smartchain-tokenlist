@@ -7,6 +7,9 @@
     "en": "AVNRich was founded in 2019, AVNRich token is an innovative e-commerce and decentralized token based on the Binance Smart Chain Network that is used to reward users in a modern way by providing shopping, staking, farming, and IFO benefits to all users."
   },
   "id": "f4b979fc-a09c-4b68-91ce-e1140e758a5d",
+  "identifiers": {
+    "coinmarketcap": 13996
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
     "website": "https://avnrich.shop",

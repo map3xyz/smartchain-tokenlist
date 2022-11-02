@@ -7,6 +7,9 @@
     "en": "MoonTrust is a DeFi token built on BSC (binance). It is a community driven coin, with multiple features aimed for steady growth and to decrease the impact of major sell offs."
   },
   "id": "3409df6a-8240-401b-92b4-82ff1b1dedb2",
+  "identifiers": {
+    "coinmarketcap": 9709
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x390037d710c86f88f05174599425b77c72eda305",
     "website": "https://moontrust.net"

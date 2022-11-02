@@ -7,6 +7,9 @@
     "en": "Philippines' First NFT Marketplace for Local Artists & Celebrities."
   },
   "id": "9e25c44d-c767-43f7-95cf-5b383c33f795",
+  "identifiers": {
+    "coinmarketcap": 11186
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2f053e33bd590830858161d42C67e9E8A9390019",
     "website": "https://vention.app/",

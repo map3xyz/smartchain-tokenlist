@@ -7,6 +7,9 @@
     "en": "Baitcoin is a full-on-chain liquidity protocol with Decentralised financing that can be implemented on any smart contract-enabled blockchain."
   },
   "id": "a064787e-1de6-4ef9-ae7c-a5a6ec7916bf",
+  "identifiers": {
+    "coinmarketcap": 11665
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10f6F43d8321A3C86c2986BA4753ceBEba477BAa",
     "website": "https://www.baitcoin.com",

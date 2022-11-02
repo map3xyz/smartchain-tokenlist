@@ -7,6 +7,9 @@
     "en": "Hashrate 2.0 ecosystem token. Link traditional crypto assets mining industry and cutting-edge Defi tech."
   },
   "id": "a69debee-33c8-4be7-aa28-e9e2d4e88d84",
+  "identifiers": {
+    "coinmarketcap": 9738
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
     "website": "https://bestokens.network"

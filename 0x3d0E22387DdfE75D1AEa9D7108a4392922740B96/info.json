@@ -7,6 +7,9 @@
     "en": "The first Music NFT Marketplace"
   },
   "id": "e518cfa7-09e4-4a09-b94e-14a43bdf36d3",
+  "identifiers": {
+    "coinmarketcap": 12048
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3d0E22387DdfE75D1AEa9D7108a4392922740B96",
     "website": "https://loudnft.co",

@@ -7,6 +7,9 @@
     "en": "The token for those who dare to dream BIG!"
   },
   "id": "8d4713e1-4aa0-4de5-9bbd-414a4ecd1973",
+  "identifiers": {
+    "coinmarketcap": 10177
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfAEFe2e0D056243060A6f640d5735CAE307001C4",
     "website": "https://supermoon.finance/"

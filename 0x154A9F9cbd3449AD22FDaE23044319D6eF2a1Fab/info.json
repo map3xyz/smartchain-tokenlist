@@ -7,6 +7,9 @@
     "en": "CryptoBlades is a Play to Earn NFT RPG developed by Riveted Games on the Binance Smart Chain."
   },
   "id": "113df7d9-659d-4640-8fbd-4cebd48a191f",
+  "identifiers": {
+    "coinmarketcap": 9654
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
     "website": "https://cryptoblades.io"

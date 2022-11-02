@@ -7,6 +7,9 @@
     "en": "Military.finance is a fully decentralized, community-built project to help military veterans and charities. Simply put, we connect crypto to veteran organizations."
   },
   "id": "6dc1082c-97ec-4018-8b64-c1fd2694ae23",
+  "identifiers": {
+    "coinmarketcap": 11009
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf5015995376a35b10dcBD96BA6B6e9de1c9f87c5",
     "website": "https://www.military.finance/"

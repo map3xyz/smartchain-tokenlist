@@ -7,6 +7,9 @@
     "en": "CumRocket (CUMMIES) is a deflationary token used for purchasing adult content on their NSFW platform. Users are able to buy, sell and collect 18+ NFTs from their favourite models, as well as chat, tip and subscribe to exclusive content. 5% tax on every transaction - 2.5% burn, 2.5% redistribution."
   },
   "id": "7afdbfe3-6c23-4994-ae33-d794f73bcb98",
+  "identifiers": {
+    "coinmarketcap": 9212
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
     "website": "https://cumrocket.io",

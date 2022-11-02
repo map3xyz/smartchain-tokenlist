@@ -7,6 +7,9 @@
     "en": "BakeCoin aims to revolutionize the NFT space as Curator by allowing people the creation and drawing of NFTs by popular nft influencers through the bakecoin protocol which makes the creation, sale, and use of NFT as easy as possible."
   },
   "id": "abfbf83d-655e-4895-824d-8c41f5f0ec83",
+  "identifiers": {
+    "coinmarketcap": 11837
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x32eD23b9D263138695168850Ac04609f6e5e0aB4",
     "website": "https://bakecoin.org",

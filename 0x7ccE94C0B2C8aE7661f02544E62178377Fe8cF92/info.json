@@ -7,6 +7,9 @@
     "en": "Daddy Doge is a deflationary token based on the world renowned Doge meme. Each transaction carries a 9% benefiting holders by reflecting tokens, adding to the liquidity pool and adding to the marketing budget to ensure long term success."
   },
   "id": "0ae336c9-1cdf-4e77-8642-7ffa18de3a54",
+  "identifiers": {
+    "coinmarketcap": 10899
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92",
     "website": "https://daddydoge.finance/"

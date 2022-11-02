@@ -7,6 +7,9 @@
     "en": "A deflationary, auto-staking, community owned token."
   },
   "id": "713282fa-d353-4b82-bd24-37bc5c7096b1",
+  "identifiers": {
+    "coinmarketcap": 9338
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
     "website": "https://fairsafe.finance/"

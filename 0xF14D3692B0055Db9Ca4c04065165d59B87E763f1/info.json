@@ -7,6 +7,9 @@
     "en": "MetaBusdCoin is a deflationary reward token, rewarding holders in a stable coin pegged to the Binance Smart Chain."
   },
   "id": "dfcd10bc-e184-4ee5-a51f-a16b079f8b2a",
+  "identifiers": {
+    "coinmarketcap": 16710
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF14D3692B0055Db9Ca4c04065165d59B87E763f1",
     "website": "https://metabusdcoin.com/",

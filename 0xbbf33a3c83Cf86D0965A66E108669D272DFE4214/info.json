@@ -7,6 +7,9 @@
     "en": "EIFI, Eifi finance, eifi yield farming, eifi amm dex, dex platform, eifi staking, yield farming."
   },
   "id": "e8a851c2-0cc6-40f7-8e7e-c6b5ec19bc39",
+  "identifiers": {
+    "coinmarketcap": 10648
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbbf33a3c83Cf86D0965A66E108669D272DFE4214",
     "website": "https://eifi.com",

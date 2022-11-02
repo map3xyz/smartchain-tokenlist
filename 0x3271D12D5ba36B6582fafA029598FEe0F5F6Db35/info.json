@@ -7,6 +7,9 @@
     "en": "Lil Floki is a BSC token which donates to New Zealand dog shelters while also rewarding Lil Floki holders with BNB Reward pay-outs."
   },
   "id": "6c2688ce-7f77-4c27-8e99-9cd86fcefe01",
+  "identifiers": {
+    "coinmarketcap": 12895
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3271D12D5ba36B6582fafA029598FEe0F5F6Db35",
     "website": "https://lilfloki.com/",

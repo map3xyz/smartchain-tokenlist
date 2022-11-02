@@ -7,6 +7,9 @@
     "en": "Bonfire is a frictionless, yield-generating contract that allows you to seek shelter amidst the chaos of the market."
   },
   "id": "a3adfe9b-0836-4755-b39a-18a54f106815",
+  "identifiers": {
+    "coinmarketcap": 9522
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5e90253fbae4dab78aa351f4e6fed08a64ab5590",
     "website": "https://www.bonfiretoken.co/"

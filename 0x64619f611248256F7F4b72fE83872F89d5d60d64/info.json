@@ -7,6 +7,9 @@
     "en": "Connecting the Metaverse to the Real World"
   },
   "id": "67608370-9520-4114-8ddc-c91f3b852b6a",
+  "identifiers": {
+    "coinmarketcap": 19707
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x64619f611248256F7F4b72fE83872F89d5d60d64",
     "website": "https://quint.io/",

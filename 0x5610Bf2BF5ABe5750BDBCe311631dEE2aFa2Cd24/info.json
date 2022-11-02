@@ -7,6 +7,9 @@
     "en": "MoonPump ($PUMP) is the community-built utility token for the upcoming PumpLaunch platform."
   },
   "id": "7b487753-9afd-4345-91e5-8cd0f2d73534",
+  "identifiers": {
+    "coinmarketcap": 10649
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24",
     "website": "https://moonpump.net"

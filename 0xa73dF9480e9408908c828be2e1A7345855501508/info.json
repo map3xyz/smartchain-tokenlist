@@ -7,6 +7,9 @@
     "en": "BabyDogeZilla is the cutest and most badass meme in crypto! BabyDogeZilla is a deflationary token designed to become more scarce over time. All holders of BabyDogeZilla will earn more BabyDogeZilla by simply holding. Watch the amount of BabyDogeZilla grow in your wallet as BabyDogeZilla holders automatically receive a 3% fee from every transaction that happens on the BabyDogeZilla network."
   },
   "id": "f00b30bc-87d8-402c-9dfa-ece812577424",
+  "identifiers": {
+    "coinmarketcap": 13546
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa73dF9480e9408908c828be2e1A7345855501508",
     "website": "https://babydogezilla.com/",

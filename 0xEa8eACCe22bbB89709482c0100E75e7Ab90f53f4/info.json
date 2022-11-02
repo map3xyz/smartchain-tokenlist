@@ -7,6 +7,9 @@
     "en": "Chad is the greatest Binance Smart Chain meme token ever created. You already know this. That’s why you’re buying it."
   },
   "id": "efcfc22b-2d3a-4356-bcce-99135c92fcaf",
+  "identifiers": {
+    "coinmarketcap": 9942
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEa8eACCe22bbB89709482c0100E75e7Ab90f53f4",
     "website": "https://www.thechadtoken.com/"

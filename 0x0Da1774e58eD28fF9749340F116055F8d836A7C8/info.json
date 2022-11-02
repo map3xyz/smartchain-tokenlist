@@ -7,6 +7,9 @@
     "en": "VANCAT Token is the governance token of the VANCAT platform. Users can mint Standard NFTs or Special NFTs with platform and get paid with VANCAT. The platform presents VANCAT Wallet App, VANSwap, gaming awards (play to earn) and its own metaverse."
   },
   "id": "3b0dc3e0-08b6-41e5-a1b1-e866a08e49c5",
+  "identifiers": {
+    "coinmarketcap": 18594
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0Da1774e58eD28fF9749340F116055F8d836A7C8",
     "website": "https://vancattoken.com/",

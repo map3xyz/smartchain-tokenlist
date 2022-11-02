@@ -7,6 +7,9 @@
     "en": "Qubit Finance is a DeFi lending protocol that is optimized to deliver lending as a utility for the BSC."
   },
   "id": "8e4ecd5c-71fe-4838-9a0f-387e2d3824e3",
+  "identifiers": {
+    "coinmarketcap": 11414
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
     "website": "https://qbt.fi",

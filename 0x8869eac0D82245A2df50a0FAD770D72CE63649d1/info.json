@@ -7,6 +7,9 @@
     "en": "Doggy Swap is the all-in-one DeFi platform that provides both AMM and NFT Marketplace solutions in one place!"
   },
   "id": "ebac515f-98de-4446-8fda-e6aff7b71ddd",
+  "identifiers": {
+    "coinmarketcap": 10489
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8869eac0d82245a2df50a0fad770d72ce63649d1",
     "website": "https://doggyswap.io"

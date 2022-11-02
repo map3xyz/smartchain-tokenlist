@@ -7,6 +7,9 @@
     "en": "CAPT token is the main token and store of value for CaptainSwap"
   },
   "id": "550d2678-2442-495b-821f-366002fc4957",
+  "identifiers": {
+    "coinmarketcap": 10226
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
     "website": "https://capttoken.com/"
