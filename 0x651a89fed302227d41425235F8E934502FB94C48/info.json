@@ -7,6 +7,9 @@
     "en": "A revolutionary new token that earns you 10% ADA reflections just for holding"
   },
   "id": "1dc83cb3-8d99-45fd-9963-440576cae55d",
+  "identifiers": {
+    "coinmarketcap": 13351
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x651a89fed302227d41425235F8E934502FB94C48",
     "website": "https://adacash.io",

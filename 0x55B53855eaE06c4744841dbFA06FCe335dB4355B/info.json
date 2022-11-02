@@ -7,6 +7,9 @@
     "en": "An Accelerated Hyper-Deflationary Token powered by advanced tokenomics and the SSB Business Model."
   },
   "id": "7244e424-2ecc-4ada-882e-fc1ce5fa225f",
+  "identifiers": {
+    "coinmarketcap": 12987
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x55B53855eaE06c4744841dbFA06FCe335dB4355B",
     "website": "https://ssbtoken.com",

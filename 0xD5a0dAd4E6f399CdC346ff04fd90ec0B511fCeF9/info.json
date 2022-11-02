@@ -7,6 +7,9 @@
     "en": "Beer Token is a new currency on a mission to make cryptocurrency normalized in the beer buying world."
   },
   "id": "737e5b2a-61d0-4a17-9e5a-8033a4437e6e",
+  "identifiers": {
+    "coinmarketcap": 9695
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
     "website": "https://beertoken.co"

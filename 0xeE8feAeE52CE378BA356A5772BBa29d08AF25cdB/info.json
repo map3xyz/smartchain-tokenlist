@@ -7,6 +7,9 @@
     "en": "A fresh RFI-like cryptocurrency where the longer you hold, the more you are rewarded."
   },
   "id": "b9300cb7-bb72-47b1-aae6-f56025c022f8",
+  "identifiers": {
+    "coinmarketcap": 10230
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xeE8feAeE52CE378BA356A5772BBa29d08AF25cdB",
     "website": "https://diamondhold.net/"

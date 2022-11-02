@@ -7,6 +7,9 @@
     "en": "NINO token is a utility token that was issued by Ninneko development team."
   },
   "id": "aa9a586f-73da-4747-8af8-986f00fd2d69",
+  "identifiers": {
+    "coinmarketcap": 13216
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6CAD12b3618a3C7ef1FEb6C91FdC3251f58c2a90",
     "website": "https://ninneko.com/",

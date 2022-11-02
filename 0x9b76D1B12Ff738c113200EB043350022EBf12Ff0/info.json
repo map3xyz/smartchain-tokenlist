@@ -7,6 +7,9 @@
     "en": "The biggest BNB reflection token and the only one with auto-claim feature. Simply hold $TIKI tokens in your wallet and you'll earn BNB."
   },
   "id": "85f704a9-f3a8-475a-92f6-95f7fbbc4388",
+  "identifiers": {
+    "coinmarketcap": 10684
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
     "website": "https://tikitoken.finance/"

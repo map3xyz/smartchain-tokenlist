@@ -7,6 +7,9 @@
     "en": "FINA is BEP-20 governance and utility token for the Defina Metaverse ecosystem. There are multiple use cases for FINA and it plays a very important role in both gaming and community governance."
   },
   "id": "f4233846-956d-4543-b779-8bf368632183",
+  "identifiers": {
+    "coinmarketcap": 12203
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x426c72701833fddbdfc06c944737c6031645c708",
     "website": "https://defina.finance/",

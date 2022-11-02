@@ -7,6 +7,9 @@
     "en": "Boom Shiba - BUSD Rewards with the Power of Shiba."
   },
   "id": "daf33961-61d5-45c5-9652-22a6031cda94",
+  "identifiers": {
+    "coinmarketcap": 13730
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x14aF0e9D51d9FE25c1675cC580409b640286167F",
     "website": "https://boomshiba.com/",

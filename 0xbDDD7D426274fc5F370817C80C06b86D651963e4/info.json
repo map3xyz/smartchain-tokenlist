@@ -7,6 +7,9 @@
     "en": "Moola a token for an upcoming defi statistics platform and deflationary yield farming dapp"
   },
   "id": "494643f3-8b35-4879-a77c-e1621c3359b8",
+  "identifiers": {
+    "coinmarketcap": 8619
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbDDD7D426274fc5F370817C80C06b86D651963e4",
     "website": "https://getmoola.org",

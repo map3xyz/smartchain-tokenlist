@@ -7,6 +7,9 @@
     "en": "WAM is a play & earn crypto-gaming platform where everybody can play & compete with friends in simple hyper-casual tournaments to earn crypto rewards."
   },
   "id": "e8d57a03-2fd3-4ef8-a815-6b3a02f8fe7d",
+  "identifiers": {
+    "coinmarketcap": 14133
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xeBBAefF6217d22E7744394061D874015709b8141",
     "website": "https://wam.app",

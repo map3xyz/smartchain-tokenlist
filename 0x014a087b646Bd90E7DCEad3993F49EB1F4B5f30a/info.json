@@ -7,6 +7,9 @@
     "en": "Gulf, A gem rising to the surface of the fourth industrial revolution. Today, we are living through an industrial and a technological revolution going at a pace that will fundamentally alter the way we live."
   },
   "id": "647b3f78-c886-40bd-bbba-6ebc7e2266a2",
+  "identifiers": {
+    "coinmarketcap": 19236
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x014a087b646Bd90E7DCEad3993F49EB1F4B5f30a",
     "website": "https://gulfofficial.com/",

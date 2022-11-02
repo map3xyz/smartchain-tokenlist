@@ -7,6 +7,9 @@
     "en": "The one and the only low-poly multiplayer blockchain-powered skill-based racing game you can play to earn! With our smart contract-backed CoinracerSmartPool back-end, you can race and earn $CRACE tokens completely decentralized."
   },
   "id": "3feb2077-d7f7-4799-823a-de602c498ba1",
+  "identifiers": {
+    "coinmarketcap": 13376
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFBb4F2f342c6DaaB63Ab85b0226716C4D1e26F36",
     "website": "https://coinracer.io",

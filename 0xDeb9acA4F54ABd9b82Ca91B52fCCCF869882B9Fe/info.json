@@ -7,6 +7,9 @@
     "en": "Every transaction is taxed 5%: 2% is distributed to holders and 3% is locked in liquidity forever"
   },
   "id": "7e5af37c-b529-4531-b29c-fedc083d3702",
+  "identifiers": {
+    "coinmarketcap": 10227
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe",
     "website": "https://gdoge.finance/"

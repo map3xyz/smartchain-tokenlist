@@ -7,6 +7,9 @@
     "en": "AFROSTAR IS THE UNITED DIGITAL CURRENCY OF AFRICA. It aims to be THE digital currency that is trusted and used across the continent, and a top crypto currency worldwide. The Afrostar ecosystem will provide a range of powerful real world use cases for the Afrostar crypto token."
   },
   "id": "c70d17b5-48ca-4d26-b6c4-264c0e45211b",
+  "identifiers": {
+    "coinmarketcap": 13783
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2F4e9c97aAFFD67D98A640062d90e355B4a1C539",
     "website": "https://afrostar.io",

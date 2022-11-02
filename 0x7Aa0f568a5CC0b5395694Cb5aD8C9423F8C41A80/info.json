@@ -7,6 +7,9 @@
     "en": "SafeMusk autonomous yield and liquidity generation protocol on BSC"
   },
   "id": "714b40d1-d7f4-46a9-825f-e8e2d2217ed5",
+  "identifiers": {
+    "coinmarketcap": 9895
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7aa0f568a5cc0b5395694cb5ad8c9423f8c41a80",
     "website": "https://www.safemusk.com/"

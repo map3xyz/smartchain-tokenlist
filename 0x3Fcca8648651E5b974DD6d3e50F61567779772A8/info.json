@@ -7,6 +7,9 @@
     "en": "The win-win lottery on Binance SmartChain where every ticket earns you interest."
   },
   "id": "536062a9-9de2-452e-b960-17ee9c79dcdf",
+  "identifiers": {
+    "coinmarketcap": 11242
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3fcca8648651e5b974dd6d3e50f61567779772a8",
     "website": "https://moonpot.com"

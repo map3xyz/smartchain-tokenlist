@@ -7,6 +7,9 @@
     "en": "The World’s first Auto-Boost, Super Hyper Deflationary Coin is here! MiniDog is on a mission to help lost and horny animals find their way to the nearest animal shelter"
   },
   "id": "8f823a0b-2cf7-48c7-ac10-89a1e0abdcc7",
+  "identifiers": {
+    "coinmarketcap": 10694
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x57282282A6CbD3658576883eB6674e339609c714",
     "website": "https://minidog.finance"

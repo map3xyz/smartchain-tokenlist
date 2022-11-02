@@ -7,6 +7,9 @@
     "en": "InfinitX is a rebase token that also rewards in XRP."
   },
   "id": "4fd66815-f12f-4485-b862-ed14a801c0f3",
+  "identifiers": {
+    "coinmarketcap": 12899
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1f5d9ffafa57604ae2a43cebadecc175df2f069e",
     "website": "https://infinitx.io/",

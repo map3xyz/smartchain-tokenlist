@@ -7,6 +7,9 @@
     "en": "dexIRA provides fully automated BNB redistribution, multi-currency dividend rewards, advanced buyback protocols, and tokenomics that promote longterm holding"
   },
   "id": "90f75af4-711a-4160-b052-6d9847cd1f32",
+  "identifiers": {
+    "coinmarketcap": 12505
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x147E07976E1ae78287c33aAFAab87760d32E50A5",
     "website": "https://www.dexira.com",

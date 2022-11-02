@@ -7,6 +7,9 @@
     "en": "We aim to bring the gaming community, content creators and game developers together with GMR."
   },
   "id": "ca434a34-684e-4635-91a3-dffa42b29954",
+  "identifiers": {
+    "coinmarketcap": 9629
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0523215dcafbf4e4aa92117d13c6985a3bef27d7",
     "website": "https://gmr.finance"

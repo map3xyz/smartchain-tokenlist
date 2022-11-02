@@ -7,6 +7,9 @@
     "en": "FWC is a BEP-20 token designed for buying tickets to the World Cup, booking hotels, using various related services, placing bets, and participating in lotteries."
   },
   "id": "3af80080-def6-4137-904f-26dbbe9642e7",
+  "identifiers": {
+    "coinmarketcap": 18706
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
     "website": "https://qatar2022token.com/",

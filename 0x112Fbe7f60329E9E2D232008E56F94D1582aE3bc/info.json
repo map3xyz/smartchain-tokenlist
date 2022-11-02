@@ -7,6 +7,9 @@
     "en": "BabyflokiBillionaire is a meme token based on Floki hype"
   },
   "id": "d58a6b0f-e0fa-4642-bfd3-fbbb9a74ceda",
+  "identifiers": {
+    "coinmarketcap": 12355
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x112Fbe7f60329E9E2D232008E56F94D1582aE3bc",
     "website": "http://babyflokibillionaire.com/",

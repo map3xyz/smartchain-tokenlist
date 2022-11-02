@@ -7,6 +7,9 @@
     "en": "2LC BEP20 based token created by 2local for Sustainability and Prosperity for all."
   },
   "id": "06f46a64-60fc-48e0-adfe-ab7bf1e16f7a",
+  "identifiers": {
+    "coinmarketcap": 9268
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x11F6ECC9E2658627e0876212f1078b9F84d3196e",
     "website": "https://2local.io/"

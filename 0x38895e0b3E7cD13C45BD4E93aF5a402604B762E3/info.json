@@ -7,6 +7,9 @@
     "en": "BabyPooCoin is a rewards token ran on the Binance Smart Chain, holders receive rewards in the form of the native utility token of the charting platform PooCoin"
   },
   "id": "0a24b70a-737d-4b42-919b-380746396366",
+  "identifiers": {
+    "coinmarketcap": 11184
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x38895e0b3E7cD13C45BD4E93aF5a402604B762E3",
     "website": "https://babypoo.io/",

@@ -7,6 +7,9 @@
     "en": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite."
   },
   "id": "98e6beaa-2a65-49a0-a0c3-38c3ba78914d",
+  "identifiers": {
+    "coinmarketcap": 10669
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8F49733210700D38098d7375C221c7d02F700cc8",
     "website": "https://www.pallapay.com",

@@ -7,6 +7,9 @@
     "en": "Standard, frictionless, yield generating contract"
   },
   "id": "98976a62-7490-45eb-8dcf-5995c31fa7d5",
+  "identifiers": {
+    "coinmarketcap": 8823
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
     "website": "https://www.poodltoken.com"

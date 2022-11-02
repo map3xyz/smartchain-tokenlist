@@ -7,6 +7,9 @@
     "en": "Venus Reward Token is a mechanism created to become an additional mining distribution to suppliers and borrowers of Venus Protocol."
   },
   "id": "3df67f11-7a3a-4633-909a-d3cbf1283620",
+  "identifiers": {
+    "coinmarketcap": 9691
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5F84ce30DC3cF7909101C69086c50De191895883",
     "website": "https://venus.io/",

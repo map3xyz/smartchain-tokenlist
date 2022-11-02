@@ -7,6 +7,9 @@
     "en": "Please update logo "
   },
   "id": "a8d37f5d-0b01-4286-a6e5-17386075b3e7",
+  "identifiers": {
+    "coinmarketcap": 10074
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbB8170ad35325522c0026d67584D4feFBd08b750",
     "website": "https://radditarium.com/"

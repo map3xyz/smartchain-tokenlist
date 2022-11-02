@@ -7,6 +7,9 @@
     "en": "LaunchZone is The Ultimate DeFi Platform. $LZ is the utility and governance token of LaunchZone Ecosystem"
   },
   "id": "330d1ded-3c1b-4f0a-b3b3-43aceb5f503a",
+  "identifiers": {
+    "coinmarketcap": 11480
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2",
     "website": "https://lz.finance",

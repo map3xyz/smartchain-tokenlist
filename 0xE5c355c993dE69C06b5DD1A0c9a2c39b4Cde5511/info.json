@@ -7,6 +7,9 @@
     "en": "Frog Inu is a meme token that only rewards investors for holding, the number of rewards received will increase over time if investors hold them longer. We are the safest place for long- and short-term investors in the meme category."
   },
   "id": "9dd6bf29-8389-40b3-ba4e-b4404d84c5cf",
+  "identifiers": {
+    "coinmarketcap": 20404
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE5c355c993dE69C06b5DD1A0c9a2c39b4Cde5511",
     "website": "https://froginu.io/",

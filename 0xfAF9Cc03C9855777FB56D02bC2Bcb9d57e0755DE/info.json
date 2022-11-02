@@ -7,6 +7,9 @@
     "en": "Token to provide solutions to Professional gamers and content creators in the gaming industry."
   },
   "id": "3e959d02-fdab-42c8-8668-385f72ccb246",
+  "identifiers": {
+    "coinmarketcap": 10719
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfAF9Cc03C9855777FB56D02bC2Bcb9d57e0755DE",
     "website": "https://www.urgaming.io"

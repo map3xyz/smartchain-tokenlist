@@ -7,6 +7,9 @@
     "en": "Binemon is a virtual pet NFT game combined with elements of an Idle RPG game."
   },
   "id": "5ff20a1f-1b12-4cbd-aea0-8115619286de",
+  "identifiers": {
+    "coinmarketcap": 11412
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe56842ed550ff2794f010738554db45e60730371",
     "website": "https://binemon.io",

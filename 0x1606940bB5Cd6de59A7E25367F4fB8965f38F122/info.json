@@ -7,6 +7,9 @@
     "en": "AquaGoat is a next-generation ecological social cryptocurrency. AquaGoat operates as a deflationary automated liquidity-locking and self-staking direct distribution protocol, providing safe, secure and hassle-free transactions and yield-generation for all holders. "
   },
   "id": "3217c0bc-a73f-4ded-bd75-87d1870721ff",
+  "identifiers": {
+    "coinmarketcap": 12193
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1606940bB5Cd6de59A7E25367F4fB8965f38F122",
     "website": "https://aquagoat.finance/"

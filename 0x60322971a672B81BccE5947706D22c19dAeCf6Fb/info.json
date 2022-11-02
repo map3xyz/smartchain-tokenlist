@@ -7,6 +7,9 @@
     "en": "MarsDAO is a multifunctional decentralized platform designed for the use of crypto tools, which operates based on a DAO principle, on its native MDAO token."
   },
   "id": "67822605-36ab-43d1-8041-de394a522280",
+  "identifiers": {
+    "coinmarketcap": 18913
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x60322971a672B81BccE5947706D22c19dAeCf6Fb",
     "website": "https://daomars.com",

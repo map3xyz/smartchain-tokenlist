@@ -7,6 +7,9 @@
     "en": "HERO pays CAKE and BUSD his long-term holders! Every Hours Hero holders can claim BUSD & CAKE from the Hero Vault!"
   },
   "id": "7fe3809c-60df-463a-bac6-1a758dbfe178",
+  "identifiers": {
+    "coinmarketcap": 13710
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5d96991648d22935bdf6c7064b65c3c93f82aa61",
     "website": "https://herofloki.com",

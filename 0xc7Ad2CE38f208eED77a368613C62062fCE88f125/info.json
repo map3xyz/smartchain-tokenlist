@@ -7,6 +7,9 @@
     "en": "$AER token offers holders redistribution %, $AER airdrops & free access to the first Defi launchpad for new tokens offering exclusive airdrops."
   },
   "id": "432377fd-cee8-467f-903b-5cda1f8df9a4",
+  "identifiers": {
+    "coinmarketcap": 10208
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc7Ad2CE38f208eED77a368613C62062fCE88f125",
     "website": "https://www.aerdrop.finance/",

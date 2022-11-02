@@ -7,6 +7,9 @@
     "en": "Bitrise Token - a Hyper Deflationary & BNB reward token"
   },
   "id": "19821e71-2cf3-4331-b9d6-e0ac1f63e713",
+  "identifiers": {
+    "coinmarketcap": 11079
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
     "website": "https://www.bitrisetoken.com",

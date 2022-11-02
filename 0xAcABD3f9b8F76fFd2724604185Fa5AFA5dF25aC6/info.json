@@ -7,6 +7,9 @@
     "en": "MSS holders have voting rights and the ability to create proposals to improve the protocol. MSS holders also have many rights such as MSC minted will be distributed to MSS holders who have staked their tokens inside the boardroom."
   },
   "id": "9d6d23ed-e9b6-4132-8e3c-b0f34f3c2944",
+  "identifiers": {
+    "coinmarketcap": 8465
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6",
     "website": "https://monsterslayer.finance/",

@@ -7,6 +7,9 @@
     "en": "The world 1st double reward reflection token using the power of 80% CAKE / 20% THOREUM."
   },
   "id": "b4aed0f8-03aa-48a6-9b88-ccbcda73dedc",
+  "identifiers": {
+    "coinmarketcap": 11244
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xce4A4A15FcCD532eAd67BE3ECf7e6122c61D06bb",
     "website": "https://www.thundercake.app/",

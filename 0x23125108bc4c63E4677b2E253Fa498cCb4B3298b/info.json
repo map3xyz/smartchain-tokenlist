@@ -7,6 +7,9 @@
     "en": "Buff Doge Coin is extremely hyper deflationary where each burn will double in its quantity to the previous burn."
   },
   "id": "f74dfa77-2baf-4da6-a90f-59fa6c318d00",
+  "identifiers": {
+    "coinmarketcap": 12040
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x23125108bc4c63E4677b2E253Fa498cCb4B3298b",
     "website": "https://www.buffdogecoin.io/",

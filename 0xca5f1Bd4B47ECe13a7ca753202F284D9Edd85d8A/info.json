@@ -7,6 +7,9 @@
     "en": "Big Oily Orange Boob ($BOOB) is a community token that can be used as a tipping currency for models.$BOOB will also raise funds for breast cancer charities."
   },
   "id": "30611f0b-b488-400a-8b8f-bcb00c404d35",
+  "identifiers": {
+    "coinmarketcap": 10144
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
     "website": "https://coinboob.com"

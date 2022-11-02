@@ -7,6 +7,9 @@
     "en": "FIBO is the utility token of and FibSwap DEx, the worlds first cross blockchain DEx allowing traders to swap any coin between BSC (BEP20) and ETH (ERC20) blockchains and many more bridges."
   },
   "id": "7c81173c-de23-4efc-a513-c85cdccc8c00",
+  "identifiers": {
+    "coinmarketcap": 11080
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5067c6e9E6c443372f2E62946273ABbF3Cc2f2B3",
     "website": "https://fibswap.io/",

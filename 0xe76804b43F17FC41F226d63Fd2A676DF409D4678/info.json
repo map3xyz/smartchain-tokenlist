@@ -7,6 +7,9 @@
     "en": "BAT is a decentralized, community driven, fair launched Meme Token in BSC"
   },
   "id": "9a0e9afe-49e7-4dc9-bb84-3948fd60cbff",
+  "identifiers": {
+    "coinmarketcap": 10028
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe76804b43f17fc41f226d63fd2a676df409d4678",
     "website": "https://app.batex.io"

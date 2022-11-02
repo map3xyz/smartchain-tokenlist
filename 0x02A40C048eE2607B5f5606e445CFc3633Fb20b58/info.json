@@ -7,6 +7,9 @@
     "en": "Kaby Arena is a tactical multiplayer role playing game which combines Free-to-Play and Play-to-Earn to provide an open economy for every player"
   },
   "id": "826a7a37-cd83-42d6-9662-3cd791134f2b",
+  "identifiers": {
+    "coinmarketcap": 10953
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x02a40c048ee2607b5f5606e445cfc3633fb20b58",
     "website": "https://kabyarena.com",

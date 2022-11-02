@@ -7,6 +7,9 @@
     "en": "PancakeHunny.Finance — Enhance and Optimise Your DeFi Yield Farming on Binance Smart Chan (BSC)."
   },
   "id": "01c927d1-cb0b-4dc4-8b5e-8d124f0dfa4c",
+  "identifiers": {
+    "coinmarketcap": 10514
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x565b72163f17849832A692A3c5928cc502f46D69",
     "website": "https://pancakehunny.finance"

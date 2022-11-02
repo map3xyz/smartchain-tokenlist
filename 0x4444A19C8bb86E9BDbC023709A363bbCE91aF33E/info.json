@@ -7,6 +7,9 @@
     "en": "CryptoTanks is an NFT-based play-to-earn game. Allows the player to delve into a world of nostalgia and experience the power of the new technology of the crypto world, DEFI and NFT."
   },
   "id": "d84e0d2c-9583-4461-b8c8-995582cfc5ce",
+  "identifiers": {
+    "coinmarketcap": 16447
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4444a19c8bb86e9bdbc023709a363bbce91af33e",
     "website": "https://cryptotanks.com/",

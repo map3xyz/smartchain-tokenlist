@@ -7,6 +7,9 @@
     "en": "DRUGS is the primary token of the Traphouse yield farm playa. The most gangster yield farm ever created. Created by the THUGS interactive team."
   },
   "id": "4febcd4d-de59-4b68-98aa-23d119fe710a",
+  "identifiers": {
+    "coinmarketcap": 7652
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x339550404ca4d831d12b1b2e4768869997390010",
     "website": "https://traphouse.vip/",

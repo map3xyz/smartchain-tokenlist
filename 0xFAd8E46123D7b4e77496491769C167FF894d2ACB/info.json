@@ -7,6 +7,9 @@
     "en": "Fox Finance is a progressive auto-staking token that pays out rewards just for holding it within your wallet. It also rewards community environmental action via Fox in Action token drops."
   },
   "id": "033ea2ef-2e30-485d-8113-1e074ba1ef68",
+  "identifiers": {
+    "coinmarketcap": 9239
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFAd8E46123D7b4e77496491769C167FF894d2ACB",
     "website": "https://foxfinance.io/",

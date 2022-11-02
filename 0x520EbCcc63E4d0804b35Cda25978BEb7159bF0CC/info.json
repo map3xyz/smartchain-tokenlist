@@ -7,6 +7,9 @@
     "en": "LEGOCOIN is a social meme token and reward, with goals to contribute in social and creativity movement all around the world through your favorite toys: LEGO ."
   },
   "id": "966948e6-4295-458e-a4ea-8f3751d09daf",
+  "identifiers": {
+    "coinmarketcap": 19998
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x520EbCcc63E4d0804b35Cda25978BEb7159bF0CC",
     "website": "https://www.legocoinlive.com/",

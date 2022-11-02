@@ -7,6 +7,9 @@
     "en": "Ecoin Finance is a decentralized & deflationary BEP20 token powered by 'BNB Chain' network that will be an online payment platform replacing the fiat currency through our integrated debit card. People around the world will be able to make easy, fast, and secure payments using your ECOIN balance."
   },
   "id": "3c711545-b3f6-4e2d-bb53-9f82918b82eb",
+  "identifiers": {
+    "coinmarketcap": 19148
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
     "website": "https://ecoin-finance.com/",

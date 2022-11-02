@@ -7,6 +7,9 @@
     "en": "PancakePoll is a voting platform that utilizes the security and immutability of the Binance Smart Chain."
   },
   "id": "775bb0a2-e4f0-49a9-beed-ddaf7458c674",
+  "identifiers": {
+    "coinmarketcap": 13467
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc29000A4b1eCD326b6DafAE17bDA636475FeA1e7",
     "website": "https://pancakepoll.com/",

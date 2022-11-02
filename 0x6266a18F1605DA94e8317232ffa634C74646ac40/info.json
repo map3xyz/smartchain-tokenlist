@@ -7,6 +7,9 @@
     "en": "The MetFx Marketplace is where you will find all the accessories you may require to do so, and also find a wide range of NFT’s that can be used in our metaverse."
   },
   "id": "484885e8-f599-460a-8720-0f2bad1d4f8a",
+  "identifiers": {
+    "coinmarketcap": 21121
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6266a18F1605DA94e8317232ffa634C74646ac40",
     "website": "https://www.metfx.io",

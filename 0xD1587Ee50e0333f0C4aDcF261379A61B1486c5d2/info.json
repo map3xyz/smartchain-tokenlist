@@ -7,6 +7,9 @@
     "en": "WindSwap is a Deflationary Bridging Token & DEX Platform."
   },
   "id": "b7501101-c37c-4517-86da-250f9fa1bd43",
+  "identifiers": {
+    "coinmarketcap": 9560
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD1587Ee50e0333f0C4aDcF261379A61B1486c5d2",
     "website": "https://windswap.finance/",

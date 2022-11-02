@@ -7,6 +7,9 @@
     "en": "BUX is a platform that makes crypto trading simple and accessible."
   },
   "id": "55624991-ff74-4a3a-8a8e-f12cc26abea3",
+  "identifiers": {
+    "coinmarketcap": 2465
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x211ffbe424b90e25a15531ca322adf1559779e45",
     "website": "https://getbuxcrypto.com",

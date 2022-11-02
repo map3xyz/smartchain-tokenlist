@@ -7,6 +7,9 @@
     "en": "next Gen Cryptocurrency Exchanges"
   },
   "id": "1f55bb6c-dd21-46ce-acc7-3a687eb97ce2",
+  "identifiers": {
+    "coinmarketcap": 11862
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4DB2495AfAd4c0E481fFc40FDaF66E13A786b619",
     "website": "https://arixcoin.io/",

@@ -7,6 +7,9 @@
     "en": "Welcome to the DEEPSPACE Metaverse! DEEPSPACE is a Play-to-Earn space multiverse exploration strategy game! Earn passive income from holding $DPS, trading NFTs, and taking risks as you explore DEEPSPACE with your fleet of ships! Prepare to explore, harvest, and fight your way through the DEEPSPACE universe!"
   },
   "id": "6f63ccb2-1412-4f6a-b713-73b858f066d9",
+  "identifiers": {
+    "coinmarketcap": 11437
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
     "website": "https://deepspace.game",

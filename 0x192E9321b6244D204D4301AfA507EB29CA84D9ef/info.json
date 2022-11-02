@@ -7,6 +7,9 @@
     "en": "A community-driven, dog-themed protocol with actual use cases and utility."
   },
   "id": "f8c24796-cb0d-4c18-a9ba-f5f3c611726e",
+  "identifiers": {
+    "coinmarketcap": 10972
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
     "website": "https://boxerinu.finance/"

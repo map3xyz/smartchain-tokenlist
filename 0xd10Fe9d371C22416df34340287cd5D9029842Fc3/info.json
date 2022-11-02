@@ -7,6 +7,9 @@
     "en": "Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!"
   },
   "id": "4ab24620-209c-4ef6-abde-4a62839dfc0f",
+  "identifiers": {
+    "coinmarketcap": 19651
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd10Fe9d371C22416df34340287cd5D9029842Fc3",
     "website": "https://galaxyheroes.com",

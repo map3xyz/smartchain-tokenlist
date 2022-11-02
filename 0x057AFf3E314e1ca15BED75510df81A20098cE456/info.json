@@ -7,6 +7,9 @@
     "en": "Potent coin is an ecosystem on the Binance Smart Chain blockchain that offers fast and efficient solutions for using cryptocurrencies."
   },
   "id": "68ad5a81-2b44-4872-82da-965083dee9fa",
+  "identifiers": {
+    "coinmarketcap": 11299
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x057AFf3E314e1ca15BED75510df81A20098cE456",
     "website": "https://potent.finance/",

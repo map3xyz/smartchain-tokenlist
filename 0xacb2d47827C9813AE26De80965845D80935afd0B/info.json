@@ -7,6 +7,9 @@
     "en": "The future of decentralized exchange & farming platform on BSC"
   },
   "id": "c90383c7-dbfd-47a2-a4e6-370557ad4927",
+  "identifiers": {
+    "coinmarketcap": 8880
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xacb2d47827C9813AE26De80965845D80935afd0B",
     "website": "https://macaronswap.finance/",

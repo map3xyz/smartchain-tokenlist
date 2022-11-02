@@ -7,6 +7,9 @@
     "en": "$CURE is the first deflationary crypto token built around doing good. By design, this community powered token has exponential price growth benefits for both holders and charities."
   },
   "id": "38dc64dc-0e33-42da-9bc0-fa4aa90d16cf",
+  "identifiers": {
+    "coinmarketcap": 12553
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x76aECB353AbF596BD61EE6BDb07d70787DeC4FD6",
     "website": "https://www.curetoken.net/",

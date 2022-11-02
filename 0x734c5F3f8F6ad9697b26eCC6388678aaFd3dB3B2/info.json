@@ -7,6 +7,9 @@
     "en": "MetaMusk Token's fundamental objective is to transform the monetary system."
   },
   "id": "8e1e4994-f565-41cc-be9c-6c73fbe27550",
+  "identifiers": {
+    "coinmarketcap": 15683
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x734c5F3f8F6ad9697b26eCC6388678aaFd3dB3B2",
     "website": "https://muskmetaverse.io/",

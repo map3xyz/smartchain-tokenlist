@@ -7,6 +7,9 @@
     "en": "ZionTopia will act as a tokenized decentralised VR Crypto Underground world. The ZionTopia Metaverse will work as a real estate and present shops that can be purchased, sold or governed by the ZION token holders."
   },
   "id": "9b12ce35-5922-4b43-8a27-463bbc3e5c97",
+  "identifiers": {
+    "coinmarketcap": 20098
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE0399378f7a92A39DA849EB64CdDdE2940e234Bb",
     "website": "https://ziontopia.com/",

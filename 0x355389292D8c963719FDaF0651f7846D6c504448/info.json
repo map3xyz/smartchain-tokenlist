@@ -7,6 +7,9 @@
     "en": "BEP-20 Token combining financial freedom with charity"
   },
   "id": "e3552f9d-c4df-4a94-b60e-9658d7dd4483",
+  "identifiers": {
+    "coinmarketcap": 9972
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x355389292d8c963719fdaf0651f7846d6c504448",
     "website": "https://hakunamatata.finance/"

@@ -7,6 +7,9 @@
     "en": "CryptoPlanes is an expansion of the CryptoCity metaverse. The place where the famous NFT racing game was founded."
   },
   "id": "3290c3bc-3c1b-4a17-879a-9d43767a750c",
+  "identifiers": {
+    "coinmarketcap": 12815
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x04260673729c5F2b9894A467736f3D85F8d34fC8",
     "website": "https://cryptoplanes.me/",

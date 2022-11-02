@@ -7,6 +7,9 @@
     "en": "The First L1 Blockchain Built to Decentralize Social Me​dia"
   },
   "id": "719774ee-50ae-474f-821e-02a86efd625b",
+  "identifiers": {
+    "coinmarketcap": 14346
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x893e14FAfa8df32D9bE7eab810027eeA8828A98c",
     "website": "https://unimoon.io/",

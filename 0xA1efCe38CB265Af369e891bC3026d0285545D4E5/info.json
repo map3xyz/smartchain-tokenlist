@@ -7,6 +7,9 @@
     "en": "Safetesla is frictionless yield & liquidity generation smart contract protocol"
   },
   "id": "dffc8667-ff58-4d9d-b838-ff39ab016541",
+  "identifiers": {
+    "coinmarketcap": 9393
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa1efce38cb265af369e891bc3026d0285545d4e5",
     "website": "https://www.safetesla.com/"

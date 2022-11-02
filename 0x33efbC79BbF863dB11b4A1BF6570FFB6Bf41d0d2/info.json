@@ -7,6 +7,9 @@
     "en": "ETHEKing Introduces A Whole New Gaming Term: Social Platform Battle. ETHEKing, a metaverse game that uses the BSC network and incorporates NFT technology, has already launched the first phase, which is backed by $ETHE, the game's native currency."
   },
   "id": "b1128d15-55c5-4561-bcaa-7ed8ba3f89cf",
+  "identifiers": {
+    "coinmarketcap": 17331
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x33efbC79BbF863dB11b4A1BF6570FFB6Bf41d0d2",
     "website": "https://etheking.io/",

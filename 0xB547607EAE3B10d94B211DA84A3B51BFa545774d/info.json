@@ -7,6 +7,9 @@
     "en": "DOCA is the BEST MEMECOIN. Unique features to shill to the MARS: Memecoin - DeFi - GameFi - Metaverse"
   },
   "id": "9a6c93c4-15a0-4ce5-a7a5-5e612d03908f",
+  "identifiers": {
+    "coinmarketcap": 15475
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB547607EAE3B10d94B211DA84A3B51BFa545774d",
     "website": "https://dogeraca.com/",

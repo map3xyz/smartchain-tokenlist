@@ -7,6 +7,9 @@
     "en": "PIZZA is the Best Modern Yield Farm on Binance Smart Chain."
   },
   "id": "8b14a23f-e701-418d-961e-ed2bfc77794c",
+  "identifiers": {
+    "coinmarketcap": 8459
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb",
     "website": "https://pizzafinance.app/",

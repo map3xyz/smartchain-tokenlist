@@ -7,6 +7,9 @@
     "en": "Bringing Squid Game to life through gaming, NFTs and community prizes!"
   },
   "id": "edecccab-0e5c-4a6a-9256-6cea8b4b39cf",
+  "identifiers": {
+    "coinmarketcap": 13022
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1F878d0BccD3D502ff55F7a4797C556f103d6e4b",
     "website": "https://squidanomics.xyz",

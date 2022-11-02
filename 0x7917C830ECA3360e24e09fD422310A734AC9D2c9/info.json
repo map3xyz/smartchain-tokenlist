@@ -7,6 +7,9 @@
     "en": "Head Football is a new crypto currency that allows you to enjoy the game and also make money by duelling other opponents. Please also check our previous PR fee already paid https://github.com/trustwallet/assets/pull/17660"
   },
   "id": "09769c81-ebe8-48c6-a2ea-d7b13ec0be91",
+  "identifiers": {
+    "coinmarketcap": 17676
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7917c830eca3360e24e09fd422310a734ac9d2c9",
     "website": "https://www.headfootball.io/",

@@ -7,6 +7,9 @@
     "en": "Zuna is a community driven DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition and Burning."
   },
   "id": "3d832ef2-66a1-467c-b389-ad1fd7cd6c43",
+  "identifiers": {
+    "coinmarketcap": 13889
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5D07eDAbA2151a3C6802B28636eCC23082398EdB",
     "website": "https://zunacoin.com/",

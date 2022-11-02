@@ -7,6 +7,9 @@
     "en": "Baby Shiba Inu offers an innovative mix of a multi-stage rewards system for staking and NFT presence. Anyone holding the token contributes to a charitable cause as the team is committed to making donations to Shiba Rescue America Organization"
   },
   "id": "ce903b84-e808-4d10-b723-b017e5442264",
+  "identifiers": {
+    "coinmarketcap": 11060
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
     "website": "https://www.babyshibatoken.com/"

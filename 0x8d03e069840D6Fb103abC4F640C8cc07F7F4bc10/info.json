@@ -7,6 +7,9 @@
     "en": "BlossomCoin ($BLOSM) is a charity-based token that rewards holders, but more importantly, plants trees and supports reforestation efforts worldwide."
   },
   "id": "d6ffc36a-4b72-4761-8d8a-78e03a5e3a65",
+  "identifiers": {
+    "coinmarketcap": 9733
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8d03e069840D6Fb103abC4F640C8cc07F7F4bc10",
     "website": "https://www.blossomco.in/"

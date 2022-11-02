@@ -7,6 +7,9 @@
     "en": "RobustSwap by Robust Protocol is an anti-bot and flash loan attack proof decentralized exchange (DEX), automated market maker (AMM) with yield farming designed to optimize profitability through scarcity and liquidity generation."
   },
   "id": "605bdeea-4a0e-4155-8a63-dd551a736400",
+  "identifiers": {
+    "coinmarketcap": 15550
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x95336aC5f7E840e7716781313e1607F7C9D6BE25",
     "website": "https://robustswap.com",

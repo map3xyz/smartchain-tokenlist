@@ -7,6 +7,9 @@
     "en": "TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone."
   },
   "id": "8671179a-012f-4b62-a3df-39eb8d429dd0",
+  "identifiers": {
+    "coinmarketcap": 10902
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc003F5193CABE3a6cbB56948dFeaAE2276a6AA5E",
     "website": "https://www.trubadger.io/",

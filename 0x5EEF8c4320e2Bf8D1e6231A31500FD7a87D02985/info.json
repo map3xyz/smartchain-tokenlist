@@ -7,6 +7,9 @@
     "en": "Creating new ways for content creators to connect with their audience."
   },
   "id": "7f10fb55-d135-41d6-a39d-ae53ae85c337",
+  "identifiers": {
+    "coinmarketcap": 9646
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
     "website": "https://fomolab.io/"

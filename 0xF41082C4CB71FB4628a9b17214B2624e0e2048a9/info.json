@@ -7,6 +7,9 @@
     "en": "Real Trump Token is a crypto designed to donate into organizations that put America First & President Donald J. Trump's 2024 re-election."
   },
   "id": "65cb2ae9-8532-44a2-8490-3f94abb47a51",
+  "identifiers": {
+    "coinmarketcap": 12205
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf41082c4cb71fb4628a9b17214b2624e0e2048a9",
     "website": "https://realtrumptoken.com/",

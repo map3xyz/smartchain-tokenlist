@@ -7,6 +7,9 @@
     "en": "SurfMoon is the first travel-based BNB redistribution token focusing on rewarding it's holders."
   },
   "id": "9fe754e7-113c-4682-b8e9-7ec7e138edb4",
+  "identifiers": {
+    "coinmarketcap": 13908
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc47f53c425d08f8457471538Ae641655814bEAe8",
     "website": "https://surfmoon.io",

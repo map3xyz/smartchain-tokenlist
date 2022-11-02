@@ -7,6 +7,9 @@
     "en": "Aquari is a community driven token which goal is to save our oceans and marine life. 3% of each trade is going towards charity wallet which is then donated to environmental organizations of your choice."
   },
   "id": "3f88c22e-e8ce-4f12-ba14-146206ae40e0",
+  "identifiers": {
+    "coinmarketcap": 9921
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6500197a2488610aca288fd8e2dfe88ec99e596c",
     "website": "https://aquari.io/"

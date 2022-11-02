@@ -7,6 +7,9 @@
     "en": "AquaGoat Finance is a decentralized community-led eco-DeFi project, with AquaGoat acting as its DeFi alternative to conventional high-interest savings accounts."
   },
   "id": "e7f9bc83-c95e-400b-bca6-a628da57d991",
+  "identifiers": {
+    "coinmarketcap": 9370
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x07af67b392b7a202fad8e0fbc64c34f33102165b",
     "website": "https://www.aquagoat.finance/",

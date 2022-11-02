@@ -7,6 +7,9 @@
     "en": "AstroSpaces.io is building the biggest web3 integrated social network!"
   },
   "id": "edd2c8f2-3c75-4cab-bc1e-09a755a74690",
+  "identifiers": {
+    "coinmarketcap": 17014
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x156df0dd6300C73ac692D805720967cf4464776e",
     "website": "https://astrospaces.io/token",

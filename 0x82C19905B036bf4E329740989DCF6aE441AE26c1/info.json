@@ -7,6 +7,9 @@
     "en": "CoPuppy is the most attractive Metaverse project on BSC. The project includes collectibles, Games, finance, etc., constructing an open Puppy World. CoPuppy has a unique ecosystem and economic model, which combines the current popular mining, NFT, GameFi , Metaverse and other popular concepts, and innovates on this basis."
   },
   "id": "564b25dc-f731-4948-a35e-6acf73bdf45c",
+  "identifiers": {
+    "coinmarketcap": 11172
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x82C19905B036bf4E329740989DCF6aE441AE26c1",
     "website": "https://bsc.copuppy.io/",

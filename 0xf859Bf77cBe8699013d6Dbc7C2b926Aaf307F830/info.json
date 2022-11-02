@@ -7,6 +7,9 @@
     "en": "Berry Data is a transparent community-veriﬁed price oracle on BSC(Binance Smart Chain). "
   },
   "id": "7f42aca9-eafd-4261-9f9e-bedc379cedcb",
+  "identifiers": {
+    "coinmarketcap": 8483
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
     "website": "https://berrydata.co/",

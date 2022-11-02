@@ -7,6 +7,9 @@
     "en": "The Most Comprehensive Trading Tools Available For Binance Smart Chain."
   },
   "id": "85d60f8f-6760-461f-956d-19a43a8e1a90",
+  "identifiers": {
+    "coinmarketcap": 8843
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbB3837Fa11d4B789717C8f622Ec4f6eee5375C49",
     "website": "https://bscview.com/home",

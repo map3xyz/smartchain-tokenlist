@@ -7,6 +7,9 @@
     "en": "Wall Street Games is a next generation hybrid blockchain-based online gaming platform, where players battle each other in fun & addicting simple games for rewards in cryptocurrencies!"
   },
   "id": "24aa97d6-be9b-42f1-92a7-3890a514c988",
+  "identifiers": {
+    "coinmarketcap": 10040
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA58950F05FeA2277d2608748412bf9F802eA4901",
     "website": "https://wsg.gg"

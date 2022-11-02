@@ -7,6 +7,9 @@
     "en": "SafeCap Binance Smart Chain based project. SafeCap is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions."
   },
   "id": "7d26969b-e086-48bb-bd5e-e3a4596fc731",
+  "identifiers": {
+    "coinmarketcap": 10937
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8",
     "website": "https://safecap.org/"

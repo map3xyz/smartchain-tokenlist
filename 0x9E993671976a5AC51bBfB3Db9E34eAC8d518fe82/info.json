@@ -7,6 +7,9 @@
     "en": "Koda token is a futuristic currency created and developed by Summit BC development team and will be the native token on SummitSwap."
   },
   "id": "b3f7b83d-c7e7-4e3e-b354-92f9cab55684",
+  "identifiers": {
+    "coinmarketcap": 9966
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9E993671976a5AC51bBfB3Db9E34eAC8d518fe82",
     "website": "https://koda.finance"

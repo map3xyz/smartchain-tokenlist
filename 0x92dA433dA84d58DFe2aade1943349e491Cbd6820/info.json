@@ -7,6 +7,9 @@
     "en": "Rise of Defenders is a very interesting Metaverse NFT game, you can use your creativity and tactical thinking to become an excellent player and receive extremely attractive rewards."
   },
   "id": "681825ee-0178-4afe-a413-b6792d335918",
+  "identifiers": {
+    "coinmarketcap": 16051
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x92da433da84d58dfe2aade1943349e491cbd6820",
     "website": "https://risedefenders.io/",

@@ -7,6 +7,9 @@
     "en": "We are a strong mysterious community based project focused on having fun, giveaways, donations, and building strong utilities."
   },
   "id": "ebb4cd4d-2838-415e-9f18-8f2422528837",
+  "identifiers": {
+    "coinmarketcap": 18957
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcdcaef3ce3a138c47ddb0b04a9b04649c13d50ed",
     "website": "https://mysterbox.io",

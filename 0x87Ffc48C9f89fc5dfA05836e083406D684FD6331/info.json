@@ -7,6 +7,9 @@
     "en": "Hachiko is a deflationary token on the Binance Smart Chain. Fair launched and 100% community owned. Ownership renounced."
   },
   "id": "a66d952e-16cf-4a73-bf7f-12761879fa50",
+  "identifiers": {
+    "coinmarketcap": 16563
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x87Ffc48C9f89fc5dfA05836e083406D684FD6331",
     "website": "https://hachiko.cc/",

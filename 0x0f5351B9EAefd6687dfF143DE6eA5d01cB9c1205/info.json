@@ -7,6 +7,9 @@
     "en": "Flokimooni Decentralized meme coin with DeFi features"
   },
   "id": "0c75e091-54c8-49dd-81c8-8a0896863ab5",
+  "identifiers": {
+    "coinmarketcap": 13256
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205",
     "website": "https://www.flokimooni.com",

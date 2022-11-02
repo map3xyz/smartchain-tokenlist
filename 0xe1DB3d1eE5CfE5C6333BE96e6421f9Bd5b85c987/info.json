@@ -7,6 +7,9 @@
     "en": "Autonomous yield and liquidity generation protocol. Simply hold SAFESPACE in your wallet and you will get more. On each transaction the protocol automatically distributes rewards to holders as well as auto-locks liquidity forever."
   },
   "id": "02e425ef-d8e3-4702-ba07-7af77107713c",
+  "identifiers": {
+    "coinmarketcap": 10075
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe1DB3d1eE5CfE5C6333BE96e6421f9Bd5b85c987",
     "website": "https://safespacecrypto.net/"

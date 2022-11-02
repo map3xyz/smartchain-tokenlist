@@ -7,6 +7,9 @@
     "en": "BrandPad is a multi-chain liquidity manager for token pools and auctions powered by decentralized, infrastructure. We facilitate buying and transferring tokens between blockchains."
   },
   "id": "6687b164-e072-4017-9c4f-9add744a3938",
+  "identifiers": {
+    "coinmarketcap": 13399
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4d993ec7b44276615bB2F6F20361AB34FbF0ec49",
     "website": "https://brandpad.finance/",

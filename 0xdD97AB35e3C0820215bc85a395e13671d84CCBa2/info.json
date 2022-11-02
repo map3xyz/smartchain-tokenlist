@@ -7,6 +7,9 @@
     "en": "AutoShark is a yield optimizer for Automatic Liquidity Acquisition Farms & AMMs on the Binance Smart Chain."
   },
   "id": "f8aa40f2-1794-4f71-972b-295b5dc22e4f",
+  "identifiers": {
+    "coinmarketcap": 10303
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdD97AB35e3C0820215bc85a395e13671d84CCBa2",
     "website": "https://autoshark.finance/",

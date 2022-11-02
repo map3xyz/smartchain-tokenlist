@@ -7,6 +7,9 @@
     "en": "Somax autonomous yield and liquidity generation protocol on BSC"
   },
   "id": "b59c9973-b172-42ee-8a64-e46f9511e45a",
+  "identifiers": {
+    "coinmarketcap": 13077
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x586330013c8f2352ab5f57215f9e56747ee8837e",
     "website": "https://somax.finance/",

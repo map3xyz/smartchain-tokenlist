@@ -7,6 +7,9 @@
     "en": "Call to Combat is the world's first multiplayer online role-playing game universe that exists inside the MetaVerse world where real players connect and earn."
   },
   "id": "2f8ffe40-e9b4-4145-97b0-7546670e5c91",
+  "identifiers": {
+    "coinmarketcap": 21737
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x63221d19c4b512a6f4792f2da0a2083ea28c38c1",
     "website": "https://calltocombat.com",

@@ -7,6 +7,9 @@
     "en": "Self generating liquidity token - Reflection paid back to holders."
   },
   "id": "b44867ad-a23c-45ee-bdaf-6edbc55795c1",
+  "identifiers": {
+    "coinmarketcap": 9568
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB667bbfE0DcEdae1a53555a0e8B0a14EAf0d5231",
     "website": "https://safecometcrypto.com"

@@ -7,6 +7,9 @@
     "en": "PooCoin Reflect Token. 8% fee is charged on each transaction. 4% is distributed to token holders 4% is burned. Initial supply: 10,000,000. No more than 100,000 can be traded in 1 transaction."
   },
   "id": "37528e3e-e353-41fb-a3cd-33f0b2a1c05f",
+  "identifiers": {
+    "coinmarketcap": 8978
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
     "website": "https://poocoin.app/"

@@ -7,6 +7,9 @@
     "en": "Koduro is an autonomous liquidity generation protocol with static farming that reinvests back into clean energy projects."
   },
   "id": "a2e03d0b-1e98-45b1-8782-9cf5ba55f9ee",
+  "identifiers": {
+    "coinmarketcap": 9835
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x26A4F25A411eF867972633E5FA410031D6346285",
     "website": "https://koduro.io"

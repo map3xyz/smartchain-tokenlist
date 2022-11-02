@@ -7,6 +7,9 @@
     "en": "KissMyMoon protocol is the world’s first deflationary Token with the anti-whale tier system."
   },
   "id": "f1020898-7b13-4f80-8302-ae6dd78b314d",
+  "identifiers": {
+    "coinmarketcap": 10664
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6001600A144166e14075963eE9bF03e194f638Fe",
     "website": "https://kissmymoon.finance/"

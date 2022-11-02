@@ -7,6 +7,9 @@
     "en": "Tranchess Protocol is a tokenized asset management and derivatives trading protocol. Inspired by tranches fund that caters investors with different risk appetite, Tranchess aims to provide different risk/return matrix out of a single main fund that tracks a specific underlying asset."
   },
   "id": "ada83ec0-c7a0-4ed7-ba97-0088714a25f9",
+  "identifiers": {
+    "coinmarketcap": 10974
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
     "website": "https://tranchess.com/",

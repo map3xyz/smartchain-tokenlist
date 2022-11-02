@@ -7,6 +7,9 @@
     "en": "The Venus vTokens, which are self-contained borrowing and lending contracts. VToken contains the core logic and VBep20, VBUSD, VSXP, VUSDC, VUSDT, VXVS and VBNB add public interfaces for Bep20 tokens and bnb, respectively."
   },
   "id": "fbfaaf25-8b5b-4995-a972-83a9c81f23f2",
+  "identifiers": {
+    "coinmarketcap": 7952
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2fF3d0F6990a40261c66E1ff2017aCBc282EB6d0",
     "research": "https://research.binance.com/en/projects/venus",

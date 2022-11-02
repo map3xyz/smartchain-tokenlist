@@ -7,6 +7,9 @@
     "en": "Green Shiba Inu is a fully decentralized, zero-emission and fairly distributed community-driven token disrupting the meme economy aiming at protecting the environment!"
   },
   "id": "bb9043f7-a4c9-428e-830e-13846b8533f6",
+  "identifiers": {
+    "coinmarketcap": 10414
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
     "website": "https://greenshiba.org"

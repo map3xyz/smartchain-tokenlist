@@ -7,6 +7,9 @@
     "en": "HyperBurn is a deflationary DeFi token with a passive yield mechanism. The HyperJump team is the continuation of THUGS one of the earliest successes on Binance Smart Chain."
   },
   "id": "81cadcfb-5236-4127-957d-4ed6e10cc822",
+  "identifiers": {
+    "coinmarketcap": 7409
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x03D6BD3d48F956D783456695698C407A46ecD54d",
     "website": "https://hyperjump.fi/",

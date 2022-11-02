@@ -7,6 +7,9 @@
     "en": "Token that has real-world usecases: FindShibby App & Shibby Snacks. Choose your own rewards! Earn rewards in different tokens like SHIBA Inu, BNB, USDT and many more."
   },
   "id": "a154ce4b-3651-4255-8ac0-3b7f81820c0c",
+  "identifiers": {
+    "coinmarketcap": 14360
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9A21477b4e9EA5F7946D75876A186A1194559828",
     "website": "https://findshibby.cash",

@@ -7,6 +7,9 @@
     "en": "Recycle using Blockchain."
   },
   "id": "defcfe1f-4a16-4e25-b6c4-a480e257ccdb",
+  "identifiers": {
+    "coinmarketcap": 10589
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xae768A3d387c3B65d382535a790370Af94bb1691",
     "website": "https://undo.website"

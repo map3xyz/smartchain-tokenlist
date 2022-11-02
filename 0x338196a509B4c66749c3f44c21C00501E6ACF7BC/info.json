@@ -7,6 +7,9 @@
     "en": "Dragon Musk is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn."
   },
   "id": "3a20b7e6-9b63-41b1-b87e-d96deefbaf7e",
+  "identifiers": {
+    "coinmarketcap": 10018
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
     "website": "https://dragonmusk.ga/"

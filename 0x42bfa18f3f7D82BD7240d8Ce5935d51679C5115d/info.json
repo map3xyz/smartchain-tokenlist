@@ -7,6 +7,9 @@
     "en": "Sports 2K75 is a Web-3 based Sport-Fi Metaverse, combined with NFTs, De-Fi and gaming platform, users stake sports matches like NBA, Soccer, Esports with our S2E gaming platform."
   },
   "id": "4633d956-8c7c-4648-b62b-caf71a000b93",
+  "identifiers": {
+    "coinmarketcap": 20389
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42bfa18f3f7D82BD7240d8Ce5935d51679C5115d",
     "website": "https://www.2k75.online/",

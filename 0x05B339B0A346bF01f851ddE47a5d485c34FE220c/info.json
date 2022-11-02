@@ -7,6 +7,9 @@
     "en": "Astronaut is a protocol built for decentralizing the way which new projects and ideas coming to the BNB ecosystem raise capital."
   },
   "id": "6a5aac9d-c863-41f0-8d0a-5bfd1f6d17ad",
+  "identifiers": {
+    "coinmarketcap": 8770
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x05b339b0a346bf01f851dde47a5d485c34fe220c",
     "website": "https://astronaut.to/",

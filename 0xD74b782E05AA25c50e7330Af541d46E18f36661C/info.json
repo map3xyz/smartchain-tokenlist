@@ -7,6 +7,9 @@
     "en": "RichQUACK is a stealth fair launched token that has passsed Security Audit by TechRate, LP Locked, RUG-Proof & 100% community-driven project. Deflationary token with built in 10% transaction fee: 5% Safe Auto-Farm Redistributed to Holders including BlackHole, 5% for Auto LP"
   },
   "id": "5da3e2b2-534e-45dc-b3f5-d0d0079a89d4",
+  "identifiers": {
+    "coinmarketcap": 10641
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD74b782E05AA25c50e7330Af541d46E18f36661C",
     "website": "https://www.RichQuack.com"

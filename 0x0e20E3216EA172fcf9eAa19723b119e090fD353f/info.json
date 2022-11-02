@@ -7,6 +7,9 @@
     "en": "Xiasi Inu ($XIASI) is a community-focused, decentralized cryptocurrency with instant rewards for holders, sit back relax and watch your Xiasi Inu balance grow."
   },
   "id": "00ce872a-d1ac-48c0-be5a-35499b2e95d9",
+  "identifiers": {
+    "coinmarketcap": 10636
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
     "website": "https://xiasi.finance"

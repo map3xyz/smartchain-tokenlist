@@ -7,6 +7,9 @@
     "en": "The Lottery Token features an automated and integrated Lottery in the contract itself. The Lotterypool is filled with 2% of the 6% fee per transaction, the other 2% get instantly redistributed among all holders and the other 2% are burned. The frequency of the lottery is based on the traffic and triggers after reaching 0.1% of the current total supply. Holders don't need to buy tickets, holding a minimal amount results in a lifetime participation."
   },
   "id": "1f17f792-0936-4f53-a00a-e9ca3cb6d791",
+  "identifiers": {
+    "coinmarketcap": 9446
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7",
     "website": "https://lotterytoken.net"

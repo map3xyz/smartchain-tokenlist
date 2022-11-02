@@ -7,6 +7,9 @@
     "en": "Fleta Connect is a new DeFi(Decentralized Finance) service created by Team Fleta with years of experience in the field. It is willing to offer significant benefits to our users with its own buyback mechanism and aims to give more rewards to DeFi users."
   },
   "id": "f4f1b82a-eef1-4c7f-8f77-38e461ff8ac4",
+  "identifiers": {
+    "coinmarketcap": 10730
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x487770734490Ac571Cda3Bc06067048EcC5cAa4e",
     "website": "https://www.fletaconnect.io",

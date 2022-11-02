@@ -7,6 +7,9 @@
     "en": "Hukku Protects your house and wallet. Unruggable. Hukku is so Cute."
   },
   "id": "dd4747ab-021c-47f0-a3cd-941dee1232af",
+  "identifiers": {
+    "coinmarketcap": 10191
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFa01D3A2B25cdF3b1A6B2361FA07CC71A5F2fBA0",
     "website": "https://hukku.io/"

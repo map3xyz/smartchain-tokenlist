@@ -7,6 +7,9 @@
     "en": "AetherV2 is the first crypto token building a bridge between science and cryptocurrency."
   },
   "id": "0248fbdb-8976-45e8-a492-77a2d890834b",
+  "identifiers": {
+    "coinmarketcap": 12362
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6d3a0fb0070ea61f901ebc0b675c30450acac737",
     "website": "https://aetheruniverse.com/",

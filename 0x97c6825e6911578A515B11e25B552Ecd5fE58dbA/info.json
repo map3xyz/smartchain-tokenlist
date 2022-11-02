@@ -7,6 +7,9 @@
     "en": "BurningMoon is a hyper-deflationary reward token with multiple use cases. It features unique tokenomics to create and sustain an entire ecosystem, which makes it very different from the tokens that are usually entering the cryptosphere."
   },
   "id": "d389ec0c-d5a7-46ae-9d45-a098d15d4235",
+  "identifiers": {
+    "coinmarketcap": 12523
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x97c6825e6911578a515b11e25b552ecd5fe58dba",
     "website": "https://burningmoon.finance/",

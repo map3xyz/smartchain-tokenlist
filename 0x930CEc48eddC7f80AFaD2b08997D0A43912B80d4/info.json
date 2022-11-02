@@ -7,6 +7,9 @@
     "en": "The Spartans - The first defense game based on BSC"
   },
   "id": "cfe87c29-2cc9-415e-93fb-f99639c5d9cd",
+  "identifiers": {
+    "coinmarketcap": 14207
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x930CEc48eddC7f80AFaD2b08997D0A43912B80d4",
     "website": "https://thespartans.io",

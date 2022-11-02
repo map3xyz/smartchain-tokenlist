@@ -7,6 +7,9 @@
     "en": "GoCerberus is automatic liquidity acquisition yield farm running on Binance Smart Chain. GoCerberus tokenomics is a hybrid between yield farming and Safemoon."
   },
   "id": "ee4d4071-9dad-4a9c-98cc-be31ccc2976c",
+  "identifiers": {
+    "coinmarketcap": 10438
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8B3268a23131DAFBd77165690767F285C1AAC6C5",
     "website": "https://gocerberus.finance/"

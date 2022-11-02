@@ -7,6 +7,9 @@
     "en": "A token launched for the NFT community, with the spirit of predecessor Pig Token."
   },
   "id": "cbe01c21-8637-4e81-9fb8-bf785b445334",
+  "identifiers": {
+    "coinmarketcap": 11651
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7b0b4C304B9149B692c1Acbc9dB4F4a1c17B2B91",
     "website": "https://www.babypig.org",

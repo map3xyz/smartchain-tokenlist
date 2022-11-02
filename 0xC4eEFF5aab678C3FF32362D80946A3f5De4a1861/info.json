@@ -7,6 +7,9 @@
     "en": "RiceFarm is the next generation of Yield Farming with the highest burn rate on Binance Smart Chain."
   },
   "id": "251cae8f-2f41-4a25-806e-b5b0cc325cd9",
+  "identifiers": {
+    "coinmarketcap": 11057
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861",
     "website": "https://ricefarm.fi",

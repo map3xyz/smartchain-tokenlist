@@ -7,6 +7,9 @@
     "en": "Charix is a charity token on the Binance Smart Chain Network"
   },
   "id": "048238c4-b707-4d1e-a387-c73dc21640a2",
+  "identifiers": {
+    "coinmarketcap": 10241
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4EaBb20064586DeA07AAaF84d4bA35037854bd44",
     "website": "https://charix.org"

@@ -7,6 +7,9 @@
     "en": "2nd generation yield farming on binance smart chain"
   },
   "id": "695d298c-b44a-4023-b141-39ff36493592",
+  "identifiers": {
+    "coinmarketcap": 8449
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
     "website": "https://www.goosedefi.com/",

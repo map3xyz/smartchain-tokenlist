@@ -7,6 +7,9 @@
     "en": "Position Exchange is a decentralized trading platform, powered by a virtual Automated Market Maker (vAMM) and operating on Binance Smart Chain (BSC), aiming to provide on-chain Derivatives trading on Crypto assets with high leverage, low slippage and low fees."
   },
   "id": "38bedda4-dffd-4d7e-90a1-dd2c8f2dca1b",
+  "identifiers": {
+    "coinmarketcap": 11234
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
     "website": "https://position.exchange",

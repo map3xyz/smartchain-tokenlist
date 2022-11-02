@@ -7,6 +7,9 @@
     "en": "Revomon is an exciting online RPG that combines an immersive virtual reality experience with groundbreaking NFT blockchain technology."
   },
   "id": "242d373b-037d-460f-8db8-e58643eea634",
+  "identifiers": {
+    "coinmarketcap": 9200
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
     "website": "https://revomon.io/",

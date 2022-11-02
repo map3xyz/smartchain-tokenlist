@@ -7,6 +7,9 @@
     "en": "Vetter Platform is where crowdsourcing meets A.I. and gamification to empower the crypto investor"
   },
   "id": "0971db96-45d7-4948-8ebd-8725ce9ada80",
+  "identifiers": {
+    "coinmarketcap": 12954
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6169b3b23e57dE79a6146A2170980cEb1F83b9e0",
     "website": "https://vetter.ai",

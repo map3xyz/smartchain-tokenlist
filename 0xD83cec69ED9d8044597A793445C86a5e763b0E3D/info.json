@@ -7,6 +7,9 @@
     "en": "Our mission is to Stop Elon Musk's crypto market manipulation. Our plan is to acquire a 2/3 supermajority vote with Tesla, then require Elon Musk renounce his Twitter account as a condition of continued employment as CEO. Then we're going to fly to Pluto!"
   },
   "id": "d24ea574-9c26-404e-a99f-8cb53451bb15",
+  "identifiers": {
+    "coinmarketcap": 10426
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd83cec69ed9d8044597a793445c86a5e763b0e3d",
     "website": "https://stopelon.space"

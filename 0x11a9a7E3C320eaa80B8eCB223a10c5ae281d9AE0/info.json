@@ -7,6 +7,9 @@
     "en": "NFTD is a smart NFT supermarket system for digitals products. In this smart shopping system, the sellers and each product they sell are identified as a unique tokenID. Once the transaction is completed, the buyer's ownership will be confirmed immediately."
   },
   "id": "9a48d8d4-2b90-4b71-bb76-2180d7d0edcb",
+  "identifiers": {
+    "coinmarketcap": 9249
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x11a9a7E3C320eaa80B8eCB223a10c5ae281d9AE0",
     "website": "https://nft.uquid.com/"

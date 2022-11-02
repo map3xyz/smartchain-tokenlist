@@ -7,6 +7,9 @@
     "en": "Where the coolest llamas go yield farming, on Binance Smart Chain"
   },
   "id": "c2093e86-f40b-4556-a991-5058965a637f",
+  "identifiers": {
+    "coinmarketcap": 13725
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0FC013E24AE732fcEc9Eb6BF8CAE12782a56bE7E",
     "website": "https://llamaswap.finance/"

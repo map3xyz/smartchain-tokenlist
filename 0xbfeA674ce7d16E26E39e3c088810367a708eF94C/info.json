@@ -7,6 +7,9 @@
     "en": "April is a high speed, cross chain oracle serving the Internet of Blockchains"
   },
   "id": "280e7f45-e746-4d1e-9f8a-ca068bf8db9a",
+  "identifiers": {
+    "coinmarketcap": 10367
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbfea674ce7d16e26e39e3c088810367a708ef94c",
     "website": "https://apriloracle.com"

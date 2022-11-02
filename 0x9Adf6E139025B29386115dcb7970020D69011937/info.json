@@ -7,6 +7,9 @@
     "en": "GIFT is a utility token for use with the GIFT platform. The token's utility is centered around crypto e-gifting."
   },
   "id": "a178addf-0224-4e45-949a-f8f57ae073bb",
+  "identifiers": {
+    "coinmarketcap": 10283
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9adf6e139025b29386115dcb7970020d69011937",
     "website": "https://www.gift-coin.org/"

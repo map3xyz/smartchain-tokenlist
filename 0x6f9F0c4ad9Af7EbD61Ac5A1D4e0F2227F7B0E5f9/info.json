@@ -7,6 +7,9 @@
     "en": "ERA TOKEN is the main currency in game which can be obtained by playing game modes and participating in many other activities."
   },
   "id": "175abbfb-b9ea-4c68-b2bc-bebe06418590",
+  "identifiers": {
+    "coinmarketcap": 18483
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9",
     "website": "https://www.era7.io",

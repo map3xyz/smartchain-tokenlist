@@ -7,6 +7,9 @@
     "en": "Foxy Equilibrium is an experimental, play to earn NFT game on the BSC network which integrates (BEP721) tokens into the dAPP. Players can claim daily rewards, feed pets, battle with others and more!."
   },
   "id": "f13146fc-1973-4189-807c-483af1d2eaf5",
+  "identifiers": {
+    "coinmarketcap": 11108
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4354a4f710182966e55ea30cfa807fa1b821a67b",
     "website": "https://foxynft.org/"

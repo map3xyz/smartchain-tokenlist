@@ -7,6 +7,9 @@
     "en": "Cold Finance - COLD is an autonomous yield and liquidity generation protocol which is based on Binance Smart chain which will reward the community through the tokens in the ecosystem."
   },
   "id": "9020c41f-4ffa-47b7-8433-ad606de5417b",
+  "identifiers": {
+    "coinmarketcap": 9751
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9a6fda69fa9859b169ef17b600ce81c59cf16f01",
     "website": "https://www.coldfinance.io"

@@ -7,6 +7,9 @@
     "en": "The One And Only Doge And Lucky Cat Hybrid In Crypto World!"
   },
   "id": "ee1c6834-4b0d-40dc-9718-66862271d4c1",
+  "identifiers": {
+    "coinmarketcap": 12685
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEc3D04C82aF8C4b97Ecd058D543c2c0673ca72dC",
     "website": "https://babydogemoneymaker.com/",

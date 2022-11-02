@@ -7,6 +7,9 @@
     "en": "BankerDoge is a Defi as a Service platform designed to add features such as staking, time-locking, and Defi lending to any BSC token."
   },
   "id": "16d1668f-e77c-4020-a275-f8a87fd13050",
+  "identifiers": {
+    "coinmarketcap": 12024
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf06419C638a1d809C024Aa693147dBDc42B60145",
     "website": "https://bankerdoge.com",

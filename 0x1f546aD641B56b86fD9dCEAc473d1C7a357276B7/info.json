@@ -7,6 +7,9 @@
     "en": "PantherSwap is the First Automatic Liquidity Acquisition Yield Farm & AMM on Binance Smart Chain."
   },
   "id": "84c28a5b-8ae1-4230-8a8f-54999daeab3a",
+  "identifiers": {
+    "coinmarketcap": 9778
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7",
     "research": "https://docs.pantherswap.com",

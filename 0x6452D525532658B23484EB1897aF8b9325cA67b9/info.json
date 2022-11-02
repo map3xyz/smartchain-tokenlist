@@ -7,6 +7,9 @@
     "en": "Self generating liquidity token - Reflection paid back to holders."
   },
   "id": "fadb668b-309c-4ac0-8162-edf61a72e83a",
+  "identifiers": {
+    "coinmarketcap": 9702
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6452d525532658b23484eb1897af8b9325ca67b9",
     "website": "https://rovertoken.com/"

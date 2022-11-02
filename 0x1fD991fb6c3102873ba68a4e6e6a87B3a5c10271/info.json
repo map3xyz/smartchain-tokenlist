@@ -7,6 +7,9 @@
     "en": "Atlantis is a decentralized money market that enables users to borrow and supply digital assets to the protocol within a non-custodial environment"
   },
   "id": "9eab6687-c0a8-44d3-8931-400698fbe20e",
+  "identifiers": {
+    "coinmarketcap": 13121
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271",
     "website": "https://atlantis.loans"

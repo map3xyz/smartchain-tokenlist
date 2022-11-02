@@ -7,6 +7,9 @@
     "en": "Use token in MoonMoon ecosystem, and generate passive yield with transfer fee going to holders and pancakeswap liquidity."
   },
   "id": "d2409fbd-ab39-4dde-813b-ba0d80c35283",
+  "identifiers": {
+    "coinmarketcap": 9525
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0e0e877894a101Ad8711AE3A0194Fa44Ca837a79",
     "website": "https://moonmoon.cash",

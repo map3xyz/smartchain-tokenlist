@@ -7,6 +7,9 @@
     "en": "BLS is a sport token issued by blocsport.one for a purpose of DeFi sport operations."
   },
   "id": "0759b3ba-5344-4c36-a943-ed9d2e2fe5e9",
+  "identifiers": {
+    "coinmarketcap": 12693
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x708739980021A0b0B2E555383fE1283697e140e9",
     "website": "https://blocsport.one"

@@ -7,6 +7,9 @@
     "en": "ArenaPlay is committed to building on-chain infrastructure covering; gaming, quizzes, E-Sports, NFT, and the wider Meta-Universe."
   },
   "id": "bd420432-6e26-49d4-93e1-10064f99981b",
+  "identifiers": {
+    "coinmarketcap": 21014
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2AA504586d6CaB3C59Fa629f74c586d78b93A025",
     "website": "https://www.arenaplaycoin.com/ ",

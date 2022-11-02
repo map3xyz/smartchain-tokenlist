@@ -7,6 +7,9 @@
     "en": "Money Markets. A Decentralized Marketplace for Lenders and Borrowers"
   },
   "id": "4b7a4cfd-a9cf-45b5-b1cd-a734d98f4f5f",
+  "identifiers": {
+    "coinmarketcap": 11583
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067",
     "website": "https://www.annex.finance/",

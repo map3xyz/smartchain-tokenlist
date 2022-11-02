@@ -7,6 +7,9 @@
     "en": "SHIBSC is a decentralized, community driven, fair launched Meme Token in BSC"
   },
   "id": "782ef8d3-3424-4d38-b0e5-13201b209c8d",
+  "identifiers": {
+    "coinmarketcap": 10085
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
     "website": "https://shibsc.com/#/"

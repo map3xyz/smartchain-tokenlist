@@ -7,6 +7,9 @@
     "en": "Elastic BNB (XBN) is a new Defi protocol that enables Adaptive Supply Model. 1 XBN will anchor to 0.001 BNB with 100 days lag factor."
   },
   "id": "0ada3e86-4c78-43e3-b970-6ee13115b0d9",
+  "identifiers": {
+    "coinmarketcap": 9385
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac",
     "website": "https://xbn.finance",

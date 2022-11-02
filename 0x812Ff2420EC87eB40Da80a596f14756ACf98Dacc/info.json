@@ -7,6 +7,9 @@
     "en": "Hungry Bear is token driven and supported by it's community. Two functions occur during each trade: Reflection & Burn."
   },
   "id": "59cfd94b-97a4-4489-88a3-99ba41a3f84f",
+  "identifiers": {
+    "coinmarketcap": 9231
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x812Ff2420EC87eB40Da80a596f14756ACf98Dacc",
     "website": "https://hungrybear.finance",

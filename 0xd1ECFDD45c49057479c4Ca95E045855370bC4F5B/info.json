@@ -7,6 +7,9 @@
     "en": "A Game Platform integrated with a next-generation NFT marketplace."
   },
   "id": "21069faf-3940-4188-94de-2c7bb911482f",
+  "identifiers": {
+    "coinmarketcap": 11800
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B",
     "website": "https://griffinart.finance/",

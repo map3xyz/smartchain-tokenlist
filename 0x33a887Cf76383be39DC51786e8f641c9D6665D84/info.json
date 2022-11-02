@@ -7,6 +7,9 @@
     "en": "The VOYR token powers the VOYR Platform"
   },
   "id": "73ca1402-5ed3-4c85-bee7-31a029c35487",
+  "identifiers": {
+    "coinmarketcap": 10690
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x33a887Cf76383be39DC51786e8f641c9D6665D84",
     "website": "https://voyr.me"

@@ -7,6 +7,9 @@
     "en": "PolkaWar is a blockchain based NFT gaming platform and marketplace. Inspired by the recent crypto NFT and gaming narratives, PolkaWar will combine and synergize them both to build an attractive platform."
   },
   "id": "002e8912-5766-4ae9-9477-c08fc4b8b85d",
+  "identifiers": {
+    "coinmarketcap": 10748
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x16153214E683018D5aA318864c8e692b66E16778",
     "website": "https://polkawar.com/",

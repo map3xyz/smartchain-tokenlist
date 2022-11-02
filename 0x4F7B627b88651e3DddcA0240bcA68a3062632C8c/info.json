@@ -7,6 +7,9 @@
     "en": "Black Eye Galaxy is a cross-chain space NFT metaverse with a unique economy. Buy planets and solar systems, explore the galaxy, mine resources, start your civilization!"
   },
   "id": "58c3ef09-7fbc-4f2d-b361-9b4cf126fb98",
+  "identifiers": {
+    "coinmarketcap": 10350
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4F7B627b88651e3DddcA0240bcA68a3062632C8c",
     "website": "https://blackeyegalaxy.space",

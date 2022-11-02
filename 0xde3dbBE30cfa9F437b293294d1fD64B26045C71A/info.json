@@ -7,6 +7,9 @@
     "en": "NFTB is a token issued by NFTb Marketplace."
   },
   "id": "ab5eb12f-7715-47f6-8c80-e50ed112a1b8",
+  "identifiers": {
+    "coinmarketcap": 9545
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
     "website": "https://nftb.io"

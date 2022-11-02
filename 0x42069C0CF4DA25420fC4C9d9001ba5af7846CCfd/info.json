@@ -7,6 +7,9 @@
     "en": "GUH (Goes Up Higher) is an elastic supply token that is mathematically guaranteed to increase in price until it exceeds the price of bitcoin"
   },
   "id": "6988676f-344e-4a94-86f5-28de939157ec",
+  "identifiers": {
+    "coinmarketcap": 10481
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42069C0CF4DA25420fC4C9d9001ba5af7846CCfd",
     "website": "https://guhtoken.org/"

@@ -7,6 +7,9 @@
     "en": "Decubate is a community-powered investment platform that is bringing the $3 trillion global startup economy on-chain, unlocking liquidity for investors, and accelerating the mass adoption of blockchain technology."
   },
   "id": "65b3309b-c3c4-42ff-bc72-0ae4a211460d",
+  "identifiers": {
+    "coinmarketcap": 10563
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEAc9873291dDAcA754EA5642114151f3035c67A2",
     "website": "https://decubate.com",

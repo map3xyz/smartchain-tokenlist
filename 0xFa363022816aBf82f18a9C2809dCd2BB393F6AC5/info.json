@@ -7,6 +7,9 @@
     "en": "A Native Token of HoneyFarm Finance Layer 1"
   },
   "id": "3e21dd70-93f6-4307-a3a7-fde7d26f3fed",
+  "identifiers": {
+    "coinmarketcap": 11287
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFa363022816aBf82f18a9C2809dCd2BB393F6AC5",
     "website": "https://honey.honeyfarm.finance",

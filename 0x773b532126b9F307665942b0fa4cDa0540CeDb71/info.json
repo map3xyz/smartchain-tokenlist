@@ -7,6 +7,9 @@
     "en": "Booster is a Binance Smart Chain token with Auto LP and Static Rewards paid in 11 different tokens."
   },
   "id": "5393dbe4-6429-481b-9c80-13c7c892f2e0",
+  "identifiers": {
+    "coinmarketcap": 13646
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x773b532126b9F307665942b0fa4cDa0540CeDb71",
     "website": "https://boostertoken.com",

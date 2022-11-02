@@ -7,6 +7,9 @@
     "en": "The Boss Token is a community driven DeFi cryptocurrency, with the aim to become the boss of Dogcoins! Two main functions happen during a trade, RFI static rewards distributed to holders and LP acquisition."
   },
   "id": "f6960fe3-6fc0-47af-8346-d21742555c02",
+  "identifiers": {
+    "coinmarketcap": 12198
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x49324d59327fB799813B902dB55b2a118d601547",
     "website": "https://bosstoken.com/ ",

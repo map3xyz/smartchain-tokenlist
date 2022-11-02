@@ -7,6 +7,9 @@
     "en": "HoodRat is a BEP-20 utility token building an AI anti rug-pull scanner."
   },
   "id": "f378b246-8f0d-4891-8970-50fd1b54ac65",
+  "identifiers": {
+    "coinmarketcap": 10071
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f",
     "website": "https://hoodrat.finance/"

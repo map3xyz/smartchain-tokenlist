@@ -7,6 +7,9 @@
     "en": "Autonomous yield and liquidity generation protocol."
   },
   "id": "8fcb84b6-9a74-45b3-9235-9e0a203b9039",
+  "identifiers": {
+    "coinmarketcap": 9624
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA327179d47faD68d09e4501a838daaaf74faBb7c",
     "website": "https://safe-xi.com"

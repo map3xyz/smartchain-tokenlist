@@ -7,6 +7,9 @@
     "en": "Coinscope is the leading early coin listing and voting website. It is aiming to make crypto discoverable and efficient globally. It provides all the essential tools to assist users draw their own conclusions."
   },
   "id": "5d69eca1-4c28-4bab-b715-c940158b68fb",
+  "identifiers": {
+    "coinmarketcap": 14885
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd41c4805a9a3128f9f7a7074da25965371ba50d5",
     "website": "https://coinscope.co",

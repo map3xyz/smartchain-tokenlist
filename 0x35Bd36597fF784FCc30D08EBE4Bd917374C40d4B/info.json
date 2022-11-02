@@ -7,6 +7,9 @@
     "en": "miniSHIB aims to bring cryptocurrency to a wider audience through engaging content, whilst raising funds for animal welfare charities."
   },
   "id": "7deb6e65-b4af-47fb-9a4c-f7668636e2ef",
+  "identifiers": {
+    "coinmarketcap": 10943
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x35Bd36597fF784FCc30D08EBE4Bd917374C40d4B",
     "website": "https://minishib.com/",

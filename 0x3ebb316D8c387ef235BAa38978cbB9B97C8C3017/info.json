@@ -7,6 +7,9 @@
     "en": "Premium staking platform on Binance Smart Chain"
   },
   "id": "90362b98-4beb-4b6d-af0d-0a1865772f9f",
+  "identifiers": {
+    "coinmarketcap": 9168
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3ebb316D8c387ef235BAa38978cbB9B97C8C3017",
     "website": "https://www.pyxis.network",

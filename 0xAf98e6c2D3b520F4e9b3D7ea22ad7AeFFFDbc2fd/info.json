@@ -7,6 +7,9 @@
     "en": "Ratboy is a project on the Binance Smart Chain dedicated to cleaning the rats in the space. These include the ruggers and scammers which run away with investor’s funds. The utilities which will accompany this coin are based on avoiding these rats of BSC and to publicly shame them. This way one step at a time we can make people double think before attempting to scam, due to the public shame which follows."
   },
   "id": "d9e9bcdc-0eed-4dcf-b1fa-673053183b53",
+  "identifiers": {
+    "coinmarketcap": 21667
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAf98e6c2D3b520F4e9b3D7ea22ad7AeFFFDbc2fd",
     "website": "https://ratboybsc.com",

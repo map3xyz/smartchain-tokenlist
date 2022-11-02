@@ -7,6 +7,9 @@
     "en": "DungeonSwap is a decentralized table-top RPG style web game on the Binance Smart Chain with yield farming features and NFTs."
   },
   "id": "c0dbfa5b-41e6-494e-9f0a-4cfdb11adfa6",
+  "identifiers": {
+    "coinmarketcap": 9578
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x14c358b573a4cE45364a3DBD84BBb4Dae87af034",
     "website": "https://dungeonswap.app/",

@@ -7,6 +7,9 @@
     "en": "Etherconnect is an Open Decentralized Finance Ecosystem Platform for derivative financial instruments. It is on BEP20 blockchain technology, which helps you to turn your Crypto Holdings in to future growth."
   },
   "id": "b75e0423-172f-4200-844f-db162cadf6f1",
+  "identifiers": {
+    "coinmarketcap": 14404
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8D047F4F57A190C96c8b9704B39A1379E999D82B",
     "website": "https://etherconnect.co",

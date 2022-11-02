@@ -7,6 +7,9 @@
     "en": "Saturna is a frictionless yield community-driven project. With tokenomics designed to keep building the price floor and reflecting transaction taxes back to holders and liquidity."
   },
   "id": "3defbc70-7c16-403c-a321-88332fd32e13",
+  "identifiers": {
+    "coinmarketcap": 10176
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1e446CbEa52BAdeB614FBe4Ab7610F737995fB44",
     "website": "https://saturna.co"

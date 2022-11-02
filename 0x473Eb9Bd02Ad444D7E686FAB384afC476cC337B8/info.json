@@ -7,6 +7,9 @@
     "en": "It is a community driven project built on Binance Smart Chain."
   },
   "id": "14fa76b1-b261-4504-8e42-f04343124102",
+  "identifiers": {
+    "coinmarketcap": 10707
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x473eb9bd02ad444d7e686fab384afc476cc337b8",
     "website": "https://littlefishmoon.finance/"

@@ -7,6 +7,9 @@
     "en": "Chumbi Valley is an enchanting RPG Play-to-Earn game. Chumbi Valley features NFT creatures and original art inspired by Pokemon and Studio Ghibli."
   },
   "id": "5331d86a-98c4-4d91-8b2b-daa6edd720d0",
+  "identifiers": {
+    "coinmarketcap": 16105
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5492Ef6aEebA1A3896357359eF039a8B11621b45",
     "website": "https://chumbivalley.com/",

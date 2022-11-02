@@ -7,6 +7,9 @@
     "en": "Multiplier is a non-custodial lending protocol on Binance Smart Chain with flash loans."
   },
   "id": "896cc3cc-4fdc-4ea4-a032-f189f6dd1aeb",
+  "identifiers": {
+    "coinmarketcap": 8618
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4131b87f74415190425ccd873048c708f8005823",
     "website": "https://multiplier.finance",

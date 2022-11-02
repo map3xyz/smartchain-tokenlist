@@ -7,6 +7,9 @@
     "en": "Influencer Doge (iDoge™) is a BEP-20 utility token that intends to produce easy passive income for our token holders by developing various profit-generating businesses in an assortment of different industries, such as art, clothing, entertainment, gaming, and software development. We aim to become the first meme token that pays a dividend to our tokenholders every quarter."
   },
   "id": "2a8d3dbd-83a0-4666-a227-c063b3130d6e",
+  "identifiers": {
+    "coinmarketcap": 10446
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x69bc4bbf7aa7a4e08d6542687aad175a82d23fde",
     "website": "https://idoge.co"

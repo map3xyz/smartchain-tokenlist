@@ -7,6 +7,9 @@
     "en": "Babylons is the first community-governed game aggregator and NFT marketplace operating on BSC. Create, participate, collect and earn. Only on Babylons.."
   },
   "id": "68aa4f6c-b8b0-4d6e-9472-7f2a109005ee",
+  "identifiers": {
+    "coinmarketcap": 10714
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xec15a508a187e8DDfe572A5423Faa82Bbdd65120",
     "website": "https://babylons.io",

@@ -7,6 +7,9 @@
     "en": "Jetswap is a decentralized Automated Market Maker (AMM) on Binance Smart Chain with low fees and instant trade execution. Trade from the comfort of your own wallet! "
   },
   "id": "9582ece0-37a7-484e-84b7-14bed3c3143e",
+  "identifiers": {
+    "coinmarketcap": 10810
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0487b824c8261462F88940f97053E65bDb498446",
     "website": "https://jetswap.finance/"

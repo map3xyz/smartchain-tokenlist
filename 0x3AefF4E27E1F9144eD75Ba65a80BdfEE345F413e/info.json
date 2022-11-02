@@ -7,6 +7,9 @@
     "en": "BUMooN is a Eco-Living Token that aims to be dividend tools between its green project closed-loop revenue and user."
   },
   "id": "0311400c-d672-4a94-93d1-34ce157d41d0",
+  "identifiers": {
+    "coinmarketcap": 11235
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e",
     "website": "https://bumoon.io",

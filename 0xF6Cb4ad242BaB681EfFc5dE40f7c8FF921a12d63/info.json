@@ -7,6 +7,9 @@
     "en": "Centric is an innovative dual-token digital currency & decentralized blockchain protocol built on sound economics that yields a return hourly."
   },
   "id": "08f85717-2d01-4688-8750-e62e9bcdb080",
+  "identifiers": {
+    "coinmarketcap": 5963
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF6Cb4ad242BaB681EfFc5dE40f7c8FF921a12d63",
     "website": "https://www.centric.com/",

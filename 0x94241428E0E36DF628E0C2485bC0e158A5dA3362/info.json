@@ -7,6 +7,9 @@
     "en": "CrazyTime is an automatic LP generating lottery token. The lottery function randomly chooses a holder and sends them 5% of the transaction value in CrazyTime. "
   },
   "id": "b87d0a2b-e438-4498-9867-2aea9d9ecbb2",
+  "identifiers": {
+    "coinmarketcap": 10582
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
     "website": "https://www.moochii.net/crazytime"

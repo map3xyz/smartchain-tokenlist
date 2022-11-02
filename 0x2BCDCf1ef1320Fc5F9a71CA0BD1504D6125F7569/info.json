@@ -7,6 +7,9 @@
     "en": "DisCas Vision is the world’s first and only decentralized platform, built on blockchain technology and smart contracts. We unite governments, organizations and communities into a decentralized, open and fair network. The smart contract technology that underlies the platform will provide an automated and transparent system for investment and profit distribution. For more information please visit our site and our offering and solutions is here https://discas.vision/white-paper/"
   },
   "id": "2fa84157-5469-4831-8fc8-f80f614f8527",
+  "identifiers": {
+    "coinmarketcap": 9582
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2BCDCf1ef1320Fc5F9a71CA0BD1504D6125F7569",
     "website": "https://discas.vision/",

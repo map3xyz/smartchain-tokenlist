@@ -7,6 +7,9 @@
     "en": "AmazingDoge token is a part of dogecoin family"
   },
   "id": "6d0a7d93-8c45-4268-8843-ed5965c33077",
+  "identifiers": {
+    "coinmarketcap": 18505
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0EBc30459551858e81306d583025d12C7d795FA2",
     "website": "https://www.amazingdogebsc.com",

@@ -7,6 +7,9 @@
     "en": "Londex (LDC) is a revolutionary rewards token pioneering trust, transparency and integrity on the binance smart chain. We have introduced a vast utility platform called to accompany the londex token for all crypto investors."
   },
   "id": "1cdbc623-91de-41aa-80ca-d76be8bf16e7",
+  "identifiers": {
+    "coinmarketcap": 12677
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2089F0CbE8Aca0950FA8c5Bb04ADe2323AEE832F",
     "website": "https://londex.io/",

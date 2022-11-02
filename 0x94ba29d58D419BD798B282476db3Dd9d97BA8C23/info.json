@@ -7,6 +7,9 @@
     "en": "Frosted Cake is a deflationary passive income token, strategically developed for long term Investments, pushing Smart Contract Capabilities to its fullest potential. Frosted Cake is a real Incentive & Community token."
   },
   "id": "6c6ff5fa-90d2-441a-8e7f-7d75fe096449",
+  "identifiers": {
+    "coinmarketcap": 12422
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x94ba29d58d419bd798b282476db3dd9d97ba8c23",
     "website": "https://frostedcaketoken.com/",

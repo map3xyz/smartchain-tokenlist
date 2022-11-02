@@ -7,6 +7,9 @@
     "en": "Safeicarus is programmed to reward holders while increasing in both liquidity and value. It does this by applying a 13% tax on transactions 5% goes to holders 8% is auto-locked to liquidity."
   },
   "id": "7df9ff60-222f-4708-8bde-807a0b058e4d",
+  "identifiers": {
+    "coinmarketcap": 9630
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD2f9B51C6a1b5598f0ea51eF95d70cB045692D0F",
     "website": "https://www.safeicarus.io/",

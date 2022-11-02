@@ -7,6 +7,9 @@
     "en": "high-yield frictionless farming token."
   },
   "id": "662dc4ae-5b7f-465a-a8b5-011c24547eb6",
+  "identifiers": {
+    "coinmarketcap": 8829
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8850d2c68c632e3b258e612abaa8fada7e6958e5",
     "website": "https://pigtoken.finance/"

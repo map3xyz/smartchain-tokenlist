@@ -7,6 +7,9 @@
     "en": "Baby Bitcoin is a BEP-20 Token with a focus on charity and meme culture."
   },
   "id": "aaf1f128-2ae5-4b2e-bf4d-318535e6b189",
+  "identifiers": {
+    "coinmarketcap": 10869
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5B0Dfe077B16479715C9838eb644892008abbFe6",
     "website": "https://babybitcoin.finance"

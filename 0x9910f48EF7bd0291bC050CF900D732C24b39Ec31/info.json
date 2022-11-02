@@ -7,6 +7,9 @@
     "en": "MARS INU is a decentralized cryptocurrency token built on Binance Smart Chain network. It was created with the community and investor in mind."
   },
   "id": "b6483162-4a56-4ce8-8942-e94b7983e8ea",
+  "identifiers": {
+    "coinmarketcap": 14379
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9910f48EF7bd0291bC050CF900D732C24b39Ec31",
     "website": "https://marsinu.com/",

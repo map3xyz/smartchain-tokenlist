@@ -7,6 +7,9 @@
     "en": "World of Tiny Titans. Tiny Titans — collectable & tradeable NFTs on BSC which you can train, level and earn for play."
   },
   "id": "bbaca6b9-661e-461f-95a3-730476757edc",
+  "identifiers": {
+    "coinmarketcap": 13658
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2a5eB92f6a410AC0BB38D92C13DA934bD68EF24E",
     "website": "https://tinytitans.fi",

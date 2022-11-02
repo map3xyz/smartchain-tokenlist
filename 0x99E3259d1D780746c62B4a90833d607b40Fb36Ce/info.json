@@ -7,6 +7,9 @@
     "en": "CCDOGE is an auto-farming, auto-deflation, auto-market-maker token based on BSC network."
   },
   "id": "cc26ef92-16e7-4d46-a20e-d79e59151461",
+  "identifiers": {
+    "coinmarketcap": 12318
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x99E3259d1D780746c62B4a90833d607b40Fb36Ce",
     "website": "https://dogecoin.cc/",

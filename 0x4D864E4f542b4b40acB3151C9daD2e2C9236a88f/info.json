@@ -7,6 +7,9 @@
     "en": "Token X is a peer to peer medium of exchange issued by XIXO, will be an initial exchange offering with a limited quantity that aims to become a tool to pay for all kinds of goods and services in the field of real estate, construction and industry as well as other platforms of XIXO"
   },
   "id": "018158b8-046d-4ccf-b9c5-8797d72d337f",
+  "identifiers": {
+    "coinmarketcap": 12596
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4D864E4f542b4b40acB3151C9daD2e2C9236a88f",
     "website": "https://xixochain.com/",

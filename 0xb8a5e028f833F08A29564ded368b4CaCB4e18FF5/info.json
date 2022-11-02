@@ -7,6 +7,9 @@
     "en": "Santa Floki rewards those that are good with BUSD and those that believe in him. His plans this year is to deliver gifts to those in need with its charity program and help warm hearts for Christmas."
   },
   "id": "ef907d49-246e-4a5e-8f13-59d363838a78",
+  "identifiers": {
+    "coinmarketcap": 14846
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb8a5e028f833F08A29564ded368b4CaCB4e18FF5",
     "website": "https://www.santafloki.com",

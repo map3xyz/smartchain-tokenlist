@@ -7,6 +7,9 @@
     "en": "Meta-World is an island nation-building game for the NFT platform."
   },
   "id": "52e3ee73-0158-48c0-b4c1-b55dfb7597ac",
+  "identifiers": {
+    "coinmarketcap": 16995
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfCe3EFebC79d21a6B7cc7F3A7216E66e81f4B23B",
     "website": "https://www.meta-world.game",

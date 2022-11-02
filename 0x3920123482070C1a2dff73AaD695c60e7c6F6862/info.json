@@ -7,6 +7,9 @@
     "en": "Eulers can be used both as utility and investment. We created a subscription system that unlocks professional features in our site and a reliable Mining Pool mechanism, that allows holders to receive rewards from each transaction."
   },
   "id": "c8f329f1-3d5e-4691-8f75-3e08059d85d8",
+  "identifiers": {
+    "coinmarketcap": 9368
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3920123482070C1a2dff73AaD695c60e7c6F6862",
     "website": "https://euler.tools"

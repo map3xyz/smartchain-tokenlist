@@ -7,6 +7,9 @@
     "en": "Space SIP is the first NFT space battleship game with worldclass design of gaming experience in a real-value collectible ecosystem."
   },
   "id": "5a2bd0e6-de5a-427d-83ff-55162a415c2c",
+  "identifiers": {
+    "coinmarketcap": 12273
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9e5965d28E8D44CAE8F9b809396E0931F9Df71CA",
     "website": "https://sip.space",

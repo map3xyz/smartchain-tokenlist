@@ -7,6 +7,9 @@
     "en": "Introducing the Convenience of Centralization into Decentralization"
   },
   "id": "75e85f29-6281-438a-af46-fe86d874dcf1",
+  "identifiers": {
+    "coinmarketcap": 8840
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe0d6ad5a77fd1ed1a22f89657e4248a8ac6a8cbf",
     "website": "https://dailyswap.org"

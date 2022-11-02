@@ -7,6 +7,9 @@
     "en": "Arena Token is a game token issued by ArenaSwap on Binance Smart Chain"
   },
   "id": "f5082c48-9fb3-42e8-a4cc-bcbc9ac1bd93",
+  "identifiers": {
+    "coinmarketcap": 11082
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2A17Dc11a1828725cdB318E0036ACF12727d27a2",
     "website": "https://www.arenaswap.com/",

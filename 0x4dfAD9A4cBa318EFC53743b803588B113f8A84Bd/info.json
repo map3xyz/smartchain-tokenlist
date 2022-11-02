@@ -7,6 +7,9 @@
     "en": "Think of Chihuahua as a community driven, universal cryptocurrency with unique features. This is a real project that will be constantly evolving."
   },
   "id": "cdef11f9-0dbf-41e9-902e-2363bc5c0517",
+  "identifiers": {
+    "coinmarketcap": 9941
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4dfAD9A4cBa318EFC53743b803588B113f8A84Bd",
     "website": "https://chihuahua.army/"

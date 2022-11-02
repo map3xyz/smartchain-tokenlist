@@ -7,6 +7,9 @@
     "en": "Eleven Finance is a platform empowering high APY vaults in the Binance Smart Chain ecosystem."
   },
   "id": "41f08f36-45ac-476b-bca9-56094ee77cee",
+  "identifiers": {
+    "coinmarketcap": 10271
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
     "website": "https://eleven.finance"

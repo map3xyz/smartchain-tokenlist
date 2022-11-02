@@ -7,6 +7,9 @@
     "en": "ZENFI AI provisions an Intelligent Metaverse"
   },
   "id": "81f39cc1-15c8-489a-8fb7-d4021c0a1bc1",
+  "identifiers": {
+    "coinmarketcap": 16767
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA84d7A90bDbBe6dE3FFFe9B7F549366320EF90D3",
     "website": "https://zenfi.ai",

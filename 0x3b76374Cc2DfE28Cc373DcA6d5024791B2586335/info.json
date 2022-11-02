@@ -7,6 +7,9 @@
     "en": "A DeFi protocol which facilitates creation of fully collateralized stable coins leveraging Native Cardano Assets"
   },
   "id": "f6d10265-5991-4840-8813-fde625832254",
+  "identifiers": {
+    "coinmarketcap": 16045
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3b76374Cc2DfE28Cc373DcA6d5024791B2586335",
     "website": "https://adadao.org",

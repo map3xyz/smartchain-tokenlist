@@ -7,6 +7,9 @@
     "en": "SAFUYIELD is the native ecosystem token of the www.SAFU.net platform and utility for all its projects."
   },
   "id": "2ac5f5bf-81f8-4b5a-b0e6-2cec87d9e5ee",
+  "identifiers": {
+    "coinmarketcap": 11305
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc74cD0042c837Ce59210857504eBb0859E06aA22",
     "website": "https://safuyield.com",

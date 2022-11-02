@@ -7,6 +7,9 @@
     "en": "KimJongMoon is a fun and unique deflationary DEFI cryptocurrency on the Binance Smart Chain network with a few development projects to be released in the near future (NFT marketplace, merch store, mini-games, and animated series)."
   },
   "id": "ef2b1d6f-f5a5-4520-9ee4-6e8771dbe6e3",
+  "identifiers": {
+    "coinmarketcap": 10164
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x737f0E47c4d4167a3eEcde5FA87306b6eEe3140e",
     "website": "https://kimjongmoon.net"

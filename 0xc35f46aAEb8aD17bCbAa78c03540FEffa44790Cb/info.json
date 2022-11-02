@@ -7,6 +7,9 @@
     "en": "Lemur is an automated yield farming token and 100% decentralized led by the community."
   },
   "id": "dd8454e3-a1d4-4fe1-ba0b-aa46e917da78",
+  "identifiers": {
+    "coinmarketcap": 9142
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb",
     "website": "https://lemur.finance/",

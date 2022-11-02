@@ -7,6 +7,9 @@
     "en": "MoonShield is a community driven DeFi project on the Binance Smart Chain - Users receive BNB weekly just for holding MSHLD. Audited. Contract Renounced."
   },
   "id": "c657c578-591a-460b-88b1-534b8916468d",
+  "identifiers": {
+    "coinmarketcap": 9746
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf565aaf0b8eb813a1c8c956d2c59f1ce27fd2366",
     "website": "https://moonshield.finance"

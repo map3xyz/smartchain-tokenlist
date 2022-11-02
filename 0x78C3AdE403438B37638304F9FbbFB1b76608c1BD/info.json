@@ -7,6 +7,9 @@
     "en": "BinaHero is a decentralized NFT game that integrates collection, mining, market trading, and PVE. Players can play to earn in the game."
   },
   "id": "c4f2ac0c-bc96-4b2a-95f0-89c13a6ad974",
+  "identifiers": {
+    "coinmarketcap": 15871
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x78C3AdE403438B37638304F9FbbFB1b76608c1BD",
     "website": "https://binahero.com",

@@ -7,6 +7,9 @@
     "en": "The Nerve token (NRV) is the governance token for the Nerve Finance ecosystem of low slippage stable-swaps and bridged assets from the BSC, Ethereum, and Bitcoin networks"
   },
   "id": "39c0b7f2-e9c3-4add-9896-f1181f314f64",
+  "identifiers": {
+    "coinmarketcap": 8755
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
     "website": "https://nerve.fi/"

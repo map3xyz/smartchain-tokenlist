@@ -7,6 +7,9 @@
     "en": "SILVA Token is a multi-functional platform which allows each participant to keep money in a multi-currency online wallet, buy and sell currency on the exchange, invest money, get a huge benefit in a convenient currency."
   },
   "id": "8b2b9e1c-7e9b-435c-a8cc-7cb741ff9caf",
+  "identifiers": {
+    "coinmarketcap": 13592
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x68b5edb385b59E30a7A7Db1E681a449E94DF0213",
     "website": "https://www.silva.finance/",

@@ -7,6 +7,9 @@
     "en": "Bonus Cake is the first dividend and lucky draw CAKE reflection token."
   },
   "id": "e0a36a5d-fbf9-46e7-a475-8c74bda651d6",
+  "identifiers": {
+    "coinmarketcap": 11547
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb84ddc645c27D4Dc4bFA325c946f9d89d3AfCc7a",
     "website": "https://bonuscake.com",

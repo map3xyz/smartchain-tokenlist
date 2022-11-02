@@ -7,6 +7,9 @@
     "en": "A token based on the Binance Smart Chain. With an NFT marketplace, play to earn gaming, charity donations, manual buy back, token burns and a perk of choosing your reflections in BUSD or HKUN token."
   },
   "id": "300eb47f-ab97-455b-8bc0-88734a56aedb",
+  "identifiers": {
+    "coinmarketcap": 12014
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBb2FA5B2D19209f4Cf50cF745Efc32641A7c9fb1",
     "website": "https://hakunamatatatoken.com",

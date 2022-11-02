@@ -7,6 +7,9 @@
     "en": "The World's first Auto-Boost, Hyper Deflationary Coin is here! Every sell gives members more with the auto-boost and hyper deflation system in place. "
   },
   "id": "1a3b6880-2b96-4187-8dd1-e663fec731d5",
+  "identifiers": {
+    "coinmarketcap": 10798
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad",
     "website": "https://minidoge.finance"

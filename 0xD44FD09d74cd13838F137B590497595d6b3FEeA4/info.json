@@ -7,6 +7,9 @@
     "en": "CryptoMines is a SciFi play-to-earn NFT game designed to provide the users with a fun experience by collecting Workers and Spaceships to travel through the universe searching for $ETERNAL, this mineral allows them to live another day and make some profits along the way."
   },
   "id": "3e2cf085-1050-46fb-8ed2-46c1873bc7e9",
+  "identifiers": {
+    "coinmarketcap": 11736
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
     "website": "https://cryptomines.app",

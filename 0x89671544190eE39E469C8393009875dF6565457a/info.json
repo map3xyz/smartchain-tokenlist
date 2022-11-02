@@ -7,6 +7,9 @@
     "en": "SpaceGrime is the intergalactic crypto of the future"
   },
   "id": "3aa1adcd-5477-4e72-b04b-0dd457cfce52",
+  "identifiers": {
+    "coinmarketcap": 10158
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x89671544190ee39e469c8393009875df6565457a",
     "website": "https://spacegrime.com/"

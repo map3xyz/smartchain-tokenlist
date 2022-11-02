@@ -7,6 +7,9 @@
     "en": "Adamant is a hyperdeflationary token and is the Governance Token of the charity NFT Game Adamant Mine"
   },
   "id": "f1f57211-422f-4972-b8fa-d46abd1675e9",
+  "identifiers": {
+    "coinmarketcap": 12216
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
     "website": "https://www.adamantcoin.com/",

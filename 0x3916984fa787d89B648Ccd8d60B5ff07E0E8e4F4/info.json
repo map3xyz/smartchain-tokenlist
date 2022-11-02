@@ -7,6 +7,9 @@
     "en": "PUBE is a community run project focused on helping the homeless and various cancer organizations."
   },
   "id": "150ab9b7-486c-453d-8e05-9914b6d69bb3",
+  "identifiers": {
+    "coinmarketcap": 9669
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
     "website": "https://pube.finance"

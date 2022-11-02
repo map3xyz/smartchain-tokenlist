@@ -7,6 +7,9 @@
     "en": "AXO is a meme-innovative Token Driven by community attention ."
   },
   "id": "7684d62d-7892-4aff-b536-552ccf4325b5",
+  "identifiers": {
+    "coinmarketcap": 10581
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x52dCF5BEdc061604D8C592B0079A0FF2ceA22eB7",
     "website": "https://Axolotl-Finance.com/"

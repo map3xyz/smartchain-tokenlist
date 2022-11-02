@@ -7,6 +7,9 @@
     "en": "Hodl Finance merges centralized and decentralized finance to create a sustainable ecosystem for constant innovation. By combining the best aspects of community governance and a transparent foundation, the growth of the community and ecosystem is ensured."
   },
   "id": "9f856bb0-8bc6-4a7f-99fc-95d16ae886b2",
+  "identifiers": {
+    "coinmarketcap": 13997
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x186866858aEf38c05829166A7711b37563e15994",
     "website": "https://hodl.finance",

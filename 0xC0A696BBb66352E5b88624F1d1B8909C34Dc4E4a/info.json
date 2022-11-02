@@ -7,6 +7,9 @@
     "en": "Secured Ship is a P2E Tournament Gaming Project with future implementation of NFT and Marketplace developed on Binance Smart Chain."
   },
   "id": "951035d7-1ac0-4b80-b2c2-fe8368471239",
+  "identifiers": {
+    "coinmarketcap": 13849
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC0A696BBb66352E5b88624F1d1B8909C34Dc4E4a",
     "website": "https://securedship.com/",

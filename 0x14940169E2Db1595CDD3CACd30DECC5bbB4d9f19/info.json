@@ -7,6 +7,9 @@
     "en": "Santa Floki ($HoHoHo) v2.0 is a relaunch in order to better serve our future utility ecosystem (gaming, staking and metaverse)."
   },
   "id": "932cc357-f10e-4905-acfb-754c2c471b49",
+  "identifiers": {
+    "coinmarketcap": 18344
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x14940169E2Db1595CDD3CACd30DECC5bbB4d9f19",
     "website": "https://www.santafloki.com/",

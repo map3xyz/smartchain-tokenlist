@@ -7,6 +7,9 @@
     "en": "A unique Rugpull-Proof utility token and exchange platform based on the Binance Smart Chain. Our exchange is here to return security to BEP20 token investments."
   },
   "id": "8384934b-b658-4e40-b84e-caafb3ad83dc",
+  "identifiers": {
+    "coinmarketcap": 10153
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
     "website": "https://www.safememe.com"

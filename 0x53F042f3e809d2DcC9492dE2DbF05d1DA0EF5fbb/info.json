@@ -7,6 +7,9 @@
     "en": "Educative token-review platform aiming to make the crypto-world more comprehendible & less shitty. - NFTs, dApp games, Rewards"
   },
   "id": "437ac10c-0598-46d3-aaac-d4283a652d9e",
+  "identifiers": {
+    "coinmarketcap": 15539
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x53F042f3e809d2DcC9492dE2DbF05d1DA0EF5fbb",
     "website": "https://noshitcoin.io",

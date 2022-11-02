@@ -7,6 +7,9 @@
     "en": "Making world a better place by bringing cuteness to those who need it the most."
   },
   "id": "d48a9268-ce3a-41da-9151-1e69458079ee",
+  "identifiers": {
+    "coinmarketcap": 10193
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x099d6cc403c0a5b46a6dd384c622da39f1e1001c",
     "website": "https://kawaiinu.net/"

@@ -7,6 +7,9 @@
     "en": "WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class."
   },
   "id": "f0a49561-98a6-493a-9ca2-8a12f82bc612",
+  "identifiers": {
+    "coinmarketcap": 10693
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x587C16b84c64751760f6e3e7e32F896634704352",
     "website": "http://whalefall-defi.com"

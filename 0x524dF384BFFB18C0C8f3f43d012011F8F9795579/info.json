@@ -7,6 +7,9 @@
     "en": "YAY Games is an innovative GameFi project, game publisher and developer of a wide range of games focused on Play-2-earn, NFTs, and DeFi."
   },
   "id": "d6652784-bc3f-4628-a561-5dd12e3aefc6",
+  "identifiers": {
+    "coinmarketcap": 11664
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x524dF384BFFB18C0C8f3f43d012011F8F9795579",
     "website": "https://www.yay.games/",

@@ -7,6 +7,9 @@
     "en": "MetaMate is a unique social and dating metaverse combining a digital dating platform and an NFT game."
   },
   "id": "f31bb668-b629-4376-a5b4-cab20376cf9a",
+  "identifiers": {
+    "coinmarketcap": 19101
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3244478Da3F518B33b99D5929Dd0bC3396C56981",
     "website": "https://metamatenft.com/",

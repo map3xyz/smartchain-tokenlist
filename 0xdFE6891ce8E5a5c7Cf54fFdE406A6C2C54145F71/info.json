@@ -7,6 +7,9 @@
     "en": "Combining Memes & Crypto to bring both LOLs and money to the masses of the internet."
   },
   "id": "64918bd4-4e39-4b97-8c83-ecf5648ab930",
+  "identifiers": {
+    "coinmarketcap": 15230
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
     "website": "https://cheemsinu.net/",

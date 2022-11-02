@@ -7,6 +7,9 @@
     "en": "$SLAM is the governance token of the gambling ecosystem of SLAM. It is a deflationary token that distributes rewards to its holders for holding $SLAM in their wallets."
   },
   "id": "4ef848bb-9477-4420-94ea-db44c3f95ac3",
+  "identifiers": {
+    "coinmarketcap": 9584
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcCe7F9eB881248E04f2975a3Fb3B62631ad9eE37",
     "website": "https://slamtoken.com"

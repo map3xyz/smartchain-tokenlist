@@ -7,6 +7,9 @@
     "en": "SafeYield is a reflect token on the Binance Smart Chain A reflect fee is applied to all $SafeYield transactions and redistributes tokens directly to wallets of holders."
   },
   "id": "515b126d-9f3f-447c-bc79-1aed1163b358",
+  "identifiers": {
+    "coinmarketcap": 9256
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2AE7Bf2937F47FEDbDcE48db8aCa4c5e0b814632",
     "website": "https://safeyield.org"

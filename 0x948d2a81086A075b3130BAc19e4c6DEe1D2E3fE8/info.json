@@ -7,6 +7,9 @@
     "en": "HELMET is the governance token issued by helmet.insure with total supply of 100 million."
   },
   "id": "1b3938df-1a8c-4e50-8c7f-9768409915bc",
+  "identifiers": {
+    "coinmarketcap": 8265
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
     "website": "https://helmet.insure",

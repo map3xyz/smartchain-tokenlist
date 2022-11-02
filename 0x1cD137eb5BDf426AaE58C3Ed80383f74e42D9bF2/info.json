@@ -7,6 +7,9 @@
     "en": "Smile token is a a protocol that unifies leading DeFi protocols and blockchain infrastructure by standardising communication between them to create and execute complex financial transactions, while championing Privacy, Anonymity and Sovereignty."
   },
   "id": "60d98bc0-43c1-4d7a-9ee7-7ce35d110fd7",
+  "identifiers": {
+    "coinmarketcap": 4797
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1cD137eb5BDf426AaE58C3Ed80383f74e42D9bF2",
     "website": "https://smiletoken.io/",

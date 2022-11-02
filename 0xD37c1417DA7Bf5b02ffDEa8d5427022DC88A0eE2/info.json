@@ -7,6 +7,9 @@
     "en": "A charity-oriented token for helping children’s hospitals with cancer care."
   },
   "id": "daff5ed7-9806-440b-b210-cc8ce54f0900",
+  "identifiers": {
+    "coinmarketcap": 9159
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
     "website": "https://lifelinetoken.com/"

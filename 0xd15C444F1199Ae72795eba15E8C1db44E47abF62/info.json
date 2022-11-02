@@ -7,6 +7,9 @@
     "en": "TEN is a yield aggregator / optimizer that simplifies staking and yield farming with the most liquid Binance Smart Chain Liquidity Pools."
   },
   "id": "dfb52ac3-be0c-42ff-b272-d9b0a34f6416",
+  "identifiers": {
+    "coinmarketcap": 10031
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
     "website": "https://ten.finance/"

@@ -7,6 +7,9 @@
     "en": "Fire Token is a deflationary BEP-20 that uses the reflection model to benefit holders and guarantee the project longevity. What makes Fire Token different from the rest of the BEP-20 is that it has a built-in mechanism to guarantee funding for growth."
   },
   "id": "6a7ae78e-1240-4225-bf8c-e8338ece98ad",
+  "identifiers": {
+    "coinmarketcap": 10089
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbacbf768795c50fc5e877830a127276741651d0a",
     "website": "https://firetoken.xyz/"

@@ -7,6 +7,9 @@
     "en": "Building a secure DeFi ecosystem to help bring creative ideas to life and protect early investors' funds."
   },
   "id": "0e3bd804-8bd7-4b0c-98e0-a1ce6c860c74",
+  "identifiers": {
+    "coinmarketcap": 13581
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCC5667333F5e997aC9F0C26d41b7ddA65b2b675a",
     "website": "https://glorydogecoin.com",

@@ -7,6 +7,9 @@
     "en": "Senspark is a token used to build a platform to support the financial and economic system applied to GameFi and Metaverse products in the ecosystem of Senspark and its partners."
   },
   "id": "55625bfd-5e5f-4286-b172-b3a61ab7e30a",
+  "identifiers": {
+    "coinmarketcap": 19515
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x23383e18dEedF460EbB918545C8b0588038B7998",
     "website": "https://senspark.com",

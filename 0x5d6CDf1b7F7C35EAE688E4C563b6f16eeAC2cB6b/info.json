@@ -7,6 +7,9 @@
     "en": "SMOON is a community driven token."
   },
   "id": "bc27274f-af8b-4cbb-ac3e-fa78c2f19dca",
+  "identifiers": {
+    "coinmarketcap": 9969
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5d6cdf1b7f7c35eae688e4c563b6f16eeac2cb6b",
     "website": "https://saylormoon.army"

@@ -7,6 +7,9 @@
     "en": "Squid Game Token game free ETH by playing this game! Squid Game Token is a token on the Binance Smart Chain that offers auto static rewards on every transaction."
   },
   "id": "b7c67cb2-5d58-4264-9d4d-c0dd3cda8074",
+  "identifiers": {
+    "coinmarketcap": 13071
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x440Fc7DA66e34e01af5201BdF5815739B0Ae743f",
     "website": "https://www.tokensquidgame.com/",

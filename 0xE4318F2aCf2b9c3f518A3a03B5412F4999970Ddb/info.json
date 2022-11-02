@@ -7,6 +7,9 @@
     "en": "$RHYTHM is the token powering the Rhythm music streaming platform, which boasts a library of over 100 million songs, offering holders in-app rewards, perks, NFTs, and powering the Artist Partner Program."
   },
   "id": "22bf39e2-1dc6-47bd-baac-74fa944fa95e",
+  "identifiers": {
+    "coinmarketcap": 11521
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE4318F2aCf2b9c3f518A3a03B5412F4999970Ddb",
     "website": "https://rhythm.cash/",

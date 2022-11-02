@@ -7,6 +7,9 @@
     "en": "We are KYC'ed by Doken, we want to make sure that our investors are comfortable while investing in LunaGens."
   },
   "id": "699b5b5f-f51a-4bc5-8d73-405ba0b10f2d",
+  "identifiers": {
+    "coinmarketcap": 20823
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x28B9aed756De31B6b362aA0f23211D13093EBb79",
     "website": "https://www.lunagens.com",

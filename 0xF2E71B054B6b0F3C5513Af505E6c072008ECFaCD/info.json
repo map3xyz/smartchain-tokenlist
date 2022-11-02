@@ -7,6 +7,9 @@
     "en": "Brixel War - A Play-to-Earn game based on Smart Chain."
   },
   "id": "a5849fcd-cdd5-48d0-823d-a482baf800e8",
+  "identifiers": {
+    "coinmarketcap": 17731
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf2e71b054b6b0f3c5513af505e6c072008ecfacd",
     "website": "https://brixelwar.com/",

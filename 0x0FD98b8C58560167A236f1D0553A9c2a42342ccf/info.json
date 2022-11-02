@@ -7,6 +7,9 @@
     "en": "Devolution is an NFT based game. You can collect, earn, win and trade your NFTs while playing and socializing with your friends."
   },
   "id": "fcae95ed-4926-4ea9-8ef3-73541ce5f4d2",
+  "identifiers": {
+    "coinmarketcap": 14499
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0FD98b8C58560167A236f1D0553A9c2a42342ccf",
     "website": "https://www.devolution-world.com",

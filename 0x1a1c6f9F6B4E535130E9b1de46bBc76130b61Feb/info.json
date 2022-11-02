@@ -7,6 +7,9 @@
     "en": "High-yield frictionless farming token."
   },
   "id": "2e65030f-2037-4693-9d69-17f7e439b697",
+  "identifiers": {
+    "coinmarketcap": 9394
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1a1c6f9F6B4E535130E9b1de46bBc76130b61Feb",
     "website": "https://golduck.org"

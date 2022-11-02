@@ -7,6 +7,9 @@
     "en": "BitcoMine Token rewards its holders 11% from each successful transaction in BTC on daily basis depending on the trading volume."
   },
   "id": "42816a31-09b7-4db7-bc5d-cc1d4eca0ce3",
+  "identifiers": {
+    "coinmarketcap": 11610
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xbcba01f7d6cc0a950464a4b98ba8358c4f6b69a0",
     "website": "https://bitcominetoken.com/",

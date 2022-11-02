@@ -7,6 +7,9 @@
     "en": "SpookyShiba is an E-Sports company and meme token with a unique multiplayer game with an integrated NFT marketplace."
   },
   "id": "4fc63891-1cc7-4274-920b-766f3af69aa3",
+  "identifiers": {
+    "coinmarketcap": 20915
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9c2B1B3780A8B36B695f0b2781668664aC1Bf25A",
     "website": "https://SpookyShibaBSC.com",

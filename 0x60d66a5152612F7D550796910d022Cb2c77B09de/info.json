@@ -7,6 +7,9 @@
     "en": "Useless is the first token with an auto-stabilizing liquidity pool fueled by external revenue. Our vision is to bring mainstream accessibility to the crypto-space with easy-to-use mobile apps and dApps."
   },
   "id": "504c7800-477a-4679-bd50-ba81c98b1d4e",
+  "identifiers": {
+    "coinmarketcap": 20821
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x60d66a5152612F7D550796910d022Cb2c77B09de",
     "website": "https://uselesscrypto.com",

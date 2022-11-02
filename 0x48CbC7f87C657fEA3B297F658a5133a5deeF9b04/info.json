@@ -7,6 +7,9 @@
     "en": "MiniFlokiADA, the All-In-One Function Token in Binance Smart Chain"
   },
   "id": "1d3c787a-2648-4baa-bae4-076168848d85",
+  "identifiers": {
+    "coinmarketcap": 13190
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x48CbC7f87C657fEA3B297F658a5133a5deeF9b04",
     "website": "https://www.miniflokiada.com",

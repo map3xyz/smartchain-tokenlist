@@ -7,6 +7,9 @@
     "en": "LunaDoge is the first ethical mememoin. LunaDoge is 100% transparent. LunaDoge is community-driven and used a fair launch to distribute tokens. All team tokens and LP tokens have been locked. Holders earn passive rewards through static reflection, as they watch their balance of $LOGE grow exponentially"
   },
   "id": "f7b2b4b5-179b-4d17-9443-4836b2e42458",
+  "identifiers": {
+    "coinmarketcap": 10156
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb99172949554e6c10c28c880ec0306d2a9d5c753",
     "website": "https://lunadoge.finance/"

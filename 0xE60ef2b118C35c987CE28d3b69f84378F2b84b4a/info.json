@@ -7,6 +7,9 @@
     "en": "NudezCoin is the cryptocurrency of choice for adult content creators and independent porn platforms."
   },
   "id": "ffb560ae-4f51-43b1-813e-d514235a44ac",
+  "identifiers": {
+    "coinmarketcap": 9975
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE60ef2b118C35c987CE28d3b69f84378F2b84b4a",
     "website": "https://www.nudezcoin.com/"

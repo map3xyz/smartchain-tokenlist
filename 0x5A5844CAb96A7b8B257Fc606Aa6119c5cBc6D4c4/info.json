@@ -7,6 +7,9 @@
     "en": "Feel like you were late to the party with Bitcoin? Then, don't miss out on BitBurn! BitBurn resides on the BSC network and rewards 5% Bitcoin while offering a TRUE burn!"
   },
   "id": "4486e702-6517-4d6e-b7f5-e365769a86ea",
+  "identifiers": {
+    "coinmarketcap": 21068
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5a5844cab96a7b8b257fc606aa6119c5cbc6d4c4",
     "website": "https://bitburn.io/",

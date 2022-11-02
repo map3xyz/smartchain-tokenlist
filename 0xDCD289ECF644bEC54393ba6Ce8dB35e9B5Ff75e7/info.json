@@ -7,6 +7,9 @@
     "en": "FairLunar is a community-drievn token with it’s own usecase"
   },
   "id": "9a448d78-9bbc-4635-ae89-d86c6e86c624",
+  "identifiers": {
+    "coinmarketcap": 9623
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdcd289ecf644bec54393ba6ce8db35e9b5ff75e7",
     "website": "https://fairlunar.space"

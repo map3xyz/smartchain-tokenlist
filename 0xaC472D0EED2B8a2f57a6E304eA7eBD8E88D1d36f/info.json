@@ -7,6 +7,9 @@
     "en": "Anime Token - AnimeSwap AMM on BSC Blockchain."
   },
   "id": "f5cc1c8f-4eac-41c5-b206-aab38e86e01f",
+  "identifiers": {
+    "coinmarketcap": 8394
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f",
     "website": "https://animetoken.me"

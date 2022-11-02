@@ -7,6 +7,9 @@
     "en": "Utilizing an innovative elastic supply protocol, Atlantis makes it workable for token circulation to be paid straight forwardly corresponding to the age rebase rewards. "
   },
   "id": "5bf10736-f2e1-4026-ae83-e2587ecc8eb6",
+  "identifiers": {
+    "coinmarketcap": 18831
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC7dDF690942b74171F7e3763baf260B686516bc0",
     "website": "https://atlantisfi.io",

@@ -7,6 +7,9 @@
     "en": "MetaAxis is a revolutionary token with an innovative Buy Back and Play to Earn scheme built on Binance Smart Chain"
   },
   "id": "ceb4d7cf-6391-4dbc-bc75-a5afd2dd970f",
+  "identifiers": {
+    "coinmarketcap": 14181
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x19D3A7c26a1271eeBB6f04bDb4565b7F2B7EFc30",
     "website": "https://metaaxiscoin.com/",

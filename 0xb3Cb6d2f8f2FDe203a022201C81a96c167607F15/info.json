@@ -7,6 +7,9 @@
     "en": "GAMMA is the utility token that powers Planet Finance. It incentivizes lenders, borrowers & liquidity providers and it can be used to unlock discount levels on Green Planet."
   },
   "id": "a5d69f02-7696-4b7a-8bfb-cf591501c555",
+  "identifiers": {
+    "coinmarketcap": 17976
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb3Cb6d2f8f2FDe203a022201C81a96c167607F15",
     "website": "https://planetfinance.io/",

@@ -7,6 +7,9 @@
     "en": "Next generation AMM and yield farm with deflationary token model on Binance Smart Chain."
   },
   "id": "013dc519-4dcd-4fe9-b3d4-1fcd9da5641a",
+  "identifiers": {
+    "coinmarketcap": 13778
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x27E873bee690C8E161813DE3566E9E18a64b0381",
     "website": "https://dex.leonicornswap.com",

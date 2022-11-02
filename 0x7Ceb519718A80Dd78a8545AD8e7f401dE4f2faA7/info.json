@@ -7,6 +7,9 @@
     "en": "DKT is governance token of Duelist King NFT Trading Card Game."
   },
   "id": "702a0398-cba7-4e74-b879-48c4b89ded81",
+  "identifiers": {
+    "coinmarketcap": 12798
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7",
     "website": "https://duelistking.com/",

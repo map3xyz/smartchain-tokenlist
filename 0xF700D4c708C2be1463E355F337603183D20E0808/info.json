@@ -7,6 +7,9 @@
     "en": "Galactic Quadrant is a utility token for the Outer Ring video game that allows making in-game and off-games purchases."
   },
   "id": "be5f7638-bd01-4076-8406-a5721bf61000",
+  "identifiers": {
+    "coinmarketcap": 16057
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF700D4c708C2be1463E355F337603183D20E0808",
     "website": "https://outerringmmo.com/",

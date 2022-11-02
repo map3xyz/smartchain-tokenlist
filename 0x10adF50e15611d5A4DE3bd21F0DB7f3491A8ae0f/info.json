@@ -7,6 +7,9 @@
     "en": "MNTG is a stablecoin issued by Monetas in partnership with Binance.The establishment of MONETAS is also based on the purpose of betterment of the future game environment, using better virtual tokens."
   },
   "id": "3ded2d75-c3e9-45fc-bf5f-26ae2fb63a0b",
+  "identifiers": {
+    "coinmarketcap": 15882
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10adF50e15611d5A4DE3bd21F0DB7f3491A8ae0f",
     "website": "https://monetasglobal.com/",

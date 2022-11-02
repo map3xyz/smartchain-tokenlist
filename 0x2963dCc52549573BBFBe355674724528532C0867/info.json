@@ -7,6 +7,9 @@
     "en": "Metaverse platform made for artists and content creators"
   },
   "id": "fb2ce4da-962c-4a1a-9209-ce1b3ec2a4df",
+  "identifiers": {
+    "coinmarketcap": 15193
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2963dCc52549573BBFBe355674724528532C0867",
     "website": "https://pexcoin.io/",

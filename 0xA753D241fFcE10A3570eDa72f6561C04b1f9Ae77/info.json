@@ -7,6 +7,9 @@
     "en": "TitsV2coin dedicated to crypto lovers around the world who encourage breast cancer awareness and the enhancement or correction done by breast augmentation."
   },
   "id": "9cb4752f-0c41-43ec-9242-70c9bf9e1dce",
+  "identifiers": {
+    "coinmarketcap": 13550
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa753d241ffce10a3570eda72f6561c04b1f9ae77",
     "website": "https://titscoin.io/",

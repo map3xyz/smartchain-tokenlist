@@ -7,6 +7,9 @@
     "en": "GLOWV2 represents the illumination of the darkness in the crypto DeFi space through security, clarity, passive income, education, and charity."
   },
   "id": "f631ac5d-1d77-4ec3-ba93-14db76d0d8f2",
+  "identifiers": {
+    "coinmarketcap": 17513
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x05De1dbFCdc876F790371508b97C337640Dcd6a9",
     "website": "https://glowtoken.net",

@@ -7,6 +7,9 @@
     "en": "Diamond Cash (DCASH) is a decentralized finance currency on the Binance Smart Chain"
   },
   "id": "7b372aed-281f-4835-9867-420c38d69eb3",
+  "identifiers": {
+    "coinmarketcap": 15319
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x12c2fc002deaf2239dda8cb92f3b28bbcbe96323",
     "website": "https://diamondcash.org"

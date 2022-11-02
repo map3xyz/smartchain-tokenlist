@@ -7,6 +7,9 @@
     "en": "Rise Up is a movement and the next growth token with an innovative buy back and burn system. A hyper deflationary token decreasing supply and economically increasing the price over time. Rise Up is building utilities to help investors check smart contracts and for launching safe tokens"
   },
   "id": "df861d29-48ee-422a-9b9f-7af94fd5b24f",
+  "identifiers": {
+    "coinmarketcap": 10679
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D",
     "website": "https://riseupofficial.com/",

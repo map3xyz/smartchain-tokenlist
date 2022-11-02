@@ -7,6 +7,9 @@
     "en": "Pollo is a social contribution project launched by academics and experts in cryptocurrency development. PoFi is the only token that connects to all of Pollo DAO's governance, seigniorage (algorithmic staple coin), and Vaults (Auto Farming).Maximum Supply is 500,000."
   },
   "id": "e8a4d757-76f6-426e-9f09-f1c3f58e3960",
+  "identifiers": {
+    "coinmarketcap": 9276
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x461f6C9aE13a7daC7055C73fBF8daB529D667041",
     "website": "https://official.pollo.finance/",

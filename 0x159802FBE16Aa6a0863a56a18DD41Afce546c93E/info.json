@@ -7,6 +7,9 @@
     "en": "A deflationary Charity Token allows for users frictionless rewards while taxing and generating fees per transaction. Given the dynamism of the project and the fact that there are endless worthy charitable causes, Save will consistently draw in new investors, both philanthropic and speculative alike. Unlike many supposed “charity” tokens, we will provide proof of donations and ensure all funds reach their worthy causes. With all charity-based projects, transparency is of the utmost importance."
   },
   "id": "9cc50fd8-e5b7-45ca-a732-f69ffbbf7693",
+  "identifiers": {
+    "coinmarketcap": 9857
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x159802FBE16Aa6a0863a56a18DD41Afce546c93E",
     "website": "https://savetheworld.health/"

@@ -7,6 +7,9 @@
     "en": "HDFL is the fastest burning token on the BSC."
   },
   "id": "d2b5f054-d539-4cdb-b47d-6924f2515130",
+  "identifiers": {
+    "coinmarketcap": 10628
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0b4922132ec425806Fd8AEE94b5788F9B70D60ca",
     "website": "https://www.hyperdeflate.com"

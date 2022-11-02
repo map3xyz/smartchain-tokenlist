@@ -7,6 +7,9 @@
     "en": "Lucky Block envisions a worldwide lottery with players using blockchain protocols, operating on the binance smart chain. The LBlock token is listed on Pancakeswap (DEX), A leading decentralised exchange (DEX) that allows users to buy and sell. We have more than 42K token holders."
   },
   "id": "5ecddeff-e81c-4fd7-ac90-621318e11a5f",
+  "identifiers": {
+    "coinmarketcap": 17698
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2cD96e8C3FF6b5E01169F6E3b61D28204E7810Bb",
     "website": "https://luckyblock.com/",

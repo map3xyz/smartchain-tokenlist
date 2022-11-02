@@ -7,6 +7,9 @@
     "en": "Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain."
   },
   "id": "9b333f08-cd19-4bdb-a23d-d221fb826a4e",
+  "identifiers": {
+    "coinmarketcap": 16832
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F",
     "website": "https://web3inu.org",

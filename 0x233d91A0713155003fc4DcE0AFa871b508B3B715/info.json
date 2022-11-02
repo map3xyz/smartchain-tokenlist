@@ -7,6 +7,9 @@
     "en": "The dominant elastic supply token on Binance Smart Chain."
   },
   "id": "3a40eb78-e10b-4f34-82bc-13876d980c52",
+  "identifiers": {
+    "coinmarketcap": 8086
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x233d91a0713155003fc4dce0afa871b508b3b715",
     "website": "https://ditto.money",

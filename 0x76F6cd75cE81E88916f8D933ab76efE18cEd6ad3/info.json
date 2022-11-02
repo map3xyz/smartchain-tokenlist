@@ -7,6 +7,9 @@
     "en": "NFT Global is a revolutionary NFT marketplace for ambitious artists, collectors, and traders. Built on the Binance network, we are making NFTs more available and accessible."
   },
   "id": "789441e7-6e15-471c-834a-4174b12d9f6e",
+  "identifiers": {
+    "coinmarketcap": 13333
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x76F6cd75cE81E88916f8D933ab76efE18cEd6ad3",
     "website": "https://nftglobal.space",

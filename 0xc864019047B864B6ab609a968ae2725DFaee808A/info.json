@@ -7,6 +7,9 @@
     "en": "Biconomy is a Canadian digital currency exchange."
   },
   "id": "3c09f8cb-2fcc-428c-a3c1-2b75031ca3fa",
+  "identifiers": {
+    "coinmarketcap": 11500
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc864019047B864B6ab609a968ae2725DFaee808A",
     "website": "https://biconomy.com",

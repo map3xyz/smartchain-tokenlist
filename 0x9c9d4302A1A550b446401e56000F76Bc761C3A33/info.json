@@ -7,6 +7,9 @@
     "en": "GLASS is a fully decentralized frictionless yield producing AI. OurGlass is an auto-staking smart contract designed to pay you yield endlessly on the Binance Smart Chain"
   },
   "id": "2b2bac2f-90d6-4f4d-8528-2ee9471805f8",
+  "identifiers": {
+    "coinmarketcap": 10113
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9c9d4302A1A550b446401e56000F76Bc761C3A33",
     "website": "https://our.glass"

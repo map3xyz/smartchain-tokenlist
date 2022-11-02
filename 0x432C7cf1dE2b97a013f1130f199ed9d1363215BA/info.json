@@ -7,6 +7,9 @@
     "en": "CryptoGuards is 3rd project of CryptoCity Metaverse"
   },
   "id": "433ccc36-b9b0-45b4-a308-24f67c7f6255",
+  "identifiers": {
+    "coinmarketcap": 16215
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x432C7cf1dE2b97a013f1130f199ed9d1363215BA",
     "website": "https://cryptoguards.me/",

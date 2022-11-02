@@ -7,6 +7,9 @@
     "en": "Inflation Hedging Coin (IHC) was founded to provide an alternative way to secure your wealth without the interference of the monetary hierarchy system in fighting against inflation, starting with a blockchain based form of finance, Decentralized Finance."
   },
   "id": "934858d0-c6b3-4b40-9dff-d8943baa2aa2",
+  "identifiers": {
+    "coinmarketcap": 14371
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
     "website": "https://www.ihcoin.io/",

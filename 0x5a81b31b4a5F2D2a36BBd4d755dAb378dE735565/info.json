@@ -7,6 +7,9 @@
     "en": "SpaceCorgi leverages memenomics with real-world token utility."
   },
   "id": "8dfaef4c-8336-45ab-995e-6d92d7a5a5b1",
+  "identifiers": {
+    "coinmarketcap": 9716
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565",
     "website": "https://spacecorgi.finance/"

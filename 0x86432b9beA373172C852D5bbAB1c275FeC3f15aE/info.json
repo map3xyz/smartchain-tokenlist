@@ -7,6 +7,9 @@
     "en": "Sleepy Sloth, frictionless yield and NFT Auction place."
   },
   "id": "300247f1-430a-415a-aed9-ec3e69059996",
+  "identifiers": {
+    "coinmarketcap": 9774
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x86432b9beA373172C852D5bbAB1c275FeC3f15aE",
     "website": "https://sleepysloth.finance/",

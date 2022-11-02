@@ -7,6 +7,9 @@
     "en": "PAPP Mobile ($PAPP) is a BEP20 token issued on the Binance Smart Chain with a fixed supply of 1 Trillion tokens in total. PAPP's bravest goal to offer an alternative payment tool to all mobile application developers and users of the world."
   },
   "id": "69a962e2-aebe-4af9-9a10-f52180c6f018",
+  "identifiers": {
+    "coinmarketcap": 10163
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCd77880edea8E7D1f2be011BE560B45B96Ba68Ad",
     "website": "https://pappmobile.com/"

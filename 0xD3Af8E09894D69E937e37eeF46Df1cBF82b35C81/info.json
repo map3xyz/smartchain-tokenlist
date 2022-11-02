@@ -7,6 +7,9 @@
     "en": "NanoDogeCoin (INDC) is the revolutionary token that allows investors to earn USD Tether while helping to save dogs worldwide."
   },
   "id": "3bc9f5b1-2138-4957-b998-d0591315c8bf",
+  "identifiers": {
+    "coinmarketcap": 11243
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd3af8e09894d69e937e37eef46df1cbf82b35c81",
     "website": "https://www.nanodogecoin.com/",

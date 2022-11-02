@@ -7,6 +7,9 @@
     "en": "CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof."
   },
   "id": "58cc9b33-32e4-4c40-ac8b-06a0d3cc1cf0",
+  "identifiers": {
+    "coinmarketcap": 8731
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x97a30C692eCe9C317235d48287d23d358170FC40",
     "website": "https://cryptexlock.me/",

@@ -7,6 +7,9 @@
     "en": "Pixl Coin fuses the world of advertising with the metaverse. Today, the crypto space is manipulated and flooded with a vast variety of different projects of which a large number are dishonest. Through Pixl's community and dedication to the values of transparency, honesty and integrity, this is a space for investors to interact with vetted and trusted projects, and for those projects to demonstrate and advertise their true value."
   },
   "id": "32ae57cc-7e4a-4ef2-9715-a072c8c484f9",
+  "identifiers": {
+    "coinmarketcap": 13426
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x72d2946094E6E57c2faDe4964777A9af2B7A51F9",
     "website": "https://pixlcoin.io",

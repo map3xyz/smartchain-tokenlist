@@ -7,6 +7,9 @@
     "en": "PiggyBankToken is a fair launched, hyper-deflationary DeFi token on the Binance Smart Chain Network."
   },
   "id": "3bd37332-c29a-4886-aa57-3fc2594887dc",
+  "identifiers": {
+    "coinmarketcap": 10212
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xcd2ecd5e06b1a330789b30e8ada3d11c51503a71",
     "website": "https://piggybanktoken.com/"

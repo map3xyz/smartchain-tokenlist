@@ -7,6 +7,9 @@
     "en": "Replace with old Contract 0x64B55Bb2F27c3710349d9cA024d0D1Ff2DAB7f62, Reason (Compromise Private Key)"
   },
   "id": "1e9fcfad-c534-40cc-957a-2eea0cd6fd9f",
+  "identifiers": {
+    "coinmarketcap": 20167
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0bCF5693655A159bd7D9DC5064de9BD692a7b7C6",
     "website": "https://bighbull.com/",

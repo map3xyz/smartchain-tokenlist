@@ -7,6 +7,9 @@
     "en": "Ghostface - Hold $GHOSTFACE and earn $BNB while you sleep!"
   },
   "id": "8251f6d4-6a89-4ddb-90e4-f72d135897bf",
+  "identifiers": {
+    "coinmarketcap": 10697
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0952ddffde60786497c7ced1f49b4a14cf527f76",
     "website": "https://www.ghostface.finance/"

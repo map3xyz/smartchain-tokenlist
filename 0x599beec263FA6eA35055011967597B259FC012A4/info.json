@@ -7,6 +7,9 @@
     "en": "The FoxGirl contract is simple but powerful in helping FoxGirl grow with great portion of the 10% buy/sell tax received going straight to marketing and further advanced of the foxgirl.com platform."
   },
   "id": "2d2f134d-5194-410b-9ba7-ea02487facee",
+  "identifiers": {
+    "coinmarketcap": 13243
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x599beec263FA6eA35055011967597B259FC012A4",
     "website": "https://foxgirl.com/",

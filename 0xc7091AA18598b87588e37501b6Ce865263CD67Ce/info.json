@@ -7,6 +7,9 @@
     "en": "The next generation AMM with high APY rates. Earn CCAKE through yield farming or win it in the Lottery, then stake it in Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by CheeseCake Swap), NFTs, and more, on a platform you can trust."
   },
   "id": "ff59eaad-f3ca-4e03-95f8-1a23d8a11a88",
+  "identifiers": {
+    "coinmarketcap": 8747
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc7091AA18598b87588e37501b6Ce865263CD67Ce",
     "website": "https://cheesecakeswap.com"

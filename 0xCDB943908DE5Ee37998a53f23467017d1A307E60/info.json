@@ -7,6 +7,9 @@
     "en": "SON aims to build a sustainable, long term token that will drive an NFT market place."
   },
   "id": "16db2a0a-5316-47fc-a958-9f324711068d",
+  "identifiers": {
+    "coinmarketcap": 16785
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCDB943908DE5Ee37998a53f23467017d1A307E60",
     "website": "https://www.sonofdogev2.com/",

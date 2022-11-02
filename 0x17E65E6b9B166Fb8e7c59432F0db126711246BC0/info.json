@@ -7,6 +7,9 @@
     "en": "TiFi Token is the the first crypto token that support allverse, which united metaverse and universe, by stimulating trading in decentralized ecosystem."
   },
   "id": "e54e012e-3017-497e-ad5d-86e485777c8e",
+  "identifiers": {
+    "coinmarketcap": 19476
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
     "website": "https://tifi.net/",

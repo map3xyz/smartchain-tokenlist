@@ -7,6 +7,9 @@
     "en": "JulSwap DEX Commnuity Token"
   },
   "id": "c00913d4-d1e3-4143-8c7b-78bc587e3826",
+  "identifiers": {
+    "coinmarketcap": 8164
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
     "website": "https://julswap.com"

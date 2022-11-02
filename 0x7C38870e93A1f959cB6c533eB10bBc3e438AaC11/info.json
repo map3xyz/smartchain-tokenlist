@@ -7,6 +7,9 @@
     "en": "Alium Swap is a MultiChain Decentralized Exchange with a Cross-Chain option already operating on Binance Smart Chain and Huobi ECOChain with Ethereum, Near, Matic, Avalanche, Solana, and Tron coming."
   },
   "id": "1fdee3fd-f236-4f58-a868-72d0eb9619ec",
+  "identifiers": {
+    "coinmarketcap": 10428
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7C38870e93A1f959cB6c533eB10bBc3e438AaC11",
     "website": "https://alium.finance/"

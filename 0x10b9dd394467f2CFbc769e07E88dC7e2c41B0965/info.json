@@ -7,6 +7,9 @@
     "en": "RET token is a BEP-20 token created on january 04, 2022 on the Binance Smart Chain network and that one designed to the functional and experience for all supporters of renewable energy."
   },
   "id": "dd7c7c6f-7793-429e-8495-3b9807ebadbd",
+  "identifiers": {
+    "coinmarketcap": 20013
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
     "website": "https://ret.life",

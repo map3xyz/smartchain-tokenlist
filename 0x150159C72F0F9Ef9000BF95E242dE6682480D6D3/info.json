@@ -7,6 +7,9 @@
     "en": "MNSTP is a deflationary meme token with a strong community ethos."
   },
   "id": "ac7c35e2-6a6f-432b-9a0c-2e7ad01f8439",
+  "identifiers": {
+    "coinmarketcap": 9213
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x150159C72F0F9Ef9000BF95E242dE6682480D6D3",
     "website": "https://moonstop.space"

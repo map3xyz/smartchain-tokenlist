@@ -7,6 +7,9 @@
     "en": "APOyield is a deflationary friction less yield product with it's own token called SOUL. Initially the number of SOUL tokens is equal to the number of citizens of earth. With every transaction 2% of the SOULS gets condemned forever and lost in hell. Yet another 8% gets another chance of survival in a shattered form in wallets of all remaining holders."
   },
   "id": "ec52974e-b43d-4517-bc16-94ff766880a2",
+  "identifiers": {
+    "coinmarketcap": 8684
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x67d012F731c23F0313CEA1186d0121779c77fcFE",
     "website": "https://apoyield.xyz/"

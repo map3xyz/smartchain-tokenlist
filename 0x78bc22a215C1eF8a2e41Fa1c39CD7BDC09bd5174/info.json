@@ -7,6 +7,9 @@
     "en": "An Autonomous Yield and deflationary token."
   },
   "id": "18d7234e-beee-44cd-bb55-7c9f99341a16",
+  "identifiers": {
+    "coinmarketcap": 9274
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174",
     "website": "https://www.rocketmoon.org/"

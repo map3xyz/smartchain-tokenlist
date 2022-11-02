@@ -7,6 +7,9 @@
     "en": "First Empire ever seen into the Blockchain and DeFi space!"
   },
   "id": "ee7867dd-0a32-404f-b63c-a5bfd48c2529",
+  "identifiers": {
+    "coinmarketcap": 10613
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288",
     "website": "https://empiretoken.world/"

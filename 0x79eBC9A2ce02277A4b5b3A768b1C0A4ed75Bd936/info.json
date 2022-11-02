@@ -7,6 +7,9 @@
     "en": "CATGIRL¢ is a NFT focused, community driven crypto currency, with real world use."
   },
   "id": "f4bb9fba-f0be-4d7d-b4d5-3165b1c4b0c1",
+  "identifiers": {
+    "coinmarketcap": 10275
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
     "website": "https://www.catgirl.io",

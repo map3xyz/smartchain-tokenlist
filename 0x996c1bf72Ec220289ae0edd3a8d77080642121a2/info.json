@@ -7,6 +7,9 @@
     "en": "Defi Connect aims to bring real-life and DeFi together by building applications of DeFi in digital marketing, healthcare, transportation, and logistics"
   },
   "id": "2a588d37-5d3e-4e8b-b7b3-7aa5a3e7df09",
+  "identifiers": {
+    "coinmarketcap": 12124
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x996c1bf72Ec220289ae0edd3a8d77080642121a2",
     "website": "https://deficonnect.tech/",

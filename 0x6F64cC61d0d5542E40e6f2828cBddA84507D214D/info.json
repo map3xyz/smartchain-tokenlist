@@ -7,6 +7,9 @@
     "en": "We produce various collections, games, NFTs that you can use in games, and maps for you to navigate in your own world."
   },
   "id": "478bbb03-4676-414f-a1b2-c42b6dd225c4",
+  "identifiers": {
+    "coinmarketcap": 17582
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6f64cc61d0d5542e40e6f2828cbdda84507d214d",
     "website": "https://metania.games/",

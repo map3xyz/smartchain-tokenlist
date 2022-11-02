@@ -7,6 +7,9 @@
     "en": "Doge Floki Coin DOFI is a new cryptocurrency born to emulate dogecoin with the help of Elon Musk"
   },
   "id": "d73f6041-79e7-4604-83cf-b131cba929ec",
+  "identifiers": {
+    "coinmarketcap": 13429
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF9d6DDF44016953dBf7aB135A0F64d7A41870EDE",
     "website": "https://dogefloki.site",

@@ -7,6 +7,9 @@
     "en": "420x coin is the first crypto project that has the potential of becoming a mainstream brand, payment solution and cultural movement."
   },
   "id": "87fb57b4-a3a7-43a0-a57a-13535a1b0b96",
+  "identifiers": {
+    "coinmarketcap": 9634
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xC4b790e1D5f0c3d8AA526F0A8098eD2A1ff0886a",
     "website": "https://420xcoin.com/"

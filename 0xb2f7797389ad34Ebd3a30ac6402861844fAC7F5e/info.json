@@ -7,6 +7,9 @@
     "en": "Chord is a decentralized network for musicians where anyone can turn their songs and performances or any kind of music into unique NFTs and freely commercialize them without intermediaries."
   },
   "id": "5df13540-aa88-4b55-9f07-2439d02f19a2",
+  "identifiers": {
+    "coinmarketcap": 9199
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb2f7797389ad34Ebd3a30ac6402861844fAC7F5e",
     "website": "https://chordprotocol.io"

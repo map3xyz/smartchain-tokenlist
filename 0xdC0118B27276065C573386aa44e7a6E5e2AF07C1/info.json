@@ -7,6 +7,9 @@
     "en": "DEEPMAZE is a crowding pool backed auto liquidity Defi token built on Binance Smart Chain. It solves the liquidity, value, and discretion trilemma that is a problem in the current ecosystem."
   },
   "id": "05e8d129-197e-453d-a0df-fa55cfd2edf8",
+  "identifiers": {
+    "coinmarketcap": 16030
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xdc0118b27276065c573386aa44e7a6e5e2af07c1",
     "website": "https://www.deepmaze.finance/",

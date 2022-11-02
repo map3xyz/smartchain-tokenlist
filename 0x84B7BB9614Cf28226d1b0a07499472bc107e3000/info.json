@@ -7,6 +7,9 @@
     "en": "EverestCoin is a Play to Earn Game token and will be the biggest token on BSC."
   },
   "id": "2d5926a4-487b-4268-bdb5-c6b8caaf3978",
+  "identifiers": {
+    "coinmarketcap": 12568
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x84B7BB9614Cf28226d1b0a07499472bc107e3000",
     "website": "https://everestcoin.io",

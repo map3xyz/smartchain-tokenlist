@@ -7,6 +7,9 @@
     "en": "EpicHero is the Biggest 3D NFT War Game on BSC, the first ever P2E game with NFT holders reflection rewards in BNB"
   },
   "id": "ae7262dc-0909-4492-8851-921dbbc51464",
+  "identifiers": {
+    "coinmarketcap": 11880
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x47cc5334f65611ea6be9e933c49485c88c17f5f0",
     "website": "https://epichero.io/",

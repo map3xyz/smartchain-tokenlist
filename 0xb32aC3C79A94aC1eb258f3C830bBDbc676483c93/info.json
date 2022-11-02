@@ -7,6 +7,9 @@
     "en": "OpenSwap is an integrated one-stop DeFi hub designed to revolutionize on-chain liquidity."
   },
   "id": "57235406-5733-4f87-92c4-c1357d503e03",
+  "identifiers": {
+    "coinmarketcap": 9987
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
     "website": "https://openswap.xyz",

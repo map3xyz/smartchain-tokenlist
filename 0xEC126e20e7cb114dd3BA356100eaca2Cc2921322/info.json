@@ -7,6 +7,9 @@
     "en": "Solar Energy ($SEG) is a deflationary BEP20 token from Binance Smart Chain"
   },
   "id": "4c5f05c8-ab28-47f1-a681-2a7f7a6d58bb",
+  "identifiers": {
+    "coinmarketcap": 15051
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEC126e20e7cb114dd3BA356100eaca2Cc2921322",
     "website": "https://www.solarenergycoin.tech",

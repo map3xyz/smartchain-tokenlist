@@ -7,6 +7,9 @@
     "en": "Meta House is part of the meta world."
   },
   "id": "2ca7e6d2-2d93-4f76-9f7d-caaf9273ecf5",
+  "identifiers": {
+    "coinmarketcap": 18591
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x825791Bc83A377Ba3931E8a56504a1EACAAE0f76",
     "website": "https://www.metahousebsc.com",

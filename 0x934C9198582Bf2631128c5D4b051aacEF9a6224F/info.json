@@ -7,6 +7,9 @@
     "en": "Wanaka Farm aims to offer anNFT game where people can own their virtual lands, NFT items to plant, grow, harvest to relax and earn their crypto."
   },
   "id": "b88e49cd-088d-4f06-b272-58ff1c0d459e",
+  "identifiers": {
+    "coinmarketcap": 13493
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x934C9198582Bf2631128c5D4b051aacEF9a6224F",
     "website": "https://wanakafarm.com",

@@ -7,6 +7,9 @@
     "en": "A legendary hero metaverse."
   },
   "id": "678973ad-fd38-4e2e-b33b-7c743e13135e",
+  "identifiers": {
+    "coinmarketcap": 17627
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa3d80275E300237a62D3431C26d52f185584cC1B",
     "website": "https://risehero.io",

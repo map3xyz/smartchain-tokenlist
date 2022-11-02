@@ -7,6 +7,9 @@
     "en": "PIGE INU is a fully decentralized and community driven project, our contract is fully renounced Liquidity pool burned or locked forever"
   },
   "id": "1ff5366c-eb9c-4dbd-aa14-e1b30892573c",
+  "identifiers": {
+    "coinmarketcap": 20138
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1FDB2c3851D067502Ce2122bE80a41ea212949E2",
     "website": "https://pigeinu.io/#",

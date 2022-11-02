@@ -7,6 +7,9 @@
     "en": "Vain is a token made to make the world a better and greener place by planting trees."
   },
   "id": "609478c8-a5b9-4456-8872-83c4f9ea30cf",
+  "identifiers": {
+    "coinmarketcap": 10761
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
     "website": "https://vaintoken.com"

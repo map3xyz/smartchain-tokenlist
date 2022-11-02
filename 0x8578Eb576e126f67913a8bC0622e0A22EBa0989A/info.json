@@ -7,6 +7,9 @@
     "en": "HashPanda is a social meme token with a mission to make cryptocurrencies mainstream."
   },
   "id": "85df21de-1734-4571-a3b3-424a9c1e6986",
+  "identifiers": {
+    "coinmarketcap": 10131
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8578eb576e126f67913a8bc0622e0a22eba0989a",
     "website": "https://hashpanda.co"

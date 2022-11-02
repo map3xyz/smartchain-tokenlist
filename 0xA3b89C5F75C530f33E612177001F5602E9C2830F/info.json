@@ -7,6 +7,9 @@
     "en": "miniBabydoge is a BEP20 project that is focused on the entire cryptocurrency community. We plan to build a strong community through honest, friendly and constant social media engagement on our channels, thereby facilitating mainstream adoption of decentralised blockchain technology."
   },
   "id": "6caadeb6-1be6-4959-8e69-58eba5cb18cc",
+  "identifiers": {
+    "coinmarketcap": 10806
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa3b89c5f75c530f33e612177001f5602e9c2830f",
     "website": "https://www.minibabydogeofficial.com/",

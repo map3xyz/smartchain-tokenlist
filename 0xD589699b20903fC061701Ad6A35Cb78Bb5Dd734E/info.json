@@ -7,6 +7,9 @@
     "en": "DareToken is a revolutionary funtech market project aimed at decentralizing online competitions and challenges"
   },
   "id": "022ce1df-9f6f-4e3d-9298-2a1c390acda8",
+  "identifiers": {
+    "coinmarketcap": 10377
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
     "website": "https://www.daretoken.io/"

@@ -7,6 +7,9 @@
     "en": "Chibi inu is one of the first movers in coming up with an NFT marketplace for Dog NFTs & memes"
   },
   "id": "d83edb04-db88-47a4-9245-2d51cac0d6a8",
+  "identifiers": {
+    "coinmarketcap": 10019
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x504beaf9b74f5e38b0ac2335c51b8bb6e86f0ec5",
     "website": "https://chibinu.com"

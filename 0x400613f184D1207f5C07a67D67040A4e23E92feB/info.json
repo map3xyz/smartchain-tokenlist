@@ -7,6 +7,9 @@
     "en": "UPDOG is a charity focused auto-yielding deflationary token on Binance Smart Chain."
   },
   "id": "6744d97e-46f0-4af0-96be-3cfd59268733",
+  "identifiers": {
+    "coinmarketcap": 9877
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x400613f184d1207f5c07a67d67040a4e23e92feb",
     "website": "https://updog.finance"

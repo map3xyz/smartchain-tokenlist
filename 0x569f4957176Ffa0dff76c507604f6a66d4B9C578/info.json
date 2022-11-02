@@ -7,6 +7,9 @@
     "en": "Cryptostone is a disruptive innovation and fully anonymous No-KYC blockchain financial ecosystem that utilizes blockchain technology as a financial tool in people's lives. Cryptostone token is the native utility token of the Cryptostone project."
   },
   "id": "95af3a96-7d4e-4e86-a8e8-8dc9b040ba2b",
+  "identifiers": {
+    "coinmarketcap": 20401
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x569f4957176Ffa0dff76c507604f6a66d4B9C578",
     "website": "https://www.crypto-stone.io/",

@@ -7,6 +7,9 @@
     "en": "Hamtaro is a deflactionary Token for the BSC. Token also used to create its NFT Marketplace"
   },
   "id": "3801e7ba-b7a6-475f-8db7-8708b3b9e107",
+  "identifiers": {
+    "coinmarketcap": 9575
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4d4cc29b9c4e413cfe5f898e16280f11db57e186",
     "website": "https://hamtarocrypto.com/"

@@ -7,6 +7,9 @@
     "en": "MOWA token is a utility token that was issued by Moniwar development team."
   },
   "id": "330fae85-963d-4672-a73b-e0609db9ec79",
+  "identifiers": {
+    "coinmarketcap": 12172
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
     "website": "https://moniwar.io/",

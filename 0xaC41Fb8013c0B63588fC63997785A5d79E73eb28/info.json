@@ -7,6 +7,9 @@
     "en": "the main purpose of the FRZS token is to strengthen the solar energy industry "
   },
   "id": "54d54296-5c7a-4816-9276-831ac8deef4f",
+  "identifiers": {
+    "coinmarketcap": 18888
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xac41fb8013c0b63588fc63997785a5d79e73eb28",
     "website": "https://frzss.com/",

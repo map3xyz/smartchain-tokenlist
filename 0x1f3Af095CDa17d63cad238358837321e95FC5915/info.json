@@ -7,6 +7,9 @@
     "en": "Mint Club is a smart token building platform that has no need to code and provides instant liquidity. Anyone can launch a smart token with just a few simple clicks."
   },
   "id": "9494dc24-66be-4d2d-ba0f-1a5891ced581",
+  "identifiers": {
+    "coinmarketcap": 10977
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1f3Af095CDa17d63cad238358837321e95FC5915",
     "website": "https://mint.club",

@@ -7,6 +7,9 @@
     "en": "Galaxy Finance is First Ecosystem that Scaling Decentralized Applications."
   },
   "id": "033f91f3-d187-4cd5-b0f1-5a0028d6dd60",
+  "identifiers": {
+    "coinmarketcap": 20335
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE77932B1216125848e82C3967e75698362168f99",
     "website": "https://galaxyfinance.io/",

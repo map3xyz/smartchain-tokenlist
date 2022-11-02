@@ -7,6 +7,9 @@
     "en": "HyperBoost was birthed by the community seeking a new opportunity to start with. You would also be happy to know that it’s an advance hyper-deflationary token with a cutting-edge hyper buyback burn protocol built in to earn passive rewards through static reflections and burns, so more HyperBoost are automatically added to your wallet for each transaction."
   },
   "id": "1a255ce2-0f75-4b5e-b779-bb47bb5cf2b5",
+  "identifiers": {
+    "coinmarketcap": 13035
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFbC37a1865DD46091A45221F575062A3b8b2e676",
     "website": "https://hyperboostworld.com/",

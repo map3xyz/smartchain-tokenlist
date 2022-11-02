@@ -7,6 +7,9 @@
     "en": "BscGold is a gaming platform that allows cretors to play, craft, distribute and trade."
   },
   "id": "86b4a275-2c0c-4c11-9d52-cd60cec8e2a2",
+  "identifiers": {
+    "coinmarketcap": 9759
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x34195fd824355aec1bdceea97697b35be691bcb3",
     "website": "https://bscgold.finance"

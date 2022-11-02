@@ -7,6 +7,9 @@
     "en": "Alvey Coin is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a Proof of Stake consensus."
   },
   "id": "53a29ddc-718c-41ef-b4a1-cbc2d1e60083",
+  "identifiers": {
+    "coinmarketcap": 21428
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x256D1fCE1b1221e8398f65F9B36033CE50B2D497",
     "website": "https://www.alveychain.com",

@@ -7,6 +7,9 @@
     "en": "With single click cross-chain swaps, CrossWallet is theultimate crypto wallet and DEX aggregator."
   },
   "id": "528b8c2d-5284-48db-9c2e-1c3754dd1386",
+  "identifiers": {
+    "coinmarketcap": 10530
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D",
     "website": "https://crosswallet.app/",

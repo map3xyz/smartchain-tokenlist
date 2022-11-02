@@ -7,6 +7,9 @@
     "en": "Afen Blockchain is Revolutionizing Opportunities Through Blockchain"
   },
   "id": "d2fafa8c-89f8-4114-81b4-2ec4c1ee5531",
+  "identifiers": {
+    "coinmarketcap": 9752
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd0840d5f67206f865aee7cce075bd4484cd3cc81",
     "website": "https://afengroup.com"

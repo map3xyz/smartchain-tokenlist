@@ -7,6 +7,9 @@
     "en": "Baby Moon Floki is a hyper-deflationary token that has a smart exchange system built into the ecosystem"
   },
   "id": "73d39879-adf3-4960-8d3d-256f5d549123",
+  "identifiers": {
+    "coinmarketcap": 13074
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x54E87ed5A096f09d9665fD114002bdDFc2084a7F",
     "website": "https://babymoonfloki.com",

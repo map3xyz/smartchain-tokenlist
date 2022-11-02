@@ -7,6 +7,9 @@
     "en": "MRweb is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. MRweb is an open source."
   },
   "id": "dca7dfac-149e-4404-b70d-d095106fa87f",
+  "identifiers": {
+    "coinmarketcap": 9935
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFC3dA4A1b6faDaB364039525dD2AB7c0c16521cd",
     "website": "https://mrweb.finance",

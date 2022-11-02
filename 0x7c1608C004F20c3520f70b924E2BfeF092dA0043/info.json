@@ -7,6 +7,9 @@
     "en": "Defi ecosystem by CZodiac with farms, pools, NFTs, stablecoin borrowing, and the best APR on BSC."
   },
   "id": "64be820b-4048-4150-9bf7-30e036c78025",
+  "identifiers": {
+    "coinmarketcap": 12581
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7c1608C004F20c3520f70b924E2BfeF092dA0043",
     "website": "https://czodiac.com",

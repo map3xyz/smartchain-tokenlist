@@ -7,6 +7,9 @@
     "en": "BSC Army is the first DAO (decentralized autonomous organization) for social media industries on BSC, and a community-centered initiative that strives to promote the adoption of BSC and blockchain in general."
   },
   "id": "0697ecde-eda1-4a77-a2d0-6c2eaa63d53e",
+  "identifiers": {
+    "coinmarketcap": 10340
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2c80bc9bfa4ec680efb949c51806bddee5ac8299",
     "website": "https://bsc.army/"

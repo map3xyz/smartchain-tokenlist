@@ -7,6 +7,9 @@
     "en": "Twinci - The first NFTs Social-Marketplace. Create, sell and collect digital items secured with blockchain"
   },
   "id": "9b0eba81-e610-4ab6-a181-307a791085b8",
+  "identifiers": {
+    "coinmarketcap": 9253
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaf83f292fced83032f52ced45ef7dbddb586441a",
     "website": "https://twinci.io"

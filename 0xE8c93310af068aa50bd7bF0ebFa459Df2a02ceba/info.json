@@ -7,6 +7,9 @@
     "en": "MOON is a native token of HoneyFarm Layer 3 - HoneyMoon"
   },
   "id": "5bdc1801-582c-4c02-98f5-fce1d2dd2257",
+  "identifiers": {
+    "coinmarketcap": 11688
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xE8c93310af068aa50bd7bF0ebFa459Df2a02ceba",
     "website": "https://moon.honeyfarm.finance?utm_source=twt&utm_medium=wallet&utm_campaign=twt",

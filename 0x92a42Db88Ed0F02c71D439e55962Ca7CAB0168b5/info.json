@@ -7,6 +7,9 @@
     "en": "Tardigrades Finance offers frictionless rewards 5% Tax with 2.5% Burn / and 2.5% back to Holders for each transaction."
   },
   "id": "4774aa33-4828-4f24-a234-d1af05494da8",
+  "identifiers": {
+    "coinmarketcap": 10772
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
     "website": "https://tardigrades.finance/"

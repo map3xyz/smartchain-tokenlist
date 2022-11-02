@@ -7,6 +7,9 @@
     "en": "PathFund's initiative is to build and make available to investors a secure and friendly ecosystem with an intuitive interface."
   },
   "id": "3a6e3d71-0c44-4c96-a82a-eb3ad2086467",
+  "identifiers": {
+    "coinmarketcap": 19288
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3c0b6fcb2f62990f477d9af611e4da3ff1f08222",
     "website": "https://pathfund.net",

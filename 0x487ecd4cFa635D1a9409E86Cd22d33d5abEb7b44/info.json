@@ -7,6 +7,9 @@
     "en": "VANGOLD is one of the worlds first blockchain-based freelancer platform on the Binance Chain network, working with 100% decentralized smart contract."
   },
   "id": "5aeacc74-a978-444e-bf61-369bdeb1d9e7",
+  "identifiers": {
+    "coinmarketcap": 9240
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x487ecd4cFa635D1a9409E86Cd22d33d5abEb7b44",
     "website": "https://vangold.finance",

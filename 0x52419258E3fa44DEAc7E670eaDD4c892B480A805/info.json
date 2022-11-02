@@ -7,6 +7,9 @@
     "en": "$STARSHIP is a decentralized token on the Binance Smart Chain that empowers its members, contributors and business partners to co-create a platform where every person matters. With an NFT game, Centralized Exchange (CEXy.Finance) and much more, Deploy StarShip provides a launch pad into the worlds of business and technology—all while igniting the imagination"
   },
   "id": "d5d5fac6-8b95-426f-8286-fe59e1e9af29",
+  "identifiers": {
+    "coinmarketcap": 9962
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x52419258E3fa44DEAc7E670eaDD4c892B480A805",
     "website": "https://deploystarship.com",

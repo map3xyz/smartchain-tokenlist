@@ -7,6 +7,9 @@
     "en": "AppleB is a decentralized deflation token on Binance Smart Chain. It is the backbone of the virtuous AppleB ecosystem that discovers high-quality fruit assets and builds a new diverse decentralized transaction network."
   },
   "id": "4c6676a2-31e9-421f-a0e4-19c6b6e8ab46",
+  "identifiers": {
+    "coinmarketcap": 10500
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4Dc7c9148A1F495872A5b31CF459ac7989cDCE79",
     "website": "https://appleb.io/"

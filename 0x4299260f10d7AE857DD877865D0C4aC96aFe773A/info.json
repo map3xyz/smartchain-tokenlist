@@ -7,6 +7,9 @@
     "en": "DAM is a token used to compensate Alaskainu community. "
   },
   "id": "4d939260-7617-4457-a1ee-67e247178ce0",
+  "identifiers": {
+    "coinmarketcap": 11003
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4299260f10d7ae857dd877865d0c4ac96afe773a",
     "website": "https://alaskatoken.io/",

@@ -7,6 +7,9 @@
     "en": "Mouse Haunt is a multiplayer play-to-earn game where players collect NFTs, farm tokens, breed characters, and build levels. In this revolutionary game, players play as the heroes, as the villains, and as the architects of the castles. If desired, players can exchange their earned tokens for real money."
   },
   "id": "a2a2a85a-3539-4b36-b16f-95238d6388a6",
+  "identifiers": {
+    "coinmarketcap": 15043
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5Cb2C3Ed882E37DA610f9eF5b0FA25514d7bc85B",
     "website": "https://mousehaunt.com/",

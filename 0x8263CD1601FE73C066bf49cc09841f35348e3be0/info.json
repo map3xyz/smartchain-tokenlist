@@ -7,6 +7,9 @@
     "en": "Altura is the next generation gaming NFT platform."
   },
   "id": "2bbf0865-5e12-4bf1-9167-30124d6e9df4",
+  "identifiers": {
+    "coinmarketcap": 9637
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8263cd1601fe73c066bf49cc09841f35348e3be0",
     "website": "https://www.alturanft.com/",

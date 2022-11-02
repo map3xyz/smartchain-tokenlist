@@ -7,6 +7,9 @@
     "en": "Crypto Inu is an immersive multiplayer board game with 3D and VR modes that incorporates metaverse real estate investment."
   },
   "id": "d03812d7-675c-48ac-81cf-2966b8735990",
+  "identifiers": {
+    "coinmarketcap": 17888
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa0cc3a881aef241d6cb3b7db3168bd26094560be",
     "website": "https://cabcd.org",

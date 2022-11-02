@@ -7,6 +7,9 @@
     "en": "MetaZilla, is a community token that draws its name from the city-destroying monster GodZilla and Meta, the realm beyond reality."
   },
   "id": "5990c69c-6790-45d0-a149-430493ea8674",
+  "identifiers": {
+    "coinmarketcap": 14329
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x0d4992e48278aa7f7c915f820743d9fab7fea713",
     "website": "https://www.metazillabsc.org",

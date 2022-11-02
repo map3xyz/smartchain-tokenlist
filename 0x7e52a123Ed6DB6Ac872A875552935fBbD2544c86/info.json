@@ -7,6 +7,9 @@
     "en": "SYL Token by XSL Labs: Decentralized Identity & Data Privacy"
   },
   "id": "d9ec4423-2f03-4394-b656-dc6811dc959c",
+  "identifiers": {
+    "coinmarketcap": 9180
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
     "website": "https://www.xsl-labs.io/"

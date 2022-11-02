@@ -7,6 +7,9 @@
     "en": "Futura aims to build a decentralized escrow system built on the Binance Smart Chain that focuses on Web 3.0 functionalities for the next generation of payments processing."
   },
   "id": "d7e90b59-3583-49d4-a156-156c22273984",
+  "identifiers": {
+    "coinmarketcap": 12802
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x183B2c147fE11788b73BC0D6A7E0186aA5464BfA",
     "website": "https://futurafinance.io",

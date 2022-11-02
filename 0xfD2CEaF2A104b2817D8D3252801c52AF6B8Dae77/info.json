@@ -7,6 +7,9 @@
     "en": "FTV is the user owned and democtratically controlled entertainment DAO and multi-media NFT hub in V/AR."
   },
   "id": "004b64e2-da7b-4f98-801c-86dbea504bdd",
+  "identifiers": {
+    "coinmarketcap": 10650
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xfD2CEaF2A104b2817D8D3252801c52AF6B8Dae77",
     "website": "https://futurov.com/"

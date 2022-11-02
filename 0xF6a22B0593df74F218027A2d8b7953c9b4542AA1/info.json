@@ -7,6 +7,9 @@
     "en": "LinkSync aims to provide a safe trading environment to early crypto investors by designing an online platform that restricts access to scam projects while giving increased visibility and in- sights on promising projects. Our teams of experts will evaluate KYC, PoC, white papers, smart contracts and many more."
   },
   "id": "18bde632-ca75-417a-b7f1-7d1bc01fdd82",
+  "identifiers": {
+    "coinmarketcap": 14045
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF6a22B0593df74F218027A2d8b7953c9b4542AA1",
     "website": "https://linksync.tech",

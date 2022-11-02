@@ -7,6 +7,9 @@
     "en": "The XXT-Token is a cryptocurrency designed to be the means of payment and integrate the entire adult entertainment ecosystem. Our objective is to use the token as currency to pay and receive for services and products, integrating customers, stores, hotels, sex-shops, motels, suppliers, adult live stream, bars and nightclubs."
   },
   "id": "4a4d3dbb-6a1e-4401-b565-c0f661155e4e",
+  "identifiers": {
+    "coinmarketcap": 10965
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xEA01a1a3CF143f90b4aC6D069Bd369826574CD45",
     "website": "https://xxt-token.com",

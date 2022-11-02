@@ -7,6 +7,9 @@
     "en": "Moochii is one of the fastest growing cryptocurrency communities, with over 1000+ initial investors within the first week. "
   },
   "id": "1d964f0d-6c7a-4726-8028-789bca57444d",
+  "identifiers": {
+    "coinmarketcap": 10077
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xef032F652FCE3a0eFfce3796A68eb978b465a336",
     "website": "https://moochii.net/"

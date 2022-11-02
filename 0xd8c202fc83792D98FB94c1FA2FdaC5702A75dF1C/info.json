@@ -7,6 +7,9 @@
     "en": "FULLSEND is a token to be used on the dapp platform for feature purposes"
   },
   "id": "cb287216-bf9c-4738-b1de-0a32f72a13e7",
+  "identifiers": {
+    "coinmarketcap": 10022
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xd8c202fc83792d98fb94c1fa2fdac5702a75df1c",
     "website": "https://www.fullsendcrypto.net/"

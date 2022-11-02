@@ -7,6 +7,9 @@
     "en": "Aetherius is a new crypto-mining project looking to give investors all the experience, infrastructure, energy and a steady flow of passive income necessary to start each investor as a miner."
   },
   "id": "8d9b0862-cd24-4e51-953d-6f7713afdbb9",
+  "identifiers": {
+    "coinmarketcap": 17134
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x5A3B6f18Dc79D50ab208af2fCd61D10BF7e4896F",
     "website": "https://aeth.finance/",

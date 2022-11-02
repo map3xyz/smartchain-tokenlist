@@ -7,6 +7,9 @@
     "en": "WOW is the World‘s first charity-based NFT marketplace!"
   },
   "id": "1af00a6d-05d0-483b-8e28-d59b1cea9efc",
+  "identifiers": {
+    "coinmarketcap": 10064
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x31353E2826Cc4402735E55a175a75CE2569B4226",
     "website": "https://wow.surf",

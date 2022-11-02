@@ -7,6 +7,9 @@
     "en": "$WLV aims to protect wildlife through our signature token – with benefits to our investors such as minimum taxes, Reflections and consistent marketing to increase the value of $WLV."
   },
   "id": "286652d3-9d28-47b2-8ee0-ecdfcdf91901",
+  "identifiers": {
+    "coinmarketcap": 13836
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xBe6dE6b614b079236839404440E3e8867B5d6751",
     "website": "https://wolverineofficial.com/",

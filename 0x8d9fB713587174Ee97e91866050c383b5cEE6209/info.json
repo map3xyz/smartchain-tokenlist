@@ -7,6 +7,9 @@
     "en": "The Velas Metaverse. Velhalla is a metaverse unlike any other out there in the market."
   },
   "id": "bcd883e0-20b1-4a37-9e09-4f7d2eff1a26",
+  "identifiers": {
+    "coinmarketcap": 13250
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8d9fB713587174Ee97e91866050c383b5cEE6209",
     "website": "https://velhalla.io/",

@@ -7,6 +7,9 @@
     "en": "The token SQUARE is a token developed exclusively for payment of fees within the Goarbit ecosystem - being automatically burned at the time of fee payment, making it a deflationary and utility token."
   },
   "id": "8301c244-163c-4815-ab14-4ace6c275343",
+  "identifiers": {
+    "coinmarketcap": 17213
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xB82BEb6Ee0063Abd5fC8E544c852237aA62CBb14",
     "website": "https://squaretoken.org",

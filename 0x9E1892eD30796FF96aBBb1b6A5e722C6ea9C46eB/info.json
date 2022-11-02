@@ -7,6 +7,9 @@
     "en": "CHAD token is a community driven token with automatic LP and reflective rewards."
   },
   "id": "fb4f7c39-51e5-49d9-9ed0-be258de85e1b",
+  "identifiers": {
+    "coinmarketcap": 9934
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB",
     "website": "https://chads.io/"

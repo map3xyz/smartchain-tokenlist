@@ -7,6 +7,9 @@
     "en": "Orange Cat Token is a Binance Smart Chain based community DeFi token."
   },
   "id": "5870ad0c-b104-4f4b-820a-599f2fb0eb4a",
+  "identifiers": {
+    "coinmarketcap": 10633
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E",
     "website": "https://orangecat.info"

@@ -7,6 +7,9 @@
     "en": "Binance dog is a deflationary token which is centered by the community and driven by the internal force."
   },
   "id": "8c0d860b-1c50-4aaa-8c44-31120e65a10f",
+  "identifiers": {
+    "coinmarketcap": 14086
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f",
     "website": "https://www.binancedog.net/",

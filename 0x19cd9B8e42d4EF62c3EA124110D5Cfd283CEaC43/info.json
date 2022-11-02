@@ -7,6 +7,9 @@
     "en": "Battle Infinity is a gaming platform with multiple P2E battle games which is integrated with the metaverse world."
   },
   "id": "3dc0e0d3-4874-4336-8b71-4707bc025102",
+  "identifiers": {
+    "coinmarketcap": 21600
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43",
     "website": "https://battleinfinity.io/",

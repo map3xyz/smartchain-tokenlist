@@ -7,6 +7,9 @@
     "en": "Narwhalswap Protocol — DeFi Platform with Sustainability. We will build a new unique dapp and protocol to enhance the value of the DeFi, create diversified investment, and become the future of financial services."
   },
   "id": "2245ed80-1eb7-498e-bdb1-86e5d97a623e",
+  "identifiers": {
+    "coinmarketcap": 7831
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa1303e6199b319a891b79685f0537d289af1fc83",
     "website": "https://narwhalswap.org",

@@ -7,6 +7,9 @@
     "en": "Dart Inu is a Metaverse token which supports the vision of NASA's Double Asteroid Redirection Test to defend Mother Earth"
   },
   "id": "9b8ddd81-63d8-4c11-b16d-4ba467fdb100",
+  "identifiers": {
+    "coinmarketcap": 15262
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5",
     "website": "https://dartinu.com",

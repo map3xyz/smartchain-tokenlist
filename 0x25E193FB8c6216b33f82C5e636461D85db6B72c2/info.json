@@ -7,6 +7,9 @@
     "en": "TWERK FINANCE IS A LIQUIDITY GENERATING DEFI"
   },
   "id": "17c67c70-4420-4d83-a0b7-124b287542e1",
+  "identifiers": {
+    "coinmarketcap": 9893
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x25e193fb8c6216b33f82c5e636461d85db6b72c2",
     "website": "https://twerk-finance.com/"

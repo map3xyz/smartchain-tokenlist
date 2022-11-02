@@ -7,6 +7,9 @@
     "en": "Join us for a safe way to the moon!"
   },
   "id": "0fc2e8ad-ac12-4b34-9906-9924ac252681",
+  "identifiers": {
+    "coinmarketcap": 10204
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x212fE6ACbd2083BA0fd7c13Bc57100Ce8bf52e75",
     "website": "https://www.safe-moon.tech/"

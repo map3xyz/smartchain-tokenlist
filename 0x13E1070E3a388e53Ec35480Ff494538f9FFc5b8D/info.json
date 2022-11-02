@@ -7,6 +7,9 @@
     "en": "BRICKS is a token issued by MyBricks aiming to make property investment accessible for everyone."
   },
   "id": "53b6eb85-6081-4273-ab38-bdeafeb0ee9b",
+  "identifiers": {
+    "coinmarketcap": 11112
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x13e1070e3a388e53ec35480ff494538f9ffc5b8d",
     "website": "https://mybricksfinance.com/",

@@ -7,6 +7,9 @@
     "en": "The First Meme DEX and Launchpad on BSC"
   },
   "id": "18a47402-457d-4ba4-8fd3-d18bc43ae14d",
+  "identifiers": {
+    "coinmarketcap": 10857
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268",
     "website": "https://shibance.com",

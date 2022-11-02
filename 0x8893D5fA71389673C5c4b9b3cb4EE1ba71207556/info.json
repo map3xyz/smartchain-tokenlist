@@ -7,6 +7,9 @@
     "en": "Squirrel Finance is a new ecosystem on the BinanceSmartChain to empower simple & secure DeFi."
   },
   "id": "851fc79e-1740-49ce-a934-ab346ea114d5",
+  "identifiers": {
+    "coinmarketcap": 6986
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556",
     "website": "https://squirrel.finance",

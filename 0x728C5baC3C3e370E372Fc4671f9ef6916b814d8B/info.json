@@ -7,6 +7,9 @@
     "en": "Unifi Protocol DAO is a group of non-custodial, interoperable, decentralized, multi-chain smart contracts providing the building blocks for DeFi development. "
   },
   "id": "c26ca6c4-57ac-4c01-9637-6a662fd6d4a7",
+  "identifiers": {
+    "coinmarketcap": 7672
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
     "research": "https://research.binance.com/en/projects/unifi-protocol-dao",

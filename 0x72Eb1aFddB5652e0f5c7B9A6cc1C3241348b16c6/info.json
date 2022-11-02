@@ -7,6 +7,9 @@
     "en": "Two Missions, A Charity and Payment Token"
   },
   "id": "119c6e67-246b-42c5-b0b7-a88cdd4acd9c",
+  "identifiers": {
+    "coinmarketcap": 10282
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x72eb1afddb5652e0f5c7b9a6cc1c3241348b16c6",
     "website": "https://safe-pizza.com/"

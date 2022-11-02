@@ -7,6 +7,9 @@
     "en": "HOWL is the token of the HowlCity project, a 3D metaverse game"
   },
   "id": "35994247-4827-42aa-b80f-b72172ef7cd8",
+  "identifiers": {
+    "coinmarketcap": 13403
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x549cc5df432cdbaebc8b9158a6bdfe1cbd0ba16d",
     "website": "https://howlcity.io",

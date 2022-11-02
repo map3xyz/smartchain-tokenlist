@@ -7,6 +7,9 @@
     "en": "Crypto Gaming made Easy: The aim of the game is simple... Dash as fast as you can through all of the 10 levels whilst collecting coins along the way. Successful players who complete all 10 levels will be rewarded with the collected Doge Dash coins direct to their wallets"
   },
   "id": "0d6ae6de-e1aa-41b0-a51a-be585de3fc00",
+  "identifiers": {
+    "coinmarketcap": 12727
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7ae5709c585ccfb3e61ff312ec632c21a5f03f70",
     "website": "https://dogedash.com/",

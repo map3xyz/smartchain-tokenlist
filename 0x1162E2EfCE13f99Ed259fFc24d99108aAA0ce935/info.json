@@ -7,6 +7,9 @@
     "en": "Hold, earn and help others in need. Hyper Deflationary Token with Smart Staking System. "
   },
   "id": "384f42b9-887b-4fd5-9f26-38e26288549d",
+  "identifiers": {
+    "coinmarketcap": 9984
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1162e2efce13f99ed259ffc24d99108aaa0ce935",
     "website": "https://clucoin.com"

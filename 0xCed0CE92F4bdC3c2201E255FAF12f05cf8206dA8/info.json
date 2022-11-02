@@ -7,6 +7,9 @@
     "en": "The Orakuru (ora-ku-ru) is Binance Smart Chain’s community owned and operated Oracle. A trustless feed of prices and off-chain data powering the 3.0. Unstoppable, all-seeing."
   },
   "id": "9075bdfd-4260-4398-a51c-02c15d8e6021",
+  "identifiers": {
+    "coinmarketcap": 9150
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xCed0CE92F4bdC3c2201E255FAF12f05cf8206dA8",
     "website": "https://orakuru.io/",

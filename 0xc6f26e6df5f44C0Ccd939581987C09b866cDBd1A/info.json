@@ -7,6 +7,9 @@
     "en": "InfinitUP is a rebase token that also rewards in WBNB."
   },
   "id": "9a6a8ddb-a5c3-47ae-b6a5-ed20ed29fc39",
+  "identifiers": {
+    "coinmarketcap": 12535
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc6f26e6df5f44C0Ccd939581987C09b866cDBd1A",
     "website": "https://infinitup.io/",

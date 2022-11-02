@@ -7,6 +7,9 @@
     "en": "King Forever, a community driven deflationary token, with a 3 way to earn Entertainment Ecosystem and a MMORPG Metaverse Game!"
   },
   "id": "ef1edc25-201a-41e5-8a66-b48db1adb10e",
+  "identifiers": {
+    "coinmarketcap": 16184
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xacff4e9e9110971e1a4d8f013f5f97dd8fb4f430",
     "website": "https://kingforevertoken.com/",

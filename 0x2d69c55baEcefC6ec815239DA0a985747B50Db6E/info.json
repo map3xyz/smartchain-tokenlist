@@ -7,6 +7,9 @@
     "en": "The first low-inflation community distributed yield-farming project on Binance Smart Chain."
   },
   "id": "1f4aebff-0f81-477d-ad6f-2d2983cb1f3b",
+  "identifiers": {
+    "coinmarketcap": 8870
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2d69c55baEcefC6ec815239DA0a985747B50Db6E",
     "website": "https://tuttifrutti.finance/"

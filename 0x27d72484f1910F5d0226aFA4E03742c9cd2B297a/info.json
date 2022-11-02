@@ -7,6 +7,9 @@
     "en": "Official token of Moonscape ecosystem issued by Seascape"
   },
   "id": "6eca1059-10c1-42da-8d24-28daacc2024f",
+  "identifiers": {
+    "coinmarketcap": 14522
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x27d72484f1910F5d0226aFA4E03742c9cd2B297a",
     "website": "https://https://www.seascape.network/"

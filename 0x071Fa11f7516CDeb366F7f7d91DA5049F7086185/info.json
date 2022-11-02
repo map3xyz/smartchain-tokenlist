@@ -7,6 +7,9 @@
     "en": "The Rocketboys launchpad is positioned to disrupt all that has become toxic in the current presale ecosystem. The launchpad will operate a much higher barrier to entry for prospective projects – KYB (Know Your Business) and pre-doxxing to an internal Rocketboys committee before launch will provide a uniquely safer investing environment for all participants."
   },
   "id": "7a437e67-60ca-4bbc-aec4-725a5af48c31",
+  "identifiers": {
+    "coinmarketcap": 10930
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185",
     "website": "https://rocketboys.io/",

@@ -7,6 +7,9 @@
     "en": "BEP-20 utility token for Santos FC football club"
   },
   "id": "d7f9a6cc-24e2-4bbc-84a1-26763b18d804",
+  "identifiers": {
+    "coinmarketcap": 15248
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
     "website": "https://www.binance.com/en/fan-token/team-profile/porto",

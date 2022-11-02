@@ -7,6 +7,9 @@
     "en": "Zabaku Inu is one of the first fully-decentralized and deflationary token that unites every MEME lovers"
   },
   "id": "15ffce75-39e0-4e24-bcd0-c5552bc037df",
+  "identifiers": {
+    "coinmarketcap": 10032
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x1e5F009d4f8cA44b5FcC4963dD301Da82b4eed09",
     "website": "https://zabakuinu.herokuapp.com"

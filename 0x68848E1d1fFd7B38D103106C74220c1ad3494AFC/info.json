@@ -7,6 +7,9 @@
     "en": "Rewards Bunny ($RBunny) is a cashback platform where we reward users for their online shopping in Crypto or USD. Start saving now with deals and discounts from top participating brands like AliExpress, Agoda, ASOS, Booking.com, Bose, Klook, Viator, and etc."
   },
   "id": "fb8485b5-6497-4b17-a677-2c27fa725cd5",
+  "identifiers": {
+    "coinmarketcap": 11634
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x68848e1d1ffd7b38d103106c74220c1ad3494afc",
     "website": "https://www.rewardsbunny.com/",

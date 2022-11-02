@@ -7,6 +7,9 @@
     "en": "A launchpad that allows any token amount held by investors to participate in IDO's. It also includes an insurance system and P2E game."
   },
   "id": "4b0965dd-9b55-4d31-b497-d4bc98fc80f7",
+  "identifiers": {
+    "coinmarketcap": 12726
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf834673d496aeacb5e99dfbfc34f1bdcdf81d7bd",
     "website": "https://aegislaunchpad.com/",

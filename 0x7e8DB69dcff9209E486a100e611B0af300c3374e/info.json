@@ -7,6 +7,9 @@
     "en": "TRDC is a decentralized platform project of cryptocurrencies trading where users get full control of their money."
   },
   "id": "ed1e3354-8c08-43b8-901e-f9876f5d7dee",
+  "identifiers": {
+    "coinmarketcap": 11931
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7e8DB69dcff9209E486a100e611B0af300c3374e",
     "website": "https://trdctoken.com",

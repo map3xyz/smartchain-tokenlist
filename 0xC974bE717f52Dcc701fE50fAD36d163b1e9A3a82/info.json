@@ -7,6 +7,9 @@
     "en": "Healing potion is a wallet regeneration token that allows investors to earn passive income as they hold. 7% of every transaction is distributed equally among holders and an extra 5% is sent straight to the liquidity pool. "
   },
   "id": "2ef27772-b8e4-433b-bcf5-89d97dcc6fd0",
+  "identifiers": {
+    "coinmarketcap": 10288
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc974be717f52dcc701fe50fad36d163b1e9a3a82",
     "website": "https://healingpot.info"

@@ -7,6 +7,9 @@
     "en": "wShiba - A Pure Yield Farm Meme Token. The role of wShiba is as a yield farming token that generating returns from long-term holdings, while building a Zoopad (launchpad) for meme projects. A simple & transparent & effective project."
   },
   "id": "22a2480b-d02c-4f2d-8051-3b949e464131",
+  "identifiers": {
+    "coinmarketcap": 10518
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7207Ab575daDD6025e2B334424C5eD10A0282778",
     "website": "https://wshiba.net"

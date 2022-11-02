@@ -7,6 +7,9 @@
     "en": "NasaDoge is loyal to his family, like all dogs should be! All holders of $NasaDoge will earn more tokens on each transaction that is automatically sent to your wallet."
   },
   "id": "0b88c5df-5013-4c86-9474-deaa6a3c0c39",
+  "identifiers": {
+    "coinmarketcap": 12958
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x079Dd74Cc214Ac5f892f6a7271ef0722F6D0c2e6",
     "website": "https://www.nasadoge.finance/",

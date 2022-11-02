@@ -7,6 +7,9 @@
     "en": "Floki Shiba has learned a few tricks and lessons from his meme father, Doge Coin."
   },
   "id": "2f846e9e-afe8-4580-b08d-74f4ba520e69",
+  "identifiers": {
+    "coinmarketcap": 10752
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3DAB450ee6451762E72647A05a205dd5697c5C2c",
     "website": "https://flokishiba.com/"

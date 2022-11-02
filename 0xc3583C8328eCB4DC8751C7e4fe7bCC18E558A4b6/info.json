@@ -7,6 +7,9 @@
     "en": "Vikings Doge Coin for Global Communities. 4% redistribution, curated aggregation platform & Vikings Treasure Hunt Game."
   },
   "id": "ef923ed7-2cd5-4b06-a259-4664886969b3",
+  "identifiers": {
+    "coinmarketcap": 14137
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6",
     "website": "https://vikingsinu.org",

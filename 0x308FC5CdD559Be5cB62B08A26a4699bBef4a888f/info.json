@@ -7,6 +7,9 @@
     "en": "DCIP is world's first Decentralized Community Investment Protocol."
   },
   "id": "1322803a-a1e9-417f-bb9e-ae6331293523",
+  "identifiers": {
+    "coinmarketcap": 12536
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
     "website": "https://dcip.finance",

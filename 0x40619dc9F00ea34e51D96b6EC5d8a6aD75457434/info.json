@@ -7,6 +7,9 @@
     "en": "1Doge is building a comprehensive platform with Static reflection and play to earn gaming mechanisms to enable gamers from all over the world experience Gaming and NFT on the blockchain. "
   },
   "id": "24286888-50cc-49ee-b6d4-3a470d971ddf",
+  "identifiers": {
+    "coinmarketcap": 11377
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434",
     "website": "https://1doge.io",

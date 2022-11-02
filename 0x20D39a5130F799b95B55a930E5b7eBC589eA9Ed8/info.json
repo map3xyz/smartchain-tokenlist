@@ -7,6 +7,9 @@
     "en": "Heroes & Empires is a strategy game that combines the distinctive elements of Idle RPG and the tactics of auto chess, connected with blockchain technology. By taking advantage of the Non-Fungible Token (NFT) characteristic to create characters and items."
   },
   "id": "d1a45be7-6145-4fda-8bc2-6758d52e7a88",
+  "identifiers": {
+    "coinmarketcap": 11939
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x20D39a5130F799b95B55a930E5b7eBC589eA9Ed8",
     "website": "https://heroesempires.com/",

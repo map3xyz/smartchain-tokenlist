@@ -7,6 +7,9 @@
     "en": "Revolve Games is redefining blockchain gaming, with a robust gaming ecosystem that is plugged into the heart of DeFi"
   },
   "id": "51b4ac9f-e8f1-468c-b996-800cf4e0b423",
+  "identifiers": {
+    "coinmarketcap": 11978
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x01E0d17a533E5930A349C2BB71304F04F20AB12B",
     "website": "https://revolvegames.io",

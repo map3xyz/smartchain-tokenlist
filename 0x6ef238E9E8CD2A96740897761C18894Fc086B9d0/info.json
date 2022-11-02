@@ -7,6 +7,9 @@
     "en": "Mytheria- Clash of the Pantheons is the first-of-its-kind Play-to-Earn and Create-to-Earn with a captivating board game experience and innovative NFT marketplace."
   },
   "id": "a02ad495-3298-4aeb-a329-a227e6a764b1",
+  "identifiers": {
+    "coinmarketcap": 13509
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x6ef238E9E8CD2A96740897761C18894Fc086B9d0",
     "website": "https://mytheria.io/",

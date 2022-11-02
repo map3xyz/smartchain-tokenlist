@@ -7,6 +7,9 @@
     "en": "LTRBT Token is capable of gasless instant yield generation. This means that holder can generate yield just holding the token in their wallet, without any further action required."
   },
   "id": "f615280c-043b-4c76-966d-9dc22ce87c60",
+  "identifiers": {
+    "coinmarketcap": 10051
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x17D749D3E2ac204a07e19D8096d9a05c423ea3af",
     "website": "https://newlittlerabbit.com"

@@ -7,6 +7,9 @@
     "en": "ExzoCoin 2.0 (EXZO) is a utility token that will be utilized on our decentralized exchange mobile application"
   },
   "id": "01890f2d-2fe8-4561-a28e-99b8b7238c42",
+  "identifiers": {
+    "coinmarketcap": 10528
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xF8fC63200e181439823251020d691312FDcF5090",
     "website": "https://exzocoin.com/"

@@ -7,6 +7,9 @@
     "en": "ULTGG - The game-changing esports token."
   },
   "id": "e8eef2f9-a51b-413d-85dd-828b7ae9df1b",
+  "identifiers": {
+    "coinmarketcap": 10881
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2065E3BD318f155abE5Ad6aa263596f197112261",
     "website": "https://www.ultgg.io",

@@ -7,6 +7,9 @@
     "en": "PolyPlay is the Gaming Gold Standard Coin. Gamers can participate in Epsorts tournaments just by holding Play token and win rewards in crypto"
   },
   "id": "53ad4262-6cf9-4697-9809-ae69f1161fc3",
+  "identifiers": {
+    "coinmarketcap": 11179
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9a3077f34cc30f9bf8e93a0369119bae0113d9cc",
     "website": "https://polyplay.net/",

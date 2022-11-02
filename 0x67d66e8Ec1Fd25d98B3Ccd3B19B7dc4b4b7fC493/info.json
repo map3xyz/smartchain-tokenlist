@@ -7,6 +7,9 @@
     "en": "Feeder Finance is a DeFi aggregator for diversified yield generation on Binance Smart Chain (“BSC”). Feeder aims to allow investors to feed capital into lending protocols, liquidity pools, vaults, and other DeFi products in an automated and diversified process — A single deposit with macro exposure."
   },
   "id": "9ab0a1b8-2347-4f03-aaf0-0b4766fd3b5d",
+  "identifiers": {
+    "coinmarketcap": 10109
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x67d66e8Ec1Fd25d98B3Ccd3B19B7dc4b4b7fC493",
     "website": "https://feeder.finance/",

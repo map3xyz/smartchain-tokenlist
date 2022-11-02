@@ -7,6 +7,9 @@
     "en": "A Community driven, fair launched DeFi Token. Renounced & burnt."
   },
   "id": "bfc969d4-d088-4109-991a-8bc0501fec2d",
+  "identifiers": {
+    "coinmarketcap": 9993
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xAcab3Ee32aacdbC745667FB261ED7af1de5c5EcD",
     "website": "https://orange-token.website"

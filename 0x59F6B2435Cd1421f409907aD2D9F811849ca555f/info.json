@@ -7,6 +7,9 @@
     "en": "Tank Battle is a game that shows creativity in assembling TANK to fight."
   },
   "id": "71982d69-3248-40a6-9c79-718fe9e3e446",
+  "identifiers": {
+    "coinmarketcap": 15695
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x59F6B2435Cd1421f409907aD2D9F811849ca555f",
     "website": "https://tankbattle.co/",

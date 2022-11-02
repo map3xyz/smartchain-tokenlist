@@ -7,6 +7,9 @@
     "en": "BlockMonsters is a play to earn game where players can earn MNSTRS tokens and collect and trade Blockmonster NFTs."
   },
   "id": "19923ea9-2169-4f3a-b4b6-b47f72196128",
+  "identifiers": {
+    "coinmarketcap": 11777
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x287Db351d5230716246CfB46AF8153025eDa6A0a",
     "website": "https://blockmonsters.co",

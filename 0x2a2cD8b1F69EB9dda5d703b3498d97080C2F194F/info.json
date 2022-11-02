@@ -7,6 +7,9 @@
     "en": "CORGISWAP is a decentralized finance (DeFi) application that lets users exchange tokens while also providing liquidity through farming and earning fees"
   },
   "id": "2ec44cbd-35b1-4d8b-957b-bcda959955a3",
+  "identifiers": {
+    "coinmarketcap": 11832
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F",
     "website": "https://corgiswap.org/",

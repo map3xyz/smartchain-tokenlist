@@ -7,6 +7,9 @@
     "en": "HPS is a deflationary token and booster for BillionHappiness project to support liquidity, buyback, build the ecosystem, and Develop NFT marketplace. To create, buy, or collect digital items secured with BSC blockchain."
   },
   "id": "d5ce3e13-e0e3-4d0d-8139-1f3903d85f9a",
+  "identifiers": {
+    "coinmarketcap": 8198
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xc9d53a339f3c22e016c6fa1e3eb85ac32c75fed2",
     "website": "https://billionhappiness.finance/",

@@ -7,6 +7,9 @@
     "en": "BITCOIN INTERNATIONAL is a non-inflationary Stake , Farm ,DeFi and NFT ecosystem aiming to provide yield generating investments strategies to long-term BTCI holders."
   },
   "id": "a4c5fc63-77f4-44a7-92cd-7738f9b26c2e",
+  "identifiers": {
+    "coinmarketcap": 13207
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x79f8E9862c5240F316faBf31e5406e497d65484d",
     "website": "https://btci.finance",

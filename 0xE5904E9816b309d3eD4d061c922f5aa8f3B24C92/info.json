@@ -7,6 +7,9 @@
     "en": "NFT Fantasy League"
   },
   "id": "2b021aed-8f4b-494c-972c-2a97b0bf2a28",
+  "identifiers": {
+    "coinmarketcap": 8784
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe5904e9816b309d3ed4d061c922f5aa8f3b24c92",
     "website": "https://cybertime.finance/"

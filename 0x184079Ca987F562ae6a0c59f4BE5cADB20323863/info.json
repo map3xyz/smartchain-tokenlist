@@ -7,6 +7,9 @@
     "en": "MarsRise ($MARSRISE) is a token launched on Binance Smart Chain with automatic liquidity pool growth and holder rewards through transaction taxation."
   },
   "id": "ccdf8184-e43a-41b3-86ec-fe71e424f616",
+  "identifiers": {
+    "coinmarketcap": 12325
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x184079Ca987F562ae6a0c59f4BE5cADB20323863",
     "website": "https://marsrise.net/",

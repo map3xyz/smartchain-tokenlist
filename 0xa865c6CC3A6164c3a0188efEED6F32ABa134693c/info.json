@@ -7,6 +7,9 @@
     "en": "Evergreen token is the world first defi project to combine crypto and the environment through planting of trees."
   },
   "id": "5f97e11d-6901-4c54-b4ed-be2c97930502",
+  "identifiers": {
+    "coinmarketcap": 13894
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa865c6CC3A6164c3a0188efEED6F32ABa134693c",
     "website": "https://www.evergreentokens.org",

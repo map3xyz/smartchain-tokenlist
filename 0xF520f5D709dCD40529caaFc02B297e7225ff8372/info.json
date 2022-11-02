@@ -7,6 +7,9 @@
     "en": "MoonWilly is Certificate Of Deposit on Binance Smart Chain. Holders Earn Passive Rewards in DAI (USD Stablecoin) every Hour, Forever."
   },
   "id": "ab748805-2c57-4c5a-9aea-9e842d2d913f",
+  "identifiers": {
+    "coinmarketcap": 11249
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf520f5d709dcd40529caafc02b297e7225ff8372",
     "website": "https://moonwilly.com",

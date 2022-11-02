@@ -7,6 +7,9 @@
     "en": "AINORI is develops various platforms such as Mining, Staking, Yield Farming, Binary Options, etc. called MyCoinGet. TAMAGO, which can be obtained from MyCoinGet mining,"
   },
   "id": "26b0d86c-24c8-45bf-8ad2-33ae1969c183",
+  "identifiers": {
+    "coinmarketcap": 8742
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x7cE4AcCd9bb261508ABd20B134D6278902369057",
     "website": "https://mycoinget.com/"

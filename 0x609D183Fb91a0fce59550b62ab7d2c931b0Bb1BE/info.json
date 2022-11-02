@@ -7,6 +7,9 @@
     "en": "PolkaMonster is the fighting game on the Binance Smart Chain. PolkaMonster are sophisticated digital collections created using Blockchain technology"
   },
   "id": "8c2c1c3a-7f0e-4c10-9550-7e16c2235613",
+  "identifiers": {
+    "coinmarketcap": 11227
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x609D183Fb91a0fce59550b62ab7d2c931b0Bb1BE",
     "website": "https://polkamonster.game/",

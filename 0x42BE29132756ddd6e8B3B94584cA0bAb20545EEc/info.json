@@ -7,6 +7,9 @@
     "en": "Bali Token is a utility token for tourism business in Bali, Indonesia"
   },
   "id": "4248967b-d69d-49eb-ba5b-8e4c0c151146",
+  "identifiers": {
+    "coinmarketcap": 16466
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x42BE29132756ddd6e8B3B94584cA0bAb20545EEc",
     "website": "https://www.balitoken.io",

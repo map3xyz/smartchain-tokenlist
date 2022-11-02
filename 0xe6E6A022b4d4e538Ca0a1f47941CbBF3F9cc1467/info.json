@@ -7,6 +7,9 @@
     "en": "NUTS Gaming is a token developed through the Binance Smart Chain. It aims to apply crypto technology to optimize the economy of the poker & gaming industry."
   },
   "id": "db25372d-961c-401a-b54e-37693a907893",
+  "identifiers": {
+    "coinmarketcap": 11170
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xe6E6A022b4d4e538Ca0a1f47941CbBF3F9cc1467",
     "website": "https://nutsgaming.net",

@@ -7,6 +7,9 @@
     "en": "Blockchain's first gaming and streaming aggregator platform. "
   },
   "id": "162ff47e-28fd-40f6-ba29-07a906dcc729",
+  "identifiers": {
+    "coinmarketcap": 11560
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xFC206f429d55c71cb7294EfF40c6ADb20dC21508",
     "website": "https://www.dehub.net/",

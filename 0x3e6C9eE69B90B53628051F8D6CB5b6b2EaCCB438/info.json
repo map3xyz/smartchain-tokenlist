@@ -7,6 +7,9 @@
     "en": "Multigame is a GameFi & multitasking NFTs platform was built on Binance Smart Chain. The platform will both ensure an accelerator role for other Gaming & NFTs startups and develop separated GameFi projects."
   },
   "id": "6eec7c01-358c-4ab4-94f4-1e59994c2f1c",
+  "identifiers": {
+    "coinmarketcap": 11268
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x3e6C9eE69B90B53628051F8D6CB5b6b2EaCCB438",
     "website": "https://multigame.org/",

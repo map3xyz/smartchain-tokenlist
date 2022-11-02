@@ -7,6 +7,9 @@
     "en": "Corgi Doge is a payment protocol designed to be accessible and lightweight, with a focus on reducing transaction fees. Fast and free transactions on a secure and decentralized network make Corgi ideal for everyday payment."
   },
   "id": "3a8b09c3-76de-46db-bcd7-899e04541a96",
+  "identifiers": {
+    "coinmarketcap": 9968
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
     "website": "https://www.corgidoge.com"

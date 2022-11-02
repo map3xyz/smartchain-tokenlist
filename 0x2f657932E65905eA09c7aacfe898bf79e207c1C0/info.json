@@ -7,6 +7,9 @@
     "en": "Robo Doge is a smart, hyper deflationary, community-driven protocol that rewards its' holders through smart tokenomics. We are a newer, more sophisticated, stronger version of the Doge family."
   },
   "id": "72953456-4a3a-4781-83b1-495bb6358f21",
+  "identifiers": {
+    "coinmarketcap": 11364
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x2f657932E65905eA09c7aacfe898bf79e207c1C0",
     "website": "https://www.robodogecoin.com",

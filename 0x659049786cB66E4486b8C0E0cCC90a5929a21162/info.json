@@ -7,6 +7,9 @@
     "en": "More than 2 million users with TTcoin Football Club, TTcoin brands and more projects."
   },
   "id": "abeb660d-5899-4660-bf4d-cc6802647b9a",
+  "identifiers": {
+    "coinmarketcap": 12532
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162",
     "website": "https://ttcoin.info",

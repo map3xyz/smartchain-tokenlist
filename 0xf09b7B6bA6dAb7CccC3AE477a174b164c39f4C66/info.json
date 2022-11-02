@@ -7,6 +7,9 @@
     "en": "Autonomous yield and liquidity generation protocol on BSC"
   },
   "id": "9f1bec99-85aa-4943-8199-e826190ad9e0",
+  "identifiers": {
+    "coinmarketcap": 9886
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf09b7B6bA6dAb7CccC3AE477a174b164c39f4C66",
     "website": "https://www.moonpirate.finance"

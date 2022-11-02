@@ -7,6 +7,9 @@
     "en": "PandaInu is a meme-based token & Defi Wallets"
   },
   "id": "da094ed1-6935-4a83-82c1-fe8e3008ab2e",
+  "identifiers": {
+    "coinmarketcap": 14599
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xf3eDD4f14a018df4b6f02Bf1b2cF17A8120519A2",
     "website": "https://pandainu.io",

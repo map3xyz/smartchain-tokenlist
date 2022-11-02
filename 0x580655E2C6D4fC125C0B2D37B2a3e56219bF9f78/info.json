@@ -7,6 +7,9 @@
     "en": "Gallant is a utility token developed for Blockchain Gaming."
   },
   "id": "a3ffd691-20a8-4130-b51a-812fa9e12d4c",
+  "identifiers": {
+    "coinmarketcap": 13046
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78",
     "website": "https://gallanttoken.com",

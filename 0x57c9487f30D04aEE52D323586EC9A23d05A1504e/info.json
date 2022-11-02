@@ -7,6 +7,9 @@
     "en": "A charity-oriented token that is focused on decreasing the rate of homelessness around the world."
   },
   "id": "b16c2c55-c6aa-41d1-895f-3f467295e3be",
+  "identifiers": {
+    "coinmarketcap": 10342
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
     "website": "https://www.thehomecoin.co/"

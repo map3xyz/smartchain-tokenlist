@@ -7,6 +7,9 @@
     "en": "FINE is a token issued by Refinable."
   },
   "id": "38fad7ee-9cff-4896-87d2-c8049537ab01",
+  "identifiers": {
+    "coinmarketcap": 9269
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4e6415a5727ea08aAE4580057187923aeC331227",
     "website": "https://app.refinable.com",

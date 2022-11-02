@@ -7,6 +7,9 @@
     "en": "CreamPYE was built with one purpose in mind. Build the best decentralized technology available to the world and make an equal impact on humanity at the same time."
   },
   "id": "7ba1cd0c-bd53-461f-b509-d6dfd8bbdbe6",
+  "identifiers": {
+    "coinmarketcap": 10174
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xaad87f47cdea777faf87e7602e91e3a6afbe4d57",
     "website": "https://www.creampye.com"

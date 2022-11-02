@@ -7,6 +7,9 @@
     "en": "A Huge Ecosystem on Blockchain"
   },
   "id": "26ccb507-2211-4da1-8bc1-1d8c84726926",
+  "identifiers": {
+    "coinmarketcap": 18171
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x4F7413B6ac872D971684A26825AF43870864579C",
     "website": "https://icoinglobal.com",

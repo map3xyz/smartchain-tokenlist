@@ -7,6 +7,9 @@
     "en": "\"Moon\" coin analytics dashboard for all your accounts and coins. This is Not your normal \"moon\" coin. No lopsided liquidity dumps. No sending LP tokens to devs. 6% reflection to hodlr's. 2% true burn on every transaction. "
   },
   "id": "c390bdc2-d303-431e-bcee-69769e27f71b",
+  "identifiers": {
+    "coinmarketcap": 9750
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F",
     "website": "https://www.notsafemoon.com"

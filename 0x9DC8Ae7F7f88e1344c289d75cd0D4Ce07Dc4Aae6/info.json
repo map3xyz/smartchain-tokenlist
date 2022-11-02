@@ -7,6 +7,9 @@
     "en": "BabyFlokiZilla is a Community-driven, Meme token on Binance Smart Chain."
   },
   "id": "d8d018d3-792c-4527-9a31-2b1fd2f138c6",
+  "identifiers": {
+    "coinmarketcap": 13989
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6",
     "website": "https://babyflokizilla.com/",

@@ -7,6 +7,9 @@
     "en": "APEcoin embraces the humor and viral nature of memes by developing an ecosystem of platforms that celebrate and explore crypto trends. GO APE!"
   },
   "id": "9f30d848-a16c-4e62-b6d0-6c693fe25301",
+  "identifiers": {
+    "coinmarketcap": 7257
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xa9eA4b786ee5b7A733c035564Bfd9341A4c9FC1e",
     "website": "https://APEcoin.dev",

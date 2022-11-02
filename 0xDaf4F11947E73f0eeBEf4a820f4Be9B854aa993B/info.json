@@ -7,6 +7,9 @@
     "en": "The project is based on a BEP20 token called XLD. Its main feature involves an auto-claim BNB rewarding process, in which the contract periodically sends out BNB to addresses that hold XLD tokens. "
   },
   "id": "8854d4f9-624f-429a-b103-0b3a94116437",
+  "identifiers": {
+    "coinmarketcap": 10766
+  },
   "links": {
     "explorer": "https://bscscan.com/token/0xDaf4F11947E73f0eeBEf4a820f4Be9B854aa993B",
     "website": "https://stellardiamond.net"
