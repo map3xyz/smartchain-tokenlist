@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "vEmpire DDAO is the world’s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse token staking to fund the battle against centralisation."
+  },
+  "id": "331c6979-bbbf-41d8-87d3-54ddcfc531cc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
+    "website": "https://v-empire.digital",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vempire-ddao/",
+    "twitter": "https://twitter.com/vEmpiredigital",
+    "telegram": "https://t.me/vEmpirediscussion",
+    "facebook": "https://facebook.com/vEmpireDDAO",
+    "coingecko": "https://coingecko.com/en/coins/vempire-ddao/",
+    "whitepaper": "https://v-empire.digital/whitepaper",
+    "blog": "https://medium.com/@v-empire.digital"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955/logo.png"
+  },
+  "name": "vEmpire DDAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VEMP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

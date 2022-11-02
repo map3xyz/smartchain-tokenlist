@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The best of blockchain in one super app."
+  },
+  "id": "1db5d4d7-1a58-48b6-87a6-3842a9e1241a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9096b4309224d751fcb43d7eb178dcffc122ad15",
+    "website": "https://legionnetwork.io",
+    "twitter": "https://twitter.com/LegionNetwork__",
+    "github": "https://github.com/lgxnetwork/lgxnetwork",
+    "telegram": "https://t.me/legionnetworkcommunity",
+    "telegramNews": "https://t.me/legionnetworkofficial",
+    "discord": "https://discord.com/invite/legionnetwork",
+    "youtube": "https://youtube.com/channel/UCynFmM09CqE5rmzlzOB1UNQ",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/legion-network/",
+    "coingecko": "https://coingecko.com/en/coins/legion-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9096B4309224d751FCB43d7eB178dcFFc122aD15/logo.png"
+  },
+  "name": "Legion Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LGX",
+  "tags": [
+    "nft",
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

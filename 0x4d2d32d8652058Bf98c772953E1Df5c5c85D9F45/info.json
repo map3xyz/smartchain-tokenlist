@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DAO Maker is the leading incubation, fundraising and acceleration platform with a vast network of successful projects launched."
+  },
+  "id": "32f42532-cb32-4721-ba8e-ea906b689cec",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
+    "website": "https://daomaker.com",
+    "twitter": "https://twitter.com/TheDaoMaker",
+    "telegram": "https://t.me/daomaker",
+    "discord": "https://discord.com/invite/daomaker",
+    "coingecko": "https://coingecko.com/en/coins/dao-maker",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dao-maker/",
+    "telegramNews": "https://t.me/daomaker_ann"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4d2d32d8652058Bf98c772953E1Df5c5c85D9F45/logo.png"
+  },
+  "name": "DAO Maker",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DAO",
+  "tags": [
+    "deflationary",
+    "governance",
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

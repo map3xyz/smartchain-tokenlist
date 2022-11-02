@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FRZW is native token of FRZSwap which is a decentralized exchange (DEX) and belongs to FRZSS ecosystem"
+  },
+  "id": "3e6fc83e-1429-4fa7-9357-6abc1314fecd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD",
+    "website": "https://frzswap.com/",
+    "twitter": "https://twitter.com/frzswap",
+    "github": "https://github.com/FRZSwapping",
+    "telegram": "https://t.me/frzswap",
+    "whitepaper": "https://frzswap.com/docs/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frzswap/",
+    "coingecko": "https://coingecko.com/en/coins/frzswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2a5dFE9EDd6D1431eecEA70cBb1635Ba88347BaD/logo.png"
+  },
+  "name": "FRZ Swapping",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FRZW",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
