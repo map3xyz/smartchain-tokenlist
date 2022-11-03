@@ -1,0 +1,28 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x5D186E28934c6B0fF5Fc2feCE15D1F34f78cBd87",
+    "fromNetwork": "smartchain",
+    "toAddress": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  },
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x5D186E28934c6B0fF5Fc2feCE15D1F34f78cBd87",
+    "fromNetwork": "smartchain",
+    "toAddress": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
