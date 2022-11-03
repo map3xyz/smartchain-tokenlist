@@ -1,0 +1,15 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+    "fromNetwork": "smartchain",
+    "toAddress": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
