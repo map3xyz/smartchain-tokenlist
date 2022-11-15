@@ -1,0 +1,3 @@
+[
+  "{\n  \"fromAddress\": \"0xCC42724C6683B7E57334c4E856f4c9965ED682bD\",\n  \"fromNetwork\": \"smartchain\",\n  \"toAddress\": \"0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0\",\n  \"toNetwork\": \"ethereum\",\n  \"type\": \"coinmarketcap\",\n  \"verifications\": [],\n  \"version\": {\n    \"major\": 0,\n    \"minor\": 0,\n    \"patch\": 1\n  }\n}"
+]
