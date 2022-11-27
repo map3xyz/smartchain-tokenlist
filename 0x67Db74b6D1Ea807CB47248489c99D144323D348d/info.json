@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x67Db74b6D1Ea807CB47248489c99D144323D348d",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Crypto for Staking platform and marketplace platform we create an online store use MMSC shopping product"
+  },
+  "id": "ab57069d-011c-43b3-b3a1-c8591fb54d2a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x67Db74b6D1Ea807CB47248489c99D144323D348d",
+    "website": "https://mms-soilminerals.com",
+    "twitter": "https://twitter.com/mmsplatform",
+    "github": "https://github.com/Goldcopytrade/MMSCOIN/",
+    "telegram": "https://t.me/+seMX1nx2Bgk4ZTFl",
+    "docs": "https://docs.mms-soilminerals.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mmsc-platform/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x67Db74b6D1Ea807CB47248489c99D144323D348d/logo.png"
+  },
+  "name": "MMS COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MMSC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

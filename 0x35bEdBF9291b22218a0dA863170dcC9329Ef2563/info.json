@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Tap Fantasy is an MMORPG blockchain game, building the biggest Play2Earn NFT game on Solana and BSC. It’s the metaverse version of the famous MMORPG TapTap Fantasy with over 20 million users. Now it has designed more than 200 ACG characters and NFT skins."
+  },
+  "id": "f6d2bfe5-944d-4669-8ba3-187208691f37",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
+    "website": "https://tapfantasy.io/",
+    "twitter": "https://twitter.com/tapfantasy2021",
+    "github": "https://github.com/tapfantasy/",
+    "telegram": "https://t.me/tap_fantasy"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x35bEdBF9291b22218a0dA863170dcC9329Ef2563/logo.png"
+  },
+  "name": "TAP Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TAP",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

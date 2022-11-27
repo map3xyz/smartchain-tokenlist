@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Clover is the native token of CLV M-Chain, and is used for staking to take part in network consensus, transaction fees, platform rewards, and network governance."
+  },
+  "id": "8c336c55-1b39-476b-a957-3ac229925ad0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+    "website": "https://clv.org/",
+    "github": "https://github.com/clover-network",
+    "twitter": "https://twitter.com/clv_org",
+    "medium": "https://medium.com/@clv_org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x09E889BB4D5b474f561db0491C38702F367A4e4d/logo.png"
+  },
+  "name": "CLV",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CLV",
+  "tags": [
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

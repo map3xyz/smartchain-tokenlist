@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x02a655942Dbb886c77bb22B270060c561300B0E2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "KodexPay is backed by the easiest and most efficient cryptocurrency gateway to use."
+  },
+  "id": "b3865aac-dd27-45e0-80b8-e12f26019ca0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x02a655942Dbb886c77bb22B270060c561300B0E2",
+    "website": "https://token.kodexpay.com/",
+    "whitepaper": "https://token.kodexpay.com/whitepaper",
+    "github": "https://github.com/Kodexpay/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kodexpay/",
+    "twitter": "https://twitter.com/kodexpay",
+    "reddit": "https://reddit.com/user/Kodexpay",
+    "facebook": "https://facebook.com/KodexPay"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x02a655942Dbb886c77bb22B270060c561300B0E2/logo.png"
+  },
+  "name": "KodexPay",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KXP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "iMe is an all-in-one app with the Telegram-based messenger, non-custodial Crypto Wallet (Polygon, BNB Chain, Ethereum, more to come), DeFi tools, its own native utility token $LIME. The app allows sending crypto in a few clicks right on Telegram, using Binance functionality, tipping Telegram resources with crypto, having access to NFT / Web 3.0, and more. iMe is available on Google Play and App Store. iMe is on a mission to make DeFi more accessible to a wider population."
+  },
+  "id": "e511c22e-73f1-4389-8d98-a12c93a621a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+    "website": "https://imem.app/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ime-lab/",
+    "coingecko": "https://coingecko.com/coins/ime-lab",
+    "twitter": "https://twitter.com/ImePlatform",
+    "facebook": "https://facebook.com/imeplatform",
+    "discord": "https://discord.com/GrYcwSADxy",
+    "telegram": "https://t.me/iMeLime"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd/logo.png"
+  },
+  "name": "iMe Lab",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LIME",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

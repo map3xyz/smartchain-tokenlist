@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi."
+  },
+  "id": "f7422ba1-84ac-479a-8ae8-c56f88eb4dcd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+    "website": "https://stargate.finance",
+    "medium": "https://medium.com/stargate-official",
+    "telegram": "https://t.me/joinchat/LEM0ELklmO1kODdh",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stargate-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b/logo.png"
+  },
+  "name": "StargateToken",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

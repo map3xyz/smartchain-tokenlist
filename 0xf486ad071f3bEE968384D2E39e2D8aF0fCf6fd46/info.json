@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Velo’s core mission is to build a decentralized settlement network that allows its Trusted Partners to securely transfer value among one another in a timely and transparent manner. Velo’s initial focus will be on businesses in the remittance space in the southeast Asia region."
+  },
+  "id": "e910cc8b-c548-4816-9705-ab7913afa313",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
+    "website": "http://velo.org/",
+    "twitter": "https://twitter.com/veloprotocol",
+    "whitepaper": "https://velo.org/doc/Velo_Whitepaper_EN.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/velo/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46/logo.png"
+  },
+  "name": "VELO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "VELO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

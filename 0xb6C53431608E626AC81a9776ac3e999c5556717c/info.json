@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "pNetwork enables cross-chain movement of assets and data."
+  },
+  "id": "626fd877-455b-49e6-af7f-a4e36371b368",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb6c53431608e626ac81a9776ac3e999c5556717c",
+    "website": "https://ptokens.io/",
+    "twitter": "https://twitter.com/pNetworkDeFi",
+    "github": "https://github.com/provable-things",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/telos/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb6C53431608E626AC81a9776ac3e999c5556717c/logo.png"
+  },
+  "name": "pTokens TLOS",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TLOS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

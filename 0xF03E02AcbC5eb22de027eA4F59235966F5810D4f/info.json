@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF03E02AcbC5eb22de027eA4F59235966F5810D4f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pi network concept INU Token"
+  },
+  "id": "a964f9b0-b75d-4293-8e59-1ad430de54b1",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF03E02AcbC5eb22de027eA4F59235966F5810D4f",
+    "website": "https://pi-inu.com",
+    "twitter": "https://twitter.com/Pi_INU_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pi-inu"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF03E02AcbC5eb22de027eA4F59235966F5810D4f/logo.png"
+  },
+  "name": "Pi INU Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PINU",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

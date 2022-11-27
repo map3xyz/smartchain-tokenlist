@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x5C197A2D2c9081D30715C80bD1b57c996A14cda0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Presale.World aims to make searching for presales easy by allowing users to search, sort and filter presales from some of the biggest launchpads in crypto. At present, this includes PinkSale, DxSale, Unicrypt, GemPad, CookieSale, Novation, and of course PresaleWorld. Not only is it for investors, project owners can generate a token, lock tokens or use our launchpad with unique features such as the pool protection pot where investors are able to claim back a percentage of their initial investment in the event of a scam."
+  },
+  "id": "9b500eed-df46-4bf6-9ad8-48f934609007",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5C197A2D2c9081D30715C80bD1b57c996A14cda0",
+    "website": "https://presale.world",
+    "twitter": "https://twitter.com/PresaleWorld",
+    "telegram": "https://t.me/PresaleWorldCommunity",
+    "whitepaper": "https://docs.presale.world",
+    "youtube": "https://youtube.com/@presaleworld",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/presale-world/",
+    "coingecko": "https://coingecko.com/coins/presale-world"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5C197A2D2c9081D30715C80bD1b57c996A14cda0/logo.png"
+  },
+  "name": "Presale.World",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PRESALE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

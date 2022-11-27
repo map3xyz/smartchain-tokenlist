@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains."
+  },
+  "id": "74ef1f86-0cb1-472c-89cf-44d47b091d01",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+    "website": "https://synapseprotocol.com/",
+    "twitter": "https://twitter.com/synapseprotocol",
+    "telegram": "https://t.me/synapseprotocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/synapse-2/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695/logo.png"
+  },
+  "name": "Synapse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SYN",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

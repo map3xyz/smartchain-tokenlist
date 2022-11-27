@@ -1,6 +1,6 @@
 {
   "name": "@Map3/smartchain-tokenlist",
-  "timestamp": "2022-11-02T10:33:20.011Z",
+  "timestamp": "2022-11-27T23:30:37.849Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -236,6 +236,15 @@
       "tags": []
     },
     {
+      "address": "0x02a655942Dbb886c77bb22B270060c561300B0E2",
+      "name": "KodexPay",
+      "decimals": 18,
+      "symbol": "KXP",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x02a9D7162BD73c2b35c5Cf6cDD585e91928c850A",
       "name": "Baby Floki Inu",
       "decimals": 9,
@@ -269,6 +278,15 @@
       "decimals": 9,
       "symbol": "DBM",
       "tags": []
+    },
+    {
+      "address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
+      "name": "Fetch",
+      "decimals": 18,
+      "symbol": "FET",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0x0321394309CaD7E0E424650844c3AB3b659315d3",
@@ -313,6 +331,13 @@
       "tags": []
     },
     {
+      "address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
+      "name": "DEXE",
+      "decimals": 18,
+      "symbol": "DEXE",
+      "tags": []
+    },
+    {
       "address": "0x03C580eecf2c36Ab8a77a71d56d867EcD495552D",
       "name": "NUKE",
       "decimals": 18,
@@ -350,6 +375,16 @@
       "decimals": 9,
       "symbol": "PirateCoin☠",
       "tags": []
+    },
+    {
+      "address": "0x0416846Db6bEa02588e546271D4d83c4061b7757",
+      "name": "Football INU",
+      "decimals": 9,
+      "symbol": "FOOTBALL",
+      "tags": [
+        "gamefi",
+        "nft"
+      ]
     },
     {
       "address": "0x04260673729c5F2b9894A467736f3D85F8d34fC8",
@@ -434,6 +469,15 @@
       "decimals": 18,
       "symbol": "VIDTC",
       "tags": []
+    },
+    {
+      "address": "0x056cB5463Db539985fd6EbfbE5C3D5904C5E8A95",
+      "name": "ETHLAX",
+      "decimals": 18,
+      "symbol": "ETHLAX",
+      "tags": [
+        "staking"
+      ]
     },
     {
       "address": "0x057AFf3E314e1ca15BED75510df81A20098cE456",
@@ -650,6 +694,13 @@
       "tags": []
     },
     {
+      "address": "0x08CEB3F4a7ed3500cA0982bcd0FC7816688084c3",
+      "name": "Venus TUSD",
+      "decimals": 8,
+      "symbol": "vTUSD",
+      "tags": []
+    },
+    {
       "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
       "name": "Binamon",
       "decimals": 18,
@@ -726,6 +777,15 @@
       "symbol": "DEX",
       "tags": [
         "defi"
+      ]
+    },
+    {
+      "address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
+      "name": "CLV",
+      "decimals": 18,
+      "symbol": "CLV",
+      "tags": [
+        "staking-native"
       ]
     },
     {
@@ -4446,6 +4506,15 @@
       "tags": []
     },
     {
+      "address": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
+      "name": "TAP Coin",
+      "decimals": 18,
+      "symbol": "TAP",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0x360883b7E7fAAD5CE3b4295DABe3F4Ce01A408a2",
       "name": " Solar Systems",
       "decimals": 8,
@@ -4574,6 +4643,16 @@
       "decimals": 12,
       "symbol": "Diamonds",
       "tags": []
+    },
+    {
+      "address": "0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1",
+      "name": "Bull BTC Club",
+      "decimals": 18,
+      "symbol": "BBC",
+      "tags": [
+        "defi",
+        "nft"
+      ]
     },
     {
       "address": "0x380624A4a7e69dB1cA07deEcF764025FC224D056",
@@ -4948,6 +5027,15 @@
       "decimals": 18,
       "symbol": "DAX",
       "tags": []
+    },
+    {
+      "address": "0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
+      "name": "Frutti Dino",
+      "decimals": 18,
+      "symbol": "FDT",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88",
@@ -7289,6 +7377,15 @@
       "tags": []
     },
     {
+      "address": "0x5C197A2D2c9081D30715C80bD1b57c996A14cda0",
+      "name": "Presale.World",
+      "decimals": 18,
+      "symbol": "PRESALE",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x5C501ceB257700FcCd33c53FeEc9f96EDa583Dd7",
       "name": "Travel Care",
       "decimals": 9,
@@ -7795,6 +7892,13 @@
       "tags": []
     },
     {
+      "address": "0x61eDcFe8Dd6bA3c891CB9bEc2dc7657B3B422E93",
+      "name": "Venus TRX",
+      "decimals": 8,
+      "symbol": "vTRX",
+      "tags": []
+    },
+    {
       "address": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
       "name": "SUPERDOGE",
       "decimals": 9,
@@ -8214,6 +8318,15 @@
       "tags": []
     },
     {
+      "address": "0x678e840C640F619E17848045D23072844224dD37",
+      "name": "Cratos",
+      "decimals": 18,
+      "symbol": "CRTS",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0x679D5b2d94f454c950d683D159b87aa8eae37C9e",
       "name": "HAMSTER",
       "decimals": 7,
@@ -8221,11 +8334,29 @@
       "tags": []
     },
     {
+      "address": "0x67Db74b6D1Ea807CB47248489c99D144323D348d",
+      "name": "MMS COIN",
+      "decimals": 8,
+      "symbol": "MMSC",
+      "tags": [
+        "staking"
+      ]
+    },
+    {
       "address": "0x67E8954493dCF031243a3498da73c167EdA512d4",
       "name": "Galaxium",
       "decimals": 9,
       "symbol": "GLXM",
       "tags": []
+    },
+    {
+      "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+      "name": "The Sandbox",
+      "decimals": 18,
+      "symbol": "SAND",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
@@ -8304,6 +8435,13 @@
       "name": "BABYSPACEFLOKI",
       "decimals": 9,
       "symbol": "BSF",
+      "tags": []
+    },
+    {
+      "address": "0x68D10dFe87a838D63BbEf6c9A0D0b44beB799DC1",
+      "name": "MagnetGold",
+      "decimals": 18,
+      "symbol": "MTG",
       "tags": []
     },
     {
@@ -8471,6 +8609,24 @@
       "tags": []
     },
     {
+      "address": "0x6Ced2d77eEb7a6e392CC2b1A3b44C872F49fa602",
+      "name": "BZ DIAMOND",
+      "decimals": 9,
+      "symbol": "BZD",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2",
+      "name": "ZEBEC",
+      "decimals": 9,
+      "symbol": "ZBC",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x6D3a160B86eDcD46D8F9bBa25c2F88ccCADe19fc",
       "name": "QATAR 2022 TOKEN",
       "decimals": 9,
@@ -8535,6 +8691,15 @@
         "defi",
         "staking",
         "gamefi"
+      ]
+    },
+    {
+      "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
+      "name": "ARPA Token",
+      "decimals": 18,
+      "symbol": "ARPA",
+      "tags": [
+        "defi"
       ]
     },
     {
@@ -9358,6 +9523,15 @@
       "tags": []
     },
     {
+      "address": "0x7758a52c1Bb823d02878B67aD87B6bA37a0CDbF5",
+      "name": "Ookeenga",
+      "decimals": 18,
+      "symbol": "OKG",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x77DFb1DaFC92c5Df29996f5528BA1829941cD3Bb",
       "name": "fyeth.finance",
       "decimals": 18,
@@ -9567,6 +9741,13 @@
       "name": "VIDTC Company stocks",
       "decimals": 18,
       "symbol": "VIDTC",
+      "tags": []
+    },
+    {
+      "address": "0x7A532Aa9A2Ab86f6BD7E1Dcd93d3FdD2B0B410a6",
+      "name": "IRR",
+      "decimals": 4,
+      "symbol": "Toman",
       "tags": []
     },
     {
@@ -9801,6 +9982,15 @@
       ]
     },
     {
+      "address": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+      "name": "iMe Lab",
+      "decimals": 18,
+      "symbol": "LIME",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x7bb362962F2a4E2089466C79566572B37CFc5D78",
       "name": "Bafe.io",
       "decimals": 9,
@@ -10004,6 +10194,15 @@
       "decimals": 18,
       "symbol": "P2E",
       "tags": []
+    },
+    {
+      "address": "0x800a25741A414Ea6E6e2B382435081A479A8Cc3c",
+      "name": "SEOR Network",
+      "decimals": 18,
+      "symbol": "SEOR",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0x802C68730212295149f2bEa78C25e2Cf5A05B8A0",
@@ -11212,6 +11411,16 @@
       "decimals": 9,
       "symbol": "Unagi",
       "tags": []
+    },
+    {
+      "address": "0x8f36Cc333F55B09Bb71091409A3d7ADE399e3b1C",
+      "name": "Cherry Token",
+      "decimals": 18,
+      "symbol": "CHER",
+      "tags": [
+        "staking-native",
+        "wrapped"
+      ]
     },
     {
       "address": "0x8f4087Cb09E0F378f4278a314C94A636665dE24b",
@@ -12860,6 +13069,15 @@
       ]
     },
     {
+      "address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
+      "name": "Metaverse",
+      "decimals": 18,
+      "symbol": "MV",
+      "tags": [
+        "gamefi"
+      ]
+    },
+    {
       "address": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
       "name": "Baby Shiba Inu",
       "decimals": 9,
@@ -13013,6 +13231,15 @@
       "tags": []
     },
     {
+      "address": "0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
+      "name": "Binance-Peg COTI Token",
+      "decimals": 18,
+      "symbol": "COTI",
+      "tags": [
+        "binance-peg"
+      ]
+    },
+    {
       "address": "0xAdaf3be815Cd4345229324E02e839dE85cE95DC2",
       "name": "Doraemoon",
       "decimals": 18,
@@ -13115,6 +13342,15 @@
       "decimals": 9,
       "symbol": "HAPPY",
       "tags": []
+    },
+    {
+      "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+      "name": "StargateToken",
+      "decimals": 18,
+      "symbol": "STG",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xB0a1DE764A033A76f28E821fBe402EDBFEe937dB",
@@ -13854,6 +14090,15 @@
       "tags": []
     },
     {
+      "address": "0xC762043E211571eB34f1ef377e5e8e76914962f9",
+      "name": "ApeCoin",
+      "decimals": 18,
+      "symbol": "APE",
+      "tags": [
+        "governance"
+      ]
+    },
+    {
       "address": "0xC79d1fD14F514cD713b5cA43D288a782Ae53eAb2",
       "name": "XcelDefi",
       "decimals": 18,
@@ -14420,6 +14665,15 @@
       "decimals": 18,
       "symbol": "DRE",
       "tags": []
+    },
+    {
+      "address": "0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
+      "name": "TwogeInu",
+      "decimals": 5,
+      "symbol": "TWOGE",
+      "tags": [
+        "memes"
+      ]
     },
     {
       "address": "0xD5a0dAd4E6f399CdC346ff04fd90ec0B511fCeF9",
@@ -14989,6 +15243,15 @@
       "tags": []
     },
     {
+      "address": "0xE64E30276C2F826FEbd3784958d6Da7B55DfbaD3",
+      "name": "SwftCoin",
+      "decimals": 18,
+      "symbol": "SWFTC",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
       "name": "ROOBEE",
       "decimals": 18,
@@ -15306,6 +15569,22 @@
       "tags": []
     },
     {
+      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+      "name": "Prosper",
+      "decimals": 18,
+      "symbol": "PROS",
+      "tags": []
+    },
+    {
+      "address": "0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94",
+      "name": "FarmerDoge",
+      "decimals": 18,
+      "symbol": "CROP",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
       "name": "O3 Swap",
       "decimals": 18,
@@ -15339,6 +15618,15 @@
       "decimals": 0,
       "symbol": "CHIWAWA",
       "tags": []
+    },
+    {
+      "address": "0xF03E02AcbC5eb22de027eA4F59235966F5810D4f",
+      "name": "Pi INU Token",
+      "decimals": 18,
+      "symbol": "PINU",
+      "tags": [
+        "memes"
+      ]
     },
     {
       "address": "0xF078580015Cdfaa849BDAd8B38e72F5803C316c4",
@@ -16040,6 +16328,15 @@
       "tags": []
     },
     {
+      "address": "0xa4080f1778e69467E905B8d6F72f6e441f9e9484",
+      "name": "Synapse",
+      "decimals": 18,
+      "symbol": "SYN",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0xa49e44976C236BeB51a1F818D49b9b9759Ed97b1",
       "name": "AraPlanet",
       "decimals": 9,
@@ -16552,6 +16849,15 @@
       "decimals": 18,
       "symbol": "GZONE",
       "tags": []
+    },
+    {
+      "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+      "name": "pTokens TLOS",
+      "decimals": 18,
+      "symbol": "TLOS",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xb74ed4112C23B7c8ef1439FA55D304D537C5599B",
@@ -17580,6 +17886,15 @@
       "tags": []
     },
     {
+      "address": "0xce6b8B2787C657f1b98b7A66B5B63178863fd719",
+      "name": "ZFMCOIN",
+      "decimals": 18,
+      "symbol": "ZFM",
+      "tags": [
+        "deflationary"
+      ]
+    },
+    {
       "address": "0xcea59DCE6A6d73a24e6d6944CFaBc330814c098A",
       "name": "TORG",
       "decimals": 18,
@@ -17668,6 +17983,24 @@
       "decimals": 9,
       "symbol": "GART",
       "tags": []
+    },
+    {
+      "address": "0xd21d29B38374528675C34936bf7d5Dd693D2a577",
+      "name": "Parsiq Token",
+      "decimals": 18,
+      "symbol": "PRQ",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0xd2359c576632234D1354B20Bf51B0277Be20C81e",
+      "name": "GameGuru",
+      "decimals": 18,
+      "symbol": "GGT",
+      "tags": [
+        "gamefi"
+      ]
     },
     {
       "address": "0xd27D3F7f329D93d897612E413F207A4dbe8bF799",
@@ -18243,6 +18576,15 @@
       "tags": []
     },
     {
+      "address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
+      "name": "Frax Share",
+      "decimals": 18,
+      "symbol": "FXS",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
       "name": "Order of the Black Rose",
       "decimals": 18,
@@ -18264,6 +18606,15 @@
       "tags": []
     },
     {
+      "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+      "name": "Galxe",
+      "decimals": 18,
+      "symbol": "GAL",
+      "tags": [
+        "nft"
+      ]
+    },
+    {
       "address": "0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
       "name": "Oros",
       "decimals": 9,
@@ -18276,6 +18627,15 @@
       "decimals": 8,
       "symbol": "τDOGE",
       "tags": []
+    },
+    {
+      "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+      "name": "MetisDAO",
+      "decimals": 18,
+      "symbol": "Metis",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xe56842Ed550Ff2794F010738554db45E60730371",
@@ -18344,6 +18704,13 @@
       "name": "NUTS Gaming",
       "decimals": 9,
       "symbol": "NUTSG",
+      "tags": []
+    },
+    {
+      "address": "0xe702c303173f90094ce8c9c6CA3f198eCA0E027C",
+      "name": "LOFcrypto",
+      "decimals": 9,
+      "symbol": "LOF",
       "tags": []
     },
     {
@@ -18505,6 +18872,15 @@
       "symbol": "NUM",
       "tags": [
         "binance-peg"
+      ]
+    },
+    {
+      "address": "0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
+      "name": "Chirpley Token",
+      "decimals": 18,
+      "symbol": "CHRP",
+      "tags": [
+        "nft"
       ]
     },
     {
@@ -18822,6 +19198,15 @@
       "tags": []
     },
     {
+      "address": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+      "name": "VELO",
+      "decimals": 18,
+      "symbol": "VELO",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
       "name": "MEMEX.EXCHANGE",
       "decimals": 8,
@@ -18944,6 +19329,15 @@
       "decimals": 18,
       "symbol": "ALLEY",
       "tags": []
+    },
+    {
+      "address": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+      "name": "Synapse",
+      "decimals": 18,
+      "symbol": "SYN",
+      "tags": [
+        "nft"
+      ]
     },
     {
       "address": "0xf91d58b5aE142DAcC749f58A49FCBac340Cb0343",
@@ -19083,6 +19477,15 @@
       "decimals": 9,
       "symbol": "PokerFI",
       "tags": []
+    },
+    {
+      "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
+      "name": "Magic Internet Money",
+      "decimals": 18,
+      "symbol": "MIM",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xfE1d7f7a8f0bdA6E415593a2e4F82c64b446d404",

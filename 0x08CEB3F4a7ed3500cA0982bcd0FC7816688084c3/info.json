@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x08CEB3F4a7ed3500cA0982bcd0FC7816688084c3",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain."
+  },
+  "id": "2af074bf-bb84-46c0-825d-a2db6c47168d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x08CEB3F4a7ed3500cA0982bcd0FC7816688084c3",
+    "research": "https://research.binance.com/en/projects/venus",
+    "website": "https://venus.io/",
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "medium": "https://medium.com/VenusProtocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x08CEB3F4a7ed3500cA0982bcd0FC7816688084c3/logo.png"
+  },
+  "name": "Venus TUSD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "vTUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

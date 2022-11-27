@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI."
+  },
+  "id": "a67ddce0-f03d-4923-a490-9a909570a508",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f",
+    "website": "https://fetch.ai",
+    "medium": "https://medium.com/fetch-ai",
+    "coingecko": "https://coingecko.com/en/coins/forta/",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/fetch/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x031b41e504677879370e9DBcF937283A8691Fa7f/logo.png"
+  },
+  "name": "Fetch",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FET",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

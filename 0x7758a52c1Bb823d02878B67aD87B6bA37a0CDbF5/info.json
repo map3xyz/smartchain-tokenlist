@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7758a52c1Bb823d02878B67aD87B6bA37a0CDbF5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ookeenga (OKG) is a 3D NFT gaming project which combines blockchain technology with breath-taking graphics, appealing world-building, and addictive gameplay to create a uniquely immersive play-to-earn experience developed by CROS Gamestudio and published by SPORES Network."
+  },
+  "id": "f9802933-02bc-4794-afa6-dc82742355e2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7758a52c1Bb823d02878B67aD87B6bA37a0CDbF5",
+    "website": "https://ookeenga.com/",
+    "twitter": "https://twitter.com/ookeenga",
+    "github": "https://github.com/crosgames",
+    "telegram": "https://t.me/ookeenga_global"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7758a52c1Bb823d02878B67aD87B6bA37a0CDbF5/logo.png"
+  },
+  "name": "Ookeenga",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OKG",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

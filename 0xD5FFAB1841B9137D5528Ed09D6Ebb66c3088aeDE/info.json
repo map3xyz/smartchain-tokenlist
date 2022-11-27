@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
+  "color": null,
+  "decimals": 5,
+  "description": {
+    "en": "Twoge is an innovative deflationary token aiming to revolutionize Defi, building its own Twoge Blockchain, introducing a multi-chain swap (TwogeSwap) across Binance, Ethereum..."
+  },
+  "id": "297ee033-3969-4405-a7c4-af6113fafe71",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE",
+    "website": "https://twogeinu.io",
+    "telegram": "https://t.me/TwogeInu",
+    "twitter": "https://twitter.com/twogeinu",
+    "github": "https://github.com/twogeinu",
+    "whitepaper": "https://github.com/twogeinu/whitepaper/blob/main/Twoge%20Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD5FFAB1841B9137D5528Ed09D6Ebb66c3088aeDE/logo.png"
+  },
+  "name": "TwogeInu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TWOGE",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

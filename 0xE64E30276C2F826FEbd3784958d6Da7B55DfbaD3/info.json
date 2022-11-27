@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xE64E30276C2F826FEbd3784958d6Da7B55DfbaD3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SWFTC provides SWFT Blockchain with the sources of liquidity needed to offer faster cross-chain swaps at the best rates, and with low fees."
+  },
+  "id": "bb3231db-0bda-4495-b374-068599f1e31b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+    "website": "https://www.swft.pro/#/",
+    "twitter": "https://twitter.com/SwftCoin",
+    "github": "https://github.com/SwftCoins/SwftCoin",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/swftcoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE64E30276C2F826FEbd3784958d6Da7B55DfbaD3/logo.png"
+  },
+  "name": "SwftCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SWFTC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

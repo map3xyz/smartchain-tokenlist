@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bull BTC CLUB is a Hashrate service platform integrating bitcoin Hashrate distribution and multiple financial derivatives of Bitcoin."
+  },
+  "id": "86ddae3d-4699-47b2-a3af-571d50319a85",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1",
+    "website": "https://bullbtc.club/",
+    "twitter": "https://twitter.com/BULLBTCCLUBNFT",
+    "github": "https://github.com/bullbtcclub",
+    "telegram": "https://t.me/bullbtccluben",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bull-btc-club/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1/logo.png"
+  },
+  "name": "Bull BTC Club",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BBC",
+  "tags": [
+    "defi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
