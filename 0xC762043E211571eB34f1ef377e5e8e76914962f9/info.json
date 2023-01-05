@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xC762043E211571eB34f1ef377e5e8e76914962f9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ApeCoin is an BEP-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3."
+  },
+  "id": "42b60e16-c008-4d02-8a0c-f0dba800c743",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc762043e211571eb34f1ef377e5e8e76914962f9",
+    "website": "https://apecoin.com",
+    "twitter": "https://twitter.com/apecoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/apecoin-ape/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC762043E211571eB34f1ef377e5e8e76914962f9/logo.png"
+  },
+  "name": "ApeCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

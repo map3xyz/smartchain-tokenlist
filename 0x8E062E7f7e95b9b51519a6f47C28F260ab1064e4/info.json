@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x8E062E7f7e95b9b51519a6f47C28F260ab1064e4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BDY is the governance token for Buddy DAO a global credit network"
+  },
+  "id": "06c1f3c0-bc39-4bf2-a53c-130fb83b6f94",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8e062e7f7e95b9b51519a6f47c28f260ab1064e4",
+    "website": "https://www.buddydao.io",
+    "twitter": "https://twitter.com/DaoBuddy",
+    "github": "https://github.com/trinitydao",
+    "telegram": "https://t.me/buddydaoio",
+    "telegramNews": "https://t.me/BuddyDAOANN",
+    "discord": "https://discord.com/invite/CYqkHW9NAj",
+    "whitepaper": "https://www.buddydao.io/whitepaper-v4-2.26.2022.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/buddy-dao/",
+    "coingecko": "https://coingecko.com/en/coins/buddy-dao",
+    "sourceCode": "https://github.com/trinitydao",
+    "reddit": "https://reddit.com/r/BuddyDAO/",
+    "youtube": "https://youtube.com/channel/UCYGNDd028LNmL-vbpiPMkjQ",
+    "medium": "https://medium.com/@buddy.dao12"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8E062E7f7e95b9b51519a6f47C28F260ab1064e4/logo.png"
+  },
+  "name": "Buddy DAO ",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BDY",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x800a25741A414Ea6E6e2B382435081A479A8Cc3c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SEOR is the next generation of decentralized Web3.0 application technology development infrastructure, which aims to provide users and developers of Web3.0 with an easy-to-use blockchain technology development platform."
+  },
+  "id": "421bfced-0bf3-41f0-822a-8ebf1fa91813",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x800a25741A414Ea6E6e2B382435081A479A8Cc3c",
+    "website": "https://www.seor.io/",
+    "twitter": "https://twitter.com/SEOR001",
+    "telegram": "https://t.me/SeorGroup"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x800a25741A414Ea6E6e2B382435081A479A8Cc3c/logo.png"
+  },
+  "name": "SEOR Network",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SEOR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

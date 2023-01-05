@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OwlDAO is the Top 1 iGaming Solution Provider for Web 3.0. Owl.games is OwlDAO's signature casino. Supporting ETH, BSC, Matic, FTM, Solana, Near, Aptos, etc. Play with Metamask, WalletConnect directly!"
+  },
+  "id": "c7eabe47-ce3e-4097-bf7b-b34a483b4e30",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+    "website": "https://owldao.io/",
+    "twitter": "https://twitter.com/OWLDAOio",
+    "github": "https://github.com/theowlgame",
+    "telegram": "https://t.me/owlDAO",
+    "telegramNews": "https://t.me/owlDAONews",
+    "coingecko": "https://coingecko.com/en/coins/owldao",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/owldao/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19/logo.png"
+  },
+  "name": "OwlDAO Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OWL",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

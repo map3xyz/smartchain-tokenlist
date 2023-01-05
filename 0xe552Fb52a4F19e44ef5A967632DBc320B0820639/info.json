@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Metis Token"
+  },
+  "id": "d8a6e76e-a040-48eb-81c5-387d7ac3febc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe552fb52a4f19e44ef5a967632dbc320b0820639",
+    "website": "https://metis.io",
+    "twitter": "https://twitter.com/MetisDAO",
+    "github": "https://github.com/MetisProtocol/metis",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/metisdao/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe552Fb52a4F19e44ef5A967632DBc320B0820639/logo.png"
+  },
+  "name": "MetisDAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Metis",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

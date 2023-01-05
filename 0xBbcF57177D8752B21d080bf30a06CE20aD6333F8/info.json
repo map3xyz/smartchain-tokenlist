@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zam.io is aiming to build a hybrid on-chain CeFi&DeFi Ecosystem that bridges real-world capital to blockchain and accelerates the transition to the new DEconomy."
+  },
+  "id": "9d704e21-bc65-46c4-a276-01849b33eab2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+    "website": "https://zam.io/",
+    "twitter": "https://twitter.com/zam_io",
+    "telegram": "https://t.me/zam_io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zamio/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBbcF57177D8752B21d080bf30a06CE20aD6333F8/logo.png"
+  },
+  "name": "Zamzam",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZAM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

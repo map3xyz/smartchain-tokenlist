@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Magpie XYZ is a platform built on BNB Chain to boost yields for liquidity providers and governance token holders of veTokenomics protocols. Essentially the platform incentivizes governance token holders and liquidity providers to pool their assets together so that the platform can acquire governance tokens, convert into veTokens, boost yield for liquidity providers, and in return share part of protocol revenues derived from liquidity providers’ boosted profits back to governance token holders."
+  },
+  "id": "d936d5a9-fe82-4beb-97f5-52d6d031c65c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+    "website": "https://www.magpiexyz.io/",
+    "twitter": "https://twitter.com/magpiexyz_io",
+    "telegram": "https://t.me/magpiexyz_official",
+    "telegramNews": "https://t.me/magpiexyz_io",
+    "docs": "https://docs.magpiexyz.io/",
+    "blog": "https://blog.magpiexyz.io/",
+    "discord": "https://discord.com/invite/magpiexyz",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/magpie/",
+    "coingecko": "https://coingecko.com/coins/magpie"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa/logo.png"
+  },
+  "name": "Magpie Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MGP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

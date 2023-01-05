@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x678e840C640F619E17848045D23072844224dD37",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CRATOS is an ERC-20 utility token designed to facilitate citizen participation in the CRATOS app, a real-time live vote platform."
+  },
+  "id": "2cc57cff-a463-4632-8ef0-ac219d367379",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x678e840c640f619e17848045d23072844224dd37",
+    "website": "https://www.cratostoken.com/",
+    "twitter": "https://twitter.com/cratostoken",
+    "telegram": "https://t.me/CratosToken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cratos/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x678e840C640F619E17848045D23072844224dD37/logo.png"
+  },
+  "name": "Cratos",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CRTS",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

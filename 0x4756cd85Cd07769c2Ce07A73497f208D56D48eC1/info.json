@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4756cd85Cd07769c2Ce07A73497f208D56D48eC1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dogecoin currency of Earth.DogeCola the people’s soft drink"
+  },
+  "id": "fca4267c-f570-4b1b-95c3-56689e2cf2ae",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4756cd85Cd07769c2Ce07A73497f208D56D48eC1",
+    "website": "https://www.dogecola.finance/",
+    "github": "https://github.com/dogecola",
+    "twitter": "https://twitter.com/doge_cola",
+    "telegram": "https://t.me/dogecola"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4756cd85Cd07769c2Ce07A73497f208D56D48eC1/logo.png"
+  },
+  "name": "DogeCola",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DOGECOLA",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

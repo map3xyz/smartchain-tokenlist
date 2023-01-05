@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ARPA is a secure computation network compatible with blockchains. It proposes a blockchain-based secure computation network of Multi-party Computation (MPC). ARPA cryptographically enables private smart contract, unprecedented data-at-use privacy protection, and scalable computational sharding."
+  },
+  "id": "988250ec-a4d5-4954-a6f6-fc1a3d274820",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+    "website": "https://arpachain.io/",
+    "twitter": "https://twitter.com/arpaofficial?source=user_profile---------------------------",
+    "telegram": "https://t.me/arpa_community",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/arpa-chain/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e/logo.png"
+  },
+  "name": "ARPA Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ARPA",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

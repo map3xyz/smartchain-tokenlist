@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frutti Dino is an NFT game with content. The gamers of this game can enjoy Play to Earn through a variety of interesting methods as well as gameplay through a seamlessly designed blockchain ecosystem seamlessly attached to game content."
+  },
+  "id": "0b70ec37-6b12-49cd-8944-a21bd8c1624c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
+    "website": "https://www.fruttidino.com/",
+    "twitter": "https://twitter.com/FruttiDino",
+    "telegram": "https://t.me/FruttiDino_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frutti-dino/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3a599e584075065eAAAc768D75EaEf85c2f2fF64/logo.png"
+  },
+  "name": "Frutti Dino",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FDT",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

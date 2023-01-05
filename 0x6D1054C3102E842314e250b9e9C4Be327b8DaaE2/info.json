@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zebec is enabling composable transfer of value starting with Zebec Payroll. Zebec Safe is fully customizable multi-sig on Solana."
+  },
+  "id": "3dd2bf03-3d72-426c-a9d1-a1f520a4bf7b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2",
+    "website": "https://zebec.io/",
+    "twitter": "https://twitter.com/Zebec_HQ",
+    "telegram": "https://t.me/zebecprotocol",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/zebec-protocol/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2/logo.png"
+  },
+  "name": "ZEBEC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZBC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

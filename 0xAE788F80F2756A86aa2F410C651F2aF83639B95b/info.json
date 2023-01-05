@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gensokishi Online -META WORLD- Token with utility to configure metaverse."
+  },
+  "id": "dbdd5274-fd34-4da4-b712-8e8a49217a1c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
+    "website": "https://genso.game/",
+    "twitter": "https://twitter.com/genso_meta",
+    "telegram": "https://t.me/gensometamain"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAE788F80F2756A86aa2F410C651F2aF83639B95b/logo.png"
+  },
+  "name": "Metaverse",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MV",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

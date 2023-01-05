@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Corite is a blockchain-based music platform jointly powered by fans and artists to finance and promote music in a unique Engage-to-Earn (E2E) model."
+  },
+  "id": "7c8bdea7-3707-46b2-80da-10f8a0c87cba",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
+    "website": "https://corite.com",
+    "twitter": "https://twitter.com/coritecom",
+    "telegram": "https://t.me/corite",
+    "youtube": "https://youtube.com/corite",
+    "facebook": "https://facebook.com/corite",
+    "discord": "https://discord.com/invite/corite"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6/logo.png"
+  },
+  "name": "Corite",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CO",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x2D7A47908d817dd359f9aBA7FEaA89c92a289c7E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Your secure financial crypto partner. Get your free wallet for Lenda, Bitcoin and more than 10 other cryptocurrencies."
+  },
+  "id": "ec17f984-544c-465d-ab4a-50d32ca8e008",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2D7A47908d817dd359f9aBA7FEaA89c92a289c7E",
+    "website": "https://lenda.finance/",
+    "github": "https://github.com/LendaFinance",
+    "coingecko": "https://coingecko.com/en/coins/lenda",
+    "twitter": "https://twitter.com/LendaFinance",
+    "telegram": "https://t.me/lendafinance",
+    "facebook": "https://facebook.com/Lenda-Finance-105680315331951",
+    "whitepaper": "https://lenda.finance/whitepaper.pdf",
+    "youtube": "https://youtube.com/channel/UCcwhFOqEvfe-IqrmJF7yrcQ",
+    "sourceCode": "https://github.com/LendaFinance/lenda-finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lenda/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2D7A47908d817dd359f9aBA7FEaA89c92a289c7E/logo.png"
+  },
+  "name": "Lenda",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LENDA",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

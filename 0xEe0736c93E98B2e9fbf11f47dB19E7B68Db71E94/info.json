@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CROP is the world's first multi-currency rewards token. This allows us to farm any cryptocurrency on the Binance smart chain. Buy & Hold CROP and let the teams crypto analysts build your portfolio with both top 200 cryptocurrencies & newly launched moonshots."
+  },
+  "id": "481f74c8-786b-44fa-b16b-1e219cab6cd2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94",
+    "website": "https://www.farmerdoge.net/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/farmerdoge/",
+    "coingecko": "https://coingecko.com/en/coins/farmerdoge-v3",
+    "twitter": "https://twitter.com/FarmerDogeBSC?t=GNh1BY1qXDmD69TqtZwuCQ&s=09",
+    "telegram": "https://t.me/FarmerDogeCrypto",
+    "facebook": "https://facebook.com/FarmerDoge-101777302236101/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94/logo.png"
+  },
+  "name": "FarmerDoge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CROP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "COTI is an enterprise-grade fintech platform that enables cross-chain interoperability and is built on its own DAG-based chain. It supports extreme scalability, low transaction costs and is supplemented with payment-specific requirements in the form of COTI Pay, a holistic digital payment solution."
+  },
+  "id": "13f885bc-e87a-4e40-8bb8-44a5edb291fa",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+    "website": "https://coti.io/",
+    "twitter": "https://twitter.com/COTInetwork",
+    "telegram": "https://t.me/COTInetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/coti/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAdBAF88B39D37Dc68775eD1541F1bf83A5A45feB/logo.png"
+  },
+  "name": "Binance-Peg COTI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "COTI",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

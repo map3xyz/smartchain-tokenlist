@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x68D10dFe87a838D63BbEf6c9A0D0b44beB799DC1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MagnetGold will represent the heart of the ecosystem for Crypto investors/companies to grow their capital, investment, venture capital, families, traders and more. MTG supports funding startups, green energy, organic/agro, E-commerce, crypto awareness, real-estate and others."
+  },
+  "id": "1683163f-59a2-44d6-b277-86673fa076c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x68d10dfe87a838d63bbef6c9a0d0b44beb799dc1",
+    "website": "https://mtggold.com/",
+    "telegram": "https://t.me/yourmagnetgold/",
+    "facebook": "https://facebook.com/yourmagnetgold/",
+    "twitter": "https://twitter.com/YMagnetgold",
+    "youtube": "https://youtube.com/channel/UClEqjwDYM9DWOa2yyXB1luQ",
+    "whitepaper": "https://mtggold.com/images/MTGGOLD-WHITEPAPER.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/magnet-gold/",
+    "medium": "https://medium.com/@magnetgold"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x68D10dFe87a838D63BbEf6c9A0D0b44beB799DC1/logo.png"
+  },
+  "name": "MagnetGold",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MTG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

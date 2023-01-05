@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4620C701e8853Eaa1BF791EfB1d7d4d784734baD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zedxion aims to offer a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto-powered ecosystem comprising Zedxion Token."
+  },
+  "id": "b353c888-32a6-4cb1-9ba3-329c4b5ac0c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4620c701e8853eaa1bf791efb1d7d4d784734bad",
+    "website": "https://linktr.ee/zedxion",
+    "twitter": "https://twitter.com/Zedxion",
+    "telegram": "https://t.me/zedxion",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zedxion/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4620C701e8853Eaa1BF791EfB1d7d4d784734baD/logo.png"
+  },
+  "name": "GOLD 24 Carat/Oz",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GOLD",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

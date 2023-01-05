@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross-chain prediction market and hedging platform that is pioneering the technology of on-chain liquidity aggregation"
+  },
+  "id": "8362f7cd-5b51-460a-87c3-24835dd17f11",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+    "website": "https://prosper.so/",
+    "twitter": "https://twitter.com/Prosperpredict",
+    "telegram": "https://t.me/prosperfi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/prosper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405/logo.png"
+  },
+  "name": "Prosper",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PROS",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

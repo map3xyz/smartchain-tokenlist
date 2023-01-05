@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x861f1E1397daD68289e8f6a09a2ebb567f1B895C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Menzy is a movetoearn body movement & step count platform for earning passively. With Menzy we have developed a unique AI-based algorithmic system that detects any sort of activity or sport happening rewarding you for every move you make in $MNZ."
+  },
+  "id": "5a1f247c-a59e-43dd-8780-b84d8a2c242d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x861f1E1397daD68289e8f6a09a2ebb567f1B895C",
+    "website": "https://www.menzy.io/",
+    "twitter": "https://twitter.com/MNZtoken",
+    "telegram": "https://t.me/menzy_official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/menzy/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x861f1E1397daD68289e8f6a09a2ebb567f1B895C/logo.png"
+  },
+  "name": "Menzy",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNZ",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

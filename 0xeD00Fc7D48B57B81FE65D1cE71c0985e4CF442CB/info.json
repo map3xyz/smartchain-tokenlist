@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Chirpley is an automated, peer-to-peer, all-in-one influencer marketplace specifically focussed on nano and micro influencers. Chirpley will provide marketers with the freedom to act fast and effective, thanks to the possibility of a 1-click marketing bomb."
+  },
+  "id": "bb0a0a0c-503a-40f8-a462-c8243decc733",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB",
+    "website": "https://chirpley.ai/",
+    "twitter": "https://twitter.com/chirpley",
+    "github": "https://github.com/chirpley",
+    "telegram": "https://t.me/chirpley"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeD00Fc7D48B57B81FE65D1cE71c0985e4CF442CB/logo.png"
+  },
+  "name": "Chirpley Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHRP",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
