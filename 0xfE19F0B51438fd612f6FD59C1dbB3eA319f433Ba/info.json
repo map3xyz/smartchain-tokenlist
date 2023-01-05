@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "abracadabra.money is a lending protocol that allows users to borrow a USD-pegged Stablecoin (MIM) using interest-bearing tokens as collateral."
+  },
+  "id": "d27ec646-dbe8-4a7e-b3fe-a6d1f478a7ad",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
+    "website": "https://abracadabra.money/",
+    "twitter": "https://twitter.com/MIM_Spell",
+    "github": "https://github.com/Abracadabra-money/magic-internet-money",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/magic-internet-money/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba/logo.png"
+  },
+  "name": "Magic Internet Money",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MIM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

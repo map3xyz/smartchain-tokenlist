@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x2e8799f0A26d8A9f37a0b4747Fa534f039C2d234",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Discover and experience the exciting Birb ecosphere. Birb has many features, such as our beautiful NFTs rich in functionality, top holder rewards, Birb e-commerce plugins, our upcoming social $BIRB sending, and privacy features."
+  },
+  "id": "6d639fbe-b533-4e35-9f01-a424fc61c6a7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2e8799f0A26d8A9f37a0b4747Fa534f039C2d234",
+    "website": "https://birb.com",
+    "github": "https://github.com/birbdev",
+    "twitter": "https://twitter.com/BirbDefi",
+    "telegram": "https://t.me/birbdefi",
+    "coingecko": "https://coingecko.com/en/coins/birb",
+    "reddit": "https://reddit.com/r/BirbDefi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2e8799f0A26d8A9f37a0b4747Fa534f039C2d234/logo.png"
+  },
+  "name": "Birb",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BIRB",
+  "tags": [
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

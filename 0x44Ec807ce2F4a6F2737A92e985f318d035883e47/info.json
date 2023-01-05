@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Hashflow is a decentralized exchange designed for interoperability, zero slippage, and MEV-protected trades."
+  },
+  "id": "402365d8-dec2-4d7c-90b5-d212a9ec385a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+    "website": "https://www.hashflow.com",
+    "twitter": "https://twitter.com/hashflow",
+    "blog": "https://blog.hashflow.com/",
+    "reddit": "https://reddit.com/r/Hashflow"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x44Ec807ce2F4a6F2737A92e985f318d035883e47/logo.png"
+  },
+  "name": "Hashflow",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HFT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

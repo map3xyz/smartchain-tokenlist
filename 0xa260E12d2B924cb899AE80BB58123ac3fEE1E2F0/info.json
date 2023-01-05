@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The on-ramp layer for massive Web3 adoption to form the ecosystem of future community-owned economies."
+  },
+  "id": "290716b2-1c9d-4b18-b178-8d3994779b48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
+    "website": "https://hooked.io",
+    "telegram": "https://t.me/HookedProtocolOfficial",
+    "twitter": "https://twitter.com/HookedProtocol",
+    "discord": "https://discord.com/invite/hookedprotocol",
+    "whitepaper": "https://hooked-protocol.gitbook.io/hooked-protocol-whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0/logo.png"
+  },
+  "name": "Hooked Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HOOK",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

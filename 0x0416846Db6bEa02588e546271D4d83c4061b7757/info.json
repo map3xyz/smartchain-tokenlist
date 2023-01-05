@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x0416846Db6bEa02588e546271D4d83c4061b7757",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Football INU is a P2E 3D multiplayer football metaverse that joins billions of football enthusiasts in a community where you can develop your NFT football avatar, manage your own club or arena, build fanbase, attract sponsorships and earn real income."
+  },
+  "id": "963810a2-490c-4a95-a1ae-077ce0ad5f65",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0416846db6bea02588e546271d4d83c4061b7757",
+    "website": "https://footballinu.net/",
+    "twitter": "https://twitter.com/FOOTBALLinuBSC",
+    "telegram": "https://t.me/FOOTBALLinu",
+    "whitepaper": "https://footballinu.net/whitepaper.pdf",
+    "coingecko": "https://coingecko.com/coins/football-inu",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/footballinu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0416846Db6bEa02588e546271D4d83c4061b7757/logo.png"
+  },
+  "name": "Football INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FOOTBALL",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

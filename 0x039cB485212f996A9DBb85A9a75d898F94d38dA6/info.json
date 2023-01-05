@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dexe.network or Dexe (Decentralized Social Trading Platform) – an online, decentralized and autonomous cryptocurrency assets portfolio environment which operates via autonomous smart contracts, that includes tools for virtual currency allocation, automatic rebalancing and eliminates the risks of transferring digital wallet details such as private keys and API or any virtual currency data to a third party."
+  },
+  "id": "fafec159-6746-4f0c-a552-1d34d7dd014c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x039cb485212f996a9dbb85a9a75d898f94d38da6",
+    "website": "https://dexe.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x039cB485212f996A9DBb85A9a75d898F94d38dA6/logo.png"
+  },
+  "name": "DEXE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DEXE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

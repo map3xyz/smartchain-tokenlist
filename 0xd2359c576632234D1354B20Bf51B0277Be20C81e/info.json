@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xd2359c576632234D1354B20Bf51B0277Be20C81e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GameGuru aims to be the first crypto marketplace for eGift cards and digital gaming products."
+  },
+  "id": "12623451-4887-4551-9017-c0225a6feba5",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd2359c576632234d1354b20bf51b0277be20c81e",
+    "website": "http://gameguru.gg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gameguru",
+    "coingecko": "https://coingecko.com/en/coins/gameguru",
+    "twitter": "https://twitter.com/GameGuruToken",
+    "telegram": "https://t.me/GameGuruToken",
+    "whitepaper": "https://whitepaper.gameguru.gg"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd2359c576632234D1354B20Bf51B0277Be20C81e/logo.png"
+  },
+  "name": "GameGuru",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GGT",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

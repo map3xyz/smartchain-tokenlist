@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4fFa143Ce16A24215e8dF96c0CEF5677a7B91EE4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Regent Coin is designed for the convenience, cost effective solution and efficient time usage among the peer to peer community. Regent Coin is A UTILITY TOKEN, enables People to make their utility bill payments using the pay app"
+  },
+  "id": "da3c5f97-9072-4e30-830e-be2651abf16b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4fFa143Ce16A24215e8dF96c0CEF5677a7B91EE4",
+    "website": "https://regentcoin.finance/",
+    "twitter": "https://twitter.com/regent_coin",
+    "telegram": "https://t.me/RegentCoinNews",
+    "facebook": "https://facebook.com/people/Regent-Coin/100087324862103/",
+    "youtube": "https://youtube.com/@regentcoin01"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4fFa143Ce16A24215e8dF96c0CEF5677a7B91EE4/logo.png"
+  },
+  "name": "REGENT COIN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "REGENT",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

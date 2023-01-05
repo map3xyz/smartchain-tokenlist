@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd21d29B38374528675C34936bf7d5Dd693D2a577",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A Blockchain monitoring and compliance platform."
+  },
+  "id": "1d918640-24f9-4a9f-a9b1-a52fbe8bec19",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xd21d29b38374528675c34936bf7d5dd693d2a577",
+    "website": "https://www.parsiq.net/",
+    "twitter": "https://twitter.com/parsiq_net",
+    "telegram": "https://t.me/parsiq_group",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/parsiq/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xd21d29B38374528675C34936bf7d5Dd693D2a577/logo.png"
+  },
+  "name": "Parsiq Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PRQ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

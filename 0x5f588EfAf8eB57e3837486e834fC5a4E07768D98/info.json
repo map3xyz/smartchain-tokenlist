@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5f588EfAf8eB57e3837486e834fC5a4E07768D98",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MVLChain aims to build an incentive-based blockchain mobility ecosystem. MVL Ecosystem breaks away current centralized system. Ecosystem participants get fairly rewarded for data contributions and uses in all-connected mobility services."
+  },
+  "id": "6a87c7b3-a8ad-4a4c-b70f-8140993c6c6a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x5f588efaf8eb57e3837486e834fc5a4e07768d98",
+    "website": "https://mvlchain.io/",
+    "twitter": "https://twitter.com/mvlchain",
+    "telegram": "https://t.me/mvlchain_en",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/mvl/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x5f588EfAf8eB57e3837486e834fC5a4E07768D98/logo.png"
+  },
+  "name": "Binance Wrapped MVL",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "bMVL",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

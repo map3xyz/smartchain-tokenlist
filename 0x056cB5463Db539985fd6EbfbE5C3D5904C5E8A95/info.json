@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x056cB5463Db539985fd6EbfbE5C3D5904C5E8A95",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Transforming Businesses with Artificial Intelligence. A few years ago technology that could learn and solve problems on its own only found on the pages of science fiction. Nowadays, Ethlax with these advanced capabilities is surfacing all around us, and represents the latest in a series of rapid development. AI (AI) is changing our lifestyle and empowering machines to perform things that people used to think humans were the only ones capable of doing"
+  },
+  "id": "9be3b46f-8c77-4eac-a282-73619b74815e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x056cB5463Db539985fd6EbfbE5C3D5904C5E8A95",
+    "website": "https://ethlax.io/",
+    "twitter": "https://twitter.com/ethlaxtoken",
+    "telegram": "https://t.me/ethlaxtoken",
+    "whitepaper": "https://ethlax.io/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x056cB5463Db539985fd6EbfbE5C3D5904C5E8A95/logo.png"
+  },
+  "name": "ETHLAX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ETHLAX",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

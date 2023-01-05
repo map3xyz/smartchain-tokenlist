@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7A532Aa9A2Ab86f6BD7E1Dcd93d3FdD2B0B410a6",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Toman offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Toman Token."
+  },
+  "id": "64803e1b-4d0c-4420-81fe-7f4ff29b2f48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7a532aa9a2ab86f6bd7e1dcd93d3fdd2b0b410a6",
+    "website": "https://www.toman-irr.com/",
+    "twitter": "https://twitter.com/IRR_Toman?s=20&t=rSm1Z7nA6bwkeYbXIVutjQ",
+    "github": "https://github.com/toman_irr",
+    "telegram": "https://t.me/IRR_toman",
+    "whitepaper": "https://woo.network/Litepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/wootrade/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7A532Aa9A2Ab86f6BD7E1Dcd93d3FdD2B0B410a6/logo.png"
+  },
+  "name": "IRR",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Toman",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

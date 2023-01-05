@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Galxe is the leading Web3 credential data network in the world."
+  },
+  "id": "891af0cf-10d6-4887-8bdd-b113e7b770a9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+    "website": "https://galxe.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/galxe/",
+    "coingecko": "https://coingecko.com/en/coins/galxe",
+    "twitter": "https://twitter.com/galxe",
+    "telegram": "https://t.me/galxe",
+    "discord": "https://discord.com/invite/galxe"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5/logo.png"
+  },
+  "name": "Galxe",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GAL",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

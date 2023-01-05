@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Grove Coin is a decentralized and secure green coin built for the future of our planet. Our mission is to Create wealth, for all Grovers, by harnessing the opportunities of a secure, decentralized digital currency in an environmentally conscious way. By compensating nature for years of abuse, Grove will create a healthier, wealthier future for all."
+  },
+  "id": "8453e73e-0ddb-4026-9a83-ff26252a3b1a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c",
+    "website": "https://www.grovetoken.com",
+    "twitter": "https://twitter.com/GroveToken",
+    "facebook": "https://facebook.com/GroveTokenOfficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c/logo.png"
+  },
+  "name": "GroveCoin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GRV",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

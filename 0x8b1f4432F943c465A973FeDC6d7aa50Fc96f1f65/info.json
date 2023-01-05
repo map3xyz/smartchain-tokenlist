@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click."
+  },
+  "id": "bfc226b7-1665-417e-8b68-c5b958e87175",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+    "website": "https://axelar.network/",
+    "twitter": "https://twitter.com/axelarcore",
+    "github": "https://github.com/axelarnetwork",
+    "telegram": "https://t.me/axelarcommunity",
+    "coingecko": "https://coingecko.com/coins/axelar",
+    "docs": "https://docs.axelar.dev/",
+    "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+    "forum": "https://community.axelar.network/",
+    "whitepaper": "https://axelar.network/axelar_whitepaper.pdf",
+    "reddit": "https://reddit.com/r/axelar",
+    "medium": "https://medium.com/@axelar-foundation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/axelar/",
+    "blog": "https://axelar.network/blog",
+    "youtube": "https://youtube.com/@Axelarcore"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65/logo.png"
+  },
+  "name": "Axelar",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AXL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

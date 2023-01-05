@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xccE7162344Dc758e4715079C8Abc981dc72273B9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The right provider can make a big difference when it comes to building your trading strategy"
+  },
+  "id": "098f0e29-14b8-4d80-935b-f76379a16d00",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xcce7162344dc758e4715079c8abc981dc72273b9",
+    "website": "https://linktr.ee/zedxion"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xccE7162344Dc758e4715079C8Abc981dc72273B9/logo.png"
+  },
+  "name": "CRUDE OIL BRENT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OIL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
