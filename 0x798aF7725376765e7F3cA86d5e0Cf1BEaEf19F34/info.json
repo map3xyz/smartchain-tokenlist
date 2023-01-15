@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x798aF7725376765e7F3cA86d5e0Cf1BEaEf19F34",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users."
+  },
+  "id": "3fb93590-1de8-458d-b1cf-d66900ed853f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x798af7725376765e7f3ca86d5e0cf1beaef19f34",
+    "website": "https://atomicwallet.io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/atomic-wallet-coin/",
+    "coingecko": "https://coingecko.com/en/coins/atomic-wallet-coin/",
+    "github": "https://github.com/Atomicwallet/",
+    "twitter": "https://twitter.com/atomicwallet",
+    "reddit": "https://reddit.com/r/atomicwallet/",
+    "telegram": "https://t.me/AtomicWalletNews"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x798aF7725376765e7F3cA86d5e0Cf1BEaEf19F34/logo.png"
+  },
+  "name": "Atomic Wallet Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AWC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

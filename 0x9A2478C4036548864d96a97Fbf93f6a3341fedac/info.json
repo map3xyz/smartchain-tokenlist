@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9A2478C4036548864d96a97Fbf93f6a3341fedac",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Zax is a simple utility token created with an existence on Binance Smart Chain! As the name suggests, this token encompasses the entire crypto universe in one circle."
+  },
+  "id": "0e7b2b49-5d55-41d9-81bc-0b170667b221",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9A2478C4036548864d96a97Fbf93f6a3341fedac",
+    "website": "https://www.zillionxo.io/",
+    "twitter": "https://twitter.com/ZillionXO",
+    "facebook": "https://facebook.com/people/Zillion-Aakar-XO/100083067863940/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zillion-aakar-xo/",
+    "coingecko": "https://coingecko.com/coins/zillion-aakar-xo",
+    "medium": "https://medium.com/@zillionzax"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9A2478C4036548864d96a97Fbf93f6a3341fedac/logo.png"
+  },
+  "name": "ZILLION AAKAR XO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZAX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

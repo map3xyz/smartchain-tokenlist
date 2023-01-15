@@ -1,6 +1,6 @@
 {
   "name": "@Map3/smartchain-tokenlist",
-  "timestamp": "2023-01-05T14:59:29.424Z",
+  "timestamp": "2023-01-15T16:36:38.939Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -5329,6 +5329,16 @@
       ]
     },
     {
+      "address": "0x40F75eD09c7Bc89Bf596cE0fF6FB2ff8D02aC019",
+      "name": "Bitpaid",
+      "decimals": 18,
+      "symbol": "BTP",
+      "tags": [
+        "defi",
+        "gamefi"
+      ]
+    },
+    {
       "address": "0x410319197d3394652B7ddDc669E58fbe30B56090",
       "name": "Cyber Time Finance",
       "decimals": 18,
@@ -8755,6 +8765,15 @@
       "tags": []
     },
     {
+      "address": "0x6Ec90334d89dBdc89E08A133271be3d104128Edb",
+      "name": "WIKI CAT",
+      "decimals": 18,
+      "symbol": "WKC",
+      "tags": [
+        "memes"
+      ]
+    },
+    {
       "address": "0x6F2aFbF4f5e5e804C5b954889d7Bf3768A3C9a45",
       "name": "Hope",
       "decimals": 18,
@@ -9785,6 +9804,15 @@
       "decimals": 9,
       "symbol": "SFE",
       "tags": []
+    },
+    {
+      "address": "0x798aF7725376765e7F3cA86d5e0Cf1BEaEf19F34",
+      "name": "Atomic Wallet Token",
+      "decimals": 8,
+      "symbol": "AWC",
+      "tags": [
+        "staking"
+      ]
     },
     {
       "address": "0x7996cF3FBc0655131BD5a6D66e1ae2720f1de45E",
@@ -12263,6 +12291,15 @@
       "tags": []
     },
     {
+      "address": "0x9A2478C4036548864d96a97Fbf93f6a3341fedac",
+      "name": "ZILLION AAKAR XO",
+      "decimals": 9,
+      "symbol": "ZAX",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x9A624b4190F38c888BbF7F845f14198f9C951de7",
       "name": "BURNACE",
       "decimals": 8,
@@ -13407,6 +13444,17 @@
       "decimals": 18,
       "symbol": "BURGER",
       "tags": []
+    },
+    {
+      "address": "0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681",
+      "name": "HODLX",
+      "decimals": 18,
+      "symbol": "HODLX",
+      "tags": [
+        "defi",
+        "staking",
+        "memes"
+      ]
     },
     {
       "address": "0xAf41054C1487b0e5E2B9250C0332eCBCe6CE9d71",

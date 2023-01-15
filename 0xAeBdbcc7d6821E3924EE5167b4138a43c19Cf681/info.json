@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HODLX Token launched on the Binance Smart Chain (BSC) on April 1, 2022, as an innovative tax-free token packed full of utility. As the native token of HODLX.Exchange, $HODLX offers an array of ways to earn, including yield-farming – available for $HODL, $HODLX and BNB pairings, and staking – available for $HODL, $HODLX, and HODL Hands NFTs."
+  },
+  "id": "33fd4daa-aa55-4df2-8436-802efea54b1e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681",
+    "website": "https://hodltoken.net/about-hodlx",
+    "twitter": "https://twitter.com/OFFICIAL_HODLX",
+    "telegram": "https://t.me/hodlinvestorgroup",
+    "facebook": "https://facebook.com/HODLtokenBSC",
+    "reddit": "https://reddit.com/r/HodlToken",
+    "discord": "https://discord.com/invite/D666jh5C5D",
+    "youtube": "https://youtube.com/c/HODL-Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hodlx/",
+    "telegramNews": "https://t.me/HodlAnnouncements",
+    "blog": "https://hodltoken.net/news/",
+    "whitepaper": "https://hodltoken.net/whitepaper/",
+    "github": "https://bscscan.com/token/0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681#code"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAeBdbcc7d6821E3924EE5167b4138a43c19Cf681/logo.png"
+  },
+  "name": "HODLX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HODLX",
+  "tags": [
+    "defi",
+    "staking",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

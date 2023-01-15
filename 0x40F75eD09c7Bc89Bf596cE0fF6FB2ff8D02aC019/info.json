@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x40F75eD09c7Bc89Bf596cE0fF6FB2ff8D02aC019",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitpaid is next generation Web3 and Dapp platform for social and gaming networking which provides Sas services."
+  },
+  "id": "9c09b49c-cbdb-41ce-a0c6-e193d4beba31",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x40F75eD09c7Bc89Bf596cE0fF6FB2ff8D02aC019",
+    "website": "https://bitpaid.io/",
+    "github": "https://github.com/Bitpaid1",
+    "whitepaper": "https://bitpaid.io/wp-content/uploads/2022/01/BITPAID-WHITEPAPER1.0.pdf",
+    "facebook": "https://facebook.com/bitpaid.io/",
+    "telegram": "https://t.me/BitpaidOnline"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x40F75eD09c7Bc89Bf596cE0fF6FB2ff8D02aC019/logo.png"
+  },
+  "name": "Bitpaid",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BTP",
+  "tags": [
+    "defi",
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
