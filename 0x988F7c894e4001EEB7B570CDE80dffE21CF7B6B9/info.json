@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Lucro is an ecosystem token that powers a suite of leading utilities, including LunaSky - an NFT Marketplace, The Abstract - a 3d gaming/Metaverse platform and other utilities/partnerships under development."
+  },
+  "id": "d2d9c801-1f50-427c-be08-13437e9f958b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9",
+    "website": "https://evergrowegc.com/",
+    "telegram": "https://t.me/evergrowcoin",
+    "facebook": "https://facebook.com/evergrowegc",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/lucro/",
+    "coingecko": "https://coingecko.com/en/coins/lucro",
+    "twitter": "https://twitter.com/lucrotoken",
+    "discord": "https://discord.com/invite/evergrow"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x988F7c894e4001EEB7B570CDE80dffE21CF7B6B9/logo.png"
+  },
+  "name": "LUCRO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LCR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

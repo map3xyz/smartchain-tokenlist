@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ankrBNB represents your staked BNB and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrBNB grows daily in value, but never in number."
+  },
+  "id": "47c6397c-fba0-41f4-aeac-c79a1f7a37c0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+    "website": "https://www.ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "medium": "https://medium.com/ankr-network",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "discord": "https://discord.com/invite/ankr",
+    "docs": "https://ankr.com/docs/staking/liquid-staking/bnb/overview/",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ankr-staked-bnb/",
+    "coingecko": "https://coingecko.com/en/coins/ankr-staked-bnb"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827/logo.png"
+  },
+  "name": "Ankr Staked BNB",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ankrBNB",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

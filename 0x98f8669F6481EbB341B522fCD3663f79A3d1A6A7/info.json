@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A defi infrastructure enabling all kinds of decentralized financial products trading"
+  },
+  "id": "8ca9f4ef-cf31-4cc8-a05f-b669d4e2ac7f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+    "website": "https://nestprotocol.org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/nest-protocol/",
+    "github": "https://github.com/NEST-Protocol",
+    "twitter": "https://twitter.com/NEST_Protocol",
+    "whitepaper": "https://www.nestprotocol.org/doc/ennestwhitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x98f8669F6481EbB341B522fCD3663f79A3d1A6A7/logo.png"
+  },
+  "name": "NEST Protocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NEST",
+  "tags": [
+    "defi",
+    "synthetics",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

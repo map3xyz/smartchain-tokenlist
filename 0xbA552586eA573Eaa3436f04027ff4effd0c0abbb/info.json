@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A High-Performance Public Blockchain Powered by the MeerDAG Consensus"
+  },
+  "id": "953268d5-ec13-42af-94b1-dd70ac71320e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
+    "website": "https://www.qitmeer.io/#/index"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbA552586eA573Eaa3436f04027ff4effd0c0abbb/logo.png"
+  },
+  "name": "Meer",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MEER",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

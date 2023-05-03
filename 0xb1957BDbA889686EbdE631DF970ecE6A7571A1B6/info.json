@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "A Decentralized Meme Asset Driven By A Community Of Defi Enthusiasts With A Unique Love For Felines."
+  },
+  "id": "d63ad165-552e-441e-a7c0-f153b6a10c4a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6",
+    "website": "https://www.defitigertoken.com/",
+    "telegram": "https://t.me/DefiTigertoken",
+    "twitter": "https://twitter.com/defitigertoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defi-tiger/",
+    "coingecko": "https://coingecko.com/en/coins/defi-tiger/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6/logo.png"
+  },
+  "name": "Defi Tiger",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DTG",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

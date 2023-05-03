@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfFAD7f9F704a5FDC6265e24b436b4b35ed52DEF2",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cloud Tx is Proof of Stake blockhain with almost zero fees and gas for transaction. Cloudtx aims to balancing act between security, decentralization, and scalability. Cloudtx also build smart locker for more savety and security."
+  },
+  "id": "847751ee-2ab0-4d84-b441-57a0683470a8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xffad7f9f704a5fdc6265e24b436b4b35ed52def2",
+    "website": "https://cloudtx.finance/",
+    "twitter": "https://twitter.com/Cloudtxofficial",
+    "telegram": "https://t.me/Cloudtx",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cloudtx/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfFAD7f9F704a5FDC6265e24b436b4b35ed52DEF2/logo.png"
+  },
+  "name": "CloudTx",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Cloud",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x04756126F044634C9a0f0E985e60c88a51ACC206",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Carbon is a fast web3 privacy browser."
+  },
+  "id": "51173700-1cdb-4d75-9312-19afeb28ee2c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x04756126f044634c9a0f0e985e60c88a51acc206",
+    "website": "https://carbon.website/",
+    "twitter": "https://twitter.com/trycarbonio",
+    "github": "https://github.com/pellartech"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x04756126F044634C9a0f0E985e60c88a51ACC206/logo.png"
+  },
+  "name": "Carbon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CSIX",
+  "tags": [
+    "defi",
+    "staking",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

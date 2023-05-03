@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Game Studio focused on building mobile blockchain gaming ecosystem that utilizes Multi Blockchain and integrates Governance, GameFi, and NFT."
+  },
+  "id": "092525f3-54ce-4973-b7f5-08c043e080c7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+    "website": "https://projectseed.com/",
+    "telegram": "https://t.me/projectseedannouncements",
+    "twitter": "https://twitter.com/ProjectSeedGame",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/project-seed/",
+    "coingecko": "https://coingecko.com/en/coins/shill-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE/logo.png"
+  },
+  "name": "Shill",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHILL",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

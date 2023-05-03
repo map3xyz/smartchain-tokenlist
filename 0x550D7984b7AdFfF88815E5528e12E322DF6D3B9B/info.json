@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x550D7984b7AdFfF88815E5528e12E322DF6D3B9B",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "PANDAI is a cute AI meme token on BSC, making AI accessible for everyone."
+  },
+  "id": "cde4716f-68df-4e21-9638-a29b295bb30b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x550D7984b7AdFfF88815E5528e12E322DF6D3B9B",
+    "website": "https://pandai.io/",
+    "twitter": "https://twitter.com/pandai_bsc",
+    "telegram": "https://t.me/pandaichatofficial",
+    "telegramNews": "https://t.me/pandaiann",
+    "docs": "https://docs.pandai.io",
+    "whitepaper": "https://docs.pandai.io/tokenomics",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pandai/",
+    "coingecko": "https://coingecko.com/en/coins/pandai"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x550D7984b7AdFfF88815E5528e12E322DF6D3B9B/logo.png"
+  },
+  "name": "PandAI Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PANDAI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

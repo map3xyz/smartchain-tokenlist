@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "One-stop Decentralized Trading on Avalanche."
+  },
+  "id": "7dc42c03-34d1-41eb-a041-7b3207aeca5c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "website": "https://traderjoexyz.com/",
+    "twitter": "https://twitter.com/traderjoe_xyz",
+    "telegram": "https://t.me/traderjoe_xyz",
+    "github": "https://github.com/traderjoe-xyz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
+  },
+  "name": "JOE",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "JOE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HELLO Labs is the future of crypto and entertainment creating TV shows, games, NFTs and much more. The ecosystem is built on the HELLO Token allowing exclusive access to watch our shows, play our games and own our NFTs."
+  },
+  "id": "7f07b860-6868-49d2-8c3e-c83dee386beb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00",
+    "website": "https://www.hello.one/",
+    "twitter": "https://twitter.com/thehellolabs",
+    "github": "https://github.com/Hello1Official",
+    "telegram": "https://t.me/HELLOLabs",
+    "blog": "https://www.hello.one/news",
+    "discord": "https://discord.com/hellolabs",
+    "medium": "https://helloclub.medium.com",
+    "youtube": "https://youtube.com/c/HELLOLabs",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hello-labs/",
+    "coingecko": "https://coingecko.com/en/coins/hello"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0F1cBEd8EFa0E012AdbCCB1638D0aB0147D5Ac00/logo.png"
+  },
+  "name": "HELLO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HELLO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

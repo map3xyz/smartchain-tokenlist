@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa531a733070a5fF4866D1327d82e403Fa35290A6",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Catvills is a community build platform with various utilities. Catvills is providing a platform that will increase value that is realistic and will be felt by its holders, by marketing and achieving its goals. This is the anchor on why we created Catvills, and with Catvills creating events and charity for cats all around the world. These are our realistic steps to give back and one of our main functions for Catvills."
+  },
+  "id": "531e1e45-61e9-49b7-b5f6-92d2c2df753a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa531a733070a5fF4866D1327d82e403Fa35290A6",
+    "website": "https://www.catvills.io/",
+    "coinmarketcap": "https://coinmarketcap.com/catvills-coin",
+    "coingecko": "https://coingecko.com/catvills-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa531a733070a5fF4866D1327d82e403Fa35290A6/logo.png"
+  },
+  "name": "Catvills Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CATVILLS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x74AFe449D1BEFfc90456CfEbD700AB391abD7DAF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "EG is a community-owned token at the heart of a powerful ecosystem. From enterprise integration to real-world giving, EG is at the forefront of meaningful social impact with crypto."
+  },
+  "id": "d76745a9-7c4e-4a25-a831-530c0969f175",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x74AFe449D1BEFfc90456CfEbD700AB391abD7DAF",
+    "website": "https://egtoken.io/",
+    "twitter": "https://twitter.com/elongateog",
+    "github": "https://github.com/EG-Ecosystem",
+    "telegram": "https://t.me/ElonGateChat",
+    "whitepaper": "https://wiki.elongate.cc/elongate/whitepaper",
+    "discord": "https://discord.com/invite/elongate",
+    "youtube": "https://youtube.com/channel/UCDkstMh4GixgbvrkcJuBiuA",
+    "coingecko": "https://coingecko.com/en/coins/eg-token",
+    "sourceCode": "https://bscscan.com/token/0x74AFe449D1BEFfc90456CfEbD700AB391abD7DAF#code",
+    "reddit": "https://reddit.com/r/ElonGateToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x74AFe449D1BEFfc90456CfEbD700AB391abD7DAF/logo.png"
+  },
+  "name": "EG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "EG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x4A9A2b2b04549C3927dd2c9668A5eF3fCA473623",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "dForce advocates for building an integrated and interoperable and scalable open finance protocol network, cultivating intra-protocol liquidity and network effects, while remain in full openness to interact and integrated with other protocols."
+  },
+  "id": "17017095-a974-46c3-b12d-e441fdb6ce87",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
+    "website": "http://dforce.network/",
+    "telegram": "https://t.me/dforcenet",
+    "github": "https://github.com/dforce-network/",
+    "coingecko": "https://coingecko.com/en/coins/dforce-token/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dforce/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x4A9A2b2b04549C3927dd2c9668A5eF3fCA473623/logo.png"
+  },
+  "name": "Binance-Peg dForce",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DF",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

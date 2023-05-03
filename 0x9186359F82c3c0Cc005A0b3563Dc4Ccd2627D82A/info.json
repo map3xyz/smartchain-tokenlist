@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9186359F82c3c0Cc005A0b3563Dc4Ccd2627D82A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AntNetworX aims to help blockchain, Web3 and DeFi achieve mass adoption by providing seamless and accessible dApps for the next generation. We cover a vast range of solutions such as seamless Web3 UI, keyless smart wallet, Decentralised communication and blockchain gigs. AntNetworX has a first of its kind profit sharing model, with revenue and utility burns."
+  },
+  "id": "8a9dcb36-f360-4481-a948-4d421a00c482",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9186359f82c3c0cc005a0b3563dc4ccd2627d82a",
+    "website": "https://www.antx.network/",
+    "twitter": "https://twitter.com/AntNetworX",
+    "telegram": "https://t.me/AntXAnnouncements",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/antnetworx/",
+    "coingecko": "https://coingecko.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9186359F82c3c0Cc005A0b3563Dc4Ccd2627D82A/logo.png"
+  },
+  "name": "AntNetworX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ANTX",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

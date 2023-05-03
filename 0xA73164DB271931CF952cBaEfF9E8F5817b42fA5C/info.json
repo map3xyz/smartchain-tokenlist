@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bringing Real Estate to the Blockchain"
+  },
+  "id": "b9d9ef48-4292-4814-a397-ea245730527e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C",
+    "website": "https://landshare.io",
+    "twitter": "https://twitter.com/landshareio",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/landshare/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C/logo.png"
+  },
+  "name": "Landshare Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "LAND",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

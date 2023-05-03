@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x1F1C90aEb2fd13EA972F0a71e35c0753848e3DB0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CHEEL is the governance token, which will be issued in a total quantity of 1,000,000,000. With this token, the community can vote on important issues of the platform development, according to the DAO principle. CHEEL also allows to level up NFT glasses."
+  },
+  "id": "ed15a834-8406-4026-98f0-0e0d9fdd83c4",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1F1C90aEb2fd13EA972F0a71e35c0753848e3DB0",
+    "website": "https://cheelee.io/",
+    "medium": "https://medium.com/cheelee-cheel",
+    "twitter": "https://twitter.com/Cheelee_Tweet",
+    "telegram": "https://t.me/Cheelee_EN",
+    "discord": "https://discord.com/invite/cheelee",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cheelee/",
+    "coingecko": "https://coingecko.com/coins/cheelee/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1F1C90aEb2fd13EA972F0a71e35c0753848e3DB0/logo.png"
+  },
+  "name": "Cheelee",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHEEL",
+  "tags": [
+    "gamefi",
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

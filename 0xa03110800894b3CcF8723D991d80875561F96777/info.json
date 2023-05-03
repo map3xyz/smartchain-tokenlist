@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xa03110800894b3CcF8723D991d80875561F96777",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bit Game Verse is the trending crypto channel which enables earning through different gaming channels. It is a peer to peer marketplace , where transactions take place directly between the crypto traders."
+  },
+  "id": "ac941ae5-7d6b-4823-9cfe-ea34d6acc5bc",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa03110800894b3CcF8723D991d80875561F96777",
+    "website": "https://bgverse.io/",
+    "twitter": "https://twitter.com/BITGAMEVERSE",
+    "facebook": "https://facebook.com/BITGAMEVERSE",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bit-game-verse-token/",
+    "coingecko": "https://coingecko.com/en/coins/bit-game-verse-token",
+    "medium": "https://medium.com/@bitgameverse"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa03110800894b3CcF8723D991d80875561F96777/logo.png"
+  },
+  "name": "BIT GAME VERSE TOKEN",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BGVT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

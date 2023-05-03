@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "XCAD Network is a tokenisation & NFT platform for content creators."
+  },
+  "id": "7da040d0-a221-4573-9543-3b661dca38ca",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26",
+    "website": "https://xcadnetwork.com/",
+    "twitter": "https://twitter.com/XcademyOfficial",
+    "telegram": "https://t.me/xcademy",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xcad-network/",
+    "coingecko": "https://coingecko.com/coins/xcad-network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26/logo.png"
+  },
+  "name": "XCAD",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XCAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

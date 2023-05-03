@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "$RDNT, an OFT-20, is Radiant's native utility token. Radiant Capital is an omnichain money market built atop Layer Zero. Deposit and borrow assets cross-chain, seamlessly. Through decentralized discussions, voting, and governance, the Radiant DAO determines the decisions, and, ultimately, the vision of the Radiant ecosystem."
+  },
+  "id": "fe165afa-287e-456b-9b6e-cf97c31986b9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
+    "website": "https://app.radiant.capital/",
+    "github": "https://github.com/radiant-capital",
+    "twitter": "https://twitter.com/RDNTCapital",
+    "discord": "https://discord.com/invite/radiantcapital",
+    "telegram": "https://t.me/radiantcapitalofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF/logo.png"
+  },
+  "name": "Radiant v2",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RDNT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

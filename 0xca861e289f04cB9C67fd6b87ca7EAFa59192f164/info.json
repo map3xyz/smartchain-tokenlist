@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xca861e289f04cB9C67fd6b87ca7EAFa59192f164",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "UnityMeta Token is a company that aims to bring innovation and novelty to the Metaverse, utilities, nft, sports, gaming, and crypto trading sector through Blockchain technology"
+  },
+  "id": "8a0ec289-f4bb-43a7-9d95-aec802c8ad90",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xca861e289f04cB9C67fd6b87ca7EAFa59192f164",
+    "website": "https://unitymeta.finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/unitymeta",
+    "twitter": "https://twitter.com/unitymetatoken",
+    "github": "https://github.com/unitymetatoken",
+    "telegram": "https://t.me/unitymetatoken",
+    "whitepaper": "https://unitymeta.finance/UnityMeta-Whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xca861e289f04cB9C67fd6b87ca7EAFa59192f164/logo.png"
+  },
+  "name": "UnityMeta Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "UMT",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

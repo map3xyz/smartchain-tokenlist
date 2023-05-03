@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0xff44967f2E4EBE0b8c5b6812f25e1b9BceC70b34",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token."
+  },
+  "id": "8a8abcc0-faaa-49ae-9f02-e14d571d8a56",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xff44967f2E4EBE0b8c5b6812f25e1b9BceC70b34",
+    "website": "https://zedxion.io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xff44967f2E4EBE0b8c5b6812f25e1b9BceC70b34/logo.png"
+  },
+  "name": "ZEDXION",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ZEDXION",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

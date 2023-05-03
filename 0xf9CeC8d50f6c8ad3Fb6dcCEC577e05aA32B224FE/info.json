@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Chromia is a relational blockchain designed to make it much easier to make complex and scalable dapps."
+  },
+  "id": "40fa8052-09c6-4fcc-93d9-a1480ec0c0a2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+    "website": "https://chromia.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chromia/",
+    "twitter": "https://twitter.com/teamchromia"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE/logo.png"
+  },
+  "name": "Chromia",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CHR",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x7e41E454b6A29C54e4cDB565E47542f4BCb37ef1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CYBERTRON is redefining the way payments move, consume and use real life. We are supporting the fee and future of the economy."
+  },
+  "id": "2ae75f69-578c-4947-bc9e-42c280e9148b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x7e41e454b6a29c54e4cdb565e47542f4bcb37ef1",
+    "research": "https://cybertronchain.medium.com/",
+    "website": "https://cybertronchain.com/beta/",
+    "github": "https://github.com/Hansblock/cybertronchain/",
+    "twitter": "https://twitter.com/cybertronchain",
+    "telegram": "https://t.me/CTCglobal",
+    "whitepaper": "https://cybertronchain.com/beta/page6.php"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x7e41E454b6A29C54e4cDB565E47542f4BCb37ef1/logo.png"
+  },
+  "name": "cybertronchain",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CTC(TM)",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

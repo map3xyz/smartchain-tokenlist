@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ankrMATIC represents your staked MATIC and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrMATIC grows daily in value, but never in number"
+  },
+  "id": "4d56137e-9f22-4158-8683-53c534f938a0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x738d96caf7096659db4c1afbf1e1bdfd281f388c",
+    "website": "https://ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "docs": "https://ankr.com/docs/staking/overview",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "discord": "https://discord.com/invite/ankr",
+    "medium": "https://medium.com/ankr-network",
+    "coingecko": "https://coingecko.com/en/coins/ankr-staked-matic"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x738d96Caf7096659DB4C1aFbf1E1BDFD281f388C/logo.png"
+  },
+  "name": "Ankr Staked MATIC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ankrMATIC",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

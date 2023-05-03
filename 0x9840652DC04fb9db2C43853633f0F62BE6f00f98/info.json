@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ChainGPT is an advanced AI model designed specifically for Blockchain, Crypto, and the Web3 space. ChainGPT offers variety of features such as no-code smart contract generator, auditor, fast and reliable source of information, AI trading, and more. ChainGPT is backed by the CGPT utility token."
+  },
+  "id": "9fe93ec4-7edb-4286-b767-a66d5b6150bd",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+    "website": "https://www.chaingpt.org/",
+    "twitter": "https://twitter.com/Chain_GPT",
+    "telegram": "https://t.me/chaingpt",
+    "github": "https://github.com/ChainGPT-org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chaingpt/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9840652DC04fb9db2C43853633f0F62BE6f00f98/logo.png"
+  },
+  "name": "ChainGPT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CGPT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

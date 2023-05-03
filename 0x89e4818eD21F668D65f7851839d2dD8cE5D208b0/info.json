@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x89e4818eD21F668D65f7851839d2dD8cE5D208b0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Monetas Global is a leading player in the rapidly growing world of gaming. With a focus on gaming, our platform combines the excitement of play-to-earn elements with the unique ownership and collectability of NFTs"
+  },
+  "id": "7e15ddd9-bc4e-4466-9f5d-185cd98940ea",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x89e4818eD21F668D65f7851839d2dD8cE5D208b0",
+    "website": "https://monetasglobal.com/",
+    "twitter": "https://twitter.com/home",
+    "github": "https://github.com/monetas-tech",
+    "telegram": "https://t.me/monetasglobal",
+    "whitepaper": "https://monetasglobal.com/#whitepapers",
+    "facebook": "https://facebook.com/monetasglobal",
+    "coinmarketcap": "https://coinmarketcap.com/dexscan/bsc/0xf931442e35a0b3fe29cf4d9844f281bdfb51718d/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x89e4818eD21F668D65f7851839d2dD8cE5D208b0/logo.png"
+  },
+  "name": "Monetas",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MNTG",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

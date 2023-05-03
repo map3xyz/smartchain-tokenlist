@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. SPACE ID is also the provider of .bnb domain name service."
+  },
+  "id": "ebc2bdfe-decf-4ab0-873f-5ec575c40971",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+    "website": "https://space.id/",
+    "twitter": "https://twitter.com/SpaceIDProtocol",
+    "telegram": "https://t.me/spaceid_news",
+    "discord": "https://discord.com/invite/spaceid",
+    "coingecko": "https://coingecko.com/en/coins/space-id/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/space-id/",
+    "docs": "https://docs.space.id/",
+    "blog": "https://blog.space.id/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2dfF88A56767223A5529eA5960Da7A3F5f766406/logo.png"
+  },
+  "name": "SPACE ID",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ID",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

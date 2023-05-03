@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x523821d20a283d955f6205B4C9252779Cd0f964B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OK is the leading multi chain PoS, web3 + NFTs open source electronic cash, its design is public, nobody owns or controls Okcash and everyone can take part."
+  },
+  "id": "e268f896-4c07-47dc-b823-fc9383eb4c21",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x523821d20a283d955f6205b4c9252779cd0f964b",
+    "website": "https://okcash.co",
+    "twitter": "https://twitter.com/OkcashCrypto",
+    "github": "https://github.com/okcashpro",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/okcash/",
+    "coingecko": "https://coingecko.com/coins/okcash",
+    "medium": "https://medium.com/okcash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x523821d20a283d955f6205B4C9252779Cd0f964B/logo.png"
+  },
+  "name": "Wrapped Okcash BSC",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "OK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

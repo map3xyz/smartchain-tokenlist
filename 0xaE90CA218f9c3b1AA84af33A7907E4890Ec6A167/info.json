@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xaE90CA218f9c3b1AA84af33A7907E4890Ec6A167",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Eclat World create an advance emerging platform for decentralized finance world. Eclat ecosystem help to manage crypto market on a hyper-efficient infrastructure."
+  },
+  "id": "8d70fbe7-f17a-4bf5-8a4a-289c3b1e1b1b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaE90CA218f9c3b1AA84af33A7907E4890Ec6A167",
+    "website": "https://eclat.world",
+    "twitter": "https://twitter.com/eclatworld",
+    "telegram": "https://t.me/eclatworldtoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/eclat/",
+    "coingecko": "https://coingecko.com/en/coins/eclat",
+    "whitepaper": "https://eclat.world/WhitePaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaE90CA218f9c3b1AA84af33A7907E4890Ec6A167/logo.png"
+  },
+  "name": "ECLAT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ELT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

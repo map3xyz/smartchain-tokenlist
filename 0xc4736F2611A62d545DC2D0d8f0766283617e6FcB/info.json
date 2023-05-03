@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xc4736F2611A62d545DC2D0d8f0766283617e6FcB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TOPGOAL is a football metaverse with officially licensed digital collectibles, GameFi & SocialFi, with vision of bridging sports to web3."
+  },
+  "id": "b6a61c56-077f-4699-8dea-7065996c7e2f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xc4736f2611a62d545dc2d0d8f0766283617e6fcb",
+    "website": "https://topgoal.io/",
+    "medium": "https://medium.com/@topgoal_nft",
+    "twitter": "https://twitter.com/TopGoal_NFT"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xc4736F2611A62d545DC2D0d8f0766283617e6FcB/logo.png"
+  },
+  "name": "TopGoal",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "Goal",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

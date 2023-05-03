@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xaA076B62EFC6f357882E07665157A271aB46A063",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pleasure Coin is an ERC-20 token on the Ethereum, Polygon and BSC chain that is be utilized within the Pleasure Network, an adult industry ecosystem that empowers individuals and businesses."
+  },
+  "id": "5df450d4-a9dc-4ea1-a9d1-db848749c46d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xaA076B62EFC6f357882E07665157A271aB46A063",
+    "website": "https://pleasurecoin.com/",
+    "telegram": "https://t.me/pleasurecoin_crypto",
+    "discord": "https://discord.com/invite/GCHkdY6fnF",
+    "twitter": "https://twitter.com/Pleasure_coin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pleasure-coin/",
+    "coingecko": "https://coingecko.com/coins/pleasure-coin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xaA076B62EFC6f357882E07665157A271aB46A063/logo.png"
+  },
+  "name": "Pleasure Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "NSFW",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

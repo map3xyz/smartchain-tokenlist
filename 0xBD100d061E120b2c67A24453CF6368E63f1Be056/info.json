@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "iDYP is part of the Dypius dual token economy and is used as a component of smart contract strategies related to staking, analytical tools, NFTs, and metaverse."
+  },
+  "id": "d1a76e53-e081-4ac9-87f8-f9969774d4c2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+    "website": "https://www.dypius.com/",
+    "twitter": "https://twitter.com/dypfinance",
+    "github": "https://github.com/dypfinance/",
+    "medium": "https://dypfinance.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/idefiyieldprotocol/",
+    "coingecko": "https://coingecko.com/en/coins/idefiyieldprotocol",
+    "discord": "https://discord.com/invite/dypcaws",
+    "whitepaper": "https://drive.google.com/drive/folders/1PprliiDlNB6Cx-35eaEun-gmjk0-a1O4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
+  },
+  "name": "iDeFiYieldProtocol",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "iDYP",
+  "tags": [
+    "governance",
+    "defi",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

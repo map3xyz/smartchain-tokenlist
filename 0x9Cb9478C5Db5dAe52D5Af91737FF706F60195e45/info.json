@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9Cb9478C5Db5dAe52D5Af91737FF706F60195e45",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "This is not your regular Binance Smart Chain Token. Here we build for the longterm and always based on utility development. GHC is your gateway to a decentralized galaxy where holders can take leadership of their finances and earn sparkly rewards."
+  },
+  "id": "c50097a9-351e-47b5-96de-69ae2e5144df",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x9Cb9478C5Db5dAe52D5Af91737FF706F60195e45",
+    "website": "https://galaxyheroes.com",
+    "twitter": "https://twitter.com/GalaxyHeroesGHC",
+    "facebook": "https://facebook.com/galaxyheroescoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/galaxy-heroes-coin-new/",
+    "coingecko": "https://coingecko.com/en/coins/galaxy-heroes",
+    "telegram": "https://t.me/galaxyheroescoin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x9Cb9478C5Db5dAe52D5Af91737FF706F60195e45/logo.png"
+  },
+  "name": "Galaxy Heroes",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GHC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

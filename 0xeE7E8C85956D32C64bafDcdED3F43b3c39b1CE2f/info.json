@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Web4 AI strives to disrupt the Decentralized Finance cryptocurrency space using Artificial Intelligence. Web4 AI, through its diverse DeFi offerings."
+  },
+  "id": "12bffbfe-9661-4cae-b27f-d40d8ed2601a",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f",
+    "website": "https://webfour.build",
+    "twitter": "https://twitter.com/web4ai",
+    "github": "https://github.com/web4build",
+    "telegram": "https://t.me/web4ai",
+    "coingecko": "https://coingecko.com/en/coins/web4-ai",
+    "sourceCode": "https://bscscan.com/token/0xee7e8c85956d32c64bafdcded3f43b3c39b1ce2f#code",
+    "whitepaper": "https://webfour.build/assets/web4_ai_white_paper_v1.pdf",
+    "medium": "https://medium.com/@web4ai"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f/logo.png"
+  },
+  "name": "WEB4 AI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WEB4",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

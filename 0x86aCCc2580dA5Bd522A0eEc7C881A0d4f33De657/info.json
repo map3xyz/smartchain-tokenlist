@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Crypto Snack is the world’s fastest growing iGaming token"
+  },
+  "id": "f7d30567-679b-43d0-9701-bdb15d253370",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657",
+    "website": "https://cryptosnacks.org/",
+    "twitter": "https://twitter.com/cryptosnack_",
+    "telegram": "https://t.me/CryptoSnackCommunity",
+    "telegramNews": "https://t.me/CryptoSnackOfficial",
+    "medium": "https://cryptosnack.medium.com/",
+    "whitepaper": "https://cryptosnacks.org/white-paper",
+    "facebook": "https://facebook.com/CryptoSnackOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/es/currencies/crypto-snack/",
+    "coingecko": "https://coingecko.com/en/coins/crypto-snack",
+    "github": "https://github.com/CryptoSnackProject",
+    "discord": "https://discord.com/invite/NyemjyETwA"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x86aCCc2580dA5Bd522A0eEc7C881A0d4f33De657/logo.png"
+  },
+  "name": "CRYPTO SNACK",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SNACK",
+  "tags": [
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

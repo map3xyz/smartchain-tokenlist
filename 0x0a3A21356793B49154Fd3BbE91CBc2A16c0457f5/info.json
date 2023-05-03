@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x0a3A21356793B49154Fd3BbE91CBc2A16c0457f5",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "RedFOX Labs is a tech-forward venture builder delivering companies & platforms that are secure, scalable, and innovative, bringing the world into a new era of technology and prosperity."
+  },
+  "id": "0bd709e6-c5a8-44a9-a99a-3651d831fa88",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
+    "website": "https://redfoxlabs.io/",
+    "twitter": "https://twitter.com/redfoxlabs_io",
+    "coingecko": "https://coingecko.com/en/coins/redfox-labs-2/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/redfox-labs/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0a3A21356793B49154Fd3BbE91CBc2A16c0457f5/logo.png"
+  },
+  "name": "RFOX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "RFOX",
+  "tags": [
+    "nft"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

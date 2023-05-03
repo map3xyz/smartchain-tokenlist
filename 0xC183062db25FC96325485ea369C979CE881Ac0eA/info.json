@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xC183062db25FC96325485ea369C979CE881Ac0eA",
+  "color": null,
+  "decimals": 4,
+  "description": {
+    "en": "Shibelon is the future of crypto, born to be best and unleash its wrath on the whole binance smart chain."
+  },
+  "id": "3127fe81-f86d-481c-a051-9152f5faf701",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xC183062db25FC96325485ea369C979CE881Ac0eA",
+    "website": "https://shibelon.net/",
+    "twitter": "https://twitter.com/shibelon_moon",
+    "docs": "https://secureservercdn.net/160.153.137.99/g0s.991.myftpupload.com/wp-content/uploads/2021/11/WHITEPAPER-SHIBELON-2.pdf",
+    "telegram": "https://t.me/shibelon_moon",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shibelon",
+    "coingecko": "https://coingecko.com/en/coins/shibelon"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xC183062db25FC96325485ea369C979CE881Ac0eA/logo.png"
+  },
+  "name": "ShibElon",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHIBELON",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
