@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xFbDB1Fa163a0e8d90DD88104F44C093882A71914",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FRZSSCOIN is the native asset of the FRZ ecosystem and will be used for listing and staking on exchanges, airdrops, token burning and advertisement. "
+  },
+  "id": "9f3a783e-fb69-4832-8d4b-13062b5b1d77",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xfbdb1fa163a0e8d90dd88104f44c093882a71914",
+    "website": "https://frzss.com/",
+    "twitter": "https://twitter.com/frztoken",
+    "github": "https://github.com/frzss-dev",
+    "telegram": "https://t.me/frzsstoken",
+    "whitepaper": "https://frzss.com/#whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frz-solar-system-coin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xFbDB1Fa163a0e8d90DD88104F44C093882A71914/logo.png"
+  },
+  "name": "FRZ Solar System Coin",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FRZSSCOIN",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x2189455051A1c1E6190276f84f73Ec6Fb2fe62DF",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "BITCONEY is a game reward token created for the 'Crypto Bunny' mobile game, a free play-to-earn crypto game. The players in the game are rewarded with CB coins which they can convert to BITCONEY tokens and withdraw to their wallets."
+  },
+  "id": "defc77b0-6822-4cf1-9ea4-c1f868635784",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2189455051A1c1E6190276f84f73Ec6Fb2fe62DF",
+    "website": "https://www.bitconeytoken.com",
+    "github": "https://github.com/harshasamedha/BitConey",
+    "twitter": "https://twitter.com/Bitconey",
+    "whitepaper": "https://bitconeytoken.com/BitConey_Whitepaper.pdf",
+    "facebook": "https://facebook.com/profile.php?id=100089680055861"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2189455051A1c1E6190276f84f73Ec6Fb2fe62DF/logo.png"
+  },
+  "name": "BITCONEY",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BITCONEY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

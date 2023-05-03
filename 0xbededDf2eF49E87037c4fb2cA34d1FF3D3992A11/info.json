@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Building an ecosystem and passive income around a governance token. Trade your crypto assets using our non-custodial peer-to-peer trading protocol and earn a passive income with our asset-backed governance token."
+  },
+  "id": "92e8d00f-6134-4996-be83-adbecc83f282",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11",
+    "website": "https://fegtoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fegtoken-v2/",
+    "twitter": "https://twitter.com/FEGtoken",
+    "telegram": "https://t.me/FEGchat",
+    "coingecko": "https://coingecko.com/en/coins/feg-token"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11/logo.png"
+  },
+  "name": "FEG Token",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FEG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

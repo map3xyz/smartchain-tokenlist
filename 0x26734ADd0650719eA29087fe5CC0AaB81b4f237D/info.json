@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x26734ADd0650719eA29087fe5CC0AaB81b4f237D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "STEM is an exchange where each sports team has its own token. The price of the token is determined by the team's performance indicators."
+  },
+  "id": "477e0ba7-6655-4c5e-a946-7b5bfa61ed26",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x26734add0650719ea29087fe5cc0aab81b4f237d",
+    "website": "https://stemx.pro/",
+    "telegram": "https://t.me/stemxme",
+    "twitter": "https://twitter.com/STEMRUCOM",
+    "coinmarketcap": "https://coinmarketcap.com/ru/currencies/stemx/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x26734ADd0650719eA29087fe5CC0AaB81b4f237D/logo.png"
+  },
+  "name": "STEMX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "STEMX",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

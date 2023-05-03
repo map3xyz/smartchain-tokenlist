@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ankrETH represents your staked ETH and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrETH grows daily in value, but never in number."
+  },
+  "id": "38d27032-9b4c-4521-94cb-c6286ee4d3b2",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+    "website": "https://www.ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "medium": "https://medium.com/ankr-network",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "discord": "https://discord.com/invite/ankr",
+    "docs": "https://ankr.com/docs/staking/overview",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ankreth/",
+    "coingecko": "https://coingecko.com/en/coins/ankr-staked-eth"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3/logo.png"
+  },
+  "name": "Ankr Staked ETH",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "ankrETH",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

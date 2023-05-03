@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0173295183685F27C84db046B5F0bea3e683c24b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cat carries the important task of future digital currency connection, and DAO is our purpose.Our goal is to have a strong Dao Community and the future of blockchain.This cat is sweeping the whole meme coin."
+  },
+  "id": "6fec2f5e-3825-4d6b-b6be-8b06a23e61ff",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0173295183685f27c84db046b5f0bea3e683c24b",
+    "website": "https://www.catcattoken.com/",
+    "twitter": "https://twitter.com/Cat_CAT_Token",
+    "telegram": "https://t.me/CatToken_Global",
+    "coingecko": "https://coingecko.com/en/coins/cat-cat-token/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/cat-cat-token/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0173295183685F27C84db046B5F0bea3e683c24b/logo.png"
+  },
+  "name": "Cat",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAT",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TRON is a dedicated to build the infrastructure for a truly decentralized Internet."
+  },
+  "id": "ebdc21ea-f6f7-4022-ba3e-005c0e6c4fb6",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+    "website": "https://tron.network/",
+    "twitter": "https://twitter.com/Tronfoundation",
+    "telegram": "https://t.me/tronnetworkEN",
+    "whitepaper": "https://tron.network/static/doc/white_paper_v_2_0.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tron/",
+    "coingecko": "https://coingecko.com/en/coins/tron/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3/logo.png"
+  },
+  "name": "TRON",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TRX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

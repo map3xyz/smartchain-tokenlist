@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x837A130aED114300Bab4f9f1F4f500682f7efd48",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "WeSendit token is at the heart of WeSendit's growth strategy. It aims to create a powerful, user-friendly system for sending, storing and managing data for businesses."
+  },
+  "id": "5fa0ec56-7fe6-4c39-a157-7dcbc9ab5f85",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x837A130aED114300Bab4f9f1F4f500682f7efd48",
+    "website": "https://wesendit.io",
+    "twitter": "https://twitter.com/WeSendit",
+    "github": "https://github.com/wesenditmedia/contracts",
+    "telegram": "https://t.me/wesenditcom",
+    "telegramNews": "https://t.me/wesendit_announcement",
+    "whitepaper": "https://docsend.com/view/p6nvtkkgrim59tw7",
+    "youtube": "https://youtube.com/channel/UCtzAZUlSqfoKiFuOWE521Ug",
+    "facebook": "https://facebook.com/wesendit",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wesendit/",
+    "medium": "https://medium.com/@WeSendit"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x837A130aED114300Bab4f9f1F4f500682f7efd48/logo.png"
+  },
+  "name": "WeSendit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WSI",
+  "tags": [
+    "privacy"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

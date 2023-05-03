@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x1D1cB8997570e73949930c01Fe5796C88d7336c6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentralized all-in-one financial applications"
+  },
+  "id": "cc146602-5d79-49bb-8a64-2d0de1895ed9",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x1d1cb8997570e73949930c01fe5796c88d7336c6",
+    "website": "https://polkabridge.org/",
+    "twitter": "https://twitter.com/realpolkabridge",
+    "telegramNews": "https://t.me/polkabridge",
+    "telegram": "https://t.me/polkabridgegroup",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/polkabridge/",
+    "coingecko": "https://coingecko.com/en/coins/polkabridge/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x1D1cB8997570e73949930c01Fe5796C88d7336c6/logo.png"
+  },
+  "name": "PolkaBridge",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PBR",
+  "tags": [
+    "deflationary",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

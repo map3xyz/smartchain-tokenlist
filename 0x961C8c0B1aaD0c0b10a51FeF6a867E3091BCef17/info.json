@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dypius is a powerful, decentralized ecosystem with a focus on scalability, security, and global adoption through next-gen infrastructure. We offer a variety of products and services that cater to both beginners and advanced users in the crypto space including DeFi solutions, analytical tools, NFTs, Metaverse and more!"
+  },
+  "id": "9f8243cb-aa4b-437c-8b8e-ac20663e0882",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+    "website": "https://www.dypius.com/",
+    "twitter": "https://twitter.com/dypfinance",
+    "github": "https://github.com/dypfinance/",
+    "medium": "https://dypfinance.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/defi-yield-protocol/",
+    "coingecko": "https://coingecko.com/en/coins/dypius",
+    "discord": "https://discord.com/invite/dypcaws",
+    "whitepaper": "https://drive.google.com/drive/folders/1PprliiDlNB6Cx-35eaEun-gmjk0-a1O4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
+  },
+  "name": "Dypius",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DYP",
+  "tags": [
+    "governance",
+    "nft",
+    "defi",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

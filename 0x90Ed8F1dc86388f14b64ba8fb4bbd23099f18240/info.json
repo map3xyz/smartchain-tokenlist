@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "SingularityDAO is a decentralised Portfolio Management Protocol designed to enable anybody to safely and easily manage crypto assets, supported by superior risk management and analytics tools; smart money, on-chain. A non-custodial protocol built to foster a new ecosystem of Digital Asset Managers to offer automated trading strategies leveraging AI-enhanced data analytics services."
+  },
+  "id": "e9cb5dc9-5b5c-405d-8c95-a4357a0e9abb",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+    "website": "https://www.singularitydao.ai",
+    "twitter": "https://twitter.com/SingularityDao",
+    "telegram": "https://t.me/chatsight_bot?start=dmVyaWZ5OjotMTAwMTI4NzAxNjEzNw==",
+    "telegramNews": "https://t.me/sdaoann",
+    "discord": "https://discord.com/invite/singularitydao",
+    "github": "https://github.com/Singularity-DAO",
+    "coingecko": "https://coingecko.com/en/coins/singularitydao",
+    "youtube": "https://youtube.com/@SingularityDAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/singularitydao/",
+    "medium": "https://medium.com/singularitydao",
+    "reddit": "https://reddit.com/r/SingularityDAO/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240/logo.png"
+  },
+  "name": "SingularityDAO",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SDAO",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

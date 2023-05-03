@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x27B2D695eF01d10EE96582a23db201B0Aa338639",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "We are a group of Forex and Commodity Trading Enthusiasts with a collective experience of more than 50 years in Forex Trading Industry. Our mission is to create a transparent trading platform that is fair, low-cost with no conflict of interest. All this is made possible by our game-changing Peer to Peer blockchain-based trading platform that democratizes access to anyone to become a market maker and play on “the other side of the table."
+  },
+  "id": "33645761-bb51-4ab3-b905-ee38507ecc36",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x27B2D695eF01d10EE96582a23db201B0Aa338639",
+    "website": "https://www.gicindonesia.com/en",
+    "twitter": "https://twitter.com/gictradeio",
+    "telegram": "https://t.me/GICTrade",
+    "medium": "https://gictradeio.medium.com/",
+    "youtube": "https://youtube.com/@GICTrade",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gictrade/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x27B2D695eF01d10EE96582a23db201B0Aa338639/logo.png"
+  },
+  "name": "Wrapped GICT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WGICT",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

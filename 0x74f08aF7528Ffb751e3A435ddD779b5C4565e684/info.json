@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x74f08aF7528Ffb751e3A435ddD779b5C4565e684",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "KING is the parent company developing three of the most innovative services in decentralised finance: King Floki, King Land, & King Pad."
+  },
+  "id": "1f4da4f6-4838-4de0-99a1-89b1cd43fed8",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x74f08aF7528Ffb751e3A435ddD779b5C4565e684",
+    "website": "https://kingworld.finance/",
+    "twitter": "https://twitter.com/kingfinance",
+    "reddit": "https://reddit.com/r/KingFinance/",
+    "telegram": "https://t.me/KlNGfinance",
+    "telegramNews": "https://t.me/kingannouncements",
+    "discord": "https://discord.com/invite/kingfinance",
+    "whitepaper": "https://king-finance.gitbook.io/king-whitepaper/",
+    "medium": "https://medium.com/@kingfinance",
+    "youtube": "https://youtube.com/@kingfinanceco",
+    "coingecko": "https://coingecko.com/en/coins/king/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/king-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x74f08aF7528Ffb751e3A435ddD779b5C4565e684/logo.png"
+  },
+  "name": "King Finance",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "KING",
+  "tags": [
+    "staking",
+    "nft",
+    "gamefi",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

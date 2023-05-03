@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "BNBTiger is the king of beasts. They are the symbol of victory and strength. Powerful and tough.and our $BNBTIGER community is the same."
+  },
+  "id": "4b731909-9ad9-430a-9413-7000d04c09d7",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D",
+    "website": "https://bnbtiger.top/",
+    "twitter": "https://twitter.com/BnbTiger",
+    "telegram": "https://t.me/BNBTigerEN",
+    "github": "https://github.com/Tech-Audit/Smart-Contract-Audits/blob/main/TECHAUDIT_BNBTIGER.pdf",
+    "medium": "https://bnbtiger.medium.com/bnbtiger-6300a46ca53",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bnbtiger/",
+    "coingecko": "https://coingecko.com/en/coins/bnb-tiger-inu",
+    "whitepaper": "https://bnbtiger.top/static/upload/file/20230203/1675386735503028.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAC68931B666E086E9de380CFDb0Fb5704a35dc2D/logo.png"
+  },
+  "name": "BNB Tiger Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "BNBTIGER",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

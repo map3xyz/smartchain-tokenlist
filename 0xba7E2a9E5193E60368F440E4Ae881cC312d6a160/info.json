@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xba7E2a9E5193E60368F440E4Ae881cC312d6a160",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "MinionsINU is designed to create a complex ecosystem in which DeFi and Metaverse are integrated together."
+  },
+  "id": "db8a2cfc-0de3-4cab-8bfb-ba1c2ca59216",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xba7e2a9e5193e60368f440e4ae881cc312d6a160",
+    "website": "https://minionsinu.net/",
+    "twitter": "https://twitter.com/MinionsINUbsc",
+    "telegram": "https://t.me/MinionsINUbsc",
+    "youtube": "https://youtube.com/@minionsinu",
+    "discord": "https://discord.com/invite/GkDv7BXcR9",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/minions-inu/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xba7E2a9E5193E60368F440E4Ae881cC312d6a160/logo.png"
+  },
+  "name": "Minions INU",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MINION",
+  "tags": [
+    "gamefi",
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

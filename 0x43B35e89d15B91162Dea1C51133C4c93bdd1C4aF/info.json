@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Sakai Vault is decentralized perpetual exchange. A Layer-2 Perpetual exchange is a specific type of decentralized perpetual exchange that utilizes a second layer of scaling technology on top of a blockchain network"
+  },
+  "id": "30c23ca9-7c82-4435-8a50-1c6928d3122d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF",
+    "website": "https://sakaivault.io/",
+    "twitter": "https://twitter.com/SakaiVault",
+    "github": "https://github.com/SakaiVault",
+    "telegramNews": "https://t.me/SakaiVaultAnnounce",
+    "telegram": "https://t.me/SakaiVault"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x43B35e89d15B91162Dea1C51133C4c93bdd1C4aF/logo.png"
+  },
+  "name": "Sakai Vault",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SAKAI",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

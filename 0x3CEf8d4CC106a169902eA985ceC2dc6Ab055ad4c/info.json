@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Crypto AI, an AI-powered using AI Machine Learning to Create Digital Asset."
+  },
+  "id": "3330cc10-4047-43fb-933c-088eee88e46d",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c",
+    "website": "https://cai.codes",
+    "twitter": "https://twitter.com/CryptoAIbsc",
+    "telegram": "https://t.me/CryptoAI_eng",
+    "github": "https://github.com/crypto-ai-git",
+    "whitepaper": "https://cai.codes/assets/Crypto_AI_Whitepaper.pdf",
+    "medium": "https://medium.com/@CryptoAI",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/crypto-ai-bsc/",
+    "sourceCode": "https://github.com/crypto-ai-git/contract/blob/main/crypto_ai.sol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c/logo.png"
+  },
+  "name": "Crypto AI",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "CAI",
+  "tags": [
+    "defi",
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

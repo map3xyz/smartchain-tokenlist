@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "eCash is the natural continuation of the Bitcoin Cash project. eCash follows through on key promises such as the innovative Avalanche consensus layer while also introducing concepts such as staking, fork-free network upgrades, and subchains."
+  },
+  "id": "c1b45698-35e9-489e-91c5-f196f357685b",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
+    "website": "https://e.cash/",
+    "twitter": "https://twitter.com/ecashofficial",
+    "telegram": "https://t.me/ecash_official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ecash/",
+    "coingecko": "https://coingecko.com/en/coins/ecash/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0Ef2e7602adD1733Bfdb17aC3094d0421B502cA3/logo.png"
+  },
+  "name": "BNB pegget eCash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "XEC",
+  "tags": [
+    "binance-peg"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

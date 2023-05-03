@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xEE5b03b769Ca6c690D140CafB52fC8de3f38FC28",
+  "color": null,
+  "decimals": 7,
+  "description": {
+    "en": "HyperChain X is revolutionizing the gaming industry with its all-in-one platform specifically designed for gamers. Our platform offers a range of features including buy-in tournaments, 1 vs 1 high stake battles, and the ability for esport teams to create their own leagues. We also have a live streaming feature and an NFT marketplace/launchpad that is unrivaled in the industry."
+  },
+  "id": "848b68f4-8cdd-486c-81f7-9803dee63e4e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEE5b03b769Ca6c690D140CafB52fC8de3f38FC28",
+    "website": "https://hyperchainx.com",
+    "twitter": "https://twitter.com/HyperchainX",
+    "telegram": "https://t.me/hyperchainx",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hyperchainx/",
+    "coingecko": "https://coingecko.com/en/coins/hyperchainx",
+    "medium": "https://medium.com/@hyperchainx"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEE5b03b769Ca6c690D140CafB52fC8de3f38FC28/logo.png"
+  },
+  "name": "HyperChainX",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HYPER",
+  "tags": [
+    "gamefi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

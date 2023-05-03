@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xAaaAfDC2E08371B956Be515B3f3Ff735AB9c9D74",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AZBIT TOKEN (AZ) is a decentralized cryptocurrency asset founded by the Seychelles-based Azbit platform. The Azbit (AZ) token project was announced in 2018 at the Consensus conference held in New York. "
+  },
+  "id": "96387074-dfb2-40d6-ba1c-44869f1c1b74",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xAaaAfDC2E08371B956Be515B3f3Ff735AB9c9D74",
+    "research": "https://azbit.com",
+    "website": "https://azbit.com",
+    "github": "https://github.com/azbit-com/",
+    "twitter": "https://twitter.com/azbit_news",
+    "reddit": "https://reddit.com/r/Azbit/",
+    "whitepaper": "https://cdn.azbit.com/docs/en/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAaaAfDC2E08371B956Be515B3f3Ff735AB9c9D74/logo.png"
+  },
+  "name": "Azbit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "AZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

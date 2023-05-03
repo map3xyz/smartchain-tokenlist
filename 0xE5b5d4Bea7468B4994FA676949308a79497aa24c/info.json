@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xE5b5d4Bea7468B4994FA676949308a79497aa24c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Purely meme token on BSC, driven by our oriental dream to become a group of Sheikh’s we focus on our community to thicken all of our sacks together."
+  },
+  "id": "16820882-992a-4f03-a0c2-eb14017d276e",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xe5b5d4bea7468b4994fa676949308a79497aa24c",
+    "website": "https://sheikhinu.io/",
+    "twitter": "https://twitter.com/sheikhinutoken",
+    "github": "https://github.com/Sheikhinu",
+    "telegram": "https://t.me/sheikhinu",
+    "whitepaper": "https://sheikhinu.io/whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xE5b5d4Bea7468B4994FA676949308a79497aa24c/logo.png"
+  },
+  "name": "Sheikh Inu",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "SHINU",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

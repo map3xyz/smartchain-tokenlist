@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xEda3866f07566d9379a91A07F8D62e19C03183e0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HashBit (HBIT) is a highly scalable peer-to-peer digital currency that enables industry-leading transaction speeds with negligible fees. HashBit-Peg HBIT Token main goal is to make it possible to send and receive payments through the most popular messaging apps."
+  },
+  "id": "1ed5e937-4535-463b-9643-7a002bbde081",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xEda3866f07566d9379a91A07F8D62e19C03183e0",
+    "website": "https://hashbit.org/",
+    "twitter": "https://twitter.com/HashBitorg",
+    "telegram": "https://t.me/hashbitofficial/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hashbit-blockchain/",
+    "coingecko": "https://coingecko.com/coins/hashbit/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xEda3866f07566d9379a91A07F8D62e19C03183e0/logo.png"
+  },
+  "name": "HashBit",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "HBIT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

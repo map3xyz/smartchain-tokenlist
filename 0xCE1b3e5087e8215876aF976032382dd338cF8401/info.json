@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "address": "0xCE1b3e5087e8215876aF976032382dd338cF8401",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "THOREUM v4 is upgraded from Thoreum V3 with even more deflationary and value building features: AI Powered Collective Burning, Deepening liquidity and Liquidity Arbitrage Mechanism"
+  },
+  "id": "fbe9207e-9485-416d-bbf1-4c9e0226aa1f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xCE1b3e5087e8215876aF976032382dd338cF8401",
+    "website": "https://thoreum.capital/",
+    "twitter": "https://twitter.com/ThoreumFinance",
+    "telegram": "https://t.me/Thoreum",
+    "docs": "https://docs.thoreum.capital/",
+    "reddit": "https://reddit.com/r/Thoreum_official/",
+    "youtube": "https://youtube.com/channel/UChv01NIAIwQm4gmJuSGd49Q",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/thoreum-v2/",
+    "github": "https://github.com/ThoreumFinance/ThoreumCapital"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xCE1b3e5087e8215876aF976032382dd338cF8401/logo.png"
+  },
+  "name": "Thoreum V4 (Thoreum.AI)",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "THOREUMv4",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

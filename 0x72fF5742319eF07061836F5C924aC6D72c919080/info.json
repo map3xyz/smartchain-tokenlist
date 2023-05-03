@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x72fF5742319eF07061836F5C924aC6D72c919080",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gifto is a blockchain-based web3 gifting platform. Gifto's token, GFT, previously GTO, is listed on Binance since 2017 as the first-ever launchpad token on the exchange. The project is a hub for gifting blockchain gifts and is developing novelties: a web3 wallet, the Gifto store, and more."
+  },
+  "id": "a568d508-d044-4cbf-8556-58e0421c1d58",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x72fF5742319eF07061836F5C924aC6D72c919080",
+    "website": "https://gifto.io/",
+    "twitter": "https://twitter.com/GiftoMetaverse",
+    "telegram": "https://t.me/Gifto_Official",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gifto/",
+    "coingecko": "https://coingecko.com//coins/gifto/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x72fF5742319eF07061836F5C924aC6D72c919080/logo.png"
+  },
+  "name": "Gifto",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "GFT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

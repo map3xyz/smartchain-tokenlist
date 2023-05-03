@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x29A5DaF6E3FDF964DEf07706eA1ABee7EC03D021",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Trillioner crypto project aims to bridge the gap between traditional finance and the crypto world by offering financial services for both crypto projects and private users. "
+  },
+  "id": "2b566a74-73d3-420e-a5db-7e79b5b40729",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x29A5DaF6E3FDF964DEf07706eA1ABee7EC03D021",
+    "website": "https://trillioner.io",
+    "twitter": "https://twitter.com/Trillionertoken",
+    "github": "https://github.com/trillionertoken",
+    "telegram": "https://t.me/Trillionertoken",
+    "telegramNews": "https://t.me/Trillioner_News",
+    "whitepaper": "https://www.trillioner.io/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/trillioner/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x29A5DaF6E3FDF964DEf07706eA1ABee7EC03D021/logo.png"
+  },
+  "name": "Trillioner",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "TLC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

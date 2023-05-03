@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x35f3fffFcb622bC9f64fA561D74e983Fd488D90c",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "PirateCash as Software-defined networking (SDN). This technology will provide good quality of service and it will be High Availability (HA), flexible and DDoS resistant network."
+  },
+  "id": "29e83f5a-3bbc-4543-8494-96eb7dd36729",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x35f3ffffcb622bc9f64fa561d74e983fd488d90c",
+    "website": "https://p.cash/",
+    "twitter": "https://twitter.com/PirateCash_NET",
+    "telegram": "https://t.me/pcash",
+    "whitepaper": "https://p.cash/en#about",
+    "sourceCode": "https://bscscan.com/token/0x35f3ffffcb622bc9f64fa561d74e983fd488d90c#code",
+    "github": "https://github.com/piratecash"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x35f3fffFcb622bC9f64fA561D74e983Fd488D90c/logo.png"
+  },
+  "name": "PirateCash",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "PIRATE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

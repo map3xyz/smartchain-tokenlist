@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x6Ec90334d89dBdc89E08A133271be3d104128Edb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wiki Cat is a tutorial token with unique deflationary mechanism created by Sir Mapy for SMC DAO."
+  },
+  "id": "d76f5b7e-90b9-4d0a-b607-296f1919cf3c",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x6Ec90334d89dBdc89E08A133271be3d104128Edb",
+    "website": "https://wikicatcoin.com/",
+    "telegram": "https://t.me/wikicatcoin",
+    "twitter": "https://twitter.com/wikicatcoin",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wiki-cat/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x6Ec90334d89dBdc89E08A133271be3d104128Edb/logo.png"
+  },
+  "name": "WIKI CAT",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "WKC",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

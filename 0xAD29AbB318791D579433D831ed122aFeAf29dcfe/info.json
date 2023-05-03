@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm."
+  },
+  "id": "8cb2d0a3-be5d-4ab9-b000-e0883cdd59e0",
+  "links": {
+    "explorer": "https://bscscan.com/token/0xad29abb318791d579433d831ed122afeaf29dcfe",
+    "website": "http://fantom.foundation",
+    "twitter": "https://twitter.com/FantomFDN",
+    "telegram": "https://t.me/Fantom_English",
+    "coingecko": "https://coingecko.com/coins/fantom/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fantom/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0xAD29AbB318791D579433D831ed122aFeAf29dcfe/logo.png"
+  },
+  "name": "Fantom",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

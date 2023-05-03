@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x2fF0B946A6782190C4Fe5D4971CFE79F0b6E4df2",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MYST is the utility token at the heart of Mysterium Network. MYST is used for frictionless P2P micropayments within the network. If you’re using the VPN, you can pay with MYST token. If you’re a node (provider of the VPN service) you receive MYST. Mysterium has designed its own unique micropayments infrastructure, the Hermes protocol, to facilitate these fast, anonymous, and censorship-resistant transactions."
+  },
+  "id": "df2a007c-198e-4cc8-8cab-36d162a8f40f",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2",
+    "website": "https://mysterium.network/",
+    "twitter": "https://twitter.com/MysteriumNet",
+    "telegram": "https://t.me/Mysterium_Network",
+    "discord": "https://discord.com/invite/n3vtSwc",
+    "reddit": "https://reddit.com/r/MysteriumNetwork/",
+    "medium": "https://medium.com/mysterium-network",
+    "github": "https://github.com/MysteriumNetwork"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x2fF0B946A6782190C4Fe5D4971CFE79F0b6E4df2/logo.png"
+  },
+  "name": "Mysterium",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "MYST",
+  "tags": [
+    "privacy"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

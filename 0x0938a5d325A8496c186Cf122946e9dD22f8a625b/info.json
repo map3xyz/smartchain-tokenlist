@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x0938a5d325A8496c186Cf122946e9dD22f8a625b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DIFI is a decentralized electronic document trading platform, where you can sell videos, codes, audio, pictures, games, databases, etc., using DIFI tokens for transactions."
+  },
+  "id": "dac49b30-9969-4f17-a6f1-a4f2075e8d48",
+  "links": {
+    "explorer": "https://bscscan.com/token/0x0938a5d325A8496c186Cf122946e9dD22f8a625b",
+    "website": "https://difi.market/",
+    "twitter": "https://twitter.com/difimarket",
+    "telegram": "https://t.me/difitoken",
+    "whitepaper": "https://difi.market/WhitePaper_difi.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/digital-files/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/smartchain-tokenlist/master/0x0938a5d325A8496c186Cf122946e9dD22f8a625b/logo.png"
+  },
+  "name": "Digital Files",
+  "networkCode": "smartchain",
+  "spam": false,
+  "symbol": "DIFI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
